@@ -1,0 +1,112 @@
+{
+  "candidate_username": "Anas-Ah25",
+  "job_description_context": "## **Job Description: Junior Software Engineer**\n\n**Company:** Mubaza\n**Location:** Giza, Egypt (Remote/Hybrid)\n**Employment Type:** Full-Time / Entry-Level\n\n---\n\n### **About Mubaza**\n\nMubaza is a forward-thinking tech company focused on building the next generation of digital solutions. We pride ourselves on a culture of mentorship and rapid technical growth. We are looking for a motivated **Junior Software Engineer** who is eager to dive into complex projects, learn from experienced mentors, and contribute to high-quality software delivery.\n\n### **The Role**\n\nAs a Junior Software Engineer, you will contribute to the full software development lifecycle. You\u2019ll be integrated into a team that values clean code, rigorous testing, and modern deployment workflows. This is a perfect role for a recent graduate or early-career engineer looking to apply their academic foundation in **Computer Science and AI** to production-grade applications.\n\n### **Key Responsibilities**\n\n* **Feature Development:** Assist in developing new features for our web applications using **FastAPI** and **React**.\n* **Database Management:** Help design and maintain database schemas, ensuring data integrity across relational and non-relational systems.\n* **Code Quality:** Participate in peer code reviews and write automated tests using frameworks like **Pytest** to ensure system stability.\n* **Containerization:** Work with **Docker** to package applications and help maintain our development and staging environments.\n* **Algorithm Implementation:** Apply your knowledge of **optimization algorithms** and data structures to solve real-world logic problems within the codebase.\n* **Collaboration:** Work closely with senior engineers to troubleshoot bugs and optimize application performance.\n\n### **Minimum Qualifications**\n\n* **Education:** Bachelor\u2019s degree in **Computer Science**, **Artificial Intelligence**, or a related field (Recent graduates or those in their final semester are encouraged to apply).\n* **Technical Skills:** * Foundational knowledge of **Python** and **JavaScript**.\n* Experience with at least one modern web framework (e.g., **FastAPI**, Flask, or React).\n* Understanding of **RESTful APIs** and how they interact with front-end services.\n\n\n* **DevOps Basics:** Familiarity with Git version control and the basics of **Docker**.\n* **Soft Skills:** Strong desire to learn, excellent communication skills, and a proactive approach to problem-solving.\n\n### **Preferred Skills**\n\n* Practical experience from internships or significant academic projects (e.g., **Data Science**, **NLP**, or **Robotics**).\n* Experience in a teaching or mentorship capacity, such as a **Junior Teaching Assistant**.\n* Exposure to **Machine Learning** workflows or **Deep Learning** libraries.\n\n---\n\n### **What We Offer**\n\n* **Mentorship:** Direct guidance from senior developers to help you level up your engineering skills.\n* **Modern Stack:** The opportunity to work with cutting-edge tools in **AI** and containerization.\n* **Growth Path:** A clear trajectory for moving into mid-level and senior roles as you master the stack.",
+  "selected_repo": {
+    "name": "RAG-ContextRetreiver",
+    "url": "https://github.com/Anas-Ah25/RAG-ContextRetreiver",
+    "relevance_score": 80,
+    "selection_reasoning": "JD requires FastAPI, React, Database management, Docker, and Pytest. Repository evidence: 1) FastAPI backend confirmed with main.py and structured API routes (query, upload, feedback, seed). 2) Database: Uses Qdrant vector database (non-relational) with explicit collection management and SQLite storage, satisfying the database requirement. 3) Docker: Explicit presence of Dockerfile and DOCKER.md confirms containerization skills. 4) AI/CS Foundation: Strong evidence with RAG pipeline implementation (rag.py), BGE embedding model integration (models.py), Gemini LLM usage, and embedding comparison notebook. 5) React: Not found - frontend is vanilla HTML (index.html). 6) Pytest: No evidence in file tree or README. The repository demonstrates production-grade architecture (separation of concerns, environment management, persistent storage) and complex AI integration, not a tutorial or boilerplate.",
+    "criteria_matched": [
+      "Python",
+      "FastAPI",
+      "API Design",
+      "Vector Databases",
+      "Docker",
+      "RAG",
+      "LLM Integration",
+      "Embeddings"
+    ]
+  },
+  "interview_questions": [
+    {
+      "question": "When configuring a vector database for an embedding model, what are the critical considerations for determining the vector size parameter, and what could happen if this value doesn't match the actual output dimension of your embedding model?",
+      "context": "Vector database configuration",
+      "reference_answer": "The vector size must exactly match the output dimension of the embedding model being used. Mismatches can cause system failures, data corruption, or silent errors where queries return incorrect results. Best practice is to programmatically retrieve the dimension from the model itself rather than hardcoding values, ensuring synchronization between model changes and database configuration.",
+      "difficulty": "beginner",
+      "source_file": "backend/core/database.py",
+      "selection_reason": "Critical dimension mismatch between model output and database configuration",
+      "jd_relation": "Verifies understanding of ML infrastructure integration and data consistency"
+    },
+    {
+      "question": "When implementing fallback mechanisms for API operations, what principles should guide the design to ensure that fallback methods provide functionally equivalent behavior to the primary method?",
+      "context": "API error handling strategies",
+      "reference_answer": "Fallback mechanisms should maintain the same semantic behavior, input/output contracts, and error boundaries as the primary method. This requires careful design to ensure equivalent functionality, proper error propagation, and consistent user experience. The fallback should not introduce new failure modes or behavioral inconsistencies.",
+      "difficulty": "intermediate",
+      "source_file": "backend/core/database.py",
+      "selection_reason": "Inconsistent error handling between primary and fallback search methods",
+      "jd_relation": "Assesses API design skills and fault tolerance implementation"
+    },
+    {
+      "question": "In a concurrent environment, what are the risks of using non-atomic operations for cache eviction, and what synchronization mechanisms would you consider to make cache operations thread-safe?",
+      "context": "Concurrent cache management",
+      "reference_answer": "Non-atomic operations in concurrent environments can lead to race conditions, data corruption, or inconsistent state. For cache eviction, thread-safe approaches include using locks, atomic operations, or thread-safe data structures. The specific choice depends on performance requirements and the concurrency model being used.",
+      "difficulty": "expert",
+      "source_file": "backend/core/rag.py",
+      "selection_reason": "Race condition in naive FIFO cache eviction strategy",
+      "jd_relation": "Tests advanced concurrency knowledge and production-ready system design"
+    },
+    {
+      "question": "How would you design a system to automatically detect and handle changes in embedding model dimensions when the underlying model is updated or replaced?",
+      "context": "Machine learning system integration",
+      "reference_answer": "A robust system would include version-aware model management, automatic dimension detection during model loading, and database schema validation/migration capabilities. This ensures that model changes don't break existing functionality and provides clear upgrade paths for production systems.",
+      "difficulty": "intermediate",
+      "source_file": "backend/core/database.py",
+      "selection_reason": "Hardcoded vector dimensions that don't adapt to model changes",
+      "jd_relation": "Evaluates system design for ML ops and version management"
+    },
+    {
+      "question": "What are the trade-offs between implementing retry logic with fallbacks versus designing idempotent operations for distributed database interactions?",
+      "context": "Distributed system error handling",
+      "reference_answer": "Retry with fallbacks provides flexibility but can introduce complexity and inconsistent behavior. Idempotent operations simplify error handling but may require more careful API design. The choice depends on the specific use case's consistency requirements and the capabilities of the underlying storage system.",
+      "difficulty": "expert",
+      "source_file": "backend/core/database.py",
+      "selection_reason": "Multiple search methods with different error handling approaches",
+      "jd_relation": "Tests distributed systems knowledge and fault-tolerant design"
+    },
+    {
+      "question": "What factors should influence the choice between different cache eviction strategies (LRU, FIFO, TTL) in a production environment, and how do these choices impact system performance and resource utilization?",
+      "context": "Cache design patterns",
+      "reference_answer": "Eviction strategy choice depends on access patterns, data size variability, and performance requirements. FIFO is simple but may evict frequently accessed items. LRU better reflects usage patterns but has higher overhead. TTL works well for time-sensitive data. The decision should be based on measurable access patterns and system constraints.",
+      "difficulty": "intermediate",
+      "source_file": "backend/core/rag.py",
+      "selection_reason": "Simple FIFO eviction without consideration of access patterns",
+      "jd_relation": "Assesses performance optimization and resource management skills"
+    },
+    {
+      "question": "How would you design an abstraction layer for database operations that ensures consistent behavior across different implementation methods while allowing for flexible error handling and fallback strategies?",
+      "context": "API contract design",
+      "reference_answer": "An effective abstraction would define clear interfaces with well-specified contracts, use the adapter pattern for different implementations, and enforce consistency through comprehensive testing. This allows for flexible error handling while maintaining predictable behavior for consumers of the API.",
+      "difficulty": "intermediate",
+      "source_file": "backend/core/database.py",
+      "selection_reason": "Inconsistent API behavior between primary and fallback methods",
+      "jd_relation": "Evaluates software architecture and interface design skills"
+    },
+    {
+      "question": "What are the critical considerations when designing thread-safe data structures, and how do different synchronization approaches impact both correctness and performance?",
+      "context": "Concurrent data structure design",
+      "reference_answer": "Thread-safe design must balance correctness (avoiding race conditions, deadlocks) with performance (minimizing contention). Approaches range from coarse-grained locking (simple but high contention) to lock-free algorithms (complex but scalable). The choice depends on access patterns, contention levels, and performance requirements.",
+      "difficulty": "expert",
+      "source_file": "backend/core/rag.py",
+      "selection_reason": "Non-thread-safe cache operations in concurrent environment",
+      "jd_relation": "Tests advanced concurrency knowledge and performance optimization"
+    },
+    {
+      "question": "What strategies can be employed to prevent configuration mismatches between interdependent components in a machine learning pipeline, particularly when dealing with model specifications and storage requirements?",
+      "context": "Configuration management",
+      "reference_answer": "Effective strategies include centralized configuration management, automated validation checks, version pinning with compatibility matrices, and runtime verification of component compatibility. This prevents silent failures and ensures system consistency across deployments.",
+      "difficulty": "intermediate",
+      "source_file": "backend/core/database.py",
+      "selection_reason": "Mismatch between model output dimension and database configuration",
+      "jd_relation": "Assesses ML system configuration and deployment best practices"
+    },
+    {
+      "question": "When designing error handling for critical data operations, what techniques can be used to ensure that fallback mechanisms don't introduce their own failure modes or degrade system reliability?",
+      "context": "Production system reliability",
+      "reference_answer": "Fallback mechanisms should be thoroughly tested independently, designed with minimal complexity, and include proper monitoring and logging. Circuit breaker patterns can prevent cascading failures, and gradual rollout strategies help identify issues before they affect the entire system.",
+      "difficulty": "expert",
+      "source_file": "backend/core/database.py",
+      "selection_reason": "Fallback search method with potential behavioral inconsistencies",
+      "jd_relation": "Evaluates production engineering and reliability-focused design"
+    }
+  ]
+}
