@@ -128,10 +128,10 @@ if run_btn:
         start_fingerprint = time.perf_counter()
         
         try:
-            # LIGHTNING TURBO: Reduce pre-filter from 50 to 30 for faster Phase 1
-            pre_filtered_repos = rank_repos_by_heuristics(repos, jd_text)[:30]
+            # Trial 2d: Pre-filter top 50
+            pre_filtered_repos = rank_repos_by_heuristics(repos, jd_text)[:50]
             
-            pillar_report = categorize_profile_parallel(pre_filtered_repos, jd_text, st.session_state.model_filter, ollama_host)
+            pillar_report = categorize_profile(pre_filtered_repos, jd_text, st.session_state.model_filter, ollama_host)
             end_fingerprint = time.perf_counter()
             timings["PillarSearch"] = end_fingerprint - start_fingerprint
             
