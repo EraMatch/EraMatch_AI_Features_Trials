@@ -172,7 +172,7 @@ if run_btn:
                     with tournament_container:
                         color = "#238636" if result.relevanceScore > 70 else "#9a6700" if result.relevanceScore > 40 else "#656d76"
                         badges_html = "".join([f'<span style="background:#eefcf6; color:#1f883d; padding:2px 8px; border-radius:12px; font-size:0.75em; border:1px solid #ccebd7; margin-right:4px;">{c}</span>' for c in result.criteria_matched])
-                        evidence_label = "📄 README" if readme_content else "📂 File-Structure Only"
+                        evidence_label = "README" if readme_content else "File-Structure Only"
                         
                         st.markdown(f"""
                         <div class="repo-card" style="border-left: 5px solid {color}">
@@ -280,7 +280,7 @@ if run_btn:
         status.update(label="Deep Analysis Complete", state="complete", expanded=False)
 
     # Performance Summary
-    st.info(f"⚡ **Analysis Timeline:** " + " | ".join([f"{k}: {v:.1f}s" for k, v in timings.items()]))
+    st.info(f"Analysis Timeline: " + " | ".join([f"{k}: {v:.1f}s" for k, v in timings.items()]))
 
     # --- DISPLAY FINAL RESULTS ---
     
