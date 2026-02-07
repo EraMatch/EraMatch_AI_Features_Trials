@@ -144,7 +144,7 @@ if run_btn:
             
             with st.expander("Explore Pillar Alignment & Evidence", expanded=False):
                 for pillar in pillar_report.pillars:
-                    status_icon = "✅ Match Found" if pillar.is_satisfied else "⚠️ Gap Identified"
+                    status_icon = "Match Found" if pillar.is_satisfied else "Gap Identified"
                     status_color = "#1a7f37" if pillar.is_satisfied else "#9a6700"
                     
                     st.markdown(f"### <span style='color:{status_color};'>{status_icon}: {pillar.pillar_name}</span>", unsafe_allow_html=True)
@@ -228,7 +228,7 @@ if run_btn:
                 
                 with tournament_container:
                     color = "#238636" if res.relevanceScore > 70 else "#9a6700" if res.relevanceScore > 40 else "#656d76"
-                    boost_badge = '<span style="background:#fff8c5; color:#735c0f; border:1px solid #d4a72c; padding:2px 8px; border-radius:12px; font-size:0.75em; margin-right:4px; font-weight:bold;">✨ DOMAIN BOOST</span>' if repo.name in target_repos_names else ""
+                    boost_badge = '<span style="background:#fff8c5; color:#735c0f; border:1px solid #d4a72c; padding:2px 8px; border-radius:12px; font-size:0.75em; margin-right:4px; font-weight:bold;">DOMAIN BOOST</span>' if repo.name in target_repos_names else ""
                     st.markdown(f'<div class="repo-card" style="border-left: 5px solid {color}"><strong>{repo.name} {boost_badge}</strong> <br>Score: {res.relevanceScore}</div>', unsafe_allow_html=True)
                 
                 if res.relevanceScore > best_score:
@@ -243,7 +243,7 @@ if run_btn:
             
             progress_bar.progress(min(1.0, (i + batch_size) / len(repos_to_scout)))
             if best_score >= 80:
-                status.write(f"🎯 **Superiority Exit:** Found {best_repo.name} ({best_score}%)")
+                status.write(f"Superiority Exit: Found {best_repo.name} ({best_score}%)")
                 break
             
         if not best_repo or best_score < 40:
@@ -330,7 +330,7 @@ if run_btn:
         status.update(label="Deep Analysis Complete", state="complete", expanded=False)
 
     # Performance Summary
-    st.info(f"⚡ **Analysis Timeline:** " + " | ".join([f"{k}: {v:.1f}s" for k, v in timings.items()]))
+    st.info(f"Analysis Timeline: " + " | ".join([f"{k}: {v:.1f}s" for k, v in timings.items()]))
 
     # --- DISPLAY FINAL RESULTS ---
     
