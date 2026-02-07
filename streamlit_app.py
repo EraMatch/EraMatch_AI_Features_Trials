@@ -128,10 +128,10 @@ if run_btn:
         start_fingerprint = time.perf_counter()
         
         try:
-            # LIGHTNING TURBO: Reduce pre-filter from 50 to 30 for faster Phase 1
-            pre_filtered_repos = rank_repos_by_heuristics(repos, jd_text)[:30]
+            # Trial 2a: Pre-filter 100 repos (exhaustive)
+            pre_filtered_repos = rank_repos_by_heuristics(repos, jd_text)[:100]
             
-            pillar_report = categorize_profile_parallel(pre_filtered_repos, jd_text, st.session_state.model_filter, ollama_host)
+            pillar_report = categorize_profile(pre_filtered_repos, jd_text, st.session_state.model_filter, ollama_host)
             end_fingerprint = time.perf_counter()
             timings["PillarSearch"] = end_fingerprint - start_fingerprint
             
@@ -163,21 +163,10 @@ if run_btn:
                 if pillar.is_satisfied:
                     target_repos_names.extend(pillar.top_repos)
 
-            # PHASE 1b: THE HYBRID HUB (WEIGHTED RANKING)
-            repos_to_scout_raw = rank_repos_by_heuristics(repos, jd_text, target_repos_names)
+            # PHASE 1b: EXHAUSTIVE HYBRID
+            repos_to_scout = rank_repos_by_heuristics(repos, jd_text, target_repos_names)[:6]
             
-            # LIGHTNING TURBO: Spotlight-Only Mode
-            # If we found at least 2 strong matches, ONLY scout those. Skip the noise.
-            spotlight_names = set(target_repos_names)
-            spotlight_repos = [r for r in repos_to_scout_raw if r.name in spotlight_names]
-            
-            if len(spotlight_repos) >= 2:
-                status.write(f"✨ **Mastery Spotlight Triggered!** Focusing only on {len(spotlight_repos)} verified matches.")
-                repos_to_scout = spotlight_repos
-            else:
-                # Fallback to general hybrid scouting (Top 6)
-                other_repos = [r for r in repos_to_scout_raw if r.name not in spotlight_names]
-                repos_to_scout = (spotlight_repos + other_repos)[:6]
+            status.write(f"Scouting {len(repos_to_scout)} repositories sequentially...")
             
             status.write(f"Scouting {len(repos_to_scout)} repositories...")
 
@@ -214,56 +203,34 @@ if run_btn:
                 structure, readme_content = fetch_repo_structure(username, repo.name, gh_token)
                 file_list_str = "\n".join([f.path for f in structure.files])[:5000]
                 result = check_relevance(jd_text, file_list_str, readme_content, filter_model, ollama_host)
-                return repo, structure, readme_content, result, None
-            except Exception as e:
-                return repo, None, None, None, str(e)
-
-        with ThreadPoolExecutor(max_workers=workers) as executor:
-            filter_model = st.session_state.model_filter
-            future_to_repo = {executor.submit(scout_task, repo, filter_model): repo for repo in repos_to_scout}
+        # No Concurrency - Exhaustive Study
+        batch_size = 1
+        
+        progress_bar = st.progress(0)
+        
+        for i, repo in enumerate(repos_to_scout):
+            status.write(f"Analyzing {repo.name} ({i+1}/{len(repos_to_scout)})...")
             
-            scouted_so_far = 0
-            for future in as_completed(future_to_repo):
-                repo, structure, readme_content, result, error = future.result()
-                scouted_so_far += 1
-                progress_bar.progress(scouted_so_far / len(repos_to_scout))
+            try:
+                struct, readme = fetch_repo_structure(username, repo.name, gh_token)
+                res = check_relevance(jd_text, str([f.path for f in struct.files])[:5000], readme, st.session_state.model_filter, ollama_host)
                 
-                if error:
-                    status.write(f"Skipped {repo.name}: {error}")
-                    continue
-
-                status.write(f"Evaluated **{repo.name}**: {result.relevanceScore}%")
+                status.write(f"Evaluated **{repo.name}**: {res.relevanceScore}%")
                 
                 with tournament_container:
-                    color = "#238636" if result.relevanceScore > 70 else "#9a6700" if result.relevanceScore > 40 else "#656d76"
-                    badges_html = "".join([f'<span style="background:#eefcf6; color:#1f883d; padding:2px 8px; border-radius:12px; font-size:0.75em; border:1px solid #ccebd7; margin-right:4px;">{c}</span>' for c in result.criteria_matched])
-                    
-                    boost_badge = '<span style="background:#fff8c5; color:#735c0f; border:1px solid #d4a72c; padding:2px 8px; border-radius:12px; font-size:0.75em; margin-right:4px; font-weight:bold;">✨ DOMAIN BOOST</span>' if repo.name in target_repos_names else ""
-                    
-                    st.markdown(f"""
-                    <div class="repo-card" style="border-left: 5px solid {color}">
-                        <div style="display:flex; justify-content:space-between; align-items:center;">
-                            <strong style="color: #1a1a1a;">{repo.name} {boost_badge}</strong> 
-                            <span style="font-size:0.75em; color: #656d76; background:#f6f8fa; padding:2px 6px; border-radius:4px;">PROCESSED</span>
-                        </div>
-                        <span style="font-size:0.8em; color: {color}; font-weight: 600;">Score: {result.relevanceScore}</span>
-                    </div>
-                    """, unsafe_allow_html=True)
+                    color = "#238636" if res.relevanceScore > 70 else "#9a6700" if res.relevanceScore > 40 else "#656d76"
+                    st.markdown(f'<div class="repo-card" style="border-left: 5px solid {color}"><strong>{repo.name}</strong> <br>Score: {res.relevanceScore}</div>', unsafe_allow_html=True)
                 
-                if result.relevanceScore > best_score:
-                    best_score = result.relevanceScore
+                if res.relevanceScore > best_score:
+                    best_score = res.relevanceScore
                     best_repo = repo
-                    best_repo_structure = structure
-                    best_repo_readme = readme_content
-                    best_repo_result = result
-                
-                # Mastery Break
-                if best_score >= 85:
-                    status.write(f"🏆 **Ace Captured!** Found {best_repo.name} ({best_score}%). Cancelling remaining scouts.")
-                    # Cancel remaining tasks
-                    for f in future_to_repo:
-                        f.cancel()
-                    break
+                    best_repo_structure = struct
+                    best_repo_readme = readme
+                    best_repo_result = res
+            except Exception as ex:
+                status.write(f"Skipped {repo.name}: {ex}")
+            
+            progress_bar.progress((i + 1) / len(repos_to_scout))
             
         if not best_repo or best_score < 40:
             status.update(label="No relevant repositories found.", state="error")
@@ -308,28 +275,14 @@ if run_btn:
         with st.expander("Key File Selection Logic", expanded=True):
             st.info(key_files_result.thought_process)
              
-        # HYPER-TURBO: Parallelize file content fetching
+        # Sequential Content Fetching
         full_code_context = ""
-        status.write(f"Fetching content for {len(key_files_result.files)} key files in parallel...")
-        
-        def fetch_task(kf):
+        for kf in key_files_result.files:
             node = next((f for f in best_repo_structure.files if f.path == kf.path), None)
-            if not node:
-                 node = next((f for f in best_repo_structure.files if kf.path in f.path), None)
-            
             if node:
                 content = fetch_file_content(node, gh_token)
-                return f"\n\n--- FILE: {node.path} ---\n{content}\n", node.path, kf.reason
-            return None
-
-        with ThreadPoolExecutor(max_workers=5) as executor:
-            fetch_results = list(executor.map(fetch_task, key_files_result.files))
-            
-        for res in fetch_results:
-            if res:
-                context_chunk, path, reason = res
-                full_code_context += context_chunk
-                st.markdown(f"- Found `{path}` ({reason})")
+                full_code_context += f"\n\n--- FILE: {node.path} ---\n{content}\n"
+                st.markdown(f"- Loaded `{node.path}` ({kf.reason})")
         
         # AUDIT
         start_audit = time.perf_counter()
