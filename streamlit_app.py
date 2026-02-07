@@ -144,7 +144,7 @@ if run_btn:
             
             with st.expander("Explore Pillar Alignment & Evidence", expanded=False):
                 for pillar in pillar_report.pillars:
-                    status_icon = "✅ Match Found" if pillar.is_satisfied else "⚠️ Gap Identified"
+                    status_icon = "Match Found" if pillar.is_satisfied else "Gap Identified"
                     status_color = "#1a7f37" if pillar.is_satisfied else "#9a6700"
                     
                     st.markdown(f"### <span style='color:{status_color};'>{status_icon}: {pillar.pillar_name}</span>", unsafe_allow_html=True)
@@ -302,7 +302,7 @@ if run_btn:
         status.update(label="Deep Analysis Complete", state="complete", expanded=False)
 
     # Performance Summary
-    st.info(f"⚡ **Analysis Timeline:** " + " | ".join([f"{k}: {v:.1f}s" for k, v in timings.items()]))
+    st.info(f"Analysis Timeline: " + " | ".join([f"{k}: {v:.1f}s" for k, v in timings.items()]))
 
     # --- DISPLAY FINAL RESULTS ---
     
