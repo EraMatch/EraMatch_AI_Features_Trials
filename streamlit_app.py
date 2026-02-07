@@ -123,73 +123,11 @@ if run_btn:
             st.error(str(e))
             st.stop()
             
-        # --- PHASE 1: JD-DRIVEN PILLAR SEARCH ---
-        status.write("Pre-filtering candidates & analyzing JD mandates...")
-        start_fingerprint = time.perf_counter()
-        
-        try:
-            # LIGHTNING TURBO: Reduce pre-filter from 50 to 30 for faster Phase 1
-            pre_filtered_repos = rank_repos_by_heuristics(repos, jd_text)[:30]
-            
-            pillar_report = categorize_profile_parallel(pre_filtered_repos, jd_text, st.session_state.model_filter, ollama_host)
-            end_fingerprint = time.perf_counter()
-            timings["PillarSearch"] = end_fingerprint - start_fingerprint
-            
-            st.markdown(f"""
-            <div style="background:#f0f7ff; border:1px solid #cce3ff; border-radius:8px; padding:16px; margin-bottom:20px; border-left: 5px solid #0969da;">
-                <h4 style="margin:0; color:#1f2328; font-size:1.1em;">Target Hiring Rubric</h4>
-                <p style="margin:8px 0; color:#424a53; font-size:0.95em;">{pillar_report.hiring_rubric_summary}</p>
-            </div>
-            """, unsafe_allow_html=True)
-            
-            with st.expander("Explore Pillar Alignment & Evidence", expanded=False):
-                for pillar in pillar_report.pillars:
-                    status_icon = "✅ Match Found" if pillar.is_satisfied else "⚠️ Gap Identified"
-                    status_color = "#1a7f37" if pillar.is_satisfied else "#9a6700"
-                    
-                    st.markdown(f"### <span style='color:{status_color};'>{status_icon}: {pillar.pillar_name}</span>", unsafe_allow_html=True)
-                    st.caption(pillar.description)
-                    st.info(f"**Evidence:** {pillar.evidence_found}")
-                    if pillar.top_repos:
-                        st.markdown(f"**Key Repositories:** {', '.join([f'`{r}`' for r in pillar.top_repos])}")
-                
-                if pillar_report.unrelated_repos:
-                    st.markdown("**Other/Unrelated Projects:**")
-                    st.caption(", ".join(pillar_report.unrelated_repos))
-
-            # Extract names for Domain Boost
-            target_repos_names = []
-            for pillar in pillar_report.pillars:
-                if pillar.is_satisfied:
-                    target_repos_names.extend(pillar.top_repos)
-
-            # PHASE 1b: THE HYBRID HUB (WEIGHTED RANKING)
-            repos_to_scout_raw = rank_repos_by_heuristics(repos, jd_text, target_repos_names)
-            
-            # LIGHTNING TURBO: Spotlight-Only Mode
-            # If we found at least 2 strong matches, ONLY scout those. Skip the noise.
-            spotlight_names = set(target_repos_names)
-            spotlight_repos = [r for r in repos_to_scout_raw if r.name in spotlight_names]
-            
-            if len(spotlight_repos) >= 2:
-                status.write(f"✨ **Mastery Spotlight Triggered!** Focusing only on {len(spotlight_repos)} verified matches.")
-                repos_to_scout = spotlight_repos
-            else:
-                # Fallback to general hybrid scouting (Top 6)
-                other_repos = [r for r in repos_to_scout_raw if r.name not in spotlight_names]
-                repos_to_scout = (spotlight_repos + other_repos)[:6]
-            
-            status.write(f"Scouting {len(repos_to_scout)} repositories...")
-
-        except Exception as e:
-            status.write(f"Pillar search fail: {str(e)}. Using heuristics...")
-            pillar_report = PillarSearchReport(
-                hiring_rubric_summary="Pillar search failed. Falling back to simple heuristics.",
-                pillars=[],
-                unrelated_repos=[r.name for r in repos]
-            )
-            repos_to_scout = rank_repos_by_heuristics(repos, jd_text)[:6]
-            target_repos_names = []
+        # --- PHASE 1: SIMPLE HEURISTIC SCOUTING ---
+        status.write("Scouting top 5 latest repositories...")
+        repos_to_scout = rank_repos_by_heuristics(repos, jd_text)[:5]
+        target_repos_names = []
+        pillar_report = PillarSearchReport(hiring_rubric_summary="Baseline: No Pillars Used.", pillars=[], unrelated_repos=[])
 
         # --- PHASE 2: COMPETITIVE TOURNAMENT ---
         status.write("Starting Lightning Tournament...")
