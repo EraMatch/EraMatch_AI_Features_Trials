@@ -59,6 +59,12 @@ def fetch_user_repos(username: str, token: str = "") -> List[RepoSummary]:
         ))
     return repos
 
+def categorize_profile(repos: List[RepoSummary], jd_text: str, model: str, ollama_host: str) -> PillarSearchReport:
+    """Analyze entire profile to extract hiring pillars and map relevant repos."""
+    repo_list_str = "\n".join([f"- {r.name}: {r.description[:500]} (Lang: {r.language}, Topics: {r.topics})" for r in repos])
+    prompt = load_prompt("categorization", repo_list=repo_list_str, jd=jd_text[:2000])
+    return query_ollama(model, prompt, PillarSearchReport, host=ollama_host)
+
 def categorize_profile_parallel(repos: List[RepoSummary], jd_text: str, model: str, ollama_host: str) -> PillarSearchReport:
     """ULTIMATE TURBO: Split repos into chunks and analyze pillars in parallel."""
     # Split 30 repos into 3 chunks of 10

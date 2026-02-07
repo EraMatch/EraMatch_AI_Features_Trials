@@ -128,10 +128,10 @@ if run_btn:
         start_fingerprint = time.perf_counter()
         
         try:
-            # LIGHTNING TURBO: Reduce pre-filter from 50 to 30 for faster Phase 1
-            pre_filtered_repos = rank_repos_by_heuristics(repos, jd_text)[:30]
+            # Trial 2b: Pre-filter top 50
+            pre_filtered_repos = rank_repos_by_heuristics(repos, jd_text)[:50]
             
-            pillar_report = categorize_profile_parallel(pre_filtered_repos, jd_text, st.session_state.model_filter, ollama_host)
+            pillar_report = categorize_profile(pre_filtered_repos, jd_text, st.session_state.model_filter, ollama_host)
             end_fingerprint = time.perf_counter()
             timings["PillarSearch"] = end_fingerprint - start_fingerprint
             
@@ -147,7 +147,7 @@ if run_btn:
                     status_icon = "✅ Match Found" if pillar.is_satisfied else "⚠️ Gap Identified"
                     status_color = "#1a7f37" if pillar.is_satisfied else "#9a6700"
                     
-                    st.markdown(f"### <span style='color:{status_color};'>{status_icon}: {pillar.pillar_name}</span>", unsafe_allow_html=True)
+                    st.markdown(f"### <span style='color:{status_color};'>{status_name}: {pillar.pillar_name}</span>", unsafe_allow_html=True)
                     st.caption(pillar.description)
                     st.info(f"**Evidence:** {pillar.evidence_found}")
                     if pillar.top_repos:
@@ -163,21 +163,8 @@ if run_btn:
                 if pillar.is_satisfied:
                     target_repos_names.extend(pillar.top_repos)
 
-            # PHASE 1b: THE HYBRID HUB (WEIGHTED RANKING)
-            repos_to_scout_raw = rank_repos_by_heuristics(repos, jd_text, target_repos_names)
-            
-            # LIGHTNING TURBO: Spotlight-Only Mode
-            # If we found at least 2 strong matches, ONLY scout those. Skip the noise.
-            spotlight_names = set(target_repos_names)
-            spotlight_repos = [r for r in repos_to_scout_raw if r.name in spotlight_names]
-            
-            if len(spotlight_repos) >= 2:
-                status.write(f"✨ **Mastery Spotlight Triggered!** Focusing only on {len(spotlight_repos)} verified matches.")
-                repos_to_scout = spotlight_repos
-            else:
-                # Fallback to general hybrid scouting (Top 6)
-                other_repos = [r for r in repos_to_scout_raw if r.name not in spotlight_names]
-                repos_to_scout = (spotlight_repos + other_repos)[:6]
+            # PHASE 1b: THE HYBRID HUB
+            repos_to_scout = rank_repos_by_heuristics(repos, jd_text, target_repos_names)[:6]
             
             status.write(f"Scouting {len(repos_to_scout)} repositories...")
 
@@ -192,7 +179,7 @@ if run_btn:
             target_repos_names = []
 
         # --- PHASE 2: COMPETITIVE TOURNAMENT ---
-        status.write("Starting Lightning Tournament...")
+        status.write("Starting Competitive Tournament (Trial 2b Style)...")
         start_tournament = time.perf_counter()
         
         best_repo = None
@@ -202,44 +189,35 @@ if run_btn:
         best_repo_result = None
         
         # Concurrency Tuning
-        is_cloud_model = ":cloud" in st.session_state.model_filter.lower()
-        workers = min(6, len(repos_to_scout)) if is_cloud_model else min(3, len(repos_to_scout))
-        
-        from concurrent.futures import as_completed
+        batch_size = 6 if ":cloud" in st.session_state.model_filter.lower() else 3
         
         progress_bar = st.progress(0)
         
-        def scout_task(repo, filter_model):
-            try:
-                structure, readme_content = fetch_repo_structure(username, repo.name, gh_token)
-                file_list_str = "\n".join([f.path for f in structure.files])[:5000]
-                result = check_relevance(jd_text, file_list_str, readme_content, filter_model, ollama_host)
-                return repo, structure, readme_content, result, None
-            except Exception as e:
-                return repo, None, None, None, str(e)
-
-        with ThreadPoolExecutor(max_workers=workers) as executor:
-            filter_model = st.session_state.model_filter
-            future_to_repo = {executor.submit(scout_task, repo, filter_model): repo for repo in repos_to_scout}
+        for i in range(0, len(repos_to_scout), batch_size):
+            batch = repos_to_scout[i:i + batch_size]
+            status.write(f"Analyzing batch {i//batch_size + 1} ({len(batch)} repos)...")
             
-            scouted_so_far = 0
-            for future in as_completed(future_to_repo):
-                repo, structure, readme_content, result, error = future.result()
-                scouted_so_far += 1
-                progress_bar.progress(scouted_so_far / len(repos_to_scout))
-                
-                if error:
-                    status.write(f"Skipped {repo.name}: {error}")
-                    continue
+            def process_repo(repo):
+                try:
+                    struct, readme = fetch_repo_structure(username, repo.name, gh_token)
+                    res = check_relevance(jd_text, str([f.path for f in struct.files])[:5000], readme, st.session_state.model_filter, ollama_host)
+                    return repo, struct, readme, res, None
+                except Exception as ex:
+                    return repo, None, None, None, str(ex)
 
-                status.write(f"Evaluated **{repo.name}**: {result.relevanceScore}%")
+            with ThreadPoolExecutor(max_workers=batch_size) as executor:
+                results = list(executor.map(process_repo, batch))
+            
+            for repo, struct, readme, res, err in results:
+                if err:
+                    status.write(f"Skipped {repo.name}: {err}")
+                    continue
+                    
+                status.write(f"Evaluated **{repo.name}**: {res.relevanceScore}%")
                 
                 with tournament_container:
-                    color = "#238636" if result.relevanceScore > 70 else "#9a6700" if result.relevanceScore > 40 else "#656d76"
-                    badges_html = "".join([f'<span style="background:#eefcf6; color:#1f883d; padding:2px 8px; border-radius:12px; font-size:0.75em; border:1px solid #ccebd7; margin-right:4px;">{c}</span>' for c in result.criteria_matched])
-                    
+                    color = "#238636" if res.relevanceScore > 70 else "#9a6700" if res.relevanceScore > 40 else "#656d76"
                     boost_badge = '<span style="background:#fff8c5; color:#735c0f; border:1px solid #d4a72c; padding:2px 8px; border-radius:12px; font-size:0.75em; margin-right:4px; font-weight:bold;">✨ DOMAIN BOOST</span>' if repo.name in target_repos_names else ""
-                    
                     st.markdown(f"""
                     <div class="repo-card" style="border-left: 5px solid {color}">
                         <div style="display:flex; justify-content:space-between; align-items:center;">
