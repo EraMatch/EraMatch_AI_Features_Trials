@@ -172,7 +172,7 @@ if run_btn:
             spotlight_repos = [r for r in repos_to_scout_raw if r.name in spotlight_names]
             
             if len(spotlight_repos) >= 2:
-                status.write(f"✨ **Mastery Spotlight Triggered!** Focusing only on {len(spotlight_repos)} verified matches.")
+                status.write(f"MASTERY SPOTLIGHT TRIGGERED: Focusing only on {len(spotlight_repos)} verified matches.")
                 repos_to_scout = spotlight_repos
             else:
                 # Fallback to general hybrid scouting (Top 6)
@@ -238,7 +238,7 @@ if run_btn:
                     color = "#238636" if result.relevanceScore > 70 else "#9a6700" if result.relevanceScore > 40 else "#656d76"
                     badges_html = "".join([f'<span style="background:#eefcf6; color:#1f883d; padding:2px 8px; border-radius:12px; font-size:0.75em; border:1px solid #ccebd7; margin-right:4px;">{c}</span>' for c in result.criteria_matched])
                     
-                    boost_badge = '<span style="background:#fff8c5; color:#735c0f; border:1px solid #d4a72c; padding:2px 8px; border-radius:12px; font-size:0.75em; margin-right:4px; font-weight:bold;">✨ DOMAIN BOOST</span>' if repo.name in target_repos_names else ""
+                    boost_badge = '<span style="background:#fff8c5; color:#735c0f; border:1px solid #d4a72c; padding:2px 8px; border-radius:12px; font-size:0.75em; margin-right:4px; font-weight:bold;">DOMAIN BOOST</span>' if repo.name in target_repos_names else ""
                     
                     st.markdown(f"""
                     <div class="repo-card" style="border-left: 5px solid {color}">
@@ -259,7 +259,7 @@ if run_btn:
                 
                 # Mastery Break
                 if best_score >= 85:
-                    status.write(f"🏆 **Ace Captured!** Found {best_repo.name} ({best_score}%). Cancelling remaining scouts.")
+                    status.write(f"ACE CAPTURED: Found {best_repo.name} ({best_score}%). Cancelling remaining scouts.")
                     # Cancel remaining tasks
                     for f in future_to_repo:
                         f.cancel()
@@ -349,7 +349,7 @@ if run_btn:
         status.update(label="Deep Analysis Complete", state="complete", expanded=False)
 
     # Performance Summary
-    st.info(f"⚡ **Analysis Timeline:** " + " | ".join([f"{k}: {v:.1f}s" for k, v in timings.items()]))
+    st.info(f"Analysis Timeline: " + " | ".join([f"{k}: {v:.1f}s" for k, v in timings.items()]))
 
     # --- DISPLAY FINAL RESULTS ---
     
