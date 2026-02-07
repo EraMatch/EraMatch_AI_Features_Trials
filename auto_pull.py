@@ -14,11 +14,8 @@ models = [
     "qwen2.5-coder:32b"
 ]
 
-print(f"🔌 Connecting to Ollama at {host}...")
-print("📉 Starting download of heavy models. This may take significant time/bandwidth...")
-
 for model in models:
-    print(f"\n⬇️ Pulling {model}...")
+    print(f"\nPulling {model}...")
     try:
         # Stream pull to keep connection alive
         for progress in client.pull(model, stream=True):
@@ -30,7 +27,7 @@ for model in models:
                  if int(percent) % 10 == 0: # Reduce spam
                      sys.stdout.write(f"\r  {status}: {percent:.1f}%")
                      sys.stdout.flush()
-        print(f"\n✅ {model} Pulled Successfully!")
+        print(f"\n{model} Pulled Successfully!")
     except Exception as e:
         print(f"\n❌ Failed to pull {model}: {e}")
         
