@@ -5,6 +5,7 @@ from concurrent.futures import ThreadPoolExecutor
 from services import (
     parse_github_url, 
     fetch_user_repos,
+    categorize_profile_parallel,
     rank_repos_by_heuristics,
     fetch_repo_structure, 
     fetch_file_content,
@@ -12,9 +13,9 @@ from services import (
     identify_key_files,
     perform_deep_audit,
     synthesize_questions,
-    pull_ollama_model,
-    AnalysisResult
+    pull_ollama_model
 )
+from models import AnalysisResult, PillarSearchReport
 
 # Page Config
 st.set_page_config(
@@ -122,97 +123,147 @@ if run_btn:
             st.error(str(e))
             st.stop()
             
-        # --- NEW AGENTIC SCOUTING ---
-        # 1. Rank all 15 repos heuristically (Metadata only - Instant)
-        status.write("Ranking candidates by metadata fit...")
-        ranked_repos = rank_repos_by_heuristics(repos, jd_text)
+        # --- PHASE 1: JD-DRIVEN PILLAR SEARCH ---
+        status.write("Pre-filtering candidates & analyzing JD mandates...")
+        start_fingerprint = time.perf_counter()
+        
+        try:
+            # LIGHTNING TURBO: Reduce pre-filter from 50 to 30 for faster Phase 1
+            pre_filtered_repos = rank_repos_by_heuristics(repos, jd_text)[:30]
+            
+            pillar_report = categorize_profile_parallel(pre_filtered_repos, jd_text, st.session_state.model_filter, ollama_host)
+            end_fingerprint = time.perf_counter()
+            timings["PillarSearch"] = end_fingerprint - start_fingerprint
+            
+            st.markdown(f"""
+            <div style="background:#f0f7ff; border:1px solid #cce3ff; border-radius:8px; padding:16px; margin-bottom:20px; border-left: 5px solid #0969da;">
+                <h4 style="margin:0; color:#1f2328; font-size:1.1em;">Target Hiring Rubric</h4>
+                <p style="margin:8px 0; color:#424a53; font-size:0.95em;">{pillar_report.hiring_rubric_summary}</p>
+            </div>
+            """, unsafe_allow_html=True)
+            
+            with st.expander("Explore Pillar Alignment & Evidence", expanded=False):
+                for pillar in pillar_report.pillars:
+                    status_icon = "✅ Match Found" if pillar.is_satisfied else "⚠️ Gap Identified"
+                    status_color = "#1a7f37" if pillar.is_satisfied else "#9a6700"
+                    
+                    st.markdown(f"### <span style='color:{status_color};'>{status_icon}: {pillar.pillar_name}</span>", unsafe_allow_html=True)
+                    st.caption(pillar.description)
+                    st.info(f"**Evidence:** {pillar.evidence_found}")
+                    if pillar.top_repos:
+                        st.markdown(f"**Key Repositories:** {', '.join([f'`{r}`' for r in pillar.top_repos])}")
+                
+                if pillar_report.unrelated_repos:
+                    st.markdown("**Other/Unrelated Projects:**")
+                    st.caption(", ".join(pillar_report.unrelated_repos))
+
+            # Extract names for Domain Boost
+            target_repos_names = []
+            for pillar in pillar_report.pillars:
+                if pillar.is_satisfied:
+                    target_repos_names.extend(pillar.top_repos)
+
+            # PHASE 1b: THE HYBRID HUB (WEIGHTED RANKING)
+            repos_to_scout_raw = rank_repos_by_heuristics(repos, jd_text, target_repos_names)
+            
+            # LIGHTNING TURBO: Spotlight-Only Mode
+            # If we found at least 2 strong matches, ONLY scout those. Skip the noise.
+            spotlight_names = set(target_repos_names)
+            spotlight_repos = [r for r in repos_to_scout_raw if r.name in spotlight_names]
+            
+            if len(spotlight_repos) >= 2:
+                status.write(f"✨ **Mastery Spotlight Triggered!** Focusing only on {len(spotlight_repos)} verified matches.")
+                repos_to_scout = spotlight_repos
+            else:
+                # Fallback to general hybrid scouting (Top 6)
+                other_repos = [r for r in repos_to_scout_raw if r.name not in spotlight_names]
+                repos_to_scout = (spotlight_repos + other_repos)[:6]
+            
+            status.write(f"Scouting {len(repos_to_scout)} repositories...")
+
+        except Exception as e:
+            status.write(f"Pillar search fail: {str(e)}. Using heuristics...")
+            pillar_report = PillarSearchReport(
+                hiring_rubric_summary="Pillar search failed. Falling back to simple heuristics.",
+                pillars=[],
+                unrelated_repos=[r.name for r in repos]
+            )
+            repos_to_scout = rank_repos_by_heuristics(repos, jd_text)[:6]
+            target_repos_names = []
+
+        # --- PHASE 2: COMPETITIVE TOURNAMENT ---
+        status.write("Starting Lightning Tournament...")
+        start_tournament = time.perf_counter()
         
         best_repo = None
         best_score = -1
         best_repo_structure = None
         best_repo_readme = None
-        best_repo_result = None # Store the winning result for export
+        best_repo_result = None
         
-        # 2. Scout in Batches (Maximum 9 deep to save costs/time)
-        max_scout_depth = 9
-        repos_to_scout = ranked_repos[:max_scout_depth]
-        batch_size = 3
+        # Concurrency Tuning
+        is_cloud_model = ":cloud" in st.session_state.model_filter.lower()
+        workers = min(6, len(repos_to_scout)) if is_cloud_model else min(3, len(repos_to_scout))
+        
+        from concurrent.futures import as_completed
         
         progress_bar = st.progress(0)
-        safety_scout_triggered = False
         
-        for batch_start in range(0, len(repos_to_scout), batch_size):
-            batch = repos_to_scout[batch_start:batch_start + batch_size]
-            status.write(f"Scouting batch {batch_start//batch_size + 1}: {[r.name for r in batch]}")
+        def scout_task(repo, filter_model):
+            try:
+                structure, readme_content = fetch_repo_structure(username, repo.name, gh_token)
+                file_list_str = "\n".join([f.path for f in structure.files])[:5000]
+                result = check_relevance(jd_text, file_list_str, readme_content, filter_model, ollama_host)
+                return repo, structure, readme_content, result, None
+            except Exception as e:
+                return repo, None, None, None, str(e)
+
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            filter_model = st.session_state.model_filter
+            future_to_repo = {executor.submit(scout_task, repo, filter_model): repo for repo in repos_to_scout}
             
-            def analyze_single_repo(repo, filter_model):
-                try:
-                    structure, readme_content = fetch_repo_structure(username, repo.name, gh_token)
-                    file_list_str = "\n".join([f.path for f in structure.files])[:5000]
-                    result = check_relevance(jd_text, file_list_str, readme_content, filter_model, ollama_host)
-                    return repo, structure, readme_content, result, None
-                except Exception as e:
-                    return repo, None, None, None, str(e)
-
-            with ThreadPoolExecutor(max_workers=3) as executor:
-                filter_model = st.session_state.model_filter
-                futures = [executor.submit(analyze_single_repo, repo, filter_model) for repo in batch]
+            scouted_so_far = 0
+            for future in as_completed(future_to_repo):
+                repo, structure, readme_content, result, error = future.result()
+                scouted_so_far += 1
+                progress_bar.progress(scouted_so_far / len(repos_to_scout))
                 
-                batch_best_score = -1
-                for i, future in enumerate(futures):
-                    repo, structure, readme_content, result, error = future.result()
-                    
-                    if error:
-                        status.write(f"Failed to analyze {repo.name}: {error}")
-                        continue
+                if error:
+                    status.write(f"Skipped {repo.name}: {error}")
+                    continue
 
-                    # Update UI for this candidate
-                    status.write(f"Evaluated **{repo.name}**: Score {result.relevanceScore}")
+                status.write(f"Evaluated **{repo.name}**: {result.relevanceScore}%")
+                
+                with tournament_container:
+                    color = "#238636" if result.relevanceScore > 70 else "#9a6700" if result.relevanceScore > 40 else "#656d76"
+                    badges_html = "".join([f'<span style="background:#eefcf6; color:#1f883d; padding:2px 8px; border-radius:12px; font-size:0.75em; border:1px solid #ccebd7; margin-right:4px;">{c}</span>' for c in result.criteria_matched])
                     
-                    with tournament_container:
-                        color = "#238636" if result.relevanceScore > 70 else "#9a6700" if result.relevanceScore > 40 else "#656d76"
-                        badges_html = "".join([f'<span style="background:#eefcf6; color:#1f883d; padding:2px 8px; border-radius:12px; font-size:0.75em; border:1px solid #ccebd7; margin-right:4px;">{c}</span>' for c in result.criteria_matched])
-                        evidence_label = "📄 README" if readme_content else "📂 File-Structure Only"
-                        
-                        st.markdown(f"""
-                        <div class="repo-card" style="border-left: 5px solid {color}">
-                            <div style="display:flex; justify-content:space-between; align-items:center;">
-                                <strong style="color: #1a1a1a;">{repo.name}</strong> 
-                                <span style="font-size:0.75em; color: #656d76; background:#f6f8fa; padding:2px 6px; border-radius:4px;">{evidence_label}</span>
-                            </div>
-                            <span style="color: #656d76; font-size:0.9em;">({repo.language})</span><br>
-                            <div style="margin: 6px 0;">{badges_html}</div>
-                            <span style="font-size:0.8em; color: {color}; font-weight: 600;">Score: {result.relevanceScore}/100</span><br>
-                            <span style="font-size:0.9em; color: #424a53;">{result.summary}</span>
+                    boost_badge = '<span style="background:#fff8c5; color:#735c0f; border:1px solid #d4a72c; padding:2px 8px; border-radius:12px; font-size:0.75em; margin-right:4px; font-weight:bold;">✨ DOMAIN BOOST</span>' if repo.name in target_repos_names else ""
+                    
+                    st.markdown(f"""
+                    <div class="repo-card" style="border-left: 5px solid {color}">
+                        <div style="display:flex; justify-content:space-between; align-items:center;">
+                            <strong style="color: #1a1a1a;">{repo.name} {boost_badge}</strong> 
+                            <span style="font-size:0.75em; color: #656d76; background:#f6f8fa; padding:2px 6px; border-radius:4px;">PROCESSED</span>
                         </div>
-                        """, unsafe_allow_html=True)
-                    
-                    if result.relevanceScore > best_score:
-                        best_score = result.relevanceScore
-                        best_repo = repo
-                        best_repo_structure = structure
-                        best_repo_readme = readme_content
-                        best_repo_result = result
-                    
-                    if result.relevanceScore > batch_best_score:
-                        batch_best_score = result.relevanceScore
-
-                progress_bar.progress(min((batch_start + batch_size) / len(repos_to_scout), 1.0))
-
-            # --- COMPETITIVE SCOUTING LOGIC ---
-            if best_score >= 90:
-                status.write(f"ACE FOUND: **{best_repo.name}** ({best_score}%). Terminating search.")
-                break
-            elif best_score >= 75:
-                if not safety_scout_triggered:
-                    status.write(f"Strong candidate found: **{best_repo.name}** ({best_score}%). Triggering Safety Scout to look for a better match...")
-                    safety_scout_triggered = True
-                    continue # Try one more batch
-                else:
-                    status.write("Safety Scout complete. No 'ACE' found, keeping the best candidate.")
+                        <span style="font-size:0.8em; color: {color}; font-weight: 600;">Score: {result.relevanceScore}</span>
+                    </div>
+                    """, unsafe_allow_html=True)
+                
+                if result.relevanceScore > best_score:
+                    best_score = result.relevanceScore
+                    best_repo = repo
+                    best_repo_structure = structure
+                    best_repo_readme = readme_content
+                    best_repo_result = result
+                
+                # Mastery Break
+                if best_score >= 85:
+                    status.write(f"🏆 **Ace Captured!** Found {best_repo.name} ({best_score}%). Cancelling remaining scouts.")
+                    # Cancel remaining tasks
+                    for f in future_to_repo:
+                        f.cancel()
                     break
-            else:
-                status.write("No strong candidate in this batch. Continuing search...")
             
         if not best_repo or best_score < 40:
             status.update(label="No relevant repositories found.", state="error")
@@ -234,7 +285,16 @@ if run_btn:
         
         # MAP
         status.write(f"Identifying key files with {st.session_state.model_map}...")
-        file_list_str = "\n".join([f.path for f in best_repo_structure.files if not any(ip in f.path for ip in ['.png','.jpg'])])[:15000]
+        
+        # HYPER-TURBO: Optimize file list truncation
+        # Prioritize technical engineering files to stay under token limits and speed up LLM
+        tech_exts = {'.py', '.js', '.ts', '.go', '.rs', '.java', '.cpp', '.rb', '.c', '.h', '.cs', '.php', '.sql'}
+        all_files = best_repo_structure.files
+        prioritized_files = [f for f in all_files if any(f.path.endswith(ext) for ext in tech_exts)]
+        if not prioritized_files: prioritized_files = all_files # Fallback
+        
+        # Take the top 100 most "important-looking" deep files
+        file_list_str = "\n".join([f.path for f in prioritized_files[:100]])
         
         key_files_result = identify_key_files(file_list_str, best_repo_readme, st.session_state.model_map, ollama_host)
         
@@ -248,19 +308,28 @@ if run_btn:
         with st.expander("Key File Selection Logic", expanded=True):
             st.info(key_files_result.thought_process)
              
-        # Concatenate content from top 3 files for context
+        # HYPER-TURBO: Parallelize file content fetching
         full_code_context = ""
-        status.write(f"Fetching content for {len(key_files_result.files)} key files...")
+        status.write(f"Fetching content for {len(key_files_result.files)} key files in parallel...")
         
-        for kf in key_files_result.files:
+        def fetch_task(kf):
             node = next((f for f in best_repo_structure.files if f.path == kf.path), None)
             if not node:
                  node = next((f for f in best_repo_structure.files if kf.path in f.path), None)
             
             if node:
                 content = fetch_file_content(node, gh_token)
-                full_code_context += f"\n\n--- FILE: {node.path} ---\n{content}\n"
-                st.markdown(f"- Found `{node.path}` ({kf.reason})")
+                return f"\n\n--- FILE: {node.path} ---\n{content}\n", node.path, kf.reason
+            return None
+
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            fetch_results = list(executor.map(fetch_task, key_files_result.files))
+            
+        for res in fetch_results:
+            if res:
+                context_chunk, path, reason = res
+                full_code_context += context_chunk
+                st.markdown(f"- Found `{path}` ({reason})")
         
         # AUDIT
         start_audit = time.perf_counter()
@@ -294,6 +363,7 @@ if run_btn:
     export_package = {
         "candidate_username": username,
         "job_description_context": jd_text,
+        "hiring_rubric": pillar_report.model_dump(),
         "selected_repo": {
             "name": best_repo.name,
             "url": best_repo.url,

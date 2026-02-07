@@ -2,82 +2,23 @@ import os
 import json
 import requests
 import ollama
+import re
 from typing import List, Optional, Dict, Any
-from pydantic import BaseModel, Field
+from concurrent.futures import ThreadPoolExecutor
 
 # --- Data Models ---
 
-class RelevantCriteria(BaseModel):
-    criteria: str
-
-class RelevanceResult(BaseModel):
-    chain_of_thought: str = Field(..., description="Step-by-step reasoning process evaluating the fit")
-    relevanceScore: int = Field(..., description="Score from 0 to 100")
-    summary: str = Field(..., description="Short summary for the card")
-    criteria_matched: List[str] = Field(..., description="List of criteria matched (e.g. 'Project Type', 'Tech Stack')")
-
-class KeyFile(BaseModel):
-    path: str
-    reason: str
-
-class KeyFilesResult(BaseModel):
-    thought_process: str = Field(..., description="Explanation of how the key files were selected")
-    files: List[KeyFile]
-
-class AuditPoint(BaseModel):
-    title: str
-    description: str
-    severity: str = Field(..., description="high, medium, or low")
-    reasoning: str = Field(..., description="Why this issue is important and how it affects the system")
-    evidence_snippet: str = Field(..., description="Verbatim code snippet proving this finding")
-    file_path: str = Field(..., description="The name or path of the file where the evidence was found")
-
-class AuditReport(BaseModel):
-    items: List[AuditPoint]
-
-class QuestionItem(BaseModel):
-    question: str
-    context: str
-    reference_answer: str
-    difficulty: str = Field(..., description="beginner, intermediate, or expert")
-    source_file: str = Field(..., description="The path of the file from the repo that triggered this question")
-    selection_reason: str = Field(..., description="Why this specific code part/point was chosen for the question")
-    jd_relation: str = Field(..., description="How this point relates to the Job Description requirements")
-
-class InterviewQuestions(BaseModel):
-    questions: List[QuestionItem]
-
-class FileNode(BaseModel):
-    path: str
-    type: str
-    size: Optional[int] = 0
-    url: Optional[str] = None
-
-class RepoStructure(BaseModel):
-    owner: str
-    repo: str
-    files: List[FileNode]
-
-class RepoSummary(BaseModel):
-    name: str
-    description: Optional[str] = ""
-    language: Optional[str] = ""
-    topics: List[str] = []
-    size: int = 0
-    updated_at: str
-    url: str
-    default_branch: str
-
-class AnalysisResult(BaseModel):
-    relevance: RelevanceResult
-    key_files: KeyFilesResult
-    audit: List[AuditPoint]
-    questions: List[str]
+from models import (
+    RelevantCriteria, RelevanceResult, KeyFile, KeyFilesResult,
+    AuditPoint, AuditReport, QuestionItem, InterviewQuestions,
+    FileNode, JDPillar, PillarSearchReport, RepoStructure,
+    RepoSummary, AnalysisResult, FAIL_SAFE_DEFAULTS
+)
 
 # --- GitHub Service ---
 
 GITHUB_API_BASE = 'https://api.github.com'
-IGNORED_EXTENSIONS = {'.png', '.jpg', '.jpeg', '.gif', '.svg', '.ico', '.pdf', '.lock', '.json', '.toml', '.yml', '.yaml', '.xml', '.csv'}
+IGNORED_EXTENSIONS = {'.png', '.jpg', '.jpeg', '.gif', '.svg', '.ico', '.pdf', '.lock', '.json', '.toml', '.yml', '.yaml', '.xml', '.csv', '.log', '.bin'}
 IGNORED_DIRS = {'node_modules', 'dist', 'build', '.git', '__pycache__', 'venv', 'env', '.idea', '.vscode'}
 
 def parse_github_url(url: str):
@@ -94,7 +35,8 @@ def fetch_user_repos(username: str, token: str = "") -> List[RepoSummary]:
     if token:
         headers['Authorization'] = f'token {token}'
     
-    url = f"{GITHUB_API_BASE}/users/{username}/repos?sort=updated&per_page=15"
+    # Increase to 100 to get a full profile view
+    url = f"{GITHUB_API_BASE}/users/{username}/repos?sort=updated&per_page=100"
     resp = requests.get(url, headers=headers)
     
     if not resp.ok:
@@ -117,42 +59,94 @@ def fetch_user_repos(username: str, token: str = "") -> List[RepoSummary]:
         ))
     return repos
 
-def rank_repos_by_heuristics(repos: List[RepoSummary], jd_text: str) -> List[RepoSummary]:
-    """Fast, metadata-based ranking to prioritize candidates for LLM analysis."""
+def categorize_profile_parallel(repos: List[RepoSummary], jd_text: str, model: str, ollama_host: str) -> PillarSearchReport:
+    """ULTIMATE TURBO: Split repos into chunks and analyze pillars in parallel."""
+    # Split 30 repos into 3 chunks of 10
+    chunk_size = 10
+    chunks = [repos[i:i + chunk_size] for i in range(0, len(repos), chunk_size)]
+    
+    reports: List[PillarSearchReport] = []
+    
+    def process_chunk(chunk_repos):
+        repo_list_str = "\n".join([f"- {r.name}: {r.description[:500]} (Lang: {r.language}, Topics: {r.topics})" for r in chunk_repos])
+        # Force extreme conciseness in the prompt for speed
+        prompt = load_prompt("categorization", repo_list=repo_list_str, jd=jd_text[:2000])
+        return query_ollama(model, prompt, PillarSearchReport, host=ollama_host)
+
+    with ThreadPoolExecutor(max_workers=3) as executor:
+        reports = list(executor.map(process_chunk, chunks))
+    
+    # Merge reports
+    merged_report = PillarSearchReport(
+        hiring_rubric_summary=reports[0].hiring_rubric_summary if reports else "Analysis complete.",
+        pillars=[],
+        unrelated_repos=[]
+    )
+    
+    seen_pillars = {}
+    for r in reports:
+        for p in r.pillars:
+            if p.pillar_name not in seen_pillars:
+                seen_pillars[p.pillar_name] = p
+                merged_report.pillars.append(p)
+            else:
+                # Merge top_repos for existing pillars
+                existing = seen_pillars[p.pillar_name]
+                existing.top_repos = list(set(existing.top_repos + p.top_repos))
+                existing.is_satisfied = existing.is_satisfied or p.is_satisfied
+        
+        merged_report.unrelated_repos = list(set(merged_report.unrelated_repos + r.unrelated_repos))
+        
+    return merged_report
+
+def rank_repos_by_heuristics(repos: List[RepoSummary], jd_text: str, target_repos: List[str] = None) -> List[RepoSummary]:
+    """Fast, metadata-based ranking with Domain Multipliers and Intrigue Bonuses."""
     jd_lower = jd_text.lower()
+    target_repos = target_repos or []
     
     def score_repo(repo: RepoSummary):
-        score = 0
+        base_score = 0
         
-        # 1. Language Match (High Weight)
+        # 1. Language Match (Core Requirement)
+        target_lang_match = False
         if repo.language and repo.language.lower() in jd_lower:
-            score += 40
+            base_score += 30
+            target_lang_match = True
             
-        # 2. Topic/Name Keyword Match (High Weight)
+        # 2. Topic/Name Keyword Match
         keywords = repo.topics + repo.name.replace('-', ' ').replace('_', ' ').split()
         for kw in keywords:
             if len(kw) > 2 and kw.lower() in jd_lower:
-                score += 20
-                break # Cap keyword bonus per repo for metadata stage
+                base_score += 20
+                break
         
         # 3. Maturity Check (Size/Health)
-        if repo.size > 500: # Over ~500KB suggests more than just one file
-            score += 15
+        is_large = repo.size > 1000 # > 1MB
+        if repo.size > 500:
+            base_score += 15
         elif repo.size > 50:
-            score += 5
+            base_score += 5
             
-        # 4. Notebook Detection (Data/AI Roles)
+        # 4. Notebook Detection
         if "notebook" in jd_lower or "data" in jd_lower:
-            # Check topics or name for notebook indicators
             if any(term in repo.name.lower() or term in " ".join(repo.topics).lower() for term in ["notebook", "jupyter", "analysis", "rag"]):
-                score += 20
-                
-        # 5. Recency (Tie breaker)
-        # (Already sorted by updated_at from GitHub API, so implicit in original order)
+                base_score += 20
         
-        return score
+        final_score = base_score
+        
+        # 5. SANITY THRESHOLD & DOMAIN BOOST
+        # Only boost if the repo has some base-level relevance (avoids boosting junk/empty matches)
+        if repo.name in target_repos and base_score > 10:
+            final_score += 40
+        
+        # 6. INTRIGUE BONUS (Safe Net)
+        # If it's a large repo in the right language but LLM missed it or it has no description
+        if repo.name not in target_repos and target_lang_match and is_large:
+            final_score += 20
+                
+        repo.heuristic_score = final_score
+        return final_score
 
-    # Sort repos by our heuristic score in descending order
     return sorted(repos, key=score_repo, reverse=True)
 
 def fetch_file_content(file_node: FileNode, token: str = "") -> str:
@@ -284,37 +278,64 @@ def query_ollama(model: str, prompt: str, schema_class=None, host: str = 'http:/
 
         import re
         
-        # 2. Extract JSON block (Aggressive Extraction)
-        # Search for the widest possible block starting with { or [ and ending with } or ]
-        json_match = re.search(r'(\{.*\}|\[.*\])', content, re.DOTALL)
+        # 1. Strip markdown if present
+        json_content = content
+        if "```json" in content:
+            json_content = content.split("```json")[-1].split("```")[0].strip()
+        elif "```" in content:
+            # Finding the largest block
+            blocks = re.findall(r'```(?:json)?\s*(.*?)\s*```', content, re.DOTALL)
+            if blocks:
+                json_content = max(blocks, key=len)
         
+        # 2. Extract JSON block (Regex Search)
+        # Search for the widest possible block starting with { or [ and ending with } or ]
+        json_match = re.search(r'(\{.*\}|\[.*\])', json_content, re.DOTALL)
         if json_match:
             json_content = json_match.group(1)
         else:
-            # Fallback to old behavior if regex fails but braces exist
-            json_content = content
-            if "{" in json_content:
-                start = json_content.find("{")
-                end = json_content.rfind("}")
-                if start != -1 and end != -1:
-                    json_content = json_content[start:end+1]
+            # Second attempt: check original content if markdown split was too aggressive
+            json_match = re.search(r'(\{.*\}|\[.*\])', content, re.DOTALL)
+            if json_match:
+                json_content = json_match.group(1)
         
-        # 3. Handle list-root JSON if schema expects an object
-        # If the model returned a raw list [...] but we expect an object {"questions": [...]}, wrap it
+        # 3. Last-ditch: fallback if regex fails but braces exist
+        if "{" in json_content:
+            start = json_content.find("{")
+            end = json_content.rfind("}")
+            if start != -1 and end != -1:
+                json_content = json_content[start:end+1]
+        
+        # 4. Handle list-root JSON if schema expects an object
         if json_content.strip().startswith("[") and schema_class and hasattr(schema_class, 'model_fields'):
             first_field = list(schema_class.model_fields.keys())[0]
             json_content = f'{{"{first_field}": {json_content}}}'
 
         if schema_class:
             try:
+                # ULTIMATE TURBO: Strip any markdown code blocks if the model ignored instructions
+                if "```json" in content:
+                    json_content = content.split("```json")[1].split("```")[0].strip()
+                elif "```" in content:
+                    json_content = content.split("```")[1].split("```")[0].strip()
+                else:
+                    json_content = content.strip()
+
                 return schema_class.model_validate_json(json_content)
             except Exception as ve:
-                # Last-ditch: clean common JSON errors (trailing commas, etc.)
+                print(f"\n--- DEBUG: LLM OUTPUT ({model}) ---\n{content}\n------------------------\n")
+                
+                # REPAIR PHASE: Try standard cleaning
                 try:
-                    import json
                     cleaned_json = re.sub(r',\s*([\]}])', r'\1', json_content)
                     return schema_class.model_validate_json(cleaned_json)
                 except:
+                    # PANIC PHASE: If it's a critical structural failure, return a safe default
+                    # from the FAIL_SAFE_DEFAULTS registry to keep the engine running.
+                    if schema_class in FAIL_SAFE_DEFAULTS:
+                        print(f"⚠️ FAILS SAFE: Returning default factory instance for {schema_class.__name__} due to JSON corruption.")
+                        return FAIL_SAFE_DEFAULTS[schema_class]()
+                    
                     snippet = json_content[:200] + "..." if len(json_content) > 200 else json_content
                     raise Exception(f"JSON Validation Error: {str(ve)}\nAttempted to parse: {snippet}")
         return json_content
@@ -339,7 +360,8 @@ def identify_key_files(file_list: str, readme_content: str, model: str, ollama_h
     return query_ollama(model, prompt, KeyFilesResult, host=ollama_host)
 
 def perform_deep_audit(code_context: str, model: str, ollama_host: str) -> List[AuditPoint]:
-    prompt = load_prompt("audit", code_context=code_context[:30000])
+    # TURBO MODE: Reduce context window to 12k to speed up local inference significantly
+    prompt = load_prompt("audit", code_context=code_context[:12000])
     result = query_ollama(model, prompt, AuditReport, host=ollama_host)
     return verify_audit_findings(result.items, code_context)
 

@@ -21,9 +21,9 @@ INSTRUCTIONS:
 
 REQUIRED OUTPUT JSON FORMAT:
 {{
-    "chain_of_thought": "Step-by-step evaluation of JD requirements vs repo evidence. Be brief and factual.",
+    "chain_of_thought": "Brief, factual JD vs repo evidence evaluation. (MAX 2 SENTENCES)",
     "relevanceScore": 85,
-    "summary": "Short, factual summary of the match. No fluff.",
+    "summary": "Short, factual match summary. (MAX 1 SENTENCE)",
     "criteria_matched": ["Python", "API Design", "Docker"]
 }}
 
