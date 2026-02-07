@@ -339,7 +339,7 @@ def query_ollama(model: str, prompt: str, schema_class=None, host: str = 'http:/
                     # PANIC PHASE: If it's a critical structural failure, return a safe default
                     # from the FAIL_SAFE_DEFAULTS registry to keep the engine running.
                     if schema_class in FAIL_SAFE_DEFAULTS:
-                        print(f"⚠️ FAILS SAFE: Returning default factory instance for {schema_class.__name__} due to JSON corruption.")
+                        print(f"FAILS SAFE: Returning default factory instance for {schema_class.__name__} due to JSON corruption.")
                         return FAIL_SAFE_DEFAULTS[schema_class]()
                     
                     snippet = json_content[:200] + "..." if len(json_content) > 200 else json_content
