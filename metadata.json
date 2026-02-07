@@ -1,5 +1,0 @@
-{
-  "name": "Context-Aware Recruiter (Python)",
-  "description": "A Streamlit-based AI tool leveraging Google Gemini to analyze GitHub repositories against job descriptions for generating deep interview questions.",
-  "requestFramePermissions": []
-}

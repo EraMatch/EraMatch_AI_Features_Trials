@@ -1,6 +1,0 @@
-streamlit
-google-genai
-requests
-pydantic
-python-dotenv
-ollama
