@@ -57,6 +57,7 @@ def fetch_user_repos(username: str, token: str = "") -> List[RepoSummary]:
             url=r['html_url'],
             default_branch=r.get('default_branch', 'main')
         ))
+    return repos
 
 def categorize_profile(repos: List[RepoSummary], jd_text: str, model: str, ollama_host: str) -> PillarSearchReport:
     """Analyze entire profile to extract hiring pillars and map relevant repos."""
@@ -271,11 +272,22 @@ def query_ollama(model: str, prompt: str, schema_class=None, host: str = 'http:/
     if options is None:
         options = {"temperature": 0}
     
+    import time
+    max_retries = 3
+    content = ""
+    
+    for attempt in range(max_retries):
+        try:
+            client = ollama.Client(host=host)
+            response = client.chat(model=model, messages=[{'role': 'user', 'content': prompt}], options=options)
+            content = response['message']['content']
+            break # Success, exit retry loop
+        except Exception as e:
+            if attempt == max_retries - 1:
+                raise Exception(f"Ollama Error ({model}) after {max_retries} attempts: {str(e)}")
+            time.sleep(2 ** attempt)
+
     try:
-        client = ollama.Client(host=host)
-        response = client.chat(model=model, messages=[{'role': 'user', 'content': prompt}], options=options)
-        content = response['message']['content']
-        
         if "<think>" in content and "</think>" in content:
             content = content.split("</think>")[-1].strip()
         elif "<think>" in content: 
@@ -294,12 +306,10 @@ def query_ollama(model: str, prompt: str, schema_class=None, host: str = 'http:/
                 json_content = max(blocks, key=len)
         
         # 2. Extract JSON block (Regex Search)
-        # Search for the widest possible block starting with { or [ and ending with } or ]
         json_match = re.search(r'(\{.*\}|\[.*\])', json_content, re.DOTALL)
         if json_match:
             json_content = json_match.group(1)
         else:
-            # Second attempt: check original content if markdown split was too aggressive
             json_match = re.search(r'(\{.*\}|\[.*\])', content, re.DOTALL)
             if json_match:
                 json_content = json_match.group(1)
@@ -318,31 +328,24 @@ def query_ollama(model: str, prompt: str, schema_class=None, host: str = 'http:/
 
         if schema_class:
             try:
-                # ULTIMATE TURBO: Strip any markdown code blocks if the model ignored instructions
+                # Secondary cleanup for specific Pydantic issues
                 if "```json" in content:
-                    json_content = content.split("```json")[1].split("```")[0].strip()
+                    clean_content = content.split("```json")[1].split("```")[0].strip()
                 elif "```" in content:
-                    json_content = content.split("```")[1].split("```")[0].strip()
+                    clean_content = content.split("```")[1].split("```")[0].strip()
                 else:
-                    json_content = content.strip()
+                    clean_content = content.strip()
 
-                return schema_class.model_validate_json(json_content)
+                return schema_class.model_validate_json(clean_content)
             except Exception as ve:
                 print(f"\n--- DEBUG: LLM OUTPUT ({model}) ---\n{content}\n------------------------\n")
-                
-                # REPAIR PHASE: Try standard cleaning
                 try:
                     cleaned_json = re.sub(r',\s*([\]}])', r'\1', json_content)
                     return schema_class.model_validate_json(cleaned_json)
                 except:
-                    # PANIC PHASE: If it's a critical structural failure, return a safe default
-                    # from the FAIL_SAFE_DEFAULTS registry to keep the engine running.
                     if schema_class in FAIL_SAFE_DEFAULTS:
-                        print(f"FAILS SAFE: Returning default factory instance for {schema_class.__name__} due to JSON corruption.")
                         return FAIL_SAFE_DEFAULTS[schema_class]()
-                    
-                    snippet = json_content[:200] + "..." if len(json_content) > 200 else json_content
-                    raise Exception(f"JSON Validation Error: {str(ve)}\nAttempted to parse: {snippet}")
+                    raise Exception(f"JSON Validation Error: {str(ve)}\nAttempted to parse: {json_content[:200]}")
         return json_content
     except Exception as e:
         raise Exception(f"Ollama Error ({model}): {str(e)}")

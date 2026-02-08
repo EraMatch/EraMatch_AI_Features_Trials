@@ -5,6 +5,7 @@ from concurrent.futures import ThreadPoolExecutor
 from services import (
     parse_github_url, 
     fetch_user_repos,
+    categorize_profile,
     categorize_profile_parallel,
     rank_repos_by_heuristics,
     fetch_repo_structure, 
@@ -188,19 +189,6 @@ if run_btn:
         best_repo_readme = None
         best_repo_result = None
         
-        # Concurrency Tuning
-        is_cloud_model = ":cloud" in st.session_state.model_filter.lower()
-        workers = min(6, len(repos_to_scout)) if is_cloud_model else min(3, len(repos_to_scout))
-        
-        from concurrent.futures import as_completed
-        
-        progress_bar = st.progress(0)
-        
-        def scout_task(repo, filter_model):
-            try:
-                structure, readme_content = fetch_repo_structure(username, repo.name, gh_token)
-                file_list_str = "\n".join([f.path for f in structure.files])[:5000]
-                result = check_relevance(jd_text, file_list_str, readme_content, filter_model, ollama_host)
         batch_size = 6 if ":cloud" in st.session_state.model_filter.lower() else 3
         progress_bar = st.progress(0)
         
@@ -208,16 +196,17 @@ if run_btn:
             batch = repos_to_scout[i:i + batch_size]
             status.write(f"Analyzing batch {i//batch_size + 1} ({len(batch)} repos)...")
             
-            def process_repo(repo):
+            def process_repo(repo, m_filter, o_host):
                 try:
-                    struct, readme = fetch_repo_structure(username, repo.name, github_token)
-                    res = check_relevance(jd_text, str([f.path for f in struct.files])[:5000], readme, st.session_state.model_filter, ollama_host)
+                    struct, readme = fetch_repo_structure(username, repo.name, gh_token)
+                    res = check_relevance(jd_text, str([f.path for f in struct.files])[:5000], readme, m_filter, o_host)
                     return repo, struct, readme, res, None
                 except Exception as ex:
                     return repo, None, None, None, str(ex)
 
+            curr_filter = st.session_state.model_filter
             with ThreadPoolExecutor(max_workers=batch_size) as executor:
-                results = list(executor.map(process_repo, batch))
+                results = list(executor.map(lambda r: process_repo(r, curr_filter, ollama_host), batch))
             
             for repo, struct, readme, res, err in results:
                 if err:
