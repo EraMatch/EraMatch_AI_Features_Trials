@@ -1,0 +1,65 @@
+{
+  "model": "gemini-3-flash-preview:cloud",
+  "questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "In which decade did machine learning start being utilized for practical applications such as email spam filters?",
+      "question_config": {
+        "options": [
+          "1950s",
+          "1970s",
+          "1990s",
+          "2000s"
+        ],
+        "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+      },
+      "correct_answer": [
+        2
+      ],
+      "difficulty": 2,
+      "tags": [
+        "History",
+        "ML Applications"
+      ],
+      "points": 10
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "According to the text, what is the primary factor that influences the effectiveness of a model regarding Bias and Fairness?",
+      "question_config": {
+        "options": [
+          "The speed of the voice assistant",
+          "The number of products suggested by Amazon",
+          "The quality of the training data",
+          "The complexity of the checkers game"
+        ],
+        "evidence": "Bias and Fairness, where model effectiveness is tied to training data quality"
+      },
+      "correct_answer": [
+        2
+      ],
+      "difficulty": 3,
+      "tags": [
+        "Ethics",
+        "Data Quality"
+      ],
+      "points": 10
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Trace the evolution of machine learning from the 1950s to the present day as described in the text, and explain why explainability is particularly vital in specific modern sectors.",
+      "question_config": {
+        "evidence": "In the 1950s, early ideas like a computer playing checkers showed that machines could learn simple tasks. By the 1990s, ML began showing up in practical tools like email spam filters. The 2000s saw companies like Netflix and Amazon use ML to suggest movies or products. Today, ML powers voice assistants, self-driving cars, and healthcare tools... Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": "Machine learning evolved from simple tasks like playing checkers in the 1950s to practical tools like spam filters in the 1990s. By the 2000s, it was used for commercial recommendations (Netflix/Amazon), and today it powers complex systems like self-driving cars and healthcare. Explainability is vital in modern sectors like healthcare and criminal justice because transparency is essential when making high-stakes decisions in these fields.",
+      "difficulty": 4,
+      "tags": [
+        "History",
+        "Ethics",
+        "Machine Learning"
+      ],
+      "points": 10
+    }
+  ],
+  "latency_sec": 11.34
+}

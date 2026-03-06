@@ -8,7 +8,7 @@ from typing import List, Optional, Dict, Any
 from services.pdf_parser import extract_text_from_pdf, count_tokens, get_pdf_page_count
 from services.ai_service import generate_questions_ai, extract_questions_ai
 from services.job_service import create_job, update_job, get_job
-from services.benchmark_service import run_full_benchmark
+from services.benchmark_service import run_full_benchmark, run_benchmark_n_times
 
 app = FastAPI(title="Question Import Trial API")
 
@@ -56,10 +56,10 @@ async def background_process_questions(
     except Exception as e:
         update_job(job_id, "failed", error=str(e))
 
-async def background_run_benchmark(job_id: str):
+async def background_run_benchmark(job_id: str, force_regenerate: bool = False):
     try:
         update_job(job_id, "processing")
-        results = run_full_benchmark()
+        results = run_full_benchmark(force_regenerate=force_regenerate)
         update_job(job_id, "completed", result=results)
     except Exception as e:
         update_job(job_id, "failed", error=str(e))
@@ -163,18 +163,41 @@ async def extract_questions(
         raise HTTPException(status_code=500, detail=str(e))
 
 @app.post("/api/import/benchmark")
-async def benchmark_models(background_tasks: BackgroundTasks, background: bool = Form(True)):
-    """Triggers a benchmark of all available Ollama models."""
+async def benchmark_models(
+    background_tasks: BackgroundTasks,
+    background: bool = Form(True),
+    force_regenerate: bool = Form(False)
+):
+    """Triggers a reproducible benchmark of all available Ollama models."""
     if background:
         job_id = create_job()
-        background_tasks.add_task(background_run_benchmark, job_id)
+        background_tasks.add_task(background_run_benchmark, job_id, force_regenerate)
         return {"status": "queued", "job_id": job_id}
     
     try:
-        results = run_full_benchmark()
+        results = run_full_benchmark(force_regenerate=force_regenerate)
         return {"status": "completed", "results": results}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+async def background_run_stability(job_id: str, n: int, force_regenerate_first: bool):
+    try:
+        update_job(job_id, "processing")
+        result = run_benchmark_n_times(n=n, force_regenerate_first=force_regenerate_first)
+        update_job(job_id, "completed", result=result)
+    except Exception as e:
+        update_job(job_id, "failed", error=str(e))
+
+@app.post("/api/import/benchmark-stability")
+async def benchmark_stability(
+    background_tasks: BackgroundTasks,
+    n: int = Form(20),
+    force_regenerate_first: bool = Form(False)
+):
+    """Runs the benchmark N times and returns a ranking stability / frequency report."""
+    job_id = create_job()
+    background_tasks.add_task(background_run_stability, job_id, n, force_regenerate_first)
+    return {"status": "queued", "job_id": job_id, "total_runs": n}
 
 if __name__ == "__main__":
     import uvicorn

@@ -1,0 +1,157 @@
+{
+  "model": "kimi-k2.5:cloud",
+  "status": "success",
+  "latency_sec": 15.09,
+  "avg_faithfulness": 1.0,
+  "avg_distractor_quality": 7.5,
+  "avg_pedagogy_quest": 3.33,
+  "overall_quality_score": 8.33,
+  "raw_questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "According to the context, what is machine learning (ML)?",
+      "question_config": {
+        "options": [
+          "A programming method that requires explicit instructions for every decision",
+          "A subset of artificial intelligence that enables computers to learn from data",
+          "A type of computer hardware designed for playing checkers",
+          "A technology exclusively used by Netflix and Amazon for recommendations"
+        ],
+        "evidence": "Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 1,
+      "tags": [
+        "definition",
+        "artificial intelligence"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The question asks for the definition of machine learning (ML) as provided in the context. The context explicitly states: 'Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed.' The correct answer ('A subset of artificial intelligence that enables computers to learn from data') is fully and accurately supported by this sentence, capturing the core definition without omission or distortion. While the full sentence includes additional phrasing ('and make predictions or decisions without being explicitly programmed'), the provided correct answer is a precise and faithful excerpt of the key clause defining ML. Hence, the score is 1.0.",
+        "geval_score": 7,
+        "geval_reasoning": "The distractors are generally plausible and avoid 'all of the above'. The first distractor ('A programming method that requires explicit instructions for every decision') is highly plausible\u2014it contrasts well with ML's data-driven learning and reflects a common misconception (rule-based vs. learning-based systems). The third distractor ('A technology exclusively used by Netflix and Amazon for recommendations') is plausible but overly narrow and factually incorrect (ML is widely used beyond those companies), making it less strong. The second distractor ('A type of computer hardware designed for playing checkers') is less plausible\u2014it conflates ML with early AI experiments (e.g., Arthur Samuel's checkers program) and sounds more like a specific application or historical artifact, which may seem too absurd to some test-takers. Overall, the distractors are good but not exceptional; the second one weakens the set slightly, justifying a score below 8.",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question directly asks for a definition explicitly stated in the context and requires recall of a core concept, making it high quality for assessing foundational understanding."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "The question is straightforward and common (definition recall), but not unique; similar questions appear frequently in ML introductions. It lacks novelty or creative framing."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "Very low cognitive effort\u2014requires only literal reading and retrieval of a single sentence from the text; no analysis, synthesis, or application needed."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is clear, concise, grammatically correct, and unambiguous. It aligns perfectly with the context and avoids misleading phrasing."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question is fully transparent: it specifies 'according to the context', making expectations clear and enabling fair assessment of comprehension of the provided material."
+          },
+          "overall_pedagogy_score": 3
+        }
+      }
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "In which decade did machine learning begin showing up in practical tools like email spam filters?",
+      "question_config": {
+        "options": [
+          "1950s",
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 2,
+      "tags": [
+        "history",
+        "timeline"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly states: 'By the 1990s, ML began showing up in practical tools like email spam filters.' The question directly asks for the decade when this occurred, and the answer '1990s' is factually correct and fully supported by the given text.",
+        "geval_score": 8,
+        "geval_reasoning": "The distractors are generally plausible: the 1950s saw early AI research (e.g., perceptrons), the 2000s featured more advanced spam filtering (e.g., Naive Bayes), and the 2010s brought deep learning applications. However, the 1990s is correct due to early practical spam filters like those using Bayesian inference (e.g., SpamAssassin development began in the late 1990s, and early ML-based filters appeared in the mid-to-late 1990s). While the 2000s distractor is close and could mislead some, the 1950s is less plausible for *practical tools* (no real spam filters existed then), and the 2010s is too late. The distractors avoid 'all of the above' and are clearly wrong upon closer inspection, but one (2000s) is borderline plausible. A perfect score would require distractors that are equally plausible yet definitively incorrect\u2014e.g., replacing 2000s with 1980s (when rule-based filters dominated, not ML).",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question directly assesses factual recall of a specific historical detail clearly stated in the context (1990s, email spam filters). It aligns well with the provided information."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "The question is straightforward and common in educational settings; while it tests comprehension of the timeline, it lacks novelty or deeper conceptual challenge."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "Minimal cognitive effort is required\u2014pure recall of an explicit detail. No inference, synthesis, or application is needed."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is clear, concise, unambiguous, and grammatically correct. It uses appropriate academic language and focuses on a single learning objective."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question is fully self-contained; all necessary information is provided in the context snippet. No external knowledge is required to answer correctly."
+          },
+          "overall_pedagogy_score": 3
+        }
+      }
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Discuss the relationship between Bias and Fairness and Explainability and Transparency in machine learning as described in the context, including why these considerations are particularly important in specific sectors.",
+      "question_config": {
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality; and Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": "According to the context, Bias and Fairness are key considerations in machine learning because model effectiveness is tied to training data quality, meaning poor or biased data leads to biased outcomes. Explainability and Transparency are essential particularly in high-stakes sectors like healthcare and criminal justice where decisions significantly impact people's lives. These two considerations are related because understanding how a model makes decisions (explainability) is necessary to identify and mitigate biases in the training data, ensuring fair outcomes in critical applications.",
+      "difficulty": 4,
+      "tags": [
+        "ethics",
+        "bias",
+        "transparency"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The question directly asks about the relationship between Bias and Fairness and Explainability and Transparency as described in the context, and specifically requests inclusion of why these matter in certain sectors. The context explicitly states: (1) Bias and Fairness are key considerations tied to training data quality; (2) Explainability and Transparency are essential in sectors like healthcare and criminal justice. The correct answer accurately reflects both points and correctly infers the relationship\u2014explainability enables bias identification and mitigation\u2014without introducing external information. All claims are fully supported by the provided context.",
+        "geval_score": null,
+        "geval_reasoning": "N/A for essay",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question is well-aligned with the context and requires synthesis of two key ML ethics concepts (Bias/Fairness and Explainability/Transparency), their relationship, and sector-specific relevance. It prompts critical thinking rather than rote recall."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "The question is reasonable but not highly distinctive\u2014it addresses common ML ethics topics. While it asks for the *relationship* between two concepts (adding nuance), similar prompts appear frequently in AI ethics curricula."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "Requires substantial cognitive effort: must identify connections between concepts, interpret context clues, and justify sector-specific importance (e.g., healthcare, criminal justice). Not a simple factual answer."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is clearly structured: it specifies *what* to discuss (relationship), *how* to ground it (as described in context), and *why* (sector-specific importance). Logical and unambiguous."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question is fully transparent: it explicitly references the provided context, defines scope (Bias/Fairness \u2194 Explainability/Transparency), and clarifies expectations (relationship + sector relevance). No hidden assumptions."
+          },
+          "overall_pedagogy_score": 4
+        }
+      }
+    }
+  ]
+}

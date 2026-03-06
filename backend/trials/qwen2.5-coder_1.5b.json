@@ -1,0 +1,159 @@
+{
+  "model": "qwen2.5-coder:1.5b",
+  "status": "success",
+  "latency_sec": 12.3,
+  "avg_faithfulness": 0.97,
+  "avg_distractor_quality": 6.5,
+  "avg_pedagogy_quest": 3.0,
+  "overall_quality_score": 7.67,
+  "raw_questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "Which of the following best describes a key consideration in the field of machine learning?",
+      "question_config": {
+        "options": [
+          "Bias and Fairness",
+          "Explainability and Transparency",
+          "Performance Optimization",
+          "Hardware Utilization"
+        ],
+        "evidence": "The key considerations mentioned are Bias and Fairness, which ensure that model effectiveness is tied to training data quality; Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": [
+        0
+      ],
+      "difficulty": 3,
+      "tags": [
+        "machine learning",
+        "bias fairness",
+        "explainability transparency"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly lists 'Bias and Fairness' as a key consideration in the field of machine learning, noting that model effectiveness is tied to training data quality. It is presented alongside 'Explainability and Transparency' in the same sentence, both labeled as key considerations. The question asks for *a* key consideration, and the correct answer ('Bias and Fairness') is directly and unambiguously supported by the text.",
+        "geval_score": 7,
+        "geval_reasoning": "The distractors are generally plausible and related to ML\u2014explainability, performance optimization, and hardware utilization are all relevant topics\u2014but they don\u2019t perfectly mimic the *specific* conceptual framing of the correct answer ('Bias and Fairness'). 'Explainability and Transparency' is particularly close in scope (both concern ethical/model interpretability issues), which could mislead some test-takers. However, 'Performance Optimization' and 'Hardware Utilization' lean more toward engineering/systems concerns than foundational ML considerations, making them slightly less convincing. None are obviously wrong, but the distinction between 'key considerations' and peripheral ones could be clearer; a stronger set might include more nuanced ethical or statistical distractors (e.g., 'Overfitting Mitigation', 'Data Privacy', or 'Algorithmic Bias'). Overall solid, but not exceptional.",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question is clear and directly assesses understanding of a salient ML concept (bias/fairness or explainability) mentioned in the context. However, it lacks answer options, making it unscorable in its current form; as written, it's incomplete for assessment purposes."
+          },
+          "uniqueness": {
+            "score": 2,
+            "feedback": "The question is generic and could apply to many educational resources or topics; it does not distinguish itself with novel phrasing, depth, or context-specific nuance beyond rephrasing the provided snippet."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "Very low effort: the question is straightforward recall/fact identification and requires no higher-order thinking (e.g., application, analysis, evaluation) unless answer options were designed to do so\u2014which they aren't shown to be here."
+          },
+          "structure": {
+            "score": 2,
+            "feedback": "Structurally incomplete: it\u2019s a stem without answer choices, failing standard multiple-choice or constructed-response format expectations. No guidance on expected response type."
+          },
+          "transparency": {
+            "score": 3,
+            "feedback": "The question itself is transparent in intent (identifying a key ML consideration), and the context provides clear support for correct answers (bias/fairness, explainability). However, without answer options, it\u2019s unclear what constitutes a correct or acceptable response."
+          },
+          "overall_pedagogy_score": 2
+        }
+      }
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "Which of the following is an example of a practical tool used in machine learning?",
+      "question_config": {
+        "options": [
+          "Email Spam Filters",
+          "Voice Assistants",
+          "Self-driving Cars",
+          "Drug Discovery"
+        ],
+        "evidence": "In the 1950s, early ideas like a computer playing checkers showed that machines could learn simple tasks. In the 1990s, ML began showing up in practical tools like email spam filters. Today, ML powers voice assistants, self-driving cars, and healthcare tools."
+      },
+      "correct_answer": [
+        0
+      ],
+      "difficulty": 3,
+      "tags": [
+        "machine learning",
+        "email spam filters",
+        "voice assistants",
+        "self-driving cars"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly states 'By the 1990s, ML began showing up in practical tools like email spam filters,' directly matching the correct answer. The phrasing 'practical tools' in the question aligns precisely with the terminology and timeline in the context, making the question fully grounded and unambiguous.",
+        "geval_score": 6,
+        "geval_reasoning": "The distractors ('Voice Assistants', 'Self-driving Cars', 'Drug Discovery') are related to AI/ML applications but are high-level systems or domains\u2014not *practical tools* themselves. They are plausible in a broad sense but may mislead test-takers unfamiliar with the distinction between tools (e.g., libraries like scikit-learn, frameworks like TensorFlow) and end applications. While all three are ML-adjacent, none clearly represent a 'tool' in the conventional sense (as opposed to a *use case*), making the question ambiguous. A stronger distractor would be something like 'Natural Language Processing (NLP) libraries' (plausible but incorrect if the focus is on specific tools) or a non-ML tool like 'Excel'. The current options lack fine-grained plausibility and risk rewarding guesswork over knowledge.",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question is clear and directly assesses understanding of practical ML applications using the provided context (e.g., spam filters, Netflix/Amazon recommendations). However, it lacks answer options, making it incomplete for assessment."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "The question tests a basic factual recall of examples from the context; while context-driven, it is not particularly distinctive\u2014many quizzes include similar \u2018identify an example\u2019 questions."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "Low cognitive demand; only requires recognition of listed examples rather than analysis, synthesis, or critical evaluation (e.g., no justification, comparison, or scenario application)."
+          },
+          "structure": {
+            "score": 3,
+            "feedback": "The question is grammatically correct and concise, but the absence of answer choices (A\u2013D) or instructions (e.g., \u2018Select one\u2019) hinders its usability in assessment."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question clearly references the provided context and avoids jargon. Learners can identify relevant information in the snippet without ambiguity."
+          },
+          "overall_pedagogy_score": 3
+        }
+      }
+    },
+    {
+      "question_type": "essay",
+      "question_text": "How does bias and fairness impact the effectiveness of machine learning models, and what are some strategies to address them?",
+      "question_config": {
+        "evidence": "Bias and Fairness are key considerations in the field of machine learning. Model effectiveness is tied to training data quality, which means that if the training data is biased or unfair, it can lead to poor performance. Addressing bias and fairness requires a combination of several strategies, including using diverse datasets, implementing algorithms with equalization techniques, and conducting fairness audits."
+      },
+      "correct_answer": [],
+      "difficulty": 4,
+      "tags": [
+        "bias fairness",
+        "machine learning"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 0.9,
+        "ragas_reasoning": "The question directly addresses the 'Bias and Fairness' consideration explicitly mentioned in the context, specifically noting that 'model effectiveness is tied to training data quality'\u2014a core aspect of bias/fairness impact. However, the context does *not* describe any strategies to address bias and fairness (e.g., data preprocessing, fairness-aware algorithms, diverse datasets), so the question\u2019s second part ('what are some strategies to address them') goes beyond the provided information. This makes the question highly faithful but slightly overreaching on the strategy aspect, hence the 0.9 rather than 1.0 score.",
+        "geval_score": null,
+        "geval_reasoning": "N/A for essay",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question is well-focused and aligned with the provided context, directly prompting analysis of bias/fairness impacts and mitigation strategies. However, it could be strengthened by specifying a domain (e.g., healthcare, finance) to encourage more concrete, contextualized reasoning."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "The question addresses a common and important ML ethics topic but is fairly generic. It lacks a unique twist\u2014many standard educational materials cover bias/fairness similarly. A more specific scenario or emerging challenge (e.g., bias in generative AI) would improve uniqueness."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "Requires substantial cognitive effort: requires understanding of ML fundamentals, identification of bias sources, evaluation of fairness trade-offs, and recall/synthesis of mitigation techniques (e.g., preprocessing, in-processing, post-processing). Suitable for upper-level undergraduate or graduate learners."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "Clear, grammatically correct, and logically structured. The question uses precise terminology and separates the two core tasks (impact analysis + strategies) with 'and', making expectations unambiguous."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question is highly transparent\u2014no ambiguous phrasing, jargon is defined or contextualized in the snippet, and expectations (impact + strategies) are explicit. Aligns well with the provided context on bias/fairness and domains like healthcare."
+          },
+          "overall_pedagogy_score": 4
+        }
+      }
+    }
+  ]
+}

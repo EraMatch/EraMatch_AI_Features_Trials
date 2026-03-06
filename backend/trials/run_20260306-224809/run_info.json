@@ -1,0 +1,14 @@
+{
+  "timestamp": "20260306-224809",
+  "evaluator_model": "qwen3-coder-next:cloud",
+  "models_tested": [
+    "qwen3-coder-next:cloud",
+    "gemini-3-flash-preview:cloud",
+    "kimi-k2.5:cloud",
+    "deepseek-v3.1:671b-cloud",
+    "qwen2.5-coder:1.5b",
+    "deepseek-r1:1.5b",
+    "llama3.2:latest"
+  ],
+  "force_regenerate": false
+}

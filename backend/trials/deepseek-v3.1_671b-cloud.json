@@ -1,0 +1,159 @@
+{
+  "model": "deepseek-v3.1:671b-cloud",
+  "status": "success",
+  "latency_sec": 6.4,
+  "avg_faithfulness": 1.0,
+  "avg_distractor_quality": 7.5,
+  "avg_pedagogy_quest": 3.67,
+  "overall_quality_score": 8.47,
+  "raw_questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "According to the text, what was a significant development that demonstrated machine learning's practical application in the 1990s?",
+      "question_config": {
+        "options": [
+          "The creation of the first computer to play checkers",
+          "The deployment of email spam filters",
+          "The use of ML by Netflix and Amazon for recommendations",
+          "The development of self-driving cars"
+        ],
+        "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 2,
+      "tags": [
+        "History",
+        "Applications",
+        "1990s"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly states: 'By the 1990s, ML began showing up in practical tools like email spam filters.' The question asks specifically about a significant 1990s development demonstrating ML's practical application, and the provided correct answer ('The deployment of email spam filters') directly and accurately reflects this sentence. There is no ambiguity, addition, or misinterpretation\u2014perfect fidelity to the text.",
+        "geval_score": 7,
+        "geval_reasoning": "The distractors are mostly plausible but contain timing errors that make them clearly wrong upon factual review: (1) The first computer to play checkers (Arthur Samuel\u2019s program) was in the 1950s\u2014plausible but too early. (2) Netflix\u2019s recommendation system (MovieLens, later actual ML-based) emerged in the late 1990s/early 2000s; Amazon\u2019s recommendations began in the late 1990s but were rule-based initially and not primarily ML-driven until later\u2014borderline plausible but historically shaky for *significant ML application* in the 1990s. (3) Self-driving cars were researched in the 1990s (e.g., NAVY, ALV projects), but none were practical deployments until the 2000s\u2014plausible but not a hallmark 1990s ML application like spam filters. The distractors avoid 'all of the above', and all could trick a learner unfamiliar with timelines, though Netflix/Amazon may feel too recent. One point deducted for minor over-familiarity with modern ML use cases masking their inaccuracy.",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question directly and precisely targets a specific factual detail stated in the text (1990s practical application: email spam filters). It avoids ambiguity and is well-grounded in the provided context."
+          },
+          "uniqueness": {
+            "score": 4,
+            "feedback": "The question tests recall of a specific historical milestone, but similar timeline-based questions (e.g., 'What happened in the 2000s?') could be easily generated for other decades. It's moderately unique."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "Very low cognitive effort\u2014requires simple literal comprehension and retrieval; no inference, analysis, or synthesis needed."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "Clear, concise, grammatically correct, and correctly scoped\u2014avoids leading, double-barreled, or confusing phrasing."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question is fully answerable from the given text; no external knowledge required, and the correct answer (email spam filters) is unambiguously supported."
+          },
+          "overall_pedagogy_score": 3
+        }
+      }
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "The text suggests that the effectiveness of a machine learning model is primarily linked to what factor?",
+      "question_config": {
+        "options": [
+          "The speed of the computer processor",
+          "The complexity of the underlying algorithm",
+          "The quality of the training data",
+          "The transparency of the model's decision-making process"
+        ],
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality;"
+      },
+      "correct_answer": [
+        2
+      ],
+      "difficulty": 3,
+      "tags": [
+        "Concepts",
+        "Bias",
+        "Training Data"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly states: 'Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality'. This directly identifies the quality of the training data as the factor to which model effectiveness is tied. The question asks for the primary factor to which the text links model effectiveness, and the correct answer ('The quality of the training data') is a precise restatement of the given information. Thus, the question is fully grounded in the context.",
+        "geval_score": 8,
+        "geval_reasoning": "The distractors are plausible and reflect common misconceptions\u2014beginners often overestimate the role of hardware (processor speed), assume algorithm complexity directly determines performance, and conflate model interpretability with effectiveness. However, one issue reduces the score slightly: 'The transparency of the model's decision-making process' is less directly tied to *effectiveness* (performance) and more to *trust*, *ethics*, or *regulatory compliance*; thus, it's slightly less plausible as a distractor for a question specifically about *effectiveness*. All options are clearly incorrect per the correct answer (data quality), and none use 'all of the above', so overall they are strong but not flawless.",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question is clear and directly tests comprehension of a key idea in the text (the link between model effectiveness and training data quality via bias/fairness considerations). However, 'primarily linked' slightly overstates the text\u2019s claim\u2014the text identifies data quality as *a* key factor among others, not necessarily the *primary* one."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "The question focuses on a standard, well-covered concept in ML ethics and practice. While it isolates a valid detail, it doesn\u2019t require deep or novel inference beyond surface-level reading."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "Low cognitive demand\u2014requires matching a phrase ('effectiveness is tied to training data quality') from the text. No synthesis or interpretation beyond literal recall."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "Clear, concise, unambiguous phrasing. No confusion about what is being asked."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question directly references explicit content in the text (the sentence on bias/fairness), making it easy for learners to locate the answer and verify their reasoning."
+          },
+          "overall_pedagogy_score": 3
+        }
+      }
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Discuss two key considerations for implementing machine learning in sensitive sectors like healthcare and criminal justice, as mentioned in the text. Explain why these considerations are essential.",
+      "question_config": {
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality; and Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": "An essay response should identify and discuss the two key considerations: Bias and Fairness, and Explainability and Transparency. For Bias and Fairness, the answer should explain that a model's effectiveness is tied to the quality of its training data, and poor-quality or biased data can lead to unfair outcomes. For Explainability and Transparency, the answer should explain that in high-stakes sectors like healthcare and criminal justice, it is crucial to understand how a model arrived at a decision to ensure accountability, trust, and ethical use. The response should elaborate on why these factors are especially important in sensitive applications.",
+      "difficulty": 4,
+      "tags": [
+        "Ethics",
+        "Applications",
+        "Challenges"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The question directly asks about two key considerations for implementing ML in sensitive sectors (healthcare and criminal justice), explicitly referencing 'as mentioned in the text.' The context clearly states 'Key considerations include Bias and Fairness... and Explainability and Transparency' and further notes that 'Explainability and Transparency, which is essential in sectors like healthcare and criminal justice.' The question and context align perfectly in both scope and specificity\u2014no extraneous or unsupported elements are introduced. The required answer matches the textual details exactly, including the rationale for each consideration.",
+        "geval_score": null,
+        "geval_reasoning": "N/A for essay",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question is high-quality: it directly asks for two key considerations explicitly cited in the context (Bias/Fairness and Explainability/Transparency), requires explanation of their importance in sensitive sectors, and aligns with domain-appropriate depth."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "The question is reasonable and context-grounded, but not highly unique\u2014it reflects common curriculum topics on ML ethics; however, its specificity to healthcare/criminal justice and reliance on the given snippet adds some originality."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "Requires moderate cognitive effort: recalling two specific considerations, distinguishing them, and articulating their relevance in high-stakes domains. It does not demand extensive research or synthesis beyond the provided text."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "Well-structured: clear directive ('discuss two'), specifies required content (why they are essential), and situates the task in defined context (sensitive sectors). No ambiguity."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "Highly transparent: all required information for answering is provided in the snippet; no hidden assumptions or external knowledge required. Prompt clearly links to the stated key considerations."
+          },
+          "overall_pedagogy_score": 5
+        }
+      }
+    }
+  ]
+}

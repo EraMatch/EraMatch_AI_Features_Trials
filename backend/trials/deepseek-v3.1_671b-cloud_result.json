@@ -1,0 +1,159 @@
+{
+  "model": "deepseek-v3.1:671b-cloud",
+  "status": "success",
+  "latency_sec": 7.9,
+  "avg_faithfulness": 1.0,
+  "avg_distractor_quality": 6.0,
+  "avg_pedagogy_quest": 4.0,
+  "overall_quality_score": 8.0,
+  "raw_questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "What was a key development in the 1990s that demonstrated the practical application of machine learning?",
+      "question_config": {
+        "options": [
+          "The development of self-driving cars.",
+          "The creation of voice assistants.",
+          "The use of ML in email spam filters.",
+          "The introduction of product recommendation engines."
+        ],
+        "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+      },
+      "correct_answer": [
+        2
+      ],
+      "difficulty": 2,
+      "tags": [
+        "history",
+        "applications",
+        "1990s"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly states: 'By the 1990s, ML began showing up in practical tools like email spam filters.' This directly matches the correct answer provided, and the question is clearly and accurately grounded in the given context with no ambiguity or unsupported assumptions.",
+        "geval_score": 6,
+        "geval_reasoning": "The distractors are plausible but not ideal. 'The development of self-driving cars' is too early for practical ML application in the 1990s\u2014early work existed (e.g., CMU's Navlab), but no practical, widespread deployment occurred until later. 'The creation of voice assistants' (e.g., Siri, Alexa) emerged much later (2010s), though research (e.g., SPHINX) began in the 90s\u2014still not a consumer-facing 'practical application' by 1990s standards. 'The introduction of product recommendation engines' is more accurate (e.g., Amazon's 1998 recommendation system using collaborative filtering), but it's less iconic than spam filtering and arguably less universally recognized as a *key* ML milestone of the decade. Spam filters (e.g., SpamAssassin, late 1990s) were among the first widely deployed ML systems, making the correct answer clearly superior. Distractors are reasonable but not *clearly* wrong\u2014especially recommendation engines\u2014reducing their effectiveness as distractors. Score reflects moderate plausibility and lack of strong differentiation.",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question directly assesses comprehension of a specific factual detail from the provided context (1990s spam filters), aligning well with learning objectives about historical ML milestones."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "The question is straightforward and recall-based; while it tests key content, it lacks novelty or higher-order thinking (e.g., comparison, prediction, critique) that would make it distinctive."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "The question requires minimal cognitive effort\u2014primarily retrieval of a single fact\u2014without requiring analysis, synthesis, or application beyond the given text."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is clear, concise, grammatically correct, and unambiguous, with a well-defined scope tied directly to the context."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question is fully answerable using only the provided context; no external knowledge is required, and the relevant information is explicitly stated."
+          },
+          "overall_pedagogy_score": 3
+        }
+      }
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "According to the context, why are Explainability and Transparency particularly important in ML applications?",
+      "question_config": {
+        "options": [
+          "They are required for models to make accurate predictions.",
+          "They are essential for reducing the cost of training models.",
+          "They are critical in sensitive sectors like healthcare and criminal justice.",
+          "They were the main innovation of ML in the 2000s."
+        ],
+        "evidence": "Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": [
+        2
+      ],
+      "difficulty": 3,
+      "tags": [
+        "ethics",
+        "explainability",
+        "transparency"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly states: 'Explainability and Transparency, which is essential in sectors like healthcare and criminal justice.' The correct answer directly reflects this sentence, accurately capturing the reason why these properties are important according to the provided context.",
+        "geval_score": 6,
+        "geval_reasoning": "The distractors are generally plausible but vary in quality. The first distractor ('They are required for models to make accurate predictions.') is *not* particularly plausible\u2014explainability and transparency do not directly enable accuracy (e.g., black-box models can be highly accurate), making it too obviously wrong. The second ('They are essential for reducing the cost of training models.') is weakly plausible but not supported by common knowledge; while interpretability tools may indirectly affect development costs, they are not primarily aimed at reducing training costs. The third ('They were the main innovation of ML in the 2000s.') is historically inaccurate (explainability gained prominence later, especially post-2010s with deep learning), but a novice might misremember timelines. Overall, none are strongly plausible, and the first is too clearly incorrect, reducing the distractors' effectiveness in a well-designed MCQ.",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question directly targets a key concept (Explainability and Transparency) explicitly stated in the context and requires comprehension and extraction of reasoning, not just recall."
+          },
+          "uniqueness": {
+            "score": 4,
+            "feedback": "While the question is straightforward, it focuses on a specific, high-stakes dimension (Explainability/Transparency) rather than generic ML history or definitions, making it moderately distinctive."
+          },
+          "effort": {
+            "score": 3,
+            "feedback": "Requires reading comprehension and inference (linking importance to sectors like healthcare and justice), but no deep analysis or synthesis beyond the given text."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "Clear, concise, and grammatically correct; uses precise phrasing ('according to the context') to guide response expectations."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question is unambiguous, aligned with the provided context, and makes explicit the expectation of grounding the answer in the given passage."
+          },
+          "overall_pedagogy_score": 4
+        }
+      }
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Explain the relationship between machine learning model effectiveness and the quality of training data, with specific reference to the concept of Bias and Fairness as discussed in the text.",
+      "question_config": {
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality;"
+      },
+      "correct_answer": "The effectiveness of a machine learning model is directly dependent on the quality of its training data. As stated in the text, this relationship is a key consideration under the concepts of Bias and Fairness. If the training data is incomplete, unrepresentative, or contains historical biases, the model's predictions or decisions will reflect and potentially amplify those biases. This can lead to unfair outcomes. Therefore, ensuring high-quality, representative data is fundamental to building effective and fair machine learning models.",
+      "difficulty": 4,
+      "tags": [
+        "bias",
+        "fairness",
+        "training_data"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The question directly asks to explain the relationship between model effectiveness and training data quality, specifically referencing 'Bias and Fairness' as discussed in the context. The context explicitly states: 'Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality'. The correct answer accurately reflects this by elaborating on how poor-quality or biased data leads to biased and unfair model outcomes, directly aligning with the provided context. No extraneous or unsupported claims are made, and all key points are grounded in the given text.",
+        "geval_score": null,
+        "geval_reasoning": "N/A for essay",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question directly targets a core conceptual understanding (model effectiveness \u2194 training data quality) and explicitly requires integration of the provided context (Bias and Fairness), promoting deep, evidence-based reasoning."
+          },
+          "uniqueness": {
+            "score": 4,
+            "feedback": "While the link between data quality and bias is standard in ML education, the question is well-framed to avoid generic answers by requiring reference to the specific context and emphasizing fairness\u2014a nuanced, real-world concern."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "Requires synthesis of definitions, causal explanation, and contextual application\u2014not a simple recall task\u2014but remains focused enough to be answerable within typical assessment timeframes."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "Clear, concise, and logically structured: it specifies *what* to explain (relationship), *how* to frame it (model effectiveness \u2194 data quality), and *what* to include (Bias and Fairness as per text)."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question is unambiguous, aligned with the provided context, and makes expectations explicit (e.g., 'as discussed in the text'), reducing interpretive ambiguity for learners."
+          },
+          "overall_pedagogy_score": 5
+        }
+      }
+    }
+  ]
+}

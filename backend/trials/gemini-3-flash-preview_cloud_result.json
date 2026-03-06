@@ -1,0 +1,157 @@
+{
+  "model": "gemini-3-flash-preview:cloud",
+  "status": "success",
+  "latency_sec": 11.34,
+  "avg_faithfulness": 0.88,
+  "avg_distractor_quality": 7.0,
+  "avg_pedagogy_quest": 3.67,
+  "overall_quality_score": 7.8,
+  "raw_questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "In which decade did machine learning start being utilized for practical applications such as email spam filters?",
+      "question_config": {
+        "options": [
+          "1950s",
+          "1970s",
+          "1990s",
+          "2000s"
+        ],
+        "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+      },
+      "correct_answer": [
+        2
+      ],
+      "difficulty": 2,
+      "tags": [
+        "History",
+        "ML Applications"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 0.9,
+        "ragas_reasoning": "The question asks for the decade when machine learning started being utilized for practical applications such as email spam filters. The correct answer is '1990s' because it was during this time that ML began showing up in practical tools like email spam filters, according to the provided context. However, the context does not explicitly state that the 1950s or 1970s saw machine learning used for email spam filters, making the options '1950s' and '1970s' less faithful to the context. The option '2000s' is not relevant because it mentions ML being used by companies like Netflix and Amazon to suggest movies or products.",
+        "geval_score": 8,
+        "geval_reasoning": "The distractors ['1950s', '1970s', '2000s'] are plausible options that challenge the learner's perception of when machine learning started being utilized. However, the correct answer is in the 1990s, which means the distractors are not obviously wrong. The question is well-structured and does not use 'all of the above' or 'none of the above' phrasing, making it a moderately challenging MCQ.",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question is highly relevant to the topic of machine learning and its applications. The provided context information aligns well with the question, and it meets the learning objectives by testing students' understanding of ML's history."
+          },
+          "uniqueness": {
+            "score": 5,
+            "feedback": "The question presents a clear and distinct answer option, avoiding repetitive patterns. The provided options (1950s, 1970s, 1990s, 2000s) are well-structured and distinguishable from one another."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "The question requires a moderate level of cognitive demand, corresponding to Bloom's Taxonomy level of 'Apply.' Students need to apply their understanding of ML's history to arrive at the correct answer."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is well-structured and easy to read. The format is clear, and the grammar and punctuation are accurate."
+          },
+          "transparency": {
+            "score": 4,
+            "feedback": "While the correct answer (2) is unambiguous, some students might find it unclear due to the lack of explicit context about why the 1970s decade is significant for ML applications. Providing more contextual information could enhance transparency."
+          },
+          "overall_pedagogy_score": 4
+        }
+      }
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "According to the text, what is the primary factor that influences the effectiveness of a model regarding Bias and Fairness?",
+      "question_config": {
+        "options": [
+          "The speed of the voice assistant",
+          "The number of products suggested by Amazon",
+          "The quality of the training data",
+          "The complexity of the checkers game"
+        ],
+        "evidence": "Bias and Fairness, where model effectiveness is tied to training data quality"
+      },
+      "correct_answer": [
+        2
+      ],
+      "difficulty": 3,
+      "tags": [
+        "Ethics",
+        "Data Quality"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 0.95,
+        "ragas_reasoning": "The correct answer 'The quality of the training data' is faithful to the context because it directly relates to Key considerations including Bias and Fairness. The text states that model effectiveness is tied to training data quality, making this inference a direct and logical conclusion from the provided information.",
+        "geval_score": 6,
+        "geval_reasoning": "The distractor options are somewhat plausible but not directly related to the topic of bias and fairness in models. While 'The speed of the voice assistant' might seem like a red herring, it's actually quite far off from being relevant. 'The number of products suggested by Amazon' is even less relevant as it seems more related to e-commerce than model effectiveness. 'The complexity of the checkers game' is also unrelated to bias and fairness in machine learning models. The correct distractor should be something that challenges learners with a plausible but incorrect answer, which would make the distractor more effective.",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question is relevant to the topic of Machine Learning and Bias/Fairness. However, it could be more specific about what 'Bias and Fairness' refers to in this context."
+          },
+          "uniqueness": {
+            "score": 5,
+            "feedback": "This question is original as it directly references a key concept (Training data quality) that influences model effectiveness regarding Bias and Fairness. The provided options are diverse enough, making the question less prone to repetitive patterns."
+          },
+          "effort": {
+            "score": 3,
+            "feedback": "The cognitive demand of this question falls under Bloom's Taxonomy level 2 (Remembering) or level 3 (Understanding), as it requires recalling a concept rather than applying it. However, the exactness of the answer could be improved with more context or clarification."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is clear and easy to understand, making good use of proper formatting (no 'all of the above' option). The phrasing is direct and concise, which enhances its overall clarity."
+          },
+          "transparency": {
+            "score": 4,
+            "feedback": "While the correct answer seems straightforward based on common knowledge about Bias and Fairness in Machine Learning, a subject matter expert might need some context or explanation to ensure they understand what the question is asking. The direct reference to 'training data quality' helps."
+          },
+          "overall_pedagogy_score": 4
+        }
+      }
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Trace the evolution of machine learning from the 1950s to the present day as described in the text, and explain why explainability is particularly vital in specific modern sectors.",
+      "question_config": {
+        "evidence": "In the 1950s, early ideas like a computer playing checkers showed that machines could learn simple tasks. By the 1990s, ML began showing up in practical tools like email spam filters. The 2000s saw companies like Netflix and Amazon use ML to suggest movies or products. Today, ML powers voice assistants, self-driving cars, and healthcare tools... Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": "Machine learning evolved from simple tasks like playing checkers in the 1950s to practical tools like spam filters in the 1990s. By the 2000s, it was used for commercial recommendations (Netflix/Amazon), and today it powers complex systems like self-driving cars and healthcare. Explainability is vital in modern sectors like healthcare and criminal justice because transparency is essential when making high-stakes decisions in these fields.",
+      "difficulty": 4,
+      "tags": [
+        "History",
+        "Ethics",
+        "Machine Learning"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 0.8,
+        "ragas_reasoning": "The question asks for a tracing of ML evolution and its importance in modern sectors. However, it doesn't directly ask about explainability and transparency. The correct answer explains why explainability is vital in specific modern sectors like healthcare and criminal justice. Although the question mentions 'Bias and Fairness' as a key consideration, the explanation provided focuses on Explainability and Transparency. This slight deviation makes the question less faithful to the context.",
+        "geval_score": 10,
+        "geval_reasoning": "N/A for essays",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question is well-aligned with the topic of machine learning and its evolution. It also meets the learning objectives by asking students to explain the importance of explainability in modern sectors."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "While the question covers a range of topics related to machine learning, it is somewhat generic and could be answered with some general knowledge. Adding more specific details or asking follow-up questions would increase its uniqueness."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "The question requires students to demonstrate their understanding of the evolution of machine learning and its importance in modern sectors, which aligns with Bloom's Taxonomy level 4 (Analyzing). However, it could be improved by asking more complex questions that require higher cognitive demand."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is well-structured, clear, and free of grammatical errors. It also includes proper formatting and no unnecessary words like 'all of the above'."
+          },
+          "transparency": {
+            "score": 4,
+            "feedback": "While the correct answer is provided, it may not be immediately clear to a subject matter expert that explainability is particularly vital in sectors like healthcare and criminal justice. Adding more context or specificity would increase transparency."
+          },
+          "overall_pedagogy_score": 3
+        }
+      }
+    }
+  ]
+}

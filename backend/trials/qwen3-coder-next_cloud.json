@@ -1,0 +1,159 @@
+{
+  "model": "qwen3-coder-next:cloud",
+  "status": "success",
+  "latency_sec": 21.93,
+  "avg_faithfulness": 1.0,
+  "avg_distractor_quality": 7.5,
+  "avg_pedagogy_quest": 4.33,
+  "overall_quality_score": 8.73,
+  "raw_questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "Which decade marked the first appearance of machine learning in practical consumer tools such as email spam filters?",
+      "question_config": {
+        "options": [
+          "1950s",
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 2,
+      "tags": [
+        "history",
+        "practical applications",
+        "timeline"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly states 'By the 1990s, ML began showing up in practical tools like email spam filters,' directly supporting the correct answer '1990s'. The question is fully grounded in the provided information with no ambiguity or unsupported assumptions.",
+        "geval_score": 8,
+        "geval_reasoning": "The distractors are plausible: the 1950s (early AI/ML theory), 2000s (post-2000 consumer adoption), and 2010s (deep learning boom) are historically linked to ML development, making them reasonable confusions. However, the 1950s distractor is *too* implausible for *practical consumer tools*\u2014spam filters didn\u2019t exist yet, and ML was purely theoretical. Still, two options (2000s, 2010s) reflect real milestones in ML deployment (e.g., Naive Bayes spam filters in early Gmail launched 2004), so the set is generally strong but slightly weakens with the overly distant 1950s.",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question directly targets a factual, well-supported detail from the provided context (\u2018By the 1990s, ML began showing up in practical tools like email spam filters\u2019). No ambiguity; answer is clearly derivable."
+          },
+          "uniqueness": {
+            "score": 4,
+            "feedback": "While the question tests basic comprehension, it is not highly novel\u2014it aligns with common ML history assessments. However, framing it around \u2018practical consumer tools\u2019 adds slight specificity."
+          },
+          "effort": {
+            "score": 3,
+            "feedback": "Low-to-moderate cognitive effort: requires scanning the timeline and identifying the 1990s; no inference or synthesis needed beyond surface-level recall."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "Clear, concise, and grammatically correct. Direct ask with well-defined scope. No confusion about what is being asked."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "Fully transparent: the context explicitly answers the question; no hidden assumptions or ambiguity. Learner knows exactly where to look."
+          },
+          "overall_pedagogy_score": 4
+        }
+      }
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "According to the context, which two key considerations are especially critical in high-stakes sectors such as healthcare and criminal justice?",
+      "question_config": {
+        "options": [
+          "Scalability and Speed",
+          "Bias and Fairness; Explainability and Transparency",
+          "Data Compression; Energy Efficiency",
+          "Real-time Processing; Cloud Integration"
+        ],
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality; and Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 3,
+      "tags": [
+        "ethics",
+        "model limitations",
+        "application domains"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly lists 'Bias and Fairness' and 'Explainability and Transparency' as key considerations, and directly states that the latter is 'essential in sectors like healthcare and criminal justice'. While it only explicitly ties 'Explainability and Transparency' to high-stakes sectors, 'Bias and Fairness' is grouped with it as a parallel key consideration and is logically critical in such sectors (as biased outputs can cause severe harm). The question accurately reflects the two named considerations and correctly identifies the high-stakes sectors mentioned. Thus, the question is fully faithful to the context.",
+        "geval_score": 7,
+        "geval_reasoning": "The distractors are technically plausible for AI/ML deployment in general (e.g., scalability, real-time processing are often important), but they miss the *ethics- and trust-centered* priorities highlighted in high-stakes domains like healthcare and criminal justice. None contain subtle conceptual confusions (e.g., conflating fairness with accuracy), and all are clearly secondary to bias/fairness and explainability in this context\u2014making them *too* obviously wrong. A stronger distractor would include something like 'Model Accuracy and Computational Efficiency' (which might Tempt users who over-prioritize performance over trust) or 'Data Volume and Feature Richness' (to reflect a naive data-centric misconception). As written, the distractors are reasonable but not *plausibly* misleading for domain-specific values\u2014hence a solid 7, not 8 or 9.",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question directly targets key information explicitly stated in the context\u2014Bias and Fairness and Explainability and Transparency\u2014and correctly identifies high-stakes sectors (healthcare and criminal justice) as specified."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "While the question is reasonable and grounded in the text, it is somewhat routine\u2014testing straightforward recall rather than requiring synthesis or application beyond the given information."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "The question demands careful reading and identification of two specific concepts from a paragraph of moderate length; not trivial but achievable with focused attention."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "Clear, concise, and well-formed. It specifies 'according to the context' (promoting evidence-based reasoning) and clearly defines the scope ('which two key considerations... especially critical in high-stakes sectors')."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "Highly transparent: all required information to answer is present in the context; no ambiguity in the question or expectation of external knowledge."
+          },
+          "overall_pedagogy_score": 5
+        }
+      }
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Explain how the evolution of machine learning from the 1950s to the present reflects both technological progress and expanding societal impact, citing specific milestones from the context.",
+      "question_config": {
+        "evidence": "Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed. In the 1950s, early ideas like a computer playing checkers showed that machines could learn simple tasks. By the 1990s, ML began showing up in practical tools like email spam filters. The 2000s saw companies like Netflix and Amazon use ML to suggest movies or products. Today, ML powers voice assistants, self-driving cars, and healthcare tools."
+      },
+      "correct_answer": "The response should discuss chronological progression from early theoretical demonstrations (1950s checkers), to early practical tools (1990s spam filters), to large-scale commercial recommendation systems (2000s Netflix/Amazon), and finally to diverse modern applications (voice assistants, self-driving cars, healthcare). Emphasis should highlight increasing societal integration\u2014from niche research to everyday infrastructure.",
+      "difficulty": 4,
+      "tags": [
+        "history",
+        "societal impact",
+        "evolution"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The question is fully grounded in the provided context. It explicitly asks for an explanation of ML\u2019s evolution from the 1950s to the present, requiring citation of *specific milestones* mentioned in the context (e.g., 1950s checkers, 1990s spam filters, 2000s Netflix/Amazon, modern voice assistants/self-driving cars/healthcare tools). It also invites discussion of both technological progress (e.g., progression from simple learning to complex real-world systems) and expanding societal impact (e.g., transition from niche research to everyday infrastructure), aligning directly with the timeline and thematic highlights in the context\u2014including societal considerations like bias and explainability implied in the latter half. No information beyond the context is required or expected.",
+        "geval_score": null,
+        "geval_reasoning": "N/A for essay",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question is clear, focused, and directly asks students to connect historical milestones with dual themes (technological progress and societal impact), which aligns well with the provided context. It could be slightly improved by specifying expected depth (e.g., number of milestones) or analytical level (e.g., causal relationships)."
+          },
+          "uniqueness": {
+            "score": 5,
+            "feedback": "The question avoids generic phrasing and instead prompts synthesis of timeline and impact\u2014less common than questions asking only for definitions or list of applications. The emphasis on dual dimensions (tech progress + societal impact) adds originality."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "Requires meaningful synthesis across time periods and thematic interpretation, not just recall. Citing specific milestones and explaining their significance calls for organized thinking, though it remains manageable for an undergraduate or advanced high school audience."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "Well-structured: clear directive ('explain how'), timeframe specified ('1950s to present'), required elements ('specific milestones'), and dual analytical lenses ('technological progress' and 'societal impact'). No ambiguity in intent."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "Highly transparent: all key terms are defined by context or convention, expectations are explicit, and the instruction directly maps to provided material. No hidden assumptions."
+          },
+          "overall_pedagogy_score": 4
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "model": "qwen3-coder-next:cloud",
+  "status": "success",
+  "latency_sec": 7.61,
+  "avg_faithfulness": 0.98,
+  "avg_distractor_quality": 7.0,
+  "avg_pedagogy_quest": 3.67,
+  "avg_llj_score": 0,
+  "overall_quality_score": 6.52,
+  "raw_questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "Which of the following best describes the core function of machine learning?",
+      "question_config": {
+        "options": [
+          "To manually program computers for specific tasks",
+          "To enable computers to learn from data and make predictions without explicit programming",
+          "To replace all human decision-making in healthcare and criminal justice",
+          "To ensure perfect fairness in all algorithmic outputs"
+        ],
+        "evidence": "Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 1,
+      "tags": [
+        "definition",
+        "fundamentals",
+        "history"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The question asks for the core function of machine learning, and the provided context explicitly states in the first sentence: 'Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed.' The correct answer matches this definition verbatim (with minor phrasing variation 'predictions without explicit programming' vs 'predictions or decisions without being explicitly programmed'), preserving the core meaning. The rest of the context supports this definition by illustrating applications (spam filters, recommendations, voice assistants, etc.) that rely on this core function. Thus, the question is fully and accurately grounded in the context.",
+        "geval_score": 7,
+        "geval_reasoning": "The distractors are generally plausible but flawed: the first is a common misconception (confusing ML with traditional programming), the second overreaches by claiming full replacement of human decision-making (exaggerated but not implausible to laypeople), and the third misattributes an ethical goal as a core function (a frequent confusion between ML capabilities and societal expectations). However, none are *strongly* plausible\u2014especially the second and third\u2014which are somewhat extreme or conflated with broader debates (fairness, automation). A score of 7 reflects good plausibility but room for improvement: e.g., a more nuanced distractor like 'To automatically generate training datasets from raw sensor data' would better mimic a subtle misunderstanding of ML\u2019s role.",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question directly targets a foundational concept (core function of ML) and aligns well with the provided context, which defines ML as enabling computers to learn from data and make predictions/decisions without explicit programming. However, it lacks answer options, reducing its usability for assessment."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "The question is conceptually standard and common in ML education; it does not introduce novel phrasing or a distinctive angle beyond basic definition recall. Context supports but doesn\u2019t significantly differentiate the question."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "The question requires only recall of a definition from the provided text (e.g., 'learn from data and make predictions or decisions without being explicitly programmed'), with minimal cognitive demand. No analysis, application, or synthesis is required."
+          },
+          "structure": {
+            "score": 2,
+            "feedback": "The question is grammatically correct and clear, but it is incomplete structurally: it asks 'Which of the following...' without providing any options, making it ungradable in practice. A well-structured question would include plausible distractors and a correct answer."
+          },
+          "transparency": {
+            "score": 4,
+            "feedback": "The question is transparent in intent\u2014it clearly asks for the core function of ML\u2014and the context provides sufficient background to answer it. However, the missing answer choices reduce transparency for the test-taker about expected response format."
+          },
+          "overall_pedagogy_score": 3
+        },
+        "llj": {
+          "llj_score": 0,
+          "overall_verdict": "ERROR",
+          "judge_reasoning": "Evaluation failed"
+        },
+        "llj_score": 0
+      }
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "Based on the context, which two considerations are highlighted as key in machine learning applications?",
+      "question_config": {
+        "options": [
+          "Computational speed and energy efficiency",
+          "Bias and Fairness, and Explainability and Transparency",
+          "Hardware compatibility and user interface design",
+          "Data storage capacity and network bandwidth"
+        ],
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality; and Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 2,
+      "tags": [
+        "ethics",
+        "applications",
+        "challenges"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly states: 'Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality; and Explainability and Transparency, which is essential in sectors like healthcare and criminal justice.' The question directly asks for the two key considerations highlighted, and the correct answer matches these two items verbatim. There is no ambiguity or misalignment between the context and the question.",
+        "geval_score": 7,
+        "geval_reasoning": "The distractors are plausible in the broader context of ML system design (e.g., computational speed, hardware, storage, and bandwidth are real engineering concerns), but they do not align with the specific emphasis on *ethical and interpretive* considerations\u2014Bias/Fairness and Explainability/Transparency\u2014that the correct answer highlights. None of the distractors are obviously absurd, and all could be mistakenly chosen by someone unfamiliar with the ethical dimensions of ML. However, they are relatively generic and less specifically misleading compared to highly targeted distractors (e.g., confusing 'bias' with 'variance', or conflating explainability with model accuracy). A score of 7 reflects good plausibility but room for improvement in making them more conceptually nuanced or closely related to common misconceptions.",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question directly assesses comprehension of explicitly stated key considerations (Bias and Fairness, Explainability and Transparency) from the context. It requires accurate retrieval and identification, aligning well with the provided information."
+          },
+          "uniqueness": {
+            "score": 4,
+            "feedback": "While the question is straightforward and common in form, it is well-targeted to the specific content of the snippet and avoids generic phrasing. It could be slightly more distinctive by asking for examples or implications, but remains appropriately focused."
+          },
+          "effort": {
+            "score": 3,
+            "feedback": "The question requires basic recall and minimal inference\u2014appropriate for formative assessment\u2014but does not demand deeper analysis or synthesis. Moderate cognitive demand."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is clear, concise, grammatically correct, and unambiguous. It uses precise language and directly references the context, minimizing misinterpretation."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question is fully transparent: it clearly indicates the expected answer type (two considerations), is grounded in the provided context, and does not rely on external assumptions or hidden requirements."
+          },
+          "overall_pedagogy_score": 4
+        },
+        "llj": {
+          "llj_score": 0,
+          "overall_verdict": "ERROR",
+          "judge_reasoning": "Evaluation failed"
+        },
+        "llj_score": 0
+      }
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Describe the historical evolution of machine learning from the 1950s to the present, citing at least three distinct eras and real-world applications from each. Explain how the focus of ML applications has shifted over time.",
+      "question_config": {
+        "evidence": "In the 1950s, early ideas like a computer playing checkers showed that machines could learn simple tasks. By the 1990s, ML began showing up in practical tools like email spam filters. The 2000s saw companies like Netflix and Amazon use ML to suggest movies or products. Today, ML powers voice assistants, self-driving cars, and healthcare tools."
+      },
+      "correct_answer": "The essay should outline: (1) 1950s: early theoretical demonstrations (e.g., checkers-playing computer); (2) 1990s: practical tools like spam filters; (3) 2000s: personalized recommendation systems (Netflix, Amazon); (4) present: advanced applications (voice assistants, self-driving cars, healthcare tools). It should also note the shift from simple task learning to complex, real-world decision-making systems, with increasing emphasis on scalability, personalization, and ethical considerations.",
+      "difficulty": 3,
+      "tags": [
+        "history",
+        "applications",
+        "evolution"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 0.95,
+        "ragas_reasoning": "The question is highly faithful to the context. It explicitly asks for a historical evolution from the 1950s to the present, citing at least three distinct eras and real-world applications\u2014exactly matching the timeline and examples in the context (1950s checkers, 1990s spam filters, 2000s Netflix/Amazon, present-day voice assistants, self-driving cars, healthcare tools). It also asks about the shift in focus, which aligns with the context\u2019s mention of evolving considerations (e.g., bias, fairness, explainability) alongside increasing complexity and real-world impact. The only minor deduction is that the context does not explicitly use the phrase 'three distinct eras' (it implies four), but the question\u2019s phrasing is flexible enough to accommodate this, and the core requirements are fully supported.",
+        "geval_score": null,
+        "geval_reasoning": "N/A for essay",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question is well-crafted, aligned with the provided context, and requires synthesis of historical milestones, specific examples, and analytical reasoning about shifting priorities\u2014demonstrating high cognitive demand and relevance to core ML concepts."
+          },
+          "uniqueness": {
+            "score": 4,
+            "feedback": "While the historical progression of ML is a common topic, the explicit requirement to cite three eras *and* explain the shift in application focus adds analytical depth beyond rote recall, distinguishing it from generic prompts."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "The question demands substantial cognitive effort: chronological organization, example selection, and comparative analysis. However, it remains achievable for an undergraduate or advanced high school student with moderate preparation."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is clearly structured, with a logical progression (describe evolution \u2192 cite eras/applications \u2192 explain shift), and uses precise academic language without ambiguity."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The expectations are fully transparent: three eras, real-world applications per era, and an explanation of evolving focus. The context snippet supports but does not dictate the answer, encouraging independent reasoning."
+          },
+          "overall_pedagogy_score": 4
+        },
+        "llj": {
+          "llj_score": 0,
+          "overall_verdict": "ERROR",
+          "judge_reasoning": "Evaluation failed"
+        },
+        "llj_score": 0
+      }
+    }
+  ]
+}

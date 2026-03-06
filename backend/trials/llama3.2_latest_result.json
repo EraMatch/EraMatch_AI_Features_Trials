@@ -1,0 +1,11 @@
+{
+  "model": "llama3.2:latest",
+  "status": "failed",
+  "reason": "Could not generate valid JSON questions",
+  "latency_sec": 10.16,
+  "overall_quality_score": 0,
+  "avg_faithfulness": 0,
+  "avg_distractor_quality": 0,
+  "avg_pedagogy_quest": 0,
+  "raw_questions": []
+}

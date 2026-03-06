@@ -1,0 +1,65 @@
+{
+  "model": "kimi-k2.5:cloud",
+  "questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "According to the context, what is machine learning (ML)?",
+      "question_config": {
+        "options": [
+          "A programming method that requires explicit instructions for every decision",
+          "A subset of artificial intelligence that enables computers to learn from data",
+          "A type of computer hardware designed for playing checkers",
+          "A technology exclusively used by Netflix and Amazon for recommendations"
+        ],
+        "evidence": "Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 1,
+      "tags": [
+        "definition",
+        "artificial intelligence"
+      ],
+      "points": 10
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "In which decade did machine learning begin showing up in practical tools like email spam filters?",
+      "question_config": {
+        "options": [
+          "1950s",
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 2,
+      "tags": [
+        "history",
+        "timeline"
+      ],
+      "points": 10
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Discuss the relationship between Bias and Fairness and Explainability and Transparency in machine learning as described in the context, including why these considerations are particularly important in specific sectors.",
+      "question_config": {
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality; and Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": "According to the context, Bias and Fairness are key considerations in machine learning because model effectiveness is tied to training data quality, meaning poor or biased data leads to biased outcomes. Explainability and Transparency are essential particularly in high-stakes sectors like healthcare and criminal justice where decisions significantly impact people's lives. These two considerations are related because understanding how a model makes decisions (explainability) is necessary to identify and mitigate biases in the training data, ensuring fair outcomes in critical applications.",
+      "difficulty": 4,
+      "tags": [
+        "ethics",
+        "bias",
+        "transparency"
+      ],
+      "points": 10
+    }
+  ],
+  "latency_sec": 15.09
+}

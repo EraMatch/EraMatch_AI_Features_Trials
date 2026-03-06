@@ -1,7 +1,7 @@
 import React from 'react'
 import { Trophy, Zap, ShieldCheck, BookOpen, Clock, AlertCircle } from 'lucide-react'
 
-const BenchmarkLeaderboard = ({ results, onBack }) => {
+const BenchmarkLeaderboard = ({ results, onBack, onRerun }) => {
   if (!results || results.length === 0) return null
 
   const successful = results.filter(r => r.status === 'success')
@@ -21,8 +21,11 @@ const BenchmarkLeaderboard = ({ results, onBack }) => {
           <h2>AI Model Leaderboard</h2>
         </div>
         <p className="lb-subtitle">Benchmarked across Faithfulness, Quality, and Pedagogical Value</p>
-        <span className="lb-eval-note">⚡ One fixed evaluator model judges all outputs — no self-scoring bias</span>
-        <button className="btn btn-outline btn-sm lb-back" onClick={onBack}>← Back</button>
+        <span className="lb-eval-note">⚡ Fixed evaluator judges all outputs — no self-scoring bias | Scores are cached for reproducibility</span>
+        <div className="lb-actions">
+          <button className="btn btn-outline btn-sm" onClick={onBack}>← Back</button>
+          {onRerun && <button className="btn btn-outline btn-sm rerun-btn" onClick={onRerun}>↺ Re-run (Fresh Questions)</button>}
+        </div>
       </div>
 
       <div className="lb-table-wrap">
@@ -88,7 +91,9 @@ const BenchmarkLeaderboard = ({ results, onBack }) => {
         .icon-gold { color: #FFD700; filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.4)); }
         .lb-subtitle { color: var(--text-muted); font-size: 0.95rem; }
         .lb-eval-note { font-size: 0.75rem; color: var(--primary); background: rgba(99,102,241,0.1); border: 1px solid rgba(99,102,241,0.3); padding: 0.3rem 0.75rem; border-radius: 4px; width: fit-content; }
-        .lb-back { position: absolute; top: 0; right: 0; }
+        .lb-actions { display: flex; gap: 0.75rem; margin-top: 0.5rem; }
+        .rerun-btn { color: var(--warning); border-color: rgba(245, 158, 11, 0.4); }
+        .rerun-btn:hover { background: rgba(245, 158, 11, 0.1); }
 
         .lb-table-wrap { overflow-x: auto; background: rgba(0,0,0,0.2); border-radius: 1rem; border: 1px solid var(--border); }
         .lb-table { width: 100%; border-collapse: collapse; text-align: left; }

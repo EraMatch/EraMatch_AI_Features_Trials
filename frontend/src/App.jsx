@@ -46,11 +46,12 @@ function App() {
         return () => clearInterval(pollInterval)
     }, [jobId])
 
-    const handleBenchmark = async () => {
+    const handleBenchmark = async (force = false) => {
         setIsProcessing(true)
         setError(null)
         const formData = new FormData()
         formData.append('background', 'true')
+        if (force) formData.append('force_regenerate', 'true')
 
         try {
             const response = await fetch('/api/import/benchmark', {
@@ -170,6 +171,7 @@ function App() {
                 <BenchmarkLeaderboard
                     results={benchmarkResults}
                     onBack={() => setBenchmarkResults(null)}
+                    onRerun={() => { setBenchmarkResults(null); handleBenchmark(true) }}
                 />
             ) : !isProcessing && stagedQuestions.length > 0 ? (
                 <ReviewScreen

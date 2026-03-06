@@ -1,0 +1,64 @@
+{
+  "model": "qwen2.5-coder:1.5b",
+  "questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "What was the first major application of machine learning?",
+      "question_config": {
+        "options": [
+          "Email spam filters",
+          "Voice assistants",
+          "Self-driving cars",
+          "Healthcare tools"
+        ],
+        "evidence": "In the 1950s, early ideas like a computer playing checkers showed that machines could learn simple tasks."
+      },
+      "correct_answer": [
+        0
+      ],
+      "difficulty": 3,
+      "tags": [
+        "machine learning",
+        "history"
+      ],
+      "points": 10
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "What is the main difference between bias and fairness in machine learning?",
+      "question_config": {
+        "options": [
+          "Bias refers to the accuracy of predictions, while fairness refers to the fairness of decision-making.",
+          "Bias refers to the fairness of decision-making, while fairness refers to the accuracy of predictions.",
+          "Bias is a measure of how well a model performs on training data, while fairness measures how well it performs on unseen data.",
+          "Bias is a measure of how well a model performs on unseen data, while fairness measures how well it performs on training data."
+        ],
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality;"
+      },
+      "correct_answer": [
+        2
+      ],
+      "difficulty": 3,
+      "tags": [
+        "machine learning",
+        "bias"
+      ],
+      "points": 10
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Discuss the ethical implications of using machine learning in healthcare.",
+      "question_config": {
+        "evidence": "Bias and Fairness, where model effectiveness is tied to training data quality;"
+      },
+      "correct_answer": [],
+      "difficulty": 4,
+      "tags": [
+        "machine learning",
+        "ethics"
+      ],
+      "points": 20
+    }
+  ],
+  "latency_sec": 10.11
+}

@@ -1,0 +1,156 @@
+{
+  "model": "qwen2.5-coder:1.5b",
+  "status": "success",
+  "latency_sec": 10.11,
+  "avg_faithfulness": 0.6,
+  "avg_distractor_quality": 4.5,
+  "avg_pedagogy_quest": 3.0,
+  "overall_quality_score": 5.4,
+  "raw_questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "What was the first major application of machine learning?",
+      "question_config": {
+        "options": [
+          "Email spam filters",
+          "Voice assistants",
+          "Self-driving cars",
+          "Healthcare tools"
+        ],
+        "evidence": "In the 1950s, early ideas like a computer playing checkers showed that machines could learn simple tasks."
+      },
+      "correct_answer": [
+        0
+      ],
+      "difficulty": 3,
+      "tags": [
+        "machine learning",
+        "history"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 0.9,
+        "ragas_reasoning": "The context states that 'By the 1990s, ML began showing up in practical tools like email spam filters' and earlier mentions the 1950s checkers example as an early *idea* rather than a major *application*. While the checkers program was historically significant (e.g., Arthur Samuel's work), the context frames email spam filters as the first *practical tool* application, aligning with the correct answer. The 0.1 deduction reflects minor ambiguity\u2014some might argue the checkers program was the first major *demonstration*, but the context explicitly labels spam filters as the first *practical tool*, supporting the answer.",
+        "geval_score": 6,
+        "geval_reasoning": "The distractors are plausible in the sense that voice assistants, self-driving cars, and healthcare tools are well-known ML applications\u2014but they emerged significantly later than email spam filters (which date back to the late 1990s/early 2000s, e.g., SpamAssassin, 2001). However, the distractors are *too* modern and prominent, making them less plausible as first applications; a more plausible distractor would be something like 'document classification' or 'optical character recognition (OCR)', which were early ML uses. The current options are clearly wrong but lack subtlety\u2014someone with basic knowledge of ML history could easily eliminate them without deep reasoning. A score of 7 would be more appropriate if one distractor were slightly older (e.g., 'handwritten digit recognition for postal ZIP codes'), but as written, the options are too obviously incorrect for high plausibility.",
+        "quest": {
+          "quality": {
+            "score": 3,
+            "feedback": "The question is factually answerable using the context (1950s checkers program), but it's overly narrow and conflates 'first major application' with 'early idea'\u2014the context describes a demonstration (checkers), not a deployed application. Lacks depth for higher-level analysis."
+          },
+          "uniqueness": {
+            "score": 2,
+            "feedback": "The question is common and lacks novelty; it tests recall rather than critical thinking. Many standard ML assessments include similar timeline questions."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "Requires minimal cognitive effort\u2014primarily recall of a single historical fact. Does not require synthesis, evaluation, or application of concepts."
+          },
+          "structure": {
+            "score": 4,
+            "feedback": "Clear, concise, and grammatically correct. However, the phrasing 'first major application' is ambiguous (e.g., is a checkers program an 'application' or a proof-of-concept?), which could confuse learners."
+          },
+          "transparency": {
+            "score": 3,
+            "feedback": "The question is transparent in intent but ambiguous in scope. It doesn\u2019t clarify whether 'application' means theoretical demonstration, prototype, or real-world deployment\u2014context supports the checkers example but doesn\u2019t resolve the ambiguity."
+          },
+          "overall_pedagogy_score": 2
+        }
+      }
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "What is the main difference between bias and fairness in machine learning?",
+      "question_config": {
+        "options": [
+          "Bias refers to the accuracy of predictions, while fairness refers to the fairness of decision-making.",
+          "Bias refers to the fairness of decision-making, while fairness refers to the accuracy of predictions.",
+          "Bias is a measure of how well a model performs on training data, while fairness measures how well it performs on unseen data.",
+          "Bias is a measure of how well a model performs on unseen data, while fairness measures how well it performs on training data."
+        ],
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality;"
+      },
+      "correct_answer": [
+        2
+      ],
+      "difficulty": 3,
+      "tags": [
+        "machine learning",
+        "bias"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 0.0,
+        "ragas_reasoning": "The provided context mentions 'Bias and Fairness' as key considerations, stating that model effectiveness is tied to training data quality, but it does *not* define bias or fairness, nor does it state that bias measures performance on training data and fairness measures performance on unseen data. In fact, the correct technical definitions are: bias refers to the error introduced by approximating a real-world problem (often due to overly simplistic assumptions), while fairness refers to ensuring equitable outcomes across different groups (e.g., demographic parity). The given 'correct answer' misrepresents both concepts\u2014confusing bias with training error and fairness with generalization. Since the answer contradicts standard ML knowledge *and* is not supported by the context, the question is not grounded in the provided context.",
+        "geval_score": 3,
+        "geval_reasoning": "The correct answer itself is factually incorrect\u2014bias and fairness are misdefined. Bias in ML refers to the error due to erroneous assumptions in the learning algorithm (e.g., underfitting), not performance on training data; fairness refers to equitable treatment across groups (e.g., demographic parity), not performance on unseen data (which relates to generalization). Given this foundational error, the distractors inherit the same flaw and are not *plausibly wrong* relative to a correct definition\u2014they\u2019re all equally incorrect or worse. Plausible distractors should reflect common misconceptions but still be distinguishable from the *true* definition. Here, none of the distractors are clearly wrong *if* the correct answer were accurate, but since the correct answer is wrong, the set fails the core criterion. Additionally, the third distractor swaps training/unseen data, which is a common confusion (bias vs. variance), making it *more* plausible than the others, yet still not aligned with standard definitions\u2014further indicating the question itself is flawed.",
+        "quest": {
+          "quality": {
+            "score": 3,
+            "feedback": "The question is conceptually relevant and targets an important distinction in ML ethics, but it conflates two closely related concepts (bias and fairness) without clarifying their relationship. It assumes prior knowledge of both terms, which may confuse learners unfamiliar with the nuances."
+          },
+          "uniqueness": {
+            "score": 2,
+            "feedback": "The question is common in ML ethics discussions and lacks novelty; similar questions appear frequently in textbooks and courses. It does not offer a novel angle or context to distinguish it from standard assessments."
+          },
+          "effort": {
+            "score": 3,
+            "feedback": "Requires moderate cognitive effort\u2014students must differentiate between bias (a property of data/models) and fairness (a normative goal or outcome), but the distinction is well-documented and can be answered with surface-level understanding if definitions are memorized."
+          },
+          "structure": {
+            "score": 4,
+            "feedback": "The question is clear, concise, and grammatically correct. It directly asks for the 'main difference', prompting a comparative response. However, it could benefit from scaffolding (e.g., defining one term first) to support diverse learners."
+          },
+          "transparency": {
+            "score": 3,
+            "feedback": "The question is transparent in intent but does not specify the expected depth or format (e.g., short answer vs. essay). Learners may be unsure whether to focus on technical definitions, societal implications, or both."
+          },
+          "overall_pedagogy_score": 3
+        }
+      }
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Discuss the ethical implications of using machine learning in healthcare.",
+      "question_config": {
+        "evidence": "Bias and Fairness, where model effectiveness is tied to training data quality;"
+      },
+      "correct_answer": [],
+      "difficulty": 4,
+      "tags": [
+        "machine learning",
+        "ethics"
+      ],
+      "points": 20,
+      "eval_results": {
+        "ragas_faithfulness": 0.9,
+        "ragas_reasoning": "The context explicitly mentions healthcare as a domain where ML is applied ('healthcare tools') and highlights 'Explainability and Transparency' as essential in sectors like healthcare and criminal justice. It also notes 'Bias and Fairness' as a key consideration tied to training data quality, which directly relates to ethical implications in healthcare (e.g., biased models leading to inequitable care). While the context does not go into depth on healthcare-specific ethical issues (e.g., patient privacy, informed consent, liability), it provides sufficient foundational coverage of core ethical concerns (bias, fairness, transparency) relevant to the question. The score is slightly below 1.0 because the context does not elaborate on healthcare-specific ethical challenges beyond the general principles listed.",
+        "geval_score": null,
+        "geval_reasoning": "N/A for essay",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question is high-quality: it directly engages with a critical real-world application of ML (healthcare) and invites critical analysis of ethical implications, aligning well with the provided context on bias, fairness, and explainability."
+          },
+          "uniqueness": {
+            "score": 4,
+            "feedback": "While ML ethics in healthcare is a common topic, the question is well-framed and not overly generic; it invites nuanced discussion rather than just listing known issues. Slightly generic phrasing prevents a perfect score."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "The question requires substantial cognitive effort\u2014synthesizing technical understanding (ML in healthcare) with ethical reasoning (bias, fairness, transparency). However, it could be more challenging (e.g., by specifying a subdomain like diagnostic algorithms or predictive modeling)."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is clear, concise, and well-structured, with no ambiguity. It invites a focused, analytical response without being overly prescriptive."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question is fully transparent in intent\u2014no hidden assumptions or misleading framing. It clearly invites discussion of ethical implications, and the context snippet supports relevant considerations."
+          },
+          "overall_pedagogy_score": 4
+        }
+      }
+    }
+  ]
+}

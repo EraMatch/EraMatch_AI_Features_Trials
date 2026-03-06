@@ -1,0 +1,11 @@
+{
+  "model": "deepseek-r1:1.5b",
+  "status": "failed",
+  "reason": "Could not generate valid JSON questions",
+  "latency_sec": 12.04,
+  "overall_quality_score": 0,
+  "avg_faithfulness": 0,
+  "avg_distractor_quality": 0,
+  "avg_pedagogy_quest": 0,
+  "raw_questions": []
+}

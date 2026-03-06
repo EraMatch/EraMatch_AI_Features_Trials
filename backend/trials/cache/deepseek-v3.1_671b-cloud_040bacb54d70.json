@@ -1,0 +1,67 @@
+{
+  "model": "deepseek-v3.1:671b-cloud",
+  "questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "What was a key development in the 1990s that demonstrated the practical application of machine learning?",
+      "question_config": {
+        "options": [
+          "The development of self-driving cars.",
+          "The creation of voice assistants.",
+          "The use of ML in email spam filters.",
+          "The introduction of product recommendation engines."
+        ],
+        "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+      },
+      "correct_answer": [
+        2
+      ],
+      "difficulty": 2,
+      "tags": [
+        "history",
+        "applications",
+        "1990s"
+      ],
+      "points": 10
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "According to the context, why are Explainability and Transparency particularly important in ML applications?",
+      "question_config": {
+        "options": [
+          "They are required for models to make accurate predictions.",
+          "They are essential for reducing the cost of training models.",
+          "They are critical in sensitive sectors like healthcare and criminal justice.",
+          "They were the main innovation of ML in the 2000s."
+        ],
+        "evidence": "Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": [
+        2
+      ],
+      "difficulty": 3,
+      "tags": [
+        "ethics",
+        "explainability",
+        "transparency"
+      ],
+      "points": 10
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Explain the relationship between machine learning model effectiveness and the quality of training data, with specific reference to the concept of Bias and Fairness as discussed in the text.",
+      "question_config": {
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality;"
+      },
+      "correct_answer": "The effectiveness of a machine learning model is directly dependent on the quality of its training data. As stated in the text, this relationship is a key consideration under the concepts of Bias and Fairness. If the training data is incomplete, unrepresentative, or contains historical biases, the model's predictions or decisions will reflect and potentially amplify those biases. This can lead to unfair outcomes. Therefore, ensuring high-quality, representative data is fundamental to building effective and fair machine learning models.",
+      "difficulty": 4,
+      "tags": [
+        "bias",
+        "fairness",
+        "training_data"
+      ],
+      "points": 10
+    }
+  ],
+  "latency_sec": 7.9
+}

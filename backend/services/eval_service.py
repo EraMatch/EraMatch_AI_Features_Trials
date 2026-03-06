@@ -248,3 +248,70 @@ def run_full_evaluation(questions: List[Dict[str, Any]], context: str) -> List[D
         evaluated_questions.append(q)
         
     return evaluated_questions
+
+
+# ─── LLM-as-a-Judge (LLJ) ─────────────────────────────────────────────────────
+
+LLJ_PROMPT = """
+You are an expert in educational assessment quality. Act as a strict judge and evaluate the following question.
+Score it holistically from 1 to 10 based on these four dimensions:
+
+1. Accuracy (is the correct answer factually right and grounded in context?)
+2. Clarity (is the question unambiguous and well-phrased?)
+3. Challenge (does it require real understanding, not just memory?)
+4. Pedagogical Value (would this appear in a professional exam?)
+
+Context (Source Material):
+{context}
+
+Question: {question_text}
+Type: {question_type}
+Options (if MCQ): {options}
+Correct Answer: {correct_answer_text}
+
+Return ONLY valid JSON:
+{{
+  "llj_score": 1-10,
+  "accuracy": {{ "score": 1-10, "comment": "..." }},
+  "clarity": {{ "score": 1-10, "comment": "..." }},
+  "challenge": {{ "score": 1-10, "comment": "..." }},
+  "pedagogical_value": {{ "score": 1-10, "comment": "..." }},
+  "overall_verdict": "PASS" or "FAIL",
+  "judge_reasoning": "..."
+}}
+"""
+
+def evaluate_llm_as_judge(question: Dict[str, Any], context: str) -> Dict[str, Any]:
+    """
+    LLM-as-a-Judge (LLJ): A holistic evaluation of a single question.
+    The LLM acts as a strict expert judge across 4 quality dimensions.
+    Returns structured scores and a PASS/FAIL verdict.
+    """
+    client = get_llm_client()
+
+    options = question.get('question_config', {}).get('options', [])
+    correct_indices = question.get('correct_answer', [])
+    q_type = question.get('question_type', 'mcq')
+
+    if q_type == 'mcq' and isinstance(correct_indices, list):
+        correct_text = json.dumps([options[i] for i in correct_indices if i < len(options)])
+    else:
+        correct_text = str(question.get('correct_answer', ''))
+
+    prompt = LLJ_PROMPT.format(
+        context=context[:2500],
+        question_text=question.get('question_text', ''),
+        question_type=q_type,
+        options=json.dumps(options) if options else 'N/A (Essay)',
+        correct_answer_text=correct_text
+    )
+
+    try:
+        response = client(prompt)
+        result = _safe_json_loads(response)
+        if result:
+            return result
+    except Exception as e:
+        print(f"LLJ evaluation error: {e}")
+
+    return {"llj_score": 0, "overall_verdict": "ERROR", "judge_reasoning": "Evaluation failed"}

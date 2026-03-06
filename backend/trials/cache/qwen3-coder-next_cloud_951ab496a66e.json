@@ -1,0 +1,67 @@
+{
+  "model": "qwen3-coder-next:cloud",
+  "questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "Which of the following best describes the core function of machine learning?",
+      "question_config": {
+        "options": [
+          "To manually program computers for specific tasks",
+          "To enable computers to learn from data and make predictions without explicit programming",
+          "To replace all human decision-making in healthcare and criminal justice",
+          "To ensure perfect fairness in all algorithmic outputs"
+        ],
+        "evidence": "Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 1,
+      "tags": [
+        "definition",
+        "fundamentals",
+        "history"
+      ],
+      "points": 10
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "Based on the context, which two considerations are highlighted as key in machine learning applications?",
+      "question_config": {
+        "options": [
+          "Computational speed and energy efficiency",
+          "Bias and Fairness, and Explainability and Transparency",
+          "Hardware compatibility and user interface design",
+          "Data storage capacity and network bandwidth"
+        ],
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality; and Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 2,
+      "tags": [
+        "ethics",
+        "applications",
+        "challenges"
+      ],
+      "points": 10
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Describe the historical evolution of machine learning from the 1950s to the present, citing at least three distinct eras and real-world applications from each. Explain how the focus of ML applications has shifted over time.",
+      "question_config": {
+        "evidence": "In the 1950s, early ideas like a computer playing checkers showed that machines could learn simple tasks. By the 1990s, ML began showing up in practical tools like email spam filters. The 2000s saw companies like Netflix and Amazon use ML to suggest movies or products. Today, ML powers voice assistants, self-driving cars, and healthcare tools."
+      },
+      "correct_answer": "The essay should outline: (1) 1950s: early theoretical demonstrations (e.g., checkers-playing computer); (2) 1990s: practical tools like spam filters; (3) 2000s: personalized recommendation systems (Netflix, Amazon); (4) present: advanced applications (voice assistants, self-driving cars, healthcare tools). It should also note the shift from simple task learning to complex, real-world decision-making systems, with increasing emphasis on scalability, personalization, and ethical considerations.",
+      "difficulty": 3,
+      "tags": [
+        "history",
+        "applications",
+        "evolution"
+      ],
+      "points": 10
+    }
+  ],
+  "latency_sec": 7.61
+}

@@ -1,0 +1,159 @@
+{
+  "model": "qwen3-coder-next:cloud",
+  "status": "success",
+  "latency_sec": 7.61,
+  "avg_faithfulness": 0.77,
+  "avg_distractor_quality": 8.5,
+  "avg_pedagogy_quest": 3.67,
+  "overall_quality_score": 7.93,
+  "raw_questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "Which of the following best describes the core function of machine learning?",
+      "question_config": {
+        "options": [
+          "To manually program computers for specific tasks",
+          "To enable computers to learn from data and make predictions without explicit programming",
+          "To replace all human decision-making in healthcare and criminal justice",
+          "To ensure perfect fairness in all algorithmic outputs"
+        ],
+        "evidence": "Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 1,
+      "tags": [
+        "definition",
+        "fundamentals",
+        "history"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 0.85,
+        "ragas_reasoning": "The correct answer is faithful because it directly references the definition of machine learning in the context, which states that ML enables computers to learn from data and make predictions without explicit programming.",
+        "geval_score": 8,
+        "geval_reasoning": "The distractors are generally plausible and not obviously wrong, but they may be somewhat extreme or misleading. 'To manually program computers for specific tasks' is an accurate description of a limited aspect of programming, and 'To ensure perfect fairness in all algorithmic outputs' is a laudable goal that many experts strive towards, even if it's not necessarily the core function of machine learning. The most egregious distractor is probably 'To replace all human decision-making in healthcare and criminal justice', which is an unrealistic or overly broad claim that may discourage learners from exploring more nuanced applications of machine learning. Overall, the distractors provide a reasonable challenge to learners, but some may be more convincing than others.",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question is highly relevant to the topic of machine learning and aligns well with learning objectives. However, it could benefit from more specificity regarding the context in which machine learning is applied."
+          },
+          "uniqueness": {
+            "score": 5,
+            "feedback": "The question does not display any repetitive patterns or overly familiar wording, making it unique and engaging."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "The question requires higher-order thinking, as students need to analyze the options and determine which one best describes the core function of machine learning. However, some questions might require more critical thinking or deeper understanding."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is well-structured, with clear and concise language, proper formatting, and a logical flow of information."
+          },
+          "transparency": {
+            "score": 4,
+            "feedback": "While the correct answer is not ambiguous in general terms, some students might struggle to identify it without prior knowledge of machine learning concepts. A clearer definition or explanation could enhance transparency."
+          },
+          "overall_pedagogy_score": 4
+        }
+      }
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "Based on the context, which two considerations are highlighted as key in machine learning applications?",
+      "question_config": {
+        "options": [
+          "Computational speed and energy efficiency",
+          "Bias and Fairness, and Explainability and Transparency",
+          "Hardware compatibility and user interface design",
+          "Data storage capacity and network bandwidth"
+        ],
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality; and Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 2,
+      "tags": [
+        "ethics",
+        "applications",
+        "challenges"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 0.5,
+        "ragas_reasoning": "Faithfulness check failed",
+        "geval_score": 9,
+        "geval_reasoning": "The distractors are plausible options that could be considered in machine learning applications. However, 'Computational speed and energy efficiency' is not a key consideration highlighted as such in the context of the question. 'Hardware compatibility and user interface design' is also less relevant to machine learning. The correct answer clearly distinguishes between these distractors and the correct considerations, effectively challenging the learner.",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question aligns well with the topic of machine learning and highlights two key considerations relevant to its applications. However, it could be more specific about what these considerations entail."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "While the question touches on some unique aspects of machine learning (e.g., Bias and Fairness), it also includes more general options that are not as distinctively relevant. It could benefit from more specificity to make it stand out."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "The question falls in the middle range of cognitive demand, requiring some recall of machine learning concepts but not requiring complex analysis or problem-solving skills. However, it may be too easy for those familiar with ML applications."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is well-structured and clearly formatted, with a clear question text, options, evidence, and correct answer. It adheres to proper formatting conventions and does not contain any errors in this regard."
+          },
+          "transparency": {
+            "score": 4,
+            "feedback": "While the correct answer is clear based on general knowledge of machine learning, it may be ambiguous for those without a deep understanding of ML applications or concepts. Providing more context or specificity would help ensure clarity for all readers."
+          },
+          "overall_pedagogy_score": 3
+        }
+      }
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Describe the historical evolution of machine learning from the 1950s to the present, citing at least three distinct eras and real-world applications from each. Explain how the focus of ML applications has shifted over time.",
+      "question_config": {
+        "evidence": "In the 1950s, early ideas like a computer playing checkers showed that machines could learn simple tasks. By the 1990s, ML began showing up in practical tools like email spam filters. The 2000s saw companies like Netflix and Amazon use ML to suggest movies or products. Today, ML powers voice assistants, self-driving cars, and healthcare tools."
+      },
+      "correct_answer": "The essay should outline: (1) 1950s: early theoretical demonstrations (e.g., checkers-playing computer); (2) 1990s: practical tools like spam filters; (3) 2000s: personalized recommendation systems (Netflix, Amazon); (4) present: advanced applications (voice assistants, self-driving cars, healthcare tools). It should also note the shift from simple task learning to complex, real-world decision-making systems, with increasing emphasis on scalability, personalization, and ethical considerations.",
+      "difficulty": 3,
+      "tags": [
+        "history",
+        "applications",
+        "evolution"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 0.95,
+        "ragas_reasoning": "The correct answer closely aligns with the context, accurately describing the historical evolution of machine learning from its early theoretical demonstrations to its current advanced applications. The essay correctly identifies three distinct eras and real-world applications for each era, including the shift in focus from simple task learning to complex decision-making systems and increasing emphasis on scalability, personalization, and ethical considerations.",
+        "geval_score": 10,
+        "geval_reasoning": "N/A for essays",
+        "quest": {
+          "quality": {
+            "score": 4,
+            "feedback": "The question is highly relevant to the topic of machine learning and aligns well with learning objectives. However, it could benefit from more specificity regarding the desired level of detail in the essay response."
+          },
+          "uniqueness": {
+            "score": 5,
+            "feedback": "The question stands out due to its unique combination of historical context, real-world applications, and emphasis on shifting focus over time. This prompts a nuanced discussion that goes beyond surface-level facts."
+          },
+          "effort": {
+            "score": 4,
+            "feedback": "This question requires the application of cognitive skills at the Analyzing (Bloom's Taxonomy level), as respondents need to consider the evolution of machine learning and its applications over time. However, it may not challenge students sufficiently for those with advanced knowledge."
+          },
+          "structure": {
+            "score": 3,
+            "feedback": "The question is clear, but could benefit from a more straightforward format. The use of 'essay' as the question type might cause some confusion among students who are not familiar with this format."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The correct answer provides a clear outline of what is expected in terms of content and structure, making it easy for subject matter experts to assess student responses."
+          },
+          "overall_pedagogy_score": 4
+        }
+      }
+    }
+  ]
+}

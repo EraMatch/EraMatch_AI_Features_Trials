@@ -1,0 +1,157 @@
+{
+  "model": "kimi-k2.5:cloud",
+  "status": "success",
+  "latency_sec": 80.74,
+  "avg_faithfulness": 1.0,
+  "avg_distractor_quality": 7.0,
+  "avg_pedagogy_quest": 3.33,
+  "overall_quality_score": 8.13,
+  "raw_questions": [
+    {
+      "question_type": "mcq",
+      "question_text": "According to the context, in which decade did machine learning begin appearing in practical tools like email spam filters?",
+      "question_config": {
+        "options": [
+          "1950s",
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 2,
+      "tags": [
+        "history",
+        "timeline"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly states: 'By the 1990s, ML began showing up in practical tools like email spam filters.' This directly matches the question and the correct answer, leaving no ambiguity.",
+        "geval_score": 7,
+        "geval_reasoning": "The distractors are generally plausible: 1950s is historically significant for early AI/ML theory (e.g., Perceptron), so it's a common misconception; 2000s and 2010s are close enough in time that confusion about commercial adoption is possible. However, 2000s and 2010s are *too close* to the correct answer (1990s), making them less distinct and reducing plausibility\u2014spam filters like SpamAssassin emerged in the late 1990s, so a responder who knows the era may dismiss 2000s/2010s too easily. A more nuanced distractor (e.g., '1980s' or 'late 1990s') would improve precision. Score is diminished due to lack of sufficient differentiation between correct and incorrect temporal options.",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question directly targets a factual detail explicitly stated in the context ('By the 1990s, ML began showing up in practical tools like email spam filters'), and the answer is unambiguous."
+          },
+          "uniqueness": {
+            "score": 3,
+            "feedback": "The question tests a specific historical detail, but similar chronological questions about ML milestones are common in AI/ML education; not highly novel, but not generic either."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "Minimal cognitive effort required\u2014requires only scanning for a time marker; no inference, synthesis, or critique needed."
+          },
+          "structure": {
+            "score": 4,
+            "feedback": "Clear, concise, and well-formed. The phrasing is precise ('According to the context...') and aligns with the provided excerpt. Minor point: could specify if only one decade is expected, but context implies singularity."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "Highly transparent\u2014the question clearly references the context, and the answer can be verified directly without hidden assumptions or ambiguous terms."
+          },
+          "overall_pedagogy_score": 3
+        }
+      }
+    },
+    {
+      "question_type": "mcq",
+      "question_text": "Which two sectors are specifically mentioned in the context as requiring Explainability and Transparency?",
+      "question_config": {
+        "options": [
+          "Finance and banking",
+          "Healthcare and criminal justice",
+          "Education and transportation",
+          "Retail and manufacturing"
+        ],
+        "evidence": "Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+      },
+      "correct_answer": [
+        1
+      ],
+      "difficulty": 3,
+      "tags": [
+        "ethics",
+        "considerations"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The context explicitly states: 'Explainability and Transparency, which is essential in sectors like healthcare and criminal justice.' The phrase 'sectors like healthcare and criminal justice' directly identifies healthcare and criminal justice as the two sectors specifically mentioned as requiring Explainability and Transparency.",
+        "geval_score": 7,
+        "geval_reasoning": "The distractors are plausible in the sense that all mentioned sectors (Finance, Banking, Education, Transportation, Retail, Manufacturing) are commonly discussed in AI ethics contexts regarding Explainability and Transparency. However, the score is reduced because 'Finance and banking' are often closely linked and sometimes treated as one sector, reducing distinctiveness. More importantly, none of the distractors contain *any* true pair (e.g., if the question explicitly names only Healthcare and Criminal Justice, and none of the distractors include both), making them *too* clearly wrong\u2014especially since 'Education and transportation' or 'Retail and manufacturing' are not even standard co-mentioned pairs in typical literature. A higher score would go to distractors that include one correct sector plus an incorrect one (e.g., 'Healthcare and finance'), enhancing plausibility without being correct.",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question is well-crafted, directly draws from explicit information in the context, and tests precise reading comprehension."
+          },
+          "uniqueness": {
+            "score": 4,
+            "feedback": "While simple, the question focuses on a specific detail rather than a generic fact; however, it's a common style in reading comprehension assessments."
+          },
+          "effort": {
+            "score": 2,
+            "feedback": "Very low cognitive demand\u2014requires only locating explicit text (sentence-level retrieval), no inference or synthesis."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "Clear, concise, grammatically correct, and unambiguous, with a well-defined task."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "The question is straightforward and aligns perfectly with the provided context; no hidden assumptions or opaque phrasing."
+          },
+          "overall_pedagogy_score": 3
+        }
+      }
+    },
+    {
+      "question_type": "essay",
+      "question_text": "Explain the relationship between training data quality and the issue of Bias and Fairness in machine learning models, as described in the provided context.",
+      "question_config": {
+        "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality"
+      },
+      "correct_answer": "According to the context, model effectiveness is tied to training data quality. This indicates that the quality of training data directly impacts how effectively a machine learning model addresses bias and fairness. Poor quality or biased training data would compromise model effectiveness in these ethical dimensions, while high-quality data supports better outcomes regarding bias and fairness.",
+      "difficulty": 4,
+      "tags": [
+        "bias",
+        "fairness",
+        "data quality"
+      ],
+      "points": 10,
+      "eval_results": {
+        "ragas_faithfulness": 1.0,
+        "ragas_reasoning": "The question directly asks to explain the relationship between training data quality and Bias and Fairness as described in the context. The context explicitly states: 'Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality'. The correct answer accurately reflects this causal relationship without introducing external information, and faithfully interprets the context\u2019s phrasing. There is perfect alignment between the question, the relevant excerpt in the context, and the provided correct answer.",
+        "geval_score": null,
+        "geval_reasoning": "N/A for essay",
+        "quest": {
+          "quality": {
+            "score": 5,
+            "feedback": "The question is high-quality: it directly references a specific claim in the context (the link between training data quality and Bias/Fairness) and requires explanation, not just recall. It aligns well with the provided snippet and assesses understanding of a core ML ethics concept."
+          },
+          "uniqueness": {
+            "score": 4,
+            "feedback": "While the topic of data quality and bias is standard in ML education, the question is distinctive in its tight anchoring to the provided context (e.g., explicitly citing 'training data quality' as described), avoiding generic or overused phrasing."
+          },
+          "effort": {
+            "score": 3,
+            "feedback": "Moderate cognitive effort\u2014requires unpacking a cause-effect relationship rather than simple definition recall, but does not demand synthesis across multiple sources or deep technical modeling knowledge."
+          },
+          "structure": {
+            "score": 5,
+            "feedback": "The question is clearly, concisely, and unambiguously worded, with a precise directive ('Explain the relationship...') and explicit reference to the context."
+          },
+          "transparency": {
+            "score": 5,
+            "feedback": "Excellent transparency: all key terms (bias, fairness, training data quality) are grounded in the provided context, and the question makes no hidden assumptions. A learner can see exactly what is expected based on the snippet."
+          },
+          "overall_pedagogy_score": 4
+        }
+      }
+    }
+  ]
+}
