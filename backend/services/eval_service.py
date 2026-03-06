@@ -61,7 +61,6 @@ Return strictly a JSON object:
 {{
     "score": 1-10,
     "reasoning": "..."
-"""
 }}
 """
 

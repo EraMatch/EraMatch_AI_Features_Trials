@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react'
-import { Plus, Upload, Sparkles, FileText, ChevronRight, X, Loader2, Clock } from 'lucide-react'
+import { Plus, Upload, Sparkles, FileText, ChevronRight, X, Loader2, Clock, Zap } from 'lucide-react'
 import ImportModal from './components/ImportModal'
 import ReviewScreen from './components/ReviewScreen'
+import BenchmarkLeaderboard from './components/BenchmarkLeaderboard'
 
 function App() {
     const [showImportModal, setShowImportModal] = useState(false)
@@ -10,6 +11,7 @@ function App() {
     const [jobId, setJobId] = useState(null)
     const [jobStatus, setJobStatus] = useState(null)
     const [error, setError] = useState(null)
+    const [benchmarkResults, setBenchmarkResults] = useState(null)
 
     // Polling for background jobs
     useEffect(() => {
@@ -22,7 +24,11 @@ function App() {
                     setJobStatus(data.status)
 
                     if (data.status === 'completed') {
-                        setStagedQuestions(data.result)
+                        if (Array.isArray(data.result) && data.result.length > 0 && 'latency_sec' in data.result[0]) {
+                            setBenchmarkResults(data.result)
+                        } else {
+                            setStagedQuestions(data.result)
+                        }
                         setJobId(null)
                         setIsProcessing(false)
                         clearInterval(pollInterval)
@@ -39,6 +45,28 @@ function App() {
         }
         return () => clearInterval(pollInterval)
     }, [jobId])
+
+    const handleBenchmark = async () => {
+        setIsProcessing(true)
+        setError(null)
+        const formData = new FormData()
+        formData.append('background', 'true')
+
+        try {
+            const response = await fetch('/api/import/benchmark', {
+                method: 'POST',
+                body: formData,
+            })
+            const data = await response.json()
+            if (data.status === 'queued') {
+                setJobId(data.job_id)
+                setJobStatus('benchmarking')
+            }
+        } catch (err) {
+            setError(err.message)
+            setIsProcessing(false)
+        }
+    }
 
     const handleImportChoice = async (type, file, metadata = {}, background = false) => {
         setIsProcessing(true)
@@ -100,15 +128,26 @@ function App() {
                     <h1 style={{ fontSize: '2.5rem', fontWeight: 800, color: 'var(--accent)' }}>Question Bank</h1>
                     <p style={{ color: 'var(--text-muted)' }}>Manage your assessment content</p>
                 </div>
-                {!isProcessing && stagedQuestions.length === 0 && (
-                    <button
-                        className="btn btn-primary"
-                        onClick={() => setShowImportModal(true)}
-                    >
-                        <Plus size={20} />
-                        Create New
-                    </button>
-                )}
+                <div>
+                    {!isProcessing && stagedQuestions.length === 0 && !benchmarkResults && (
+                        <div style={{ display: 'flex', gap: '1rem' }}>
+                            <button
+                                className="btn btn-outline"
+                                onClick={handleBenchmark}
+                            >
+                                <Zap size={20} />
+                                Benchmark Models
+                            </button>
+                            <button
+                                className="btn btn-primary"
+                                onClick={() => setShowImportModal(true)}
+                            >
+                                <Plus size={20} />
+                                Create New
+                            </button>
+                        </div>
+                    )}
+                </div>
             </header>
 
             {error && (
@@ -127,7 +166,12 @@ function App() {
                 </div>
             )}
 
-            {!isProcessing && stagedQuestions.length > 0 ? (
+            {benchmarkResults ? (
+                <BenchmarkLeaderboard
+                    results={benchmarkResults}
+                    onBack={() => setBenchmarkResults(null)}
+                />
+            ) : !isProcessing && stagedQuestions.length > 0 ? (
                 <ReviewScreen
                     questions={stagedQuestions}
                     onSave={() => setStagedQuestions([])}

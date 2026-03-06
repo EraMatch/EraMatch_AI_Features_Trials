@@ -66,9 +66,10 @@ Fields:
 """
 
 def _call_ollama(prompt: str) -> str:
-    print(f"Calling Ollama with model: {OLLAMA_MODEL}...")
+    current_model = os.getenv("OLLAMA_MODEL", OLLAMA_MODEL)
+    print(f"Calling Ollama with model: {current_model}...")
     payload = {
-        "model": OLLAMA_MODEL,
+        "model": current_model,
         "prompt": prompt,
         "stream": False,
         # "format": "json" # Commented out for better compatibility

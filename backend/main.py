@@ -8,6 +8,7 @@ from typing import List, Optional, Dict, Any
 from services.pdf_parser import extract_text_from_pdf, count_tokens, get_pdf_page_count
 from services.ai_service import generate_questions_ai, extract_questions_ai
 from services.job_service import create_job, update_job, get_job
+from services.benchmark_service import run_full_benchmark
 
 app = FastAPI(title="Question Import Trial API")
 
@@ -52,6 +53,14 @@ async def background_process_questions(
             questions = extract_questions_ai(text)
             
         update_job(job_id, "completed", result=questions)
+    except Exception as e:
+        update_job(job_id, "failed", error=str(e))
+
+async def background_run_benchmark(job_id: str):
+    try:
+        update_job(job_id, "processing")
+        results = run_full_benchmark()
+        update_job(job_id, "completed", result=results)
     except Exception as e:
         update_job(job_id, "failed", error=str(e))
 
@@ -151,6 +160,20 @@ async def extract_questions(
         return {"status": "completed", "questions": questions}
     except Exception as e:
         print(f"Error in extract_questions: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/import/benchmark")
+async def benchmark_models(background_tasks: BackgroundTasks, background: bool = Form(True)):
+    """Triggers a benchmark of all available Ollama models."""
+    if background:
+        job_id = create_job()
+        background_tasks.add_task(background_run_benchmark, job_id)
+        return {"status": "queued", "job_id": job_id}
+    
+    try:
+        results = run_full_benchmark()
+        return {"status": "completed", "results": results}
+    except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":
