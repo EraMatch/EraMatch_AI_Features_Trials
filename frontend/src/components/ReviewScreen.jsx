@@ -4,6 +4,7 @@ import { Check, Trash2, AlertCircle, Edit2, Save } from 'lucide-react'
 const ReviewScreen = ({ questions: initialQuestions, onSave, onCancel }) => {
   const [questions, setQuestions] = useState(initialQuestions)
   const [editingId, setEditingId] = useState(null)
+  const [expandedEval, setExpandedEval] = useState(null)
 
   const handleDelete = (index) => {
     setQuestions(questions.filter((_, i) => i !== index))
@@ -49,6 +50,12 @@ const ReviewScreen = ({ questions: initialQuestions, onSave, onCancel }) => {
       </div>
 
       <div className="questions-list">
+        {questions.some(q => q.eval_results?.ragas_faithfulness < 0.7 || (q.question_type === 'mcq' && q.eval_results?.geval_score < 6)) && (
+          <div className="global-warning-banner glass animate-pulse">
+            <AlertCircle size={18} />
+            <span>Found {questions.filter(q => q.eval_results?.ragas_faithfulness < 0.7 || (q.question_type === 'mcq' && q.eval_results?.geval_score < 6)).length} questions with low quality scores. Verification recommended.</span>
+          </div>
+        )}
         {questions.map((q, idx) => {
           const isMcq = q.question_type === 'mcq'
           const options = q.question_config?.options || []
@@ -57,12 +64,16 @@ const ReviewScreen = ({ questions: initialQuestions, onSave, onCancel }) => {
             ? (!q.correct_answer || (Array.isArray(q.correct_answer) && q.correct_answer.length === 0))
             : !q.correct_answer;
 
+          const evalRes = q.eval_results || {};
+          const isLowQuality = evalRes.ragas_faithfulness < 0.7 || (isMcq && evalRes.geval_score < 6);
+
           return (
-            <div key={idx} className={`question-card glass ${isMissingAnswer ? 'invalid' : ''}`}>
+            <div key={idx} className={`question-card glass ${isMissingAnswer ? 'invalid' : ''} ${isLowQuality ? 'flagged' : ''}`}>
               <div className="card-header">
                 <span className={`badge ${q.question_type}`}>{q.question_type.toUpperCase()}</span>
                 <span className="difficulty">Level: {q.difficulty}</span>
                 {q.points && <span className="points">{q.points}pts</span>}
+                {isLowQuality && <span className="quality-warning pulse-slow"><AlertCircle size={14} /> Low Quality Flag</span>}
                 <div className="card-actions">
                   <button className="icon-btn" onClick={() => setEditingId(idx === editingId ? null : idx)}>
                     <Edit2 size={16} />
@@ -161,6 +172,71 @@ const ReviewScreen = ({ questions: initialQuestions, onSave, onCancel }) => {
                     </div>
                   )}
 
+                  {isLowQuality && (
+                    <div className="auto-warning-msg">
+                      <strong>AI Warning:</strong> Evaluation scores indicate this question may be hallucinated or poorly structured. Please review carefully.
+                    </div>
+                  )}
+
+                  {q.eval_results && (
+                    <div className="evaluation-section">
+                      <div className="eval-summary-header" onClick={() => setExpandedEval(expandedEval === idx ? null : idx)}>
+                        <div className="eval-pill-row">
+                          <div className={`eval-pill small ${q.eval_results.ragas_faithfulness > 0.8 ? 'good' : 'bad'}`}>
+                            <span className="label">Faithfulness:</span>
+                            <span className="score">{Math.round(q.eval_results.ragas_faithfulness * 100)}%</span>
+                          </div>
+                          {isMcq && (
+                            <div className={`eval-pill small ${q.eval_results.geval_score > 7 ? 'good' : 'bad'}`}>
+                              <span className="label">Quality:</span>
+                              <span className="score">{q.eval_results.geval_score}/10</span>
+                            </div>
+                          )}
+                        </div>
+                        <button className="expand-eval-btn">
+                          {expandedEval === idx ? 'Hide Report' : 'View Detailed Evaluation'}
+                        </button>
+                      </div>
+
+                      {expandedEval === idx && (
+                        <div className="evaluation-report animation-slide-down">
+                          <div className="report-pillar">
+                            <h4>Pillar 1: Faithfulness (RAGAS)</h4>
+                            <p className="reasoning">{q.eval_results.ragas_reasoning}</p>
+                          </div>
+
+                          {isMcq && (
+                            <div className="report-pillar">
+                              <h4>Pillar 2: MCQ Distractors (DeepEval)</h4>
+                              <p className="reasoning">{q.eval_results.geval_reasoning}</p>
+                            </div>
+                          )}
+
+                          <div className="report-pillar">
+                            <h4>Pillar 3: Pedagogical Analysis (QUEST)</h4>
+                            <div className="quest-details">
+                              {q.eval_results.quest && !q.eval_results.quest.error && (
+                                Object.entries(q.eval_results.quest).filter(([k]) => k !== 'overall_pedagogy_score' && k !== 'error').map(([key, data]) => (
+                                  <div key={key} className="quest-detail-item">
+                                    <div className="dim-header">
+                                      <span className="dim-name">{key.toUpperCase()}</span>
+                                      <div className="dim-dots">
+                                        {[1, 2, 3, 4, 5].map(dot => (
+                                          <span key={dot} className={`dot ${data.score >= dot ? 'active' : ''}`}></span>
+                                        ))}
+                                      </div>
+                                    </div>
+                                    <p className="dim-feedback">{data.feedback}</p>
+                                  </div>
+                                ))
+                              )}
+                            </div>
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  )}
+
                   <div className="tags-row">
                     {q.tags?.map(tag => <span key={tag} className="tag">#{tag}</span>)}
                   </div>
@@ -201,14 +277,50 @@ const ReviewScreen = ({ questions: initialQuestions, onSave, onCancel }) => {
           flex-direction: column;
           gap: 1.5rem;
         }
-        .question-card {
-          padding: 1.5rem;
-          border: 1px solid var(--border);
-          transition: border-color 0.2s;
+        .question-card.flagged {
+          border-color: var(--warning);
+          box-shadow: 0 0 15px rgba(245, 158, 11, 0.1);
         }
-        .question-card.invalid {
-          border-color: var(--error);
-          box-shadow: 0 0 0 2px rgba(239, 68, 68, 0.2);
+        .quality-warning {
+          display: flex;
+          align-items: center;
+          gap: 0.4rem;
+          font-size: 0.7rem;
+          font-weight: 700;
+          color: var(--warning);
+          background: rgba(245, 158, 11, 0.1);
+          padding: 0.2rem 0.6rem;
+          border-radius: 4rem;
+          text-transform: uppercase;
+        }
+        .auto-warning-msg {
+          margin-top: 1rem;
+          padding: 1rem;
+          background: rgba(239, 68, 68, 0.05);
+          border: 1px solid rgba(239, 68, 68, 0.2);
+          border-radius: 0.5rem;
+          font-size: 0.85rem;
+          color: var(--error);
+        }
+        .global-warning-banner {
+          display: flex;
+          align-items: center;
+          gap: 1rem;
+          padding: 1rem 1.5rem;
+          background: rgba(245, 158, 11, 0.05);
+          border: 1px solid var(--warning);
+          border-radius: 0.75rem;
+          color: var(--warning);
+          font-size: 0.9rem;
+          font-weight: 500;
+        }
+        .pulse-slow {
+          animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+          0% { opacity: 1; }
+          50% { opacity: 0.6; }
+          100% { opacity: 1; }
         }
         .card-header {
           display: flex;
@@ -290,6 +402,120 @@ const ReviewScreen = ({ questions: initialQuestions, onSave, onCancel }) => {
           color: var(--error);
           font-size: 0.85rem;
           font-weight: 500;
+        }
+
+        .evaluation-section {
+          margin-top: 1.5rem;
+          padding-top: 1rem;
+          border-top: 1px solid var(--border);
+        }
+        .eval-summary-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          cursor: pointer;
+          padding: 0.5rem;
+          border-radius: 0.5rem;
+          transition: background 0.2s;
+        }
+        .eval-summary-header:hover {
+          background: rgba(255,255,255,0.03);
+        }
+        .expand-eval-btn {
+          background: transparent;
+          border: 1px solid var(--border);
+          color: var(--accent);
+          font-size: 0.75rem;
+          padding: 0.3rem 0.8rem;
+          border-radius: 4px;
+          cursor: pointer;
+        }
+        .eval-pill-row {
+          display: flex;
+          gap: 0.75rem;
+        }
+        .eval-pill.small {
+          padding: 0.25rem 0.75rem;
+          border-radius: 1rem;
+          border: 1px solid var(--border);
+          font-size: 0.75rem;
+          background: rgba(255,255,255,0.02);
+        }
+        .eval-pill .label { color: var(--text-muted); margin-right: 0.4rem; }
+        .eval-pill .score { font-weight: 700; }
+        .eval-pill.good .score { color: var(--success); }
+        .eval-pill.bad .score { color: var(--error); }
+
+        .evaluation-report {
+          margin-top: 1rem;
+          background: rgba(0,0,0,0.2);
+          border-radius: 0.75rem;
+          padding: 1.25rem;
+          border: 1px solid var(--border);
+          display: flex;
+          flex-direction: column;
+          gap: 1.25rem;
+        }
+        .animation-slide-down {
+          animation: slideDown 0.3s ease-out;
+        }
+        @keyframes slideDown {
+          from { opacity: 0; transform: translateY(-10px); }
+          to { opacity: 1; transform: translateY(0); }
+        }
+
+        .report-pillar h4 {
+          font-size: 0.8rem;
+          text-transform: uppercase;
+          letter-spacing: 0.05em;
+          color: var(--text-muted);
+          margin-bottom: 0.6rem;
+        }
+        .reasoning {
+          font-size: 0.9rem;
+          line-height: 1.5;
+          color: var(--text);
+          background: rgba(255,255,255,0.03);
+          padding: 0.75rem;
+          border-radius: 0.5rem;
+        }
+        .quest-details {
+          display: grid;
+          grid-template-columns: 1fr;
+          gap: 1rem;
+        }
+        .quest-detail-item {
+          background: rgba(255,255,255,0.02);
+          padding: 0.75rem;
+          border-radius: 0.5rem;
+          border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+        .dim-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: 0.5rem;
+        }
+        .dim-name {
+          font-size: 0.7rem;
+          font-weight: 800;
+          color: var(--accent);
+        }
+        .dim-dots { display: flex; gap: 3px; }
+        .dim-feedback {
+          font-size: 0.85rem;
+          color: var(--text-muted);
+          line-height: 1.4;
+        }
+        .dot {
+          width: 10px;
+          height: 3px;
+          background: rgba(255, 255, 255, 0.1);
+          border-radius: 2px;
+        }
+        .dot.active {
+          background: var(--accent);
+          box-shadow: 0 0 8px var(--accent);
         }
 
         .reference-answer {

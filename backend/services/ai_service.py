@@ -13,6 +13,17 @@ OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.2:latest")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
+def get_llm_client():
+    """Returns a function that can be used to call the configured LLM."""
+    if AI_PROVIDER == "openai" and OPENAI_API_KEY:
+        return _call_openai
+    return _call_ollama
+
+def call_ai(prompt: str) -> str:
+    """Helper to call the configured AI provider."""
+    client = get_llm_client()
+    return client(prompt)
+
 print(f"AI Service initialized: provider={AI_PROVIDER}, model={OLLAMA_MODEL}")
 
 client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
@@ -154,10 +165,28 @@ def generate_questions_ai(context: str, mcq_count: int, essay_count: int, diffic
         difficulty_score=difficulty_score
     ) + f"\n\nContext:\n{context}"
     
-    raw_response = _call_openai(prompt) if AI_PROVIDER == "openai" else _call_ollama(prompt)
-    return _parse_ai_json(raw_response, "generate")
+    raw_response = call_ai(prompt)
+    questions = _parse_ai_json(raw_response, "generate")
+    
+    # Run Evaluation (DeepEval, RAGAS, QUEST)
+    try:
+        from services.eval_service import run_full_evaluation
+        print("Running AI Evaluation Pillar...")
+        return run_full_evaluation(questions, context)
+    except Exception as e:
+        print(f"Evaluation failed: {e}")
+        return questions
 
 def extract_questions_ai(context: str) -> List[Dict]:
     prompt = PROMPT_EXTRACT + f"\n\nContext:\n{context}"
-    raw_response = _call_openai(prompt) if AI_PROVIDER == "openai" else _call_ollama(prompt)
-    return _parse_ai_json(raw_response, "extract")
+    raw_response = call_ai(prompt)
+    questions = _parse_ai_json(raw_response, "extract")
+    
+    # Run Evaluation for extraction too
+    try:
+        from services.eval_service import run_full_evaluation
+        print("Running AI Evaluation Pillar for extraction...")
+        return run_full_evaluation(questions, context)
+    except Exception as e:
+        print(f"Evaluation failed: {e}")
+        return questions
