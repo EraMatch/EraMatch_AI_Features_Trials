@@ -1,0 +1,691 @@
+[
+  {
+    "model": "qwen2.5-coder:1.5b",
+    "status": "success",
+    "latency_sec": 17.6,
+    "avg_faithfulness": 0.95,
+    "avg_distractor_quality": 8.0,
+    "avg_pedagogy_quest": 5.0,
+    "overall_quality_score": 9.17,
+    "raw_questions": [
+      {
+        "question_type": "mcq",
+        "question_text": "What are the main applications of machine learning?",
+        "question_config": {
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "evidence": "The text mentions various real-world applications such as email spam filters, Netflix recommendations, and self-driving cars."
+        },
+        "correct_answer": [
+          0,
+          2
+        ],
+        "difficulty": 4,
+        "tags": [
+          "MachineLearning",
+          "Applications"
+        ],
+        "points": 10,
+        "eval_results": {
+          "ragas_faithfulness": 0.95,
+          "ragas_reasoning": "The question and answer are faithful to the context in that they both ask about the main applications of machine learning. The correct answer lists 'A' (predictive modeling) and 'C' (recommending products). These are directly supported by information provided in the context, such as mentions of email spam filters, Netflix's use of ML for suggesting movies, and Amazon's self-driving cars.",
+          "geval_score": 8,
+          "geval_reasoning": "The distractor options 'B' and 'D' are not plausible, as they suggest the incorrect applications of machine learning. The correct answer is A and C, which are well-known and widely accepted applications of machine learning.",
+          "quest": {
+            "quality": {
+              "score": 4,
+              "feedback": "The question is clear and directly related to the learning objectives of machine learning applications."
+            },
+            "uniqueness": {
+              "score": 3,
+              "feedback": "While it mentions various real-world applications, the question does not introduce new information or complex concepts that would make the answer unique from others."
+            },
+            "effort": {
+              "score": 5,
+              "feedback": "The level of cognitive demand is appropriate for a middle school student. The question requires understanding of basic machine learning concepts and real-world applications without requiring advanced mathematics or computer science knowledge."
+            },
+            "structure": {
+              "score": 5,
+              "feedback": "The question has proper structure with options, evidence, correct answer, difficulty level, tags, and points."
+            },
+            "transparency": {
+              "score": 4,
+              "feedback": "The correct answer is clear but not unambiguous. It mentions various real-world applications but does not specify which one is the most important or innovative in machine learning."
+            },
+            "overall_pedagogy_score": 5
+          }
+        }
+      }
+    ]
+  },
+  {
+    "model": "qwen3-coder-next:cloud",
+    "status": "success",
+    "latency_sec": 91.19,
+    "avg_faithfulness": 1.0,
+    "avg_distractor_quality": 5.67,
+    "avg_pedagogy_quest": 3.67,
+    "overall_quality_score": 7.67,
+    "raw_questions": [
+      {
+        "question_type": "mcq",
+        "question_text": "Which of the following best describes machine learning?",
+        "question_config": {
+          "options": [
+            "A programming method where computers follow hardcoded rules to solve problems",
+            "A subset of artificial intelligence enabling computers to learn from data and make predictions without explicit programming",
+            "A technique limited exclusively to image recognition tasks",
+            "A hardware-based approach requiring specialized neural chips"
+          ],
+          "evidence": "Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed."
+        },
+        "correct_answer": [
+          1
+        ],
+        "difficulty": 2,
+        "tags": [
+          "Machine Learning",
+          "Artificial Intelligence"
+        ],
+        "points": 10,
+        "eval_results": {
+          "ragas_faithfulness": 1.0,
+          "ragas_reasoning": "The correct answer exactly matches the first sentence of the context: 'Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed.' All components of the answer\u2014'subset of artificial intelligence', 'enable computers to learn from data', 'make predictions', and 'without explicit programming'\u2014are directly and unambiguously supported by the context. No extraneous or unsupported claims are made in the answer.",
+          "geval_score": 7,
+          "geval_reasoning": "The distractors are generally plausible and not obviously wrong to beginners, but have notable weaknesses. The first distractor ('hardcoded rules') is somewhat plausible (as it contrasts with ML) but may be too simplistic and easily rejected by those who understand the distinction between rule-based systems and ML. The second ('limited exclusively to image recognition') is overly narrow and easily identifiable as incorrect since ML is widely used beyond image recognition (e.g., NLP, recommendation systems). The third ('hardware-based approach requiring specialized neural chips') is less plausible\u2014many learners know ML is primarily software-driven, and while hardware can accelerate training, it's not required, making this option too obviously wrong. None of the distractors use 'all of the above' or 'none of the above', so that criterion is satisfied. However, the lack of subtle, common misconceptions (e.g., confusing ML with deep learning, or misrepresenting supervised vs. unsupervised learning) limits their effectiveness in challenging learners at multiple levels of understanding.",
+          "quest": {
+            "quality": {
+              "score": 5,
+              "feedback": "The question directly aligns with the provided context and learning objectives\u2014defining core ML concepts. It targets foundational knowledge essential for AI/ML literacy and uses precise language from the evidence sentence."
+            },
+            "uniqueness": {
+              "score": 3,
+              "feedback": "While the question is factually accurate, it follows a very common low-level recall pattern (definition matching) seen in many introductory AI courses. The distractors, though plausible, are not highly original (e.g., conflating ML with hardcoding, over-specialization, or hardware dependence). A more unique version might ask students to distinguish ML from rule-based systems using an applied scenario."
+            },
+            "effort": {
+              "score": 2,
+              "feedback": "The question measures only recall/definition (Bloom\u2019s Level 1), requiring identification of a textbook definition rather than application, analysis, or evaluation. Given the context includes critical considerations like bias, fairness, and explainability, an effortful question would require reasoning about trade-offs or implications rather than simple definition matching."
+            },
+            "structure": {
+              "score": 5,
+              "feedback": "The question is grammatically correct, clearly worded, and properly formatted. Options are concise, parallel in structure, and avoid vague phrasing or 'all of the above.' The use of index-based answer (1) is unambiguous and consistent."
+            },
+            "transparency": {
+              "score": 5,
+              "feedback": "The correct answer is unambiguously supported by the provided evidence statement and standard AI definitions. No ambiguity exists for subject matter experts."
+            },
+            "overall_pedagogy_score": 4
+          }
+        }
+      },
+      {
+        "question_type": "mcq",
+        "question_text": "In which decade did machine learning first appear in practical applications such as email spam filters?",
+        "question_config": {
+          "options": [
+            "1950s",
+            "1970s",
+            "1990s",
+            "2000s"
+          ],
+          "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+        },
+        "correct_answer": [
+          2
+        ],
+        "difficulty": 1,
+        "tags": [
+          "Machine Learning History"
+        ],
+        "points": 10,
+        "eval_results": {
+          "ragas_faithfulness": 1.0,
+          "ragas_reasoning": "The context explicitly states: 'By the 1990s, ML began showing up in practical tools like email spam filters.' This directly supports the question and confirms that the 1990s is the correct decade for the first practical applications such as email spam filters. No claims in the question or the correct answer exceed what is stated\u2014'email spam filters' are named specifically, and the decade '1990s' is unambiguously assigned. All elements are faithfully and directly inferable from the context.",
+          "geval_score": 7,
+          "geval_reasoning": "The distractors are generally plausible: the 1950s and 1970s represent early periods of AI/ML research (e.g., perceptrons, early pattern recognition), so candidates might mistakenly associate foundational work with practical deployment. The 2000s is also plausible as spam filtering became widespread and more sophisticated then (e.g., Naive Bayes filters), which may lead to overestimation of deployment timing. However, the question asks for the *first* practical applications, and spam filters were indeed deployed in the 1990s (e.g., SpamAssassin precursors, early Bayesian filters). A key weakness is that the 1950s distractor, while historically early for AI, is less plausible for *practical applications* like spam filtering\u2014machine learning in that era was largely theoretical. Also, 'all of the above' or 'none of the above' phrasing is avoided. To reach a higher score, the 1950s option could be replaced with something more contextually plausible for *applied* ML (e.g., 1980s, when backpropagation gained traction and early neural networks were explored for real tasks). Overall, distractors are good but not optimally challenging.",
+          "quest": {
+            "quality": {
+              "score": 4,
+              "feedback": "The question is relevant to the provided context and aligns with the learning objective of tracing the historical development of ML. However, it focuses narrowly on a single factual date without probing deeper conceptual understanding (e.g., what made the 1990s distinctive, or how spam filtering demonstrates ML principles). Including a brief conceptual justification in the stem or options could strengthen alignment with higher-level learning outcomes."
+            },
+            "uniqueness": {
+              "score": 3,
+              "feedback": "The question follows a common factual-recall pattern (\u2018In which decade did X happen?\u2019) common in history-of-technology assessments. While factually specific, it lacks original framing or conceptual twist (e.g., contrast with adjacent decades, or ask about *why* it emerged then). It would benefit from a more distinctive distractor or scenario-based prompt."
+            },
+            "effort": {
+              "score": 2,
+              "feedback": "The question assesses only lower-order cognition (Bloom\u2019s Level 1: Remembering). It requires recognition of a single date from a list, with no analysis, inference, or application required. Given the context includes conceptual considerations (bias, explainability), this question does not leverage opportunities for higher cognitive demand (e.g., evaluating trade-offs of early ML systems)."
+            },
+            "structure": {
+              "score": 5,
+              "feedback": "The question is clear, grammatically correct, and uses proper MCQ formatting. Options are chronologically ordered and concise. No cue words like \u2018all of the above\u2019 or \u2018none of the above\u2019 are present. The correct answer is unambiguously indexed (\u20182\u2019), and evidence is provided in the config\u2014though this evidence should ideally be embedded in the question stem or hidden from the learner in a real assessment."
+            },
+            "transparency": {
+              "score": 5,
+              "feedback": "The correct answer (1990s) is unambiguous to an expert, as supported directly by the provided evidence and standard historiography of ML (e.g., Na\u00efve Bayes spam filters like SpamAssassin emerged in the late 1990s). No misleading ambiguity exists between options."
+            },
+            "overall_pedagogy_score": 3
+          }
+        }
+      },
+      {
+        "question_type": "mcq",
+        "question_text": "Which of the following are identified as key considerations in machine learning according to the provided text?",
+        "question_config": {
+          "options": [
+            "Code readability and compilation speed",
+            "Bias and Fairness and Explainability and Transparency",
+            "Server uptime and network latency",
+            "Database indexing and query optimization"
+          ],
+          "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality; and Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+        },
+        "correct_answer": [
+          1
+        ],
+        "difficulty": 2,
+        "tags": [
+          "Machine Learning Ethics",
+          "Model Interpretability"
+        ],
+        "points": 10,
+        "eval_results": {
+          "ragas_faithfulness": 1.0,
+          "ragas_reasoning": "The context explicitly states: 'Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality; and Explainability and Transparency, which is essential in sectors like healthcare and criminal justice.' The correct answer option 'Bias and Fairness and Explainability and Transparency' directly matches this sentence. No extra or unsupported claims are made in the question or answer; all content is verbatim or directly paraphrased from the provided text.",
+          "geval_score": 3,
+          "geval_reasoning": "The distractors are not highly plausible. While code readability and compilation speed, server uptime and network latency, and database indexing and query optimization are relevant in software engineering or systems development, they are not typically considered *key considerations in machine learning* in the same conceptual category as bias/fairness and explainability/transparency (which are core ethical and interpretability concerns in ML). The distractors are too domain-separated and thus easily distinguishable from the correct answer, failing to challenge learners who understand ML fundamentals. Additionally, the correct answer is phrased as a run-on string ('Bias and Fairness and Explainability and Transparency') rather than a list, which may confuse learners, but this does not directly affect distractor quality. There is no 'all of the above' or 'none of the above' phrasing, so that criterion is met, but overall distractor plausibility and effectiveness are low.",
+          "quest": {
+            "quality": {
+              "score": 5,
+              "feedback": "The question is highly relevant to the provided text and learning objectives, focusing explicitly on 'key considerations in machine learning' as stated in the evidence. It directly tests comprehension of the excerpt\u2019s main points (Bias and Fairness, Explainability and Transparency), aligning well with the stated context and tags ('Machine Learning Ethics', 'Model Interpretability')."
+            },
+            "uniqueness": {
+              "score": 4,
+              "feedback": "The question avoids overly generic phrasing and uses specific terminology from the text (e.g., 'Bias and Fairness and Explainability and Transparency' as a single option). However, the distractors (code readability, server uptime, database indexing) are fairly conventional and predictable for an ML-themed question, slightly reducing originality."
+            },
+            "effort": {
+              "score": 3,
+              "feedback": "The question assesses recall and basic comprehension (Bloom's Level 1\u20132: Remembering/Understanding). It requires identifying a phrase directly stated in the text, which is appropriate for formative assessment but does not demand analysis, application, or evaluation. A higher-effort version might ask students to justify why one consideration outweighs another or apply the concepts to a new scenario."
+            },
+            "structure": {
+              "score": 5,
+              "feedback": "The question is clear, grammatically correct, and properly formatted. It uses a standard MCQ structure with unambiguous options. The 'all of the above' avoidance is respected, and options are parallel in grammatical form. Option numbering (0-based index, correct answer = [1]) is consistent and transparent in the config."
+            },
+            "transparency": {
+              "score": 5,
+              "feedback": "The correct answer is unambiguous to a subject matter expert: the evidence explicitly states 'Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality; and Explainability and Transparency...'. Option 1 ('Bias and Fairness and Explainability and Transparency') matches this verbatim, while other options are clearly unrelated distractors."
+            },
+            "overall_pedagogy_score": 4
+          }
+        }
+      }
+    ]
+  },
+  {
+    "model": "kimi-k2.5:cloud",
+    "status": "success",
+    "latency_sec": 261.27,
+    "avg_faithfulness": 1.0,
+    "avg_distractor_quality": 6.33,
+    "avg_pedagogy_quest": 3.33,
+    "overall_quality_score": 7.67,
+    "raw_questions": [
+      {
+        "question_type": "mcq",
+        "question_text": "According to the text, what capability does machine learning enable in computers?",
+        "question_config": {
+          "options": [
+            "Storing larger amounts of data than traditional systems",
+            "Making predictions or decisions without being explicitly programmed",
+            "Replacing human intelligence entirely in complex tasks",
+            "Programming other computers automatically"
+          ],
+          "evidence": "Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed."
+        },
+        "correct_answer": [
+          1
+        ],
+        "difficulty": 2,
+        "tags": [
+          "Machine Learning",
+          "AI"
+        ],
+        "points": 10,
+        "eval_results": {
+          "ragas_faithfulness": 1.0,
+          "ragas_reasoning": "The correct answer is directly supported by the first sentence of the context, which states that machine learning 'enables computers to learn from data and make predictions or decisions without being explicitly programmed.' The answer option accurately reflects this claim from the text. The other distractor options (storing larger data, replacing human intelligence, programming other computers) are not mentioned or implied in the context.",
+          "geval_score": 7,
+          "geval_reasoning": "The distractors avoid forbidden phrasing ('all of the above'/'none of the above') and generally target plausible misconceptions. The 'replacing human intelligence' option effectively targets common AI hype/misconceptions, while 'storing larger amounts of data' taps into the association between ML and big data (though it conflates storage hardware with algorithmic capability). However, 'programming other computers automatically' is weaker as it approaches the opposite of the correct answer (which emphasizes prediction without explicit programming), potentially making it obviously wrong to attentive learners. The distractors challenge learners to distinguish between data storage/processing, automation, and actual ML capabilities, though stronger distractors might include options like 'Following strictly predefined rules for classification' or 'Analyzing data using only statistical averages without pattern recognition' that more subtly test understanding of the 'without being explicitly programmed' concept.",
+          "quest": {
+            "quality": {
+              "score": 5,
+              "feedback": "The question directly assesses comprehension of the core definition of machine learning provided in the text. It aligns perfectly with the learning objective of understanding ML capabilities and is highly relevant to the topic. The evidence explicitly supports the correct answer."
+            },
+            "uniqueness": {
+              "score": 3,
+              "feedback": "The 'According to the text' format is a standard reading comprehension pattern commonly used in educational assessment. While functional and appropriate for this context, it lacks originality or innovative questioning techniques that might probe deeper conceptual understanding."
+            },
+            "effort": {
+              "score": 2,
+              "feedback": "This question operates at the lower levels of Bloom's Taxonomy (Remember/Understand). It requires only literal comprehension and text matching rather than application, analysis, or evaluation. Students need only locate the matching phrase in the provided evidence without synthesizing information or engaging in higher-order thinking."
+            },
+            "structure": {
+              "score": 5,
+              "feedback": "Excellent structure with clear, parallel grammar across all options. The stem is unambiguous, and the distractors are pedagogically sound: Option 1 addresses a common misconception about AI replacing humans, Option 0 confuses data storage with learning capability, and Option 3 is plausible but incorrect. No 'all of the above' formatting issues present."
+            },
+            "transparency": {
+              "score": 5,
+              "feedback": "The correct answer is completely unambiguous to a subject matter expert. The evidence text explicitly states that ML enables computers to 'make predictions or decisions without being explicitly programmed,' which matches Option 2 verbatim. There is no room for expert disagreement or ambiguity."
+            },
+            "overall_pedagogy_score": 4
+          }
+        }
+      },
+      {
+        "question_type": "mcq",
+        "question_text": "Based on the historical timeline provided, when did machine learning begin appearing in practical tools like email spam filters?",
+        "question_config": {
+          "options": [
+            "1950s",
+            "1990s",
+            "2000s",
+            "2010s"
+          ],
+          "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+        },
+        "correct_answer": [
+          1
+        ],
+        "difficulty": 2,
+        "tags": [
+          "Machine Learning",
+          "History"
+        ],
+        "points": 10,
+        "eval_results": {
+          "ragas_faithfulness": 1.0,
+          "ragas_reasoning": "The context explicitly states: 'By the 1990s, ML began showing up in practical tools like email spam filters.' The question directly references this historical timeline, and the answer '1990s' is verbatim supported by the text with no contradiction or extrapolation required.",
+          "geval_score": 4,
+          "geval_reasoning": "While the '2000s' distractor is effective\u2014plausibly challenging learners who confuse when spam filtering began versus when it became widespread and sophisticated\u2014the '1950s' distractor is implausible and obviously wrong in the context of email spam filters, as email did not exist in the 1950s. The '2010s' distractor is also weak, as spam filters were mature and standard by that decade, representing confusion only for those unfamiliar with early internet history. The options appropriately avoid 'all of the above' or 'none of the above' phrasing, but the presence of factually impossible options for the specific context significantly diminishes quality.",
+          "quest": {
+            "quality": {
+              "score": 4,
+              "feedback": "The question directly aligns with the 'History' learning objective and accurately tests comprehension of the provided text. It references specific evidence ('email spam filters') that ties the concept to a concrete example, enhancing relevance. However, it functions purely as a reading comprehension check rather than assessing deeper conceptual understanding of machine learning history."
+            },
+            "uniqueness": {
+              "score": 3,
+              "feedback": "While the question avoids generic patterns like 'all of the above,' it follows a standard factual recall template (decade identification from a timeline). The specificity of 'email spam filters' adds some originality compared to asking broadly about ML history, but the structure remains conventional."
+            },
+            "effort": {
+              "score": 2,
+              "feedback": "This question operates at the 'Remember' level of Bloom's Taxonomy. It requires minimal cognitive effort\u2014students simply need to locate the explicit fact in the provided text without applying, analyzing, or evaluating the information. The difficulty rating of 2 is appropriately assigned."
+            },
+            "structure": {
+              "score": 5,
+              "feedback": "The question is grammatically correct, clearly worded, and properly formatted. The options are mutually exclusive, chronologically ordered, and free from structural flaws. The phrase 'Based on the historical timeline provided' appropriately contextualizes the question for the test-taker."
+            },
+            "transparency": {
+              "score": 5,
+              "feedback": "The correct answer ('1990s') is unambiguously supported by the provided evidence text ('By the 1990s, ML began showing up in practical tools like email spam filters'). A subject matter expert would not dispute the keyed answer, and the distractors (1950s, 2000s) correspond to other distinct developments mentioned in the context."
+            },
+            "overall_pedagogy_score": 3
+          }
+        }
+      },
+      {
+        "question_type": "mcq",
+        "question_text": "Which key consideration in machine learning is described as being essential in sectors like healthcare and criminal justice?",
+        "question_config": {
+          "options": [
+            "Bias and Fairness",
+            "Explainability and Transparency",
+            "Scalability and Performance",
+            "Cost Efficiency"
+          ],
+          "evidence": "Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+        },
+        "correct_answer": [
+          1
+        ],
+        "difficulty": 3,
+        "tags": [
+          "Machine Learning",
+          "Ethics"
+        ],
+        "points": 10,
+        "eval_results": {
+          "ragas_faithfulness": 1.0,
+          "ragas_reasoning": "The context explicitly states: 'Explainability and Transparency, which is essential in sectors like healthcare and criminal justice.' The question directly asks about the key consideration described as essential in these specific sectors, and the correct answer 'Explainability and Transparency' is verbatim from the text. Both the question premise and the answer are fully supported by the provided context with no contradictory or unsupported information.",
+          "geval_score": 8,
+          "geval_reasoning": "The distractors are free from 'all of the above' or 'none of the above' phrasing. They are all plausible machine learning considerations that learners might encounter. Particularly strong is the 'Bias and Fairness' option, which creates effective cognitive challenge because it is also critically important in healthcare and criminal justice contexts, forcing the learner to distinguish between related ethical AI principles rather than simply eliminating obviously wrong answers. 'Scalability and Performance' is moderately plausible though less specific to these sectors' ethical concerns, while 'Cost Efficiency' is somewhat weaker but still relevant to real-world ML deployment. Overall, the distractors avoid being obviously wrong and test the learner's ability to differentiate between distinct ML ethics concepts.",
+          "quest": {
+            "quality": {
+              "score": 4,
+              "feedback": "The question is relevant to the topic (Machine Learning ethics) and aligns with the provided learning context. It effectively tests comprehension of the specific text provided. However, it is narrowly tied to the explicit wording of the source material rather than assessing broader conceptual understanding of ML ethics."
+            },
+            "uniqueness": {
+              "score": 3,
+              "feedback": "The question follows a standard recall pattern common in technical reading comprehension assessments. While the specific combination of options is functional, the pattern (matching a description to a key term) is not particularly original or creative."
+            },
+            "effort": {
+              "score": 2,
+              "feedback": "The question operates at the 'Remember' level of Bloom's Taxonomy. It requires only literal recall or recognition of information explicitly stated in the provided text ('Explainability and Transparency... is essential in sectors like healthcare'). It does not require application, analysis, or evaluation of the concepts."
+            },
+            "structure": {
+              "score": 5,
+              "feedback": "The question is clearly written with proper grammar. The options are parallel in structure (noun phrases) and distinct. There are no problematic formats like 'all of the above.' The JSON structure is valid and well-formatted."
+            },
+            "transparency": {
+              "score": 4,
+              "feedback": "The correct answer is unambiguous to an SME who has access to the specific context provided, as the text explicitly links 'Explainability and Transparency' to healthcare and criminal justice. However, without the provided context text, the question would be ambiguous because 'Bias and Fairness' is also critically essential in these same sectors (a well-established fact in AI ethics), which could cause expert disagreement."
+            },
+            "overall_pedagogy_score": 3
+          }
+        }
+      }
+    ]
+  },
+  {
+    "model": "gemini-3-flash-preview:cloud",
+    "status": "success",
+    "latency_sec": 78.35,
+    "avg_faithfulness": 1.0,
+    "avg_distractor_quality": 5.0,
+    "avg_pedagogy_quest": 3.9,
+    "overall_quality_score": 7.6,
+    "raw_questions": [
+      {
+        "question_type": "mcq",
+        "question_text": "Based on the text, what is the defining characteristic of machine learning (ML)?",
+        "question_config": {
+          "options": [
+            "It is a system that requires explicit programming for every decision.",
+            "It is a subset of artificial intelligence that learns from data.",
+            "It is a hardware tool primarily designed for healthcare.",
+            "It is a technology that replaces the need for training data."
+          ],
+          "evidence": "Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed."
+        },
+        "correct_answer": [
+          1
+        ],
+        "difficulty": 1,
+        "tags": [
+          "Machine Learning",
+          "AI Basics"
+        ],
+        "points": 10,
+        "eval_results": {
+          "ragas_faithfulness": 1.0,
+          "ragas_reasoning": "The answer provided is directly supported by the first sentence of the context, which states: 'Machine learning (ML) is a subset of artificial intelligence that enables computers to learn from data...' This aligns perfectly with the claim in the correct answer. Additionally, the question asks for a defining characteristic based on the text, which is provided in that introductory definition.",
+          "geval_score": 4,
+          "geval_reasoning": "While the distractors are free from 'all of the above' phrasing, they lack plausibility. Distractor 1 is a classic opposite (explicit programming vs. learning), which is acceptable, but distractors 2 and 3 are weak. Labeling ML as a 'hardware tool' is a category error, and suggesting it 'replaces the need for training data' is the direct inverse of how the technology functions. These options are likely too easy for a learner to dismiss without deep engagement with the text.",
+          "quest": {
+            "quality": {
+              "score": 5,
+              "feedback": "The question is highly relevant as it targets the central definition of the topic. It aligns perfectly with the provided evidence and basic learning objectives for introductory AI."
+            },
+            "uniqueness": {
+              "score": 2,
+              "feedback": "The question is quite generic. A 'What is X' format is a standard pattern for introductory material and lacks an original or creative framing."
+            },
+            "effort": {
+              "score": 2,
+              "feedback": "This maps to the 'Remember/Understand' level of Bloom's Taxonomy. It requires simple literal retrieval of information explicitly stated in the first sentence of the text, offering low cognitive challenge."
+            },
+            "structure": {
+              "score": 5,
+              "feedback": "The structure is excellent. The stem is clear, distractors are balanced in length and tone, and it avoids problematic phrasing like 'all of the above' or 'none of the above'."
+            },
+            "transparency": {
+              "score": 5,
+              "feedback": "The correct answer is unambiguous and directly supported by the text. A subject matter expert would find no conflict between the options and the established definition."
+            },
+            "overall_pedagogy_score": 3.8
+          }
+        }
+      },
+      {
+        "question_type": "mcq",
+        "question_text": "Match the correct historical milestone to the 1990s as described in the context.",
+        "question_config": {
+          "options": [
+            "Computers playing checkers",
+            "Introduction of self-driving cars",
+            "Development of email spam filters",
+            "Product suggestions on Amazon"
+          ],
+          "evidence": "By the 1990s, ML began showing up in practical tools like email spam filters."
+        },
+        "correct_answer": [
+          2
+        ],
+        "difficulty": 2,
+        "tags": [
+          "History",
+          "Machine Learning"
+        ],
+        "points": 10,
+        "eval_results": {
+          "ragas_faithfulness": 1.0,
+          "ragas_reasoning": "The question asks for the historical milestone associated with the 1990s according to the text. The context explicitly states, 'By the 1990s, ML began showing up in practical tools like email spam filters.' Therefore, the answer 'Development of email spam filters' is directly supported and faithful to the provided context.",
+          "geval_score": 5,
+          "geval_reasoning": "The distractors are problematic for several reasons. First, 'Computers playing checkers' dates back to the 1950s, making it an implausible and 'obviously wrong' choice for a question about the 1990s. Second, 'Product suggestions on Amazon' is historically accurate to the late 1990s (Amazon launched in 1995 and its recommendation systems were a hallmark of the late 90s), which creates ambiguity as it could be considered a correct answer rather than a distractor. While 'self-driving cars' is a plausible distractor for a modern era, the lack of chronological consistency and the presence of a second potentially correct option weaken the overall quality.",
+          "quest": {
+            "quality": {
+              "score": 5,
+              "feedback": "The question is highly relevant to the provided text and perfectly aligned with the objective of identifying historical milestones in Machine Learning development."
+            },
+            "uniqueness": {
+              "score": 3,
+              "feedback": "The question follows a traditional 'date-to-event' matching pattern. While effective for testing, it is a standard instructional design approach and lacks creative or novel application of the concepts."
+            },
+            "effort": {
+              "score": 2,
+              "feedback": "This maps to the 'Remembering' level of Bloom's Taxonomy. It is a low-level cognitive task requiring only simple fact retrieval from the provided evidence rather than inference or analysis."
+            },
+            "structure": {
+              "score": 5,
+              "feedback": "The structure is excellent. The distractors are all 'homogenous' (all are mentioned in the text but belong to different eras), which prevents the answer from being too obvious through process of elimination without reading."
+            },
+            "transparency": {
+              "score": 5,
+              "feedback": "The correct answer is unambiguous. The context provided explicitly links the 1990s to email spam filters, making the key undeniable to any subject matter expert."
+            },
+            "overall_pedagogy_score": 4.0
+          }
+        }
+      },
+      {
+        "question_type": "mcq",
+        "question_text": "According to the text, why are Bias and Fairness significant considerations in ML?",
+        "question_config": {
+          "options": [
+            "Because model effectiveness depends on the quality of training data.",
+            "Because they determine the speed of voice assistants.",
+            "Because they are required for computers to play checkers.",
+            "Because they eliminate the need for explainability."
+          ],
+          "evidence": "Key considerations include Bias and Fairness, where model effectiveness is tied to training data quality"
+        },
+        "correct_answer": [
+          0
+        ],
+        "difficulty": 2,
+        "tags": [
+          "Ethics",
+          "Machine Learning"
+        ],
+        "points": 10,
+        "eval_results": {
+          "ragas_faithfulness": 1.0,
+          "ragas_reasoning": "The question and the correct answer are directly supported by the text. The context explicitly states that Bias and Fairness are key considerations because 'model effectiveness is tied to training data quality', which aligns perfectly with the provided answer.",
+          "geval_score": 3,
+          "geval_reasoning": "The distractors are poor because they lack plausibility and fail to challenge the learner. While they avoid 'all/none of the above' phrasing, the content is logically weak. Distractors 1 and 2 ('speed of voice assistants' and 'playing checkers') are obviously irrelevant to the ethical concepts of bias and fairness. Distractor 3 uses a relevant keyword ('explainability') but presents a nonsensical relationship that is easily dismissed. A learner can identify the correct answer through simple common sense rather than mastery of the material.",
+          "quest": {
+            "quality": {
+              "score": 5,
+              "feedback": "The question is highly relevant to the provided context and directly addresses a critical learning objective regarding the ethical implications and technical dependencies of Machine Learning."
+            },
+            "uniqueness": {
+              "score": 3,
+              "feedback": "The question follows a standard 'according to the text' format. While the distractors are cleverly pulled from other parts of the context (voice assistants, checkers) to ensure the learner reads carefully, the overall approach is a traditional comprehension check."
+            },
+            "effort": {
+              "score": 2,
+              "feedback": "The cognitive demand is low, aligning with the 'Remember' or 'Understand' levels of Bloom's Taxonomy. It primarily requires literal retrieval of information explicitly stated in the text rather than application or synthesis of the concepts."
+            },
+            "structure": {
+              "score": 5,
+              "feedback": "The structure is excellent. The stem is clear and phrased as a question. The options are homogeneous in length, and there are no prohibited phrases like 'all of the above' or 'none of the above.'"
+            },
+            "transparency": {
+              "score": 5,
+              "feedback": "The correct answer is unambiguous. The provided evidence explicitly links model effectiveness to training data quality in the context of Bias and Fairness, making the key undeniable to a subject matter expert."
+            },
+            "overall_pedagogy_score": 4
+          }
+        }
+      },
+      {
+        "question_type": "mcq",
+        "question_text": "In which sectors is Explainability and Transparency specifically mentioned as being essential?",
+        "question_config": {
+          "options": [
+            "Email filtering and movie recommendations",
+            "Checkers and gaming",
+            "Healthcare and criminal justice",
+            "Retail and voice assistants"
+          ],
+          "evidence": "Explainability and Transparency, which is essential in sectors like healthcare and criminal justice."
+        },
+        "correct_answer": [
+          2
+        ],
+        "difficulty": 2,
+        "tags": [
+          "Ethics",
+          "Governance"
+        ],
+        "points": 10,
+        "eval_results": {
+          "ragas_faithfulness": 1.0,
+          "ragas_reasoning": "The context explicitly states that 'Explainability and Transparency... is essential in sectors like healthcare and criminal justice.' Both the question and the provided answer are directly supported by this specific sentence in the text.",
+          "geval_score": 8,
+          "geval_reasoning": "The distractors are well-constructed and plausible because they represent actual sectors where AI is used. They are free from 'all/none of the above' traps. The logic used\u2014contrasting high-stakes sectors (healthcare/justice) with low-stakes or entertainment sectors (gaming/recommendations)\u2014is sound and effectively tests the learner's understanding of why explainability matters. It loses two points only because the gap in 'seriousness' between the correct answer and the distractors is quite wide, which may allow for easy deduction even if a learner hasn't fully mastered the specific material.",
+          "quest": {
+            "quality": {
+              "score": 4,
+              "feedback": "The question is highly relevant to the provided context and aligns well with the tags of Ethics and Governance. It directly tests a specific, important takeaway from the text regarding the high-stakes application of AI."
+            },
+            "uniqueness": {
+              "score": 3,
+              "feedback": "The question uses a standard retrieval format. While it effectively uses distractors derived from other parts of the text (e.g., gaming, email filtering) to ensure the learner has read the entire passage, the format itself is a common 'fill-in-the-blank' style MCQ."
+            },
+            "effort": {
+              "score": 2,
+              "feedback": "This question resides at the 'Remember' or 'Understand' level of Bloom's Taxonomy. It requires simple retrieval of information explicitly stated in the text rather than analysis or application of why those sectors require such transparency."
+            },
+            "structure": {
+              "score": 5,
+              "feedback": "The structure is excellent. The stem is clear, the options are parallel in length and grammatical structure, and it avoids negative phrasing or 'all of the above' options. The use of 'specifically mentioned' clarifies the scope for the learner."
+            },
+            "transparency": {
+              "score": 5,
+              "feedback": "The correct answer is unambiguous. The provided evidence explicitly supports option 2, and a subject matter expert would agree that healthcare and criminal justice are the primary high-stakes sectors listed where explainability is a regulatory or ethical requirement."
+            },
+            "overall_pedagogy_score": 3.8
+          }
+        }
+      }
+    ]
+  },
+  {
+    "model": "deepseek-v3.1:671b-cloud",
+    "status": "success",
+    "latency_sec": 60.04,
+    "avg_faithfulness": 0.0,
+    "avg_distractor_quality": 0.0,
+    "avg_pedagogy_quest": 0.0,
+    "overall_quality_score": 0.0,
+    "raw_questions": [
+      {
+        "id": "m1",
+        "type": "mcq",
+        "title": "Fallback: Could not reach AI. Is Ollama running?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correct": 0,
+        "difficulty": "Easy"
+      },
+      {
+        "id": "m2",
+        "type": "essay",
+        "title": "Fallback: Explain how to configure AI_PROVIDER in .env",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "model": "deepseek-r1:1.5b",
+    "status": "success",
+    "latency_sec": 43.35,
+    "avg_faithfulness": 0.0,
+    "avg_distractor_quality": 0.0,
+    "avg_pedagogy_quest": 0.0,
+    "overall_quality_score": 0.0,
+    "raw_questions": [
+      {
+        "id": "m1",
+        "type": "mcq",
+        "title": "Fallback: Could not reach AI. Is Ollama running?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correct": 0,
+        "difficulty": "Easy"
+      },
+      {
+        "id": "m2",
+        "type": "essay",
+        "title": "Fallback: Explain how to configure AI_PROVIDER in .env",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "model": "llama3.2:latest",
+    "status": "success",
+    "latency_sec": 10.02,
+    "avg_faithfulness": 0.0,
+    "avg_distractor_quality": 0.0,
+    "avg_pedagogy_quest": 0.0,
+    "overall_quality_score": 0.0,
+    "raw_questions": [
+      {
+        "id": "m1",
+        "type": "mcq",
+        "title": "Fallback: Could not reach AI. Is Ollama running?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correct": 0,
+        "difficulty": "Easy"
+      },
+      {
+        "id": "m2",
+        "type": "essay",
+        "title": "Fallback: Explain how to configure AI_PROVIDER in .env",
+        "difficulty": "Medium"
+      }
+    ]
+  }
+]
