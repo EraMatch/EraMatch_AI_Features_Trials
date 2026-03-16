@@ -50,10 +50,10 @@ const ReviewScreen = ({ questions: initialQuestions, onSave, onCancel }) => {
       </div>
 
       <div className="questions-list">
-        {questions.some(q => q.eval_results?.ragas_faithfulness < 0.7 || (q.question_type === 'mcq' && q.eval_results?.geval_score < 5)) && (
+        {questions.some(q => q.eval_results?.ragas_faithfulness < 0.7 || (q.question_type === 'mcq' && q.eval_results?.geval_score < 6)) && (
           <div className="global-warning-banner glass animate-pulse">
             <AlertCircle size={18} />
-            <span>AI Quality Shield: Found {questions.filter(q => q.eval_results?.ragas_faithfulness < 0.7 || (q.question_type === 'mcq' && q.eval_results?.geval_score < 5)).length} questions with low scores. We recommend reviewing the flagged items before importing.</span>
+            <span>Found {questions.filter(q => q.eval_results?.ragas_faithfulness < 0.7 || (q.question_type === 'mcq' && q.eval_results?.geval_score < 6)).length} questions with low quality scores. Verification recommended.</span>
           </div>
         )}
         {questions.map((q, idx) => {
@@ -65,16 +65,15 @@ const ReviewScreen = ({ questions: initialQuestions, onSave, onCancel }) => {
             : !q.correct_answer;
 
           const evalRes = q.eval_results || {};
-          const isLowQuality = evalRes.ragas_faithfulness < 0.7;
-          const needsReview = isLowQuality || (isMcq && evalRes.geval_score < 5);
+          const isLowQuality = evalRes.ragas_faithfulness < 0.7 || (isMcq && evalRes.geval_score < 6);
 
           return (
-            <div key={idx} className={`question-card glass ${isMissingAnswer ? 'invalid' : ''} ${needsReview ? 'flagged' : ''}`}>
+            <div key={idx} className={`question-card glass ${isMissingAnswer ? 'invalid' : ''} ${isLowQuality ? 'flagged' : ''}`}>
               <div className="card-header">
                 <span className={`badge ${q.question_type}`}>{q.question_type.toUpperCase()}</span>
                 <span className="difficulty">Level: {q.difficulty}</span>
                 {q.points && <span className="points">{q.points}pts</span>}
-                {needsReview && <span className="quality-warning pulse-slow"><AlertCircle size={14} /> Attention Needed</span>}
+                {isLowQuality && <span className="quality-warning pulse-slow"><AlertCircle size={14} /> Low Quality Flag</span>}
                 <div className="card-actions">
                   <button className="icon-btn" onClick={() => setEditingId(idx === editingId ? null : idx)}>
                     <Edit2 size={16} />
@@ -173,9 +172,9 @@ const ReviewScreen = ({ questions: initialQuestions, onSave, onCancel }) => {
                     </div>
                   )}
 
-                  {needsReview && (
+                  {isLowQuality && (
                     <div className="auto-warning-msg">
-                      <strong>AI Quality Alert:</strong> {isLowQuality ? 'This question might be hallucinated or not grounded in the PDF.' : 'Some distractors are weak or impractical.'} Please verify or edit.
+                      <strong>AI Warning:</strong> Evaluation scores indicate this question may be hallucinated or poorly structured. Please review carefully.
                     </div>
                   )}
 

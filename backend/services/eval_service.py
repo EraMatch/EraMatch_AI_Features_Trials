@@ -64,47 +64,6 @@ Return strictly a JSON object:
 }}
 """
 
-def _safe_json_loads(text: str) -> Dict[str, Any]:
-    """Robustly parse JSON from LLM output, handling markdown and common errors."""
-    if not text: return {}
-    
-    # 1. Clean markdown code blocks
-    text = text.strip()
-    if text.startswith("```"):
-        # Remove first line if it's ```json or similar
-        lines = text.splitlines()
-        if lines[0].startswith("```"):
-            lines = lines[1:]
-        # Remove last line if it's ```
-        if lines and lines[-1].strip().startswith("```"):
-            lines = lines[:-1]
-        text = "\n".join(lines).strip()
-
-    # 2. Find the first '{' and last '}'
-    start = text.find('{')
-    end = text.rfind('}') + 1
-    if start == -1 or end == 0:
-        return {}
-    
-    json_str = text[start:end]
-    
-    try:
-        # Standard load
-        return json.loads(json_str)
-    except json.JSONDecodeError:
-        try:
-            # Handle common LLM mistake: single quotes instead of double
-            import ast
-            return ast.literal_eval(json_str)
-        except Exception:
-            # Last ditch attempt: remove trailing commas
-            try:
-                import re
-                json_str = re.sub(r',\s*([\]}])', r'\1', json_str)
-                return json.loads(json_str)
-            except Exception:
-                return {}
-
 def evaluate_question_quest(question: Dict[str, Any], context: str) -> Dict[str, Any]:
     """Evaluates a single question using the QUEST framework."""
     client = get_llm_client()
@@ -115,9 +74,11 @@ def evaluate_question_quest(question: Dict[str, Any], context: str) -> Dict[str,
     
     try:
         response = client(prompt)
-        result = _safe_json_loads(response)
-        if result:
-            return result
+        # Attempt to find JSON in response
+        start = response.find('{')
+        end = response.rfind('}') + 1
+        if start != -1 and end != -1:
+            return json.loads(response[start:end])
     except Exception as e:
         print(f"Error in QUEST evaluation: {e}")
     
@@ -166,9 +127,11 @@ def evaluate_faithfulness_ragas(question: Dict[str, Any], context: str) -> float
     """
     try:
         response = client(prompt)
-        result = _safe_json_loads(response)
-        if result:
-            return result.get('faithfulness_score', 0.0), result.get('reasoning', "")
+        start = response.find('{')
+        end = response.rfind('}') + 1
+        if start != -1 and end != -1:
+            data = json.loads(response[start:end])
+            return data.get('faithfulness_score', 0.0), data.get('reasoning', "")
     except Exception:
         pass
     return 0.5, "Faithfulness check failed"
@@ -217,9 +180,10 @@ def evaluate_geval_deepeval(question: Dict[str, Any]) -> Dict[str, Any]:
     
     try:
         response = client(prompt)
-        result = _safe_json_loads(response)
-        if result:
-            return result
+        start = response.find('{')
+        end = response.rfind('}') + 1
+        if start != -1 and end != -1:
+            return json.loads(response[start:end])
     except Exception:
         pass
     return {"score": 0, "reasoning": "G-Eval failed"}

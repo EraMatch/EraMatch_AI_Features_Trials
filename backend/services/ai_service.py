@@ -29,14 +29,20 @@ print(f"AI Service initialized: provider={AI_PROVIDER}, model={OLLAMA_MODEL}")
 client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
 
 PROMPT_GENERATE = """
+You are an expert assessment creator for EraMatch. generate {mcq_count} multiple choice questions (mcq) and {essay_count} essay questions based strictly on the following context.
+
+Return strictly a JSON array of objects following this PostgreSQL schema:
+- question_type: 'mcq', 'essay' or 'coding'
+- question_text: The question content
+- question_config: 
+    For mcq: {{"options": ["A", "B", "C", "D"], "evidence": "Exact quote or snippet from source"}}
+    For essay: {{"evidence": "Exact quote or snippet from source"}}
+- correct_answer: 
+    For mcq: An ARRAY of indices of the correct options (e.g. [0] if one, [0, 2] if multiple)
+    For essay: A detailed reference/model answer string
+- difficulty: An integer from 1 (Easy) to 5 (Hard). Target: {difficulty_score}
 - tags: An array of 2-3 relevant topic strings (e.g. ["Python", "Loops"])
 - points: Default to 10
-
-Strict Grounding Rules:
-1. ONLY generate questions based on the factual content provided.
-2. Ignore irrelevant administrative sections, headers, footers, or mission statements unless they are the primary subject.
-3. If a question cannot be fully justified by the context, do not generate it.
-4. For MCQs, distractors must be plausible but clearly incorrect based on the text.
 
 Schema Example:
 [
