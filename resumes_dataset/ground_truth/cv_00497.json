@@ -1,0 +1,349 @@
+{
+  "full_name": "Monique Meyer",
+  "email": "monique.meyer@outlook.com",
+  "location": "Lake Charles, India",
+  "years_of_experience": 13.5,
+  "seniority_level": "principal",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Monique Meyer",
+    "email": "monique.meyer@outlook.com",
+    "phone": "741.317.6741x241",
+    "location": "Lake Charles, India",
+    "linkedin_url": "https://linkedin.com/in/monique-meyer",
+    "github_url": "https://github.com/moniquemeyer",
+    "portfolio_url": "https://moniquemeyer.dev"
+  },
+  "summary": "Executive-level technology leader with extensive background in devops / sre / mlops. Expertise in Python, Rust, YAML with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2023-01",
+      "end_date": "Present",
+      "duration": "2023-01 – Present",
+      "duration_months": 38,
+      "description": "Built disaster recovery solution using GitLab CI, achieving RTO of 162ms\nBuilt automated backup solution using Pulumi, ensuring 1000% data protection\nDesigned and implemented infrastructure as code using TorchServe, managing 1000+ servers",
+      "technologies": [
+        "Pulumi",
+        "Kubernetes",
+        "PagerDuty",
+        "Bash",
+        "TorchServe",
+        "GitLab CI"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2019-09",
+      "end_date": "2022-09",
+      "duration": "2019-09 – 2022-09",
+      "duration_months": 36,
+      "description": "Designed and implemented infrastructure as code using Go, managing 500+ servers\nCreated self-service provisioning portal using Go, serving 100+ engineers",
+      "technologies": [
+        "Go",
+        "VictoriaMetrics",
+        "YAML"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2015-07",
+      "end_date": "2019-08",
+      "duration": "2015-07 – 2019-08",
+      "duration_months": 49,
+      "description": "Created self-service provisioning portal using Seldon, serving 100+ engineers\nCreated monitoring and alerting system using Kubernetes, reducing MTTR by 28%\nImplemented log aggregation using PowerShell, processing 50000+ logs/day\nEstablished GitOps workflows using Opsgenie, improving deployment frequency by 68%",
+      "technologies": [
+        "Seldon",
+        "PowerShell",
+        "Opsgenie",
+        "Kubernetes",
+        "Zero Trust"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2012-02",
+      "end_date": "2015-05",
+      "duration": "2012-02 – 2015-05",
+      "duration_months": 39,
+      "description": "Established GitOps workflows using Jenkins, improving deployment frequency by 32%\nOptimized cloud infrastructure using Jenkins, reducing costs by 61%",
+      "technologies": [
+        "Envoy",
+        "Jenkins",
+        "Pulumi",
+        "Kale",
+        "Zero Trust",
+        "Istio"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2010",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Medical everybody piece mention since religious\" — IEEE 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Rust",
+    "YAML",
+    "Go",
+    "Pulumi",
+    "Helm",
+    "ArgoCD",
+    "Ansible",
+    "Crossplane",
+    "Envoy",
+    "Buildah",
+    "Kubernetes",
+    "Docker",
+    "Linkerd",
+    "GitHub Actions",
+    "Argo Workflows",
+    "Jenkins",
+    "Thanos",
+    "Prometheus",
+    "ELK Stack",
+    "Alibaba Cloud",
+    "Linode",
+    "Hetzner",
+    "GCP",
+    "DigitalOcean",
+    "Kubeflow",
+    " Triton Inference Server",
+    "Incident Management",
+    "GitOps",
+    "MLOps",
+    "SRE Practices",
+    "Zero Trust"
+  ],
+  "companies": [
+    "Confluent",
+    "Nvidia",
+    "Twilio",
+    "Nvidia"
+  ],
+  "job_titles": [
+    "MLOps Engineer",
+    "SRE",
+    "Cloud Engineer",
+    "MLOps Engineer"
+  ],
+  "universities": [
+    "UIUC"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 497,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:41:27.252218",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

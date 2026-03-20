@@ -1,0 +1,293 @@
+{
+  "full_name": "Nathan Cortez",
+  "email": "nathan.cortez@gmail.com",
+  "location": "North Sarahport, Netherlands",
+  "years_of_experience": 7.9,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Nathan Cortez",
+    "email": "nathan.cortez@gmail.com",
+    "phone": "728.914.8932x52880",
+    "location": "North Sarahport, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/nathan-cortez",
+    "github_url": "https://github.com/nathancortez",
+    "portfolio_url": null
+  },
+  "summary": "Senior data science / ml / ai engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in Go, Python, SQL with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "duration": "2023-12 – Present",
+      "duration_months": 27,
+      "description": "Developed computer vision models using Polars, achieving 60% accuracy\nDesigned data warehousing solution using Polars, enabling analytics on 100000+ records\nBuilt ML model serving infrastructure using Feature Engineering, handling 500+ predictions/day\nCreated feature engineering pipeline using Polars, reducing preprocessing time by 66%",
+      "technologies": [
+        "LLM Evaluation",
+        "Polars",
+        "OpenCV",
+        "Feature Engineering"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2022-04",
+      "end_date": "2023-06",
+      "duration": "2022-04 – 2023-06",
+      "duration_months": 14,
+      "description": "Developed data visualization tools using MLOps, used by 100+ analysts\nDeveloped computer vision models using ChromaDB, achieving 47% accuracy",
+      "technologies": [
+        "ChromaDB",
+        "Weights & Biases",
+        "MLOps"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2017-04",
+      "end_date": "2021-10",
+      "duration": "2017-04 – 2021-10",
+      "duration_months": 54,
+      "description": "Created feature engineering pipeline using Keras, reducing preprocessing time by 48%\nImplemented A/B testing framework using R, running 50000+ experiments",
+      "technologies": [
+        "Pinecone",
+        "Python",
+        "Fine-tuning",
+        "MATLAB",
+        "R",
+        "Keras"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2016",
+      "gpa": "3.26",
+      "activities": "Research Assistant - ML Lab"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Created Predictive Analytics Platform leveraging R for core functionality and Python for optimization",
+      "technologies": [
+        "R",
+        "SQL",
+        "Python"
+      ],
+      "url": "https://github.com/nathancortez/token-bucket-limiter",
+      "date": "2025"
+    },
+    {
+      "name": "DataPipe CLI",
+      "description": "Implemented Data Warehouse using Python, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "SQL",
+        "Python",
+        "Go"
+      ],
+      "url": "https://github.com/nathancortez/datapipe-cli",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Python",
+    "SQL",
+    "R",
+    "OpenCV",
+    "Keras",
+    "Polars",
+    "Pandas",
+    "Dagster",
+    "DVC",
+    "Weaviate",
+    "Redshift",
+    "Pinecone",
+    "Qdrant",
+    "Bedrock",
+    "GCP Vertex AI",
+    "AWS SageMaker",
+    "Statistical Modeling",
+    "Deep Learning",
+    "Computer Vision",
+    "Feature Engineering",
+    "Prompt Engineering"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "Nvidia",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "ML Engineer",
+    "Data Analyst",
+    "AI Product Engineer"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 6,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:21.742467",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

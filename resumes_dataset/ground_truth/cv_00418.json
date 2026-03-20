@@ -1,0 +1,309 @@
+{
+  "full_name": "Eric Mcclure",
+  "email": "eric.mcclure@gmail.com",
+  "location": "Cruzville, Brazil",
+  "years_of_experience": 5.9,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Eric Mcclure",
+    "email": "eric.mcclure@gmail.com",
+    "phone": "(293)312-1637x6182",
+    "location": "Cruzville, Brazil",
+    "linkedin_url": "https://linkedin.com/in/eric-mcclure",
+    "github_url": "https://github.com/ericmcclure",
+    "portfolio_url": null
+  },
+  "summary": "Senior backend engineering engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in TypeScript, Rust, Go with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2025-01",
+      "end_date": "Present",
+      "duration": "2025-01 – Present",
+      "duration_months": 14,
+      "description": "Created authentication and authorization system using NestJS, securing 1000+ user accounts\nImplemented caching layer with AWS, reducing database load by 31%\nBuilt automated CI/CD pipelines with REST API Design, reducing deployment time by 55%\nImplemented caching layer with NestJS, reducing database load by 45%",
+      "technologies": [
+        "REST API Design",
+        "Docker",
+        "NestJS",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2023-08",
+      "end_date": "2024-11",
+      "duration": "2023-08 – 2024-11",
+      "duration_months": 15,
+      "description": "Created authentication and authorization system using LLM Integration, securing 500+ user accounts\nDesigned and implemented message queue system using LLM Integration, processing 100+ messages/hour\nLed migration from monolithic to microservices using TypeScript, improving system scalability by 64%\nReduced infrastructure costs by 25% through optimization using LLM Integration",
+      "technologies": [
+        "TypeScript",
+        "Kafka",
+        "LLM Integration",
+        "Agile",
+        "PostgreSQL",
+        "Scrum"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2019-08",
+      "end_date": "2023-02",
+      "duration": "2019-08 – 2023-02",
+      "duration_months": 42,
+      "description": "Implemented caching layer with Neon, reducing database load by 29%\nDesigned and implemented message queue system using Jenkins, processing 500+ messages/hour\nDeveloped real-time data processing pipeline using Jenkins, handling 100+ queries/second\nReduced infrastructure costs by 32% through optimization using Jenkins",
+      "technologies": [
+        "Neon",
+        "LLM Integration",
+        "Jenkins"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "B.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Dean's List"
+    },
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2018",
+      "gpa": "3.38",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Built Database Proxy using Rust and Django, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Django",
+        "Rust",
+        "LlamaIndex"
+      ],
+      "url": "https://github.com/ericmcclure/feature-store",
+      "date": "2021"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Created Search Engine leveraging Django for core functionality and Go for optimization",
+      "technologies": [
+        "Django",
+        "FastAPI",
+        "Go"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Game development as hobby",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Hines Ltd Youth Program, 2022-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Dutch (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Rust",
+    "Go",
+    "LlamaIndex",
+    "FastAPI",
+    "Django",
+    "FastAPI",
+    "MongoDB",
+    "Elasticsearch",
+    "MySQL",
+    "ArgoCD",
+    "RabbitMQ",
+    "Helm",
+    "Docker",
+    "Jenkins",
+    "AWS",
+    "Vercel",
+    "Replicate",
+    "OpenAI API",
+    "AWS Bedrock",
+    "RAG Architecture",
+    "LLM Integration"
+  ],
+  "companies": [
+    "Block",
+    "Cloudflare",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "Backend Developer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "Georgia Tech",
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 418,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:48.707177",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

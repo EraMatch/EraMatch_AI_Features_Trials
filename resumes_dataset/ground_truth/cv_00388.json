@@ -1,0 +1,256 @@
+{
+  "full_name": "Douglas Ball",
+  "email": "douglas.ball@protonmail.com",
+  "location": "East Jonathon, Germany",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Douglas Ball",
+    "email": "douglas.ball@protonmail.com",
+    "phone": "+1-871-828-7153x99156",
+    "location": "East Jonathon, Germany",
+    "linkedin_url": "https://linkedin.com/in/douglas-ball",
+    "github_url": "https://github.com/douglasball",
+    "portfolio_url": "https://douglasball.dev"
+  },
+  "summary": "Mid-level frontend engineering specialist with 4 years building production systems. Skilled in CSS, Dart, Python with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 – Present",
+      "duration_months": 24,
+      "description": "Created accessible UI components using Render, achieving WCAG AA compliance\nImplemented state management solution using Render, reducing API calls by 49%\nCreated progressive web app using Material UI, increasing user engagement by 51%\nIntegrated third-party APIs using Cypress, reducing integration time by 27%",
+      "technologies": [
+        "AWS Amplify",
+        "Cypress",
+        "Render",
+        "Agile",
+        "Material UI",
+        "Progressive Web Apps"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2022-01",
+      "end_date": "2024-03",
+      "duration": "2022-01 – 2024-03",
+      "duration_months": 26,
+      "description": "Created accessible UI components using Component-Driven Development, achieving WCAG AA compliance\nBuilt interactive data visualizations using Tailwind CSS, serving 100+ daily users\nImplemented automated testing framework using Tailwind CSS, achieving 47% code coverage",
+      "technologies": [
+        "Tailwind CSS",
+        "Webpack",
+        "Playwright",
+        "Component-Driven Development",
+        "Dart"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Miller-Davis Youth Program, 2023-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Rock climbing",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Vargas, Lopez and Mcmahon Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "Dart",
+    "Python",
+    "JavaScript",
+    "HTML",
+    "Astro",
+    "React",
+    "Material UI",
+    "Svelte",
+    "Jest",
+    "Storybook",
+    "ESLint",
+    "Firebase",
+    "PostgreSQL",
+    "IndexedDB",
+    "Supabase",
+    "MongoDB",
+    "Netlify",
+    "AWS Amplify",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Agile"
+  ],
+  "companies": [
+    "HashiCorp",
+    "Vercel"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 388,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:33.995667",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "full_name": "Gregory Brown",
+  "email": "gregory.brown@brown.dev",
+  "location": "Port Troy, Japan",
+  "years_of_experience": 8.8,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Gregory Brown",
+    "email": "gregory.brown@brown.dev",
+    "phone": "+1-544-422-5831",
+    "location": "Port Troy, Japan",
+    "linkedin_url": "https://linkedin.com/in/gregory-brown",
+    "github_url": "https://github.com/gregorybrown",
+    "portfolio_url": null
+  },
+  "summary": "Lead data science / ml / ai professional with 9 years driving technical strategy and team excellence. Expert in R, Go, MATLAB with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Designed data warehousing solution using Statistical Modeling, enabling analytics on 100000+ records\nBuilt real-time analytics dashboard using LLM Evaluation, used by 10000+ stakeholders\nEstablished MLOps practices using LLM Evaluation, reducing model deployment time by 38%",
+      "technologies": [
+        "Statistical Modeling",
+        "LLM Evaluation",
+        "BigQuery"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2021-10",
+      "end_date": "2023-11",
+      "duration": "2021-10 – 2023-11",
+      "duration_months": 25,
+      "description": "Implemented NLP solution using SQL, processing 100000+ text documents daily\nBuilt end-to-end ML pipeline using Azure ML, processing 10000+ samples daily\nDeveloped computer vision models using Qdrant, achieving 48% accuracy",
+      "technologies": [
+        "Databricks",
+        "SQL",
+        "Databricks",
+        "Azure ML",
+        "Vector Databases",
+        "Qdrant"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2017-03",
+      "end_date": "2021-09",
+      "duration": "2017-03 – 2021-09",
+      "duration_months": 54,
+      "description": "Built end-to-end ML pipeline using MLflow, processing 5000+ samples daily\nDeveloped data visualization tools using Snowflake, used by 50000+ analysts\nDesigned data warehousing solution using OpenAI API, enabling analytics on 10000+ records",
+      "technologies": [
+        "Databricks",
+        "Deep Learning",
+        "Snowflake",
+        "MLflow",
+        "OpenAI API"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2018",
+      "gpa": "3.57",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Spencer-Wood Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "Go",
+    "MATLAB",
+    "Hugging Face",
+    "JAX",
+    "LangChain",
+    "Keras",
+    "Neptune",
+    "NumPy",
+    "Airflow",
+    "Dask",
+    "Snowflake",
+    "Weaviate",
+    "ChromaDB",
+    "Lambda Labs",
+    "Databricks",
+    "AWS SageMaker",
+    "Bedrock",
+    "Azure ML",
+    "Computer Vision",
+    "Prompt Engineering",
+    "A/B Testing"
+  ],
+  "companies": [
+    "ParseLab",
+    "ParseLab",
+    "Stripe"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Research Scientist",
+    "Research Scientist"
+  ],
+  "universities": [
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 73,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:55.206246",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

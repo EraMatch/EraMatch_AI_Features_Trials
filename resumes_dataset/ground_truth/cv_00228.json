@@ -1,0 +1,350 @@
+{
+  "full_name": "Stephanie Mahoney",
+  "email": "stephanie.mahoney@outlook.com",
+  "location": "Lake Anthony, Singapore",
+  "years_of_experience": 9.2,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Stephanie Mahoney",
+    "email": "stephanie.mahoney@outlook.com",
+    "phone": "523-512-2099x499",
+    "location": "Lake Anthony, Singapore",
+    "linkedin_url": "https://linkedin.com/in/stephanie-mahoney",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead backend engineering professional with 9 years driving technical strategy and team excellence. Expert in Node.js, PHP, LlamaIndex with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Designed and implemented message queue system using FastAPI, processing 100000+ messages/hour\nReduced infrastructure costs by 16% through optimization using RAG Architecture",
+      "technologies": [
+        "RAG Architecture",
+        "ArgoCD",
+        "CI/CD",
+        "FastAPI",
+        "AWS Bedrock"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2019-10",
+      "end_date": "2022-03",
+      "duration": "2019-10 – 2022-03",
+      "duration_months": 29,
+      "description": "Built event-driven architecture using RabbitMQ, processing 500+ events daily\nDesigned and implemented message queue system using Redis, processing 100+ messages/hour",
+      "technologies": [
+        "LLM Integration",
+        "Flask",
+        "RabbitMQ",
+        "Anthropic",
+        "Redis",
+        "PlanetScale"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2018-09",
+      "end_date": "2019-08",
+      "duration": "2018-09 – 2019-08",
+      "duration_months": 11,
+      "description": "Developed real-time data processing pipeline using Claude API, handling 10000+ logs/second\nLed migration from monolithic to microservices using Spring Boot, improving system scalability by 33%\nArchitected and built RESTful APIs serving 100000+ requests/day using Spring Boot, reducing response time by 57%\nDesigned and implemented microservices architecture using Gin, handling 100+ concurrent users",
+      "technologies": [
+        "Java",
+        "Claude API",
+        "Spring Boot",
+        "Gin",
+        "AWS Bedrock",
+        "Hugging Face"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2016-01",
+      "end_date": "2018-04",
+      "duration": "2016-01 – 2018-04",
+      "duration_months": 27,
+      "description": "Designed and implemented microservices architecture using Azure OpenAI, handling 500+ concurrent users\nLed migration from monolithic to microservices using Cassandra, improving system scalability by 20%\nLed migration from monolithic to microservices using Azure OpenAI, improving system scalability by 68%\nDesigned and implemented microservices architecture using CockroachDB, handling 1000+ concurrent users",
+      "technologies": [
+        "Azure OpenAI",
+        "Cassandra",
+        "CockroachDB"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": "3.89",
+      "activities": null
+    },
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "M.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2014",
+      "gpa": "3.81",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Java",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Read live maybe painting Republican\" — CVPR 2023",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at White-Hughes Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "PHP",
+    "LlamaIndex",
+    "Flask",
+    "Spring Boot",
+    "FastAPI",
+    "Cassandra",
+    "SQLite",
+    "Redis",
+    "DynamoDB",
+    "PostgreSQL",
+    "Nginx",
+    "Ansible",
+    "Git",
+    "Terraform",
+    "DigitalOcean",
+    "Cloudflare",
+    "Fly.io",
+    "Vercel",
+    "Replicate",
+    "Anthropic",
+    "AWS Bedrock",
+    "OpenAI API",
+    "REST API Design",
+    "CI/CD",
+    "RAG Architecture",
+    "Scrum"
+  ],
+  "companies": [
+    "Figma",
+    "DeployFast",
+    "Uber",
+    "CodeCraft Studios"
+  ],
+  "job_titles": [
+    "API Developer",
+    "Server-Side Developer",
+    "AI Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "NUS",
+    "Technion"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 228,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:12.186895",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

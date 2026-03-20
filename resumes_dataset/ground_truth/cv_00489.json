@@ -1,0 +1,289 @@
+{
+  "full_name": "Earl Hernandez",
+  "email": "earl.hernandez@outlook.com",
+  "location": "Rivaston, Brazil",
+  "years_of_experience": 5.0,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Earl Hernandez",
+    "email": "earl.hernandez@outlook.com",
+    "phone": "001-701-593-5889",
+    "location": "Rivaston, Brazil",
+    "linkedin_url": null,
+    "github_url": "https://github.com/earlhernandez",
+    "portfolio_url": null
+  },
+  "summary": "Senior devops / sre / mlops engineer with 5 years of experience architecting and delivering enterprise solutions. Expert in Python, Go, YAML with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2023-11",
+      "end_date": "Present",
+      "duration": "2023-11 – Present",
+      "duration_months": 28,
+      "description": "Implemented security scanning using Argo Workflows, identifying 500+ vulnerabilities\nCreated self-service provisioning portal using  Triton Inference Server, serving 5000+ engineers\nCreated self-service provisioning portal using VictoriaMetrics, serving 100000+ engineers\nImplemented log aggregation using PagerDuty, processing 100000+ logs/day",
+      "technologies": [
+        "Argo Workflows",
+        "VictoriaMetrics",
+        "Kubeflow",
+        "PagerDuty",
+        "K3s",
+        " Triton Inference Server"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-03",
+      "end_date": "2023-11",
+      "duration": "2023-03 – 2023-11",
+      "duration_months": 8,
+      "description": "Built CI/CD pipelines using GitLab CI, reducing deployment time from 27s to 268ms\nBuilt automated backup solution using Incident Management, ensuring 100000% data protection\nEstablished chaos engineering practices using Incident Management, improving system resilience\nCreated self-service provisioning portal using Chaos Engineering, serving 100000+ engineers",
+      "technologies": [
+        "Go",
+        "Chaos Engineering",
+        "Incident Management",
+        "Pulumi",
+        "GitLab CI"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2021-02",
+      "end_date": "2023-02",
+      "duration": "2021-02 – 2023-02",
+      "duration_months": 24,
+      "description": "Built automated backup solution using CDK, ensuring 50000% data protection\nImplemented log aggregation using Alibaba Cloud, processing 5000+ logs/day\nDesigned and implemented infrastructure as code using CDK, managing 10000+ servers\nOptimized cloud infrastructure using Go, reducing costs by 40%",
+      "technologies": [
+        "Alibaba Cloud",
+        "CDK",
+        "Go",
+        "Skopeo"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Linux Club"
+    },
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Built Infrastructure as Code with YAML and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "YAML",
+        "Python",
+        "Go"
+      ],
+      "url": "https://github.com/earlhernandez/feature-store",
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "HashiCorp Terraform Associate",
+      "issuer": "HashiCorp",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Music production",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Go",
+    "YAML",
+    "Ansible",
+    "ArgoCD",
+    "Envoy",
+    "Podman",
+    "Azure DevOps",
+    "GitHub Actions",
+    "ELK Stack",
+    "Thanos",
+    "Opsgenie",
+    "Grafana",
+    "Hetzner",
+    "GCP",
+    "Seldon",
+    "MLflow",
+    "GitOps",
+    "Zero Trust"
+  ],
+  "companies": [
+    "Vercel",
+    "Airbnb",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "Release Engineer",
+    "Platform Engineer",
+    "SRE"
+  ],
+  "universities": [
+    "Purdue University",
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 489,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:41:23.400894",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

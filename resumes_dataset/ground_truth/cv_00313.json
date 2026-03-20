@@ -1,0 +1,289 @@
+{
+  "full_name": "Mr. Ryan Camacho",
+  "email": "mr..ryan.camacho@gmail.com",
+  "location": "South Samantha, France",
+  "years_of_experience": 3.1,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mr. Ryan Camacho",
+    "email": "mr..ryan.camacho@gmail.com",
+    "phone": "551-234-2284",
+    "location": "South Samantha, France",
+    "linkedin_url": "https://linkedin.com/in/mr.-ryan-camacho",
+    "github_url": null,
+    "portfolio_url": "https://mrryancamacho.dev"
+  },
+  "summary": "Results-driven backend engineering professional with 3 years of experience designing and implementing scalable solutions using Rust, Node.js, ASP.NET. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "duration": "2023-12 – Present",
+      "duration_months": 27,
+      "description": "Developed real-time data processing pipeline using ASP.NET, handling 1000+ queries/second\nDesigned and implemented microservices architecture using PHP, handling 10000+ concurrent users\nImplemented caching layer with CockroachDB, reducing database load by 22%",
+      "technologies": [
+        "PHP",
+        "CockroachDB",
+        "ASP.NET",
+        "Google Gemini",
+        "Supabase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-10",
+      "end_date": "2023-08",
+      "duration": "2022-10 – 2023-08",
+      "duration_months": 10,
+      "description": "Created authentication and authorization system using FastAPI, securing 100+ user accounts\nLed migration from monolithic to microservices using GitHub Actions, improving system scalability by 24%\nLed migration from monolithic to microservices using CI/CD, improving system scalability by 56%\nOptimized database queries using CI/CD, improving query performance by 19%",
+      "technologies": [
+        "TypeScript",
+        "GitHub Actions",
+        "FastAPI",
+        "CI/CD"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "B.A.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Designed and implemented Search Engine with LangChain, integrating with Node.js for seamless data flow",
+      "technologies": [
+        "LangChain",
+        "Rust",
+        "Node.js"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Developed Auth Service using NestJS, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "NestJS",
+        "Node.js",
+        "Flask"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Graph Query Builder",
+      "description": "Created Database Proxy leveraging Flask for core functionality and LangChain for optimization",
+      "technologies": [
+        "Flask",
+        "NestJS",
+        "LangChain"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Node.js",
+    "ASP.NET",
+    "FastAPI",
+    "Flask",
+    "LangChain",
+    "NestJS",
+    "Redis",
+    "Neon",
+    "MySQL",
+    "PlanetScale",
+    "Jenkins",
+    "Docker",
+    "Azure",
+    "GCP",
+    "Cloudflare",
+    "Hugging Face",
+    "OpenAI API",
+    "GraphQL",
+    "CI/CD",
+    "REST API Design",
+    "Agile",
+    "Microservices"
+  ],
+  "companies": [
+    "SkillBridge",
+    "CloudNova"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "UIUC"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 313,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:55.128603",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

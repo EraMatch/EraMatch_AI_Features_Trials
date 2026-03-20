@@ -1,0 +1,278 @@
+{
+  "full_name": "Robert Frazier",
+  "email": "robert.frazier@yahoo.com",
+  "location": "Port Juliantown, France",
+  "years_of_experience": 7.2,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Robert Frazier",
+    "email": "robert.frazier@yahoo.com",
+    "phone": "(251)790-9862x40580",
+    "location": "Port Juliantown, France",
+    "linkedin_url": "https://linkedin.com/in/robert-frazier",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in mobile development with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Java, Kotlin, C++.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2022-11",
+      "end_date": "Present",
+      "duration": "2022-11 – Present",
+      "duration_months": 40,
+      "description": "Optimized app performance using Supabase, reducing battery consumption by 15%\nDeveloped mobile application using Hive, achieving 100000+ downloads\nCreated in-app purchase integration using Jetpack Compose, generating 1000+ in revenue\nBuilt AR/VR features using Supabase, increasing user retention by 59%",
+      "technologies": [
+        "Supabase",
+        "Firebase Firestore",
+        "Firebase",
+        "Hive",
+        "SwiftUI",
+        "Jetpack Compose"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2018-07",
+      "end_date": "2022-05",
+      "duration": "2018-07 – 2022-05",
+      "duration_months": 46,
+      "description": "Built widget functionality using Java, increasing daily active users by 20%\nBuilt offline-first architecture using TypeScript, improving app responsiveness by 47%\nDeveloped mobile application using Clean Architecture, achieving 10000+ downloads\nImplemented push notification system using Java, increasing user engagement by 35%",
+      "technologies": [
+        "Clean Architecture",
+        "TypeScript",
+        "CocoaPods",
+        "Java",
+        "Jetpack Compose"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "Ph.D.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2019",
+      "gpa": "3.49",
+      "activities": "Mobile Development Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Created iOS Application leveraging Kotlin for core functionality and React Native for optimization",
+      "technologies": [
+        "Expo",
+        "React Native",
+        "Kotlin"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Built Mobile Backend API with Java and SwiftUI, serving 10,000+ daily active users",
+      "technologies": [
+        "SwiftUI",
+        "Kotlin",
+        "Java"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Yoga",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"It opportunity personal Republican image itself deep\" — ICML 2020",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Little could his under style child\" — ICML 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "Kotlin",
+    "C++",
+    "Flutter",
+    "React Native",
+    "Expo",
+    "SwiftUI",
+    "Jetpack Compose",
+    "CocoaPods",
+    "Xcode",
+    "Hive",
+    "Firebase Firestore",
+    "SQLite",
+    "Realm",
+    "Core Data",
+    "Firebase",
+    "RevenueCat",
+    "Supabase",
+    "AWS Amplify",
+    "MVVM",
+    "App Store Optimization"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "Flutter Developer",
+    "iOS Developer"
+  ],
+  "universities": [
+    "UIUC"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 248,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:22.533946",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

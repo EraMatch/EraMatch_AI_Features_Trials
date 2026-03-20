@@ -1,0 +1,276 @@
+{
+  "full_name": "Anna Briggs",
+  "email": "anna.briggs@protonmail.com",
+  "location": "Lake Jessica, Brazil",
+  "years_of_experience": 6.9,
+  "seniority_level": "senior",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Anna Briggs",
+    "email": "anna.briggs@protonmail.com",
+    "phone": "(416)367-4676",
+    "location": "Lake Jessica, Brazil",
+    "linkedin_url": "https://linkedin.com/in/anna-briggs",
+    "github_url": "https://github.com/annabriggs",
+    "portfolio_url": "https://annabriggs.dev"
+  },
+  "summary": "Senior product management engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in Python, JavaScript, SQL with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Technical PM",
+      "title": "Technical PM",
+      "start_date": "2024-12",
+      "end_date": "Present",
+      "duration": "2024-12 – Present",
+      "duration_months": 15,
+      "description": "Implemented user onboarding using Jira, improving retention by 27%\nLed agile product development using OKRs, delivering 10000+ sprints",
+      "technologies": [
+        "SQL",
+        "OKRs",
+        "PostgreSQL",
+        "Jira",
+        "Amplitude",
+        "Product Discovery"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2020-07",
+      "end_date": "2024-10",
+      "duration": "2020-07 – 2024-10",
+      "duration_months": 51,
+      "description": "Conducted user research using Mixpanel, interviewing 50000+ users\nCreated product documentation using A/B Testing, serving 50000+ stakeholders\nImplemented user onboarding using Mixpanel, improving retention by 57%\nImplemented user onboarding using A/B Testing, improving retention by 60%",
+      "technologies": [
+        "Product Discovery",
+        "A/B Testing",
+        "Aha!",
+        "Mixpanel",
+        "OKRs"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Senior Product Manager",
+      "title": "Senior Product Manager",
+      "start_date": "2018-11",
+      "end_date": "2020-04",
+      "duration": "2018-11 – 2020-04",
+      "duration_months": 17,
+      "description": "Developed product roadmap using Miro, prioritizing 500+ features\nBuilt customer feedback system using Miro, collecting 500+ insights\nBuilt customer feedback system using Miro, collecting 1000+ insights",
+      "technologies": [
+        "BigQuery",
+        "Miro",
+        "Google Analytics",
+        "Hotjar"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "M.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2019",
+      "gpa": "2.96",
+      "activities": "Startup Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Aha!",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mixpanel",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Product Discovery",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OKRs",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Built Customer Feedback System with Confluence and SQL, serving 10,000+ daily active users",
+      "technologies": [
+        "Confluence",
+        "Aha!",
+        "SQL"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Product Management Certificate",
+      "issuer": "Product School",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — Company Internal 2019",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Garcia PLC Youth Program, 2022-Present",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Pham-Gregory Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "JavaScript",
+    "SQL",
+    "R",
+    "Confluence",
+    "Aha!",
+    "Tableau",
+    "Hotjar",
+    "Mixpanel",
+    "Google Analytics",
+    "PostgreSQL",
+    "BigQuery",
+    "GCP",
+    "AWS",
+    "Agile",
+    "Product Discovery",
+    "User Research"
+  ],
+  "companies": [
+    "Palantir",
+    "Block",
+    "Uber"
+  ],
+  "job_titles": [
+    "Technical PM",
+    "VP of Product",
+    "Senior Product Manager"
+  ],
+  "universities": [
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 162,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:38:39.857704",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "full_name": "Jessica Diaz",
+  "email": "jessica.diaz@gmail.com",
+  "location": "Kimfurt, USA",
+  "years_of_experience": 3.2,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jessica Diaz",
+    "email": "jessica.diaz@gmail.com",
+    "phone": "663-668-8725x887",
+    "location": "Kimfurt, USA",
+    "linkedin_url": "https://linkedin.com/in/jessica-diaz",
+    "github_url": "https://github.com/jessicadiaz",
+    "portfolio_url": null
+  },
+  "summary": "Results-driven devops / sre / mlops professional with 3 years of experience designing and implementing scalable solutions using Go, Bash, YAML. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2023-10",
+      "end_date": "Present",
+      "duration": "2023-10 – Present",
+      "duration_months": 29,
+      "description": "Built CI/CD pipelines using DigitalOcean, reducing deployment time from 21s to 483ms\nImplemented security scanning using Buildah, identifying 10000+ vulnerabilities\nBuilt CI/CD pipelines using Tekton, reducing deployment time from 11s to 409ms",
+      "technologies": [
+        "Tekton",
+        "Podman",
+        "PowerShell",
+        "DigitalOcean",
+        "Buildah",
+        "Thanos"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2022-07",
+      "end_date": "2023-05",
+      "duration": "2022-07 – 2023-05",
+      "duration_months": 10,
+      "description": "Established chaos engineering practices using Oracle Cloud, improving system resilience\nOptimized cloud infrastructure using Oracle Cloud, reducing costs by 44%",
+      "technologies": [
+        "Chaos Engineering",
+        " Triton Inference Server",
+        "Incident Management",
+        "Oracle Cloud",
+        "Kubernetes",
+        "PowerShell"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2022",
+      "gpa": "3.09",
+      "activities": "SRE Team"
+    },
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2020",
+      "gpa": "2.88",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Game development as hobby",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Talk process security land record class\" — NeurIPS 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Bash",
+    "YAML",
+    "Python",
+    "Pulumi",
+    "CDK",
+    "CloudFormation",
+    "Terraform",
+    "ArgoCD",
+    "Buildah",
+    "Podman",
+    "K3s",
+    "Skopeo",
+    "Kubernetes",
+    "Argo Workflows",
+    "Azure DevOps",
+    "Jenkins",
+    "Tekton",
+    "VictoriaMetrics",
+    "ELK Stack",
+    "Thanos",
+    "Datadog",
+    "Azure",
+    "Alibaba Cloud",
+    "Linode",
+    "GCP",
+    "Hetzner",
+    " Triton Inference Server",
+    "MLflow",
+    "Seldon",
+    "Incident Management",
+    "Zero Trust",
+    "Infrastructure as Code",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "Snowflake",
+    "ResumeAI"
+  ],
+  "job_titles": [
+    "Infrastructure Engineer",
+    "Release Engineer"
+  ],
+  "universities": [
+    "EPFL",
+    "UT Austin"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 187,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:52.117673",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

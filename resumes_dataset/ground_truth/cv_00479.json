@@ -1,0 +1,230 @@
+{
+  "full_name": "Crystal Burgess",
+  "email": "crystal.burgess@outlook.com",
+  "location": "Bradleystad, Japan",
+  "years_of_experience": 6.2,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Crystal Burgess",
+    "email": "crystal.burgess@outlook.com",
+    "phone": "+1-990-403-0102",
+    "location": "Bradleystad, Japan",
+    "linkedin_url": "https://linkedin.com/in/crystal-burgess",
+    "github_url": "https://github.com/crystalburgess",
+    "portfolio_url": "https://crystalburgess.dev"
+  },
+  "summary": "Seasoned software professional with deep expertise in Python, SQL, and R. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": "2023-08 – Present",
+      "duration_months": 31,
+      "description": "Created recommendation system using Polars, increasing user engagement by 69%\nDesigned data warehousing solution using Keras, enabling analytics on 100+ records",
+      "technologies": [
+        "LLM Evaluation",
+        "Keras",
+        "Polars"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2019-11",
+      "end_date": "2023-07",
+      "duration": "2019-11 – 2023-07",
+      "duration_months": 44,
+      "description": "Built ML model serving infrastructure using MATLAB, handling 500+ predictions/day\nDeveloped data visualization tools using MATLAB, used by 1000+ analysts",
+      "technologies": [
+        "AWS SageMaker",
+        "MATLAB",
+        "OpenCV",
+        "MLflow",
+        "LangChain"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "M.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — Google DevFest 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "SQL",
+    "R",
+    "Julia",
+    "XGBoost",
+    "Keras",
+    "Weights & Biases",
+    "Dask",
+    "DVC",
+    "Pinecone",
+    "Weaviate",
+    "Azure ML",
+    "Lambda Labs",
+    "Bedrock",
+    "Vector Databases",
+    "Fine-tuning",
+    "Feature Engineering",
+    "MLOps",
+    "Prompt Engineering"
+  ],
+  "companies": [
+    "Nvidia",
+    "Confluent"
+  ],
+  "job_titles": [
+    "AI Product Engineer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "University of Toronto"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 479,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:41:18.699604",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

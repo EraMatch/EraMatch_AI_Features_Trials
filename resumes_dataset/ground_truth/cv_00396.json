@@ -1,0 +1,308 @@
+{
+  "full_name": "Carolyn Rowland",
+  "email": "carolyn.rowland@yahoo.com",
+  "location": "Lake Loribury, Netherlands",
+  "years_of_experience": 7.2,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Carolyn Rowland",
+    "email": "carolyn.rowland@yahoo.com",
+    "phone": "+1-703-540-8487x29758",
+    "location": "Lake Loribury, Netherlands",
+    "linkedin_url": null,
+    "github_url": "https://github.com/carolynrowland",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in frontend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Python, Dart, JavaScript.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2025-07",
+      "end_date": "Present",
+      "duration": "2025-07 – Present",
+      "duration_months": 8,
+      "description": "Developed design system using Tailwind CSS, standardizing UI across 100+ applications\nCreated progressive web app using Vite, increasing user engagement by 48%",
+      "technologies": [
+        "Tailwind CSS",
+        "HTML",
+        "MongoDB",
+        "ESLint",
+        "Supabase",
+        "Vite"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2021-01",
+      "end_date": "2025-05",
+      "duration": "2021-01 – 2025-05",
+      "duration_months": 52,
+      "description": "Created progressive web app using Next.js, increasing user engagement by 26%\nDeveloped responsive web applications using Next.js, improving page load time by 26%\nCreated accessible UI components using Next.js, achieving WCAG AA compliance",
+      "technologies": [
+        "Playwright",
+        "MongoDB",
+        "CSS",
+        "Supabase",
+        "Next.js",
+        "Render"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2018-06",
+      "end_date": "2020-09",
+      "duration": "2018-06 – 2020-09",
+      "duration_months": 27,
+      "description": "Improved website accessibility score to 70% using Bootstrap\nImplemented automated testing framework using Python, achieving 62% code coverage\nCreated progressive web app using Bootstrap, increasing user engagement by 32%\nBuilt interactive data visualizations using Git, serving 100+ daily users",
+      "technologies": [
+        "Prettier",
+        "Bootstrap",
+        "Figma",
+        "Python",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "B.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Design Team Lead"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Log Aggregator",
+      "description": "Designed and implemented E-commerce Platform with Next.js, integrating with Svelte for seamless data flow",
+      "technologies": [
+        "CSS",
+        "Next.js",
+        "Svelte"
+      ],
+      "url": "https://github.com/carolynrowland/log-aggregator",
+      "date": "2024"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Developed Content Management UI using CSS, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Dart",
+        "JavaScript",
+        "CSS"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Dutch (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Lopez LLC Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Dart",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Remix",
+    "Svelte",
+    "Next.js",
+    "Webpack",
+    "Prettier",
+    "ESLint",
+    "Git",
+    "IndexedDB",
+    "PostgreSQL",
+    "MongoDB",
+    "Firebase",
+    "AWS Amplify",
+    "Vercel",
+    "Render",
+    "Cloudflare Pages",
+    "Responsive Design",
+    "Accessibility (WCAG)",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "HashiCorp",
+    "TechFlow AI",
+    "ResumeAI"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "Web Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "Stanford University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 396,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:37.857174",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

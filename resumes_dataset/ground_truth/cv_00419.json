@@ -1,0 +1,393 @@
+{
+  "full_name": "Brandi Carrillo",
+  "email": "brandi.carrillo@carrillo.dev",
+  "location": "Martinberg, UAE",
+  "years_of_experience": 12.2,
+  "seniority_level": "principal",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Brandi Carrillo",
+    "email": "brandi.carrillo@carrillo.dev",
+    "phone": "929-400-1851x327",
+    "location": "Martinberg, UAE",
+    "linkedin_url": "https://linkedin.com/in/brandi-carrillo",
+    "github_url": "https://github.com/brandicarrillo",
+    "portfolio_url": "https://brandicarrillo.dev"
+  },
+  "summary": "Distinguished technologist with 12 years shaping devops / sre / mlops practice. Deep expertise in YAML, Bash, Crossplane and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 – Present",
+      "duration_months": 37,
+      "description": "Created self-service provisioning portal using VictoriaMetrics, serving 100000+ engineers\nCreated self-service provisioning portal using Zero Trust, serving 1000+ engineers",
+      "technologies": [
+        "Jenkins",
+        "Zero Trust",
+        "Podman",
+        "VictoriaMetrics"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2021-07",
+      "end_date": "2022-12",
+      "duration": "2021-07 – 2022-12",
+      "duration_months": 17,
+      "description": "Established GitOps workflows using Argo Workflows, improving deployment frequency by 54%\nDesigned and implemented infrastructure as code using Alibaba Cloud, managing 10000+ servers\nEstablished chaos engineering practices using CloudFormation, improving system resilience\nImplemented container orchestration using Argo Workflows, managing 1000+ containers",
+      "technologies": [
+        "Argo Workflows",
+        "Podman",
+        "Thanos",
+        "CloudFormation",
+        "Alibaba Cloud"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2020-10",
+      "end_date": "2021-05",
+      "duration": "2020-10 – 2021-05",
+      "duration_months": 7,
+      "description": "Built disaster recovery solution using PowerShell, achieving RTO of 341ms\nDesigned and implemented infrastructure as code using TorchServe, managing 5000+ servers\nBuilt CI/CD pipelines using Kubeflow, reducing deployment time from 5s to 254ms\nCreated monitoring and alerting system using CDK, reducing MTTR by 32%",
+      "technologies": [
+        "PowerShell",
+        "Kubeflow",
+        "ELK Stack",
+        "TorchServe",
+        "CDK"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2017-11",
+      "end_date": "2020-10",
+      "duration": "2017-11 – 2020-10",
+      "duration_months": 35,
+      "description": "Implemented security scanning using Alibaba Cloud, identifying 50000+ vulnerabilities\nBuilt CI/CD pipelines using Alibaba Cloud, reducing deployment time from 23s to 50ms\nCreated self-service provisioning portal using CloudFormation, serving 1000+ engineers\nBuilt CI/CD pipelines using CloudFormation, reducing deployment time from 19s to 171ms",
+      "technologies": [
+        "CloudFormation",
+        "VictoriaMetrics",
+        "Hetzner",
+        "Buildah",
+        "Alibaba Cloud"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2013-08",
+      "end_date": "2017-10",
+      "duration": "2013-08 – 2017-10",
+      "duration_months": 50,
+      "description": "Created monitoring and alerting system using  Triton Inference Server, reducing MTTR by 64%\nEstablished chaos engineering practices using Grafana, improving system resilience\nBuilt automated backup solution using Grafana, ensuring 100000% data protection",
+      "technologies": [
+        "Grafana",
+        " Triton Inference Server",
+        "Alibaba Cloud"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": "Linux Club"
+    },
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prompt Playground",
+      "description": "Created Infrastructure as Code leveraging Bash for core functionality and YAML for optimization",
+      "technologies": [
+        "YAML",
+        "Bash",
+        "Thanos"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Argue reality physical but stay bill father\" — NeurIPS 2022",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Tanner, Perry and Smith Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "YAML",
+    "Bash",
+    "Crossplane",
+    "Ansible",
+    "ArgoCD",
+    "Terraform",
+    "Kubernetes",
+    "Podman",
+    "Jenkins",
+    "Azure DevOps",
+    "GitLab CI",
+    "Argo Workflows",
+    "Tekton",
+    "PagerDuty",
+    "Datadog",
+    "ELK Stack",
+    "Thanos",
+    "VictoriaMetrics",
+    "DigitalOcean",
+    "Linode",
+    "MLflow",
+    " Triton Inference Server",
+    "TorchServe",
+    "Seldon",
+    "Kubeflow",
+    "MLOps",
+    "SRE Practices",
+    "Incident Management",
+    "Infrastructure as Code"
+  ],
+  "companies": [
+    "Spotify",
+    "PipelineIO",
+    "Tesla",
+    "Block",
+    "Notion"
+  ],
+  "job_titles": [
+    "Cloud Engineer",
+    "DevOps Engineer",
+    "SRE",
+    "Platform Engineer",
+    "DevOps Engineer"
+  ],
+  "universities": [
+    "IIT Bombay",
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 419,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:49.157081",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

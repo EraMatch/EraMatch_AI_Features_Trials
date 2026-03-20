@@ -1,0 +1,234 @@
+{
+  "full_name": "Danny Lowe PhD",
+  "email": "danny.lowe.phd@phd.dev",
+  "location": "North Thomas, Canada",
+  "years_of_experience": 4.3,
+  "seniority_level": "mid",
+  "primary_domain": "General IT",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Danny Lowe PhD",
+    "email": "danny.lowe.phd@phd.dev",
+    "phone": "340-579-3110x2918",
+    "location": "North Thomas, Canada",
+    "linkedin_url": "https://linkedin.com/in/danny-lowe-phd",
+    "github_url": "https://github.com/dannylowephd",
+    "portfolio_url": "https://dannylowephd.dev"
+  },
+  "summary": "Experienced software engineer with expertise in VBA, Bash, and Python. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Help Desk Analyst",
+      "title": "Help Desk Analyst",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Managed cloud infrastructure using ITIL, optimizing costs by 20%\nCreated IT documentation using VBA, serving 500+ employees\nCreated IT documentation using Exchange, serving 50000+ employees",
+      "technologies": [
+        "VBA",
+        "Help Desk",
+        "Exchange",
+        "VMware",
+        "ITIL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "IT Support Engineer",
+      "title": "IT Support Engineer",
+      "start_date": "2021-11",
+      "end_date": "2022-07",
+      "duration": "2021-11 – 2022-07",
+      "duration_months": 8,
+      "description": "Created user training materials using Python, training 100+ employees\nBuilt monitoring dashboards using System Administration, tracking 100000+ metrics\nCreated user training materials using SQL, training 5000+ employees",
+      "technologies": [
+        "SQL",
+        "Python",
+        "System Administration"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Dean's List"
+    },
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "VBA",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SharePoint",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Active Directory",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VMware",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Intune",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hyper-V",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "System Administration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Change Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ITIL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Help Desk",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — IEEE 2023",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "VBA",
+    "Bash",
+    "Python",
+    "SQL",
+    "Exchange",
+    "SharePoint",
+    "Active Directory",
+    "VMware",
+    "Intune",
+    "Hyper-V",
+    "PostgreSQL",
+    "SQL Server",
+    "Azure",
+    "Google Workspace",
+    "AWS",
+    "System Administration",
+    "Change Management"
+  ],
+  "companies": [
+    "InfraCore",
+    "Datadog"
+  ],
+  "job_titles": [
+    "Help Desk Analyst",
+    "IT Support Engineer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 466,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:41:12.641649",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "full_name": "Mackenzie Compton",
+  "email": "mackenzie.compton@compton.dev",
+  "location": "New Dianeshire, UAE",
+  "years_of_experience": 1.9,
+  "seniority_level": "junior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mackenzie Compton",
+    "email": "mackenzie.compton@compton.dev",
+    "phone": "418-642-6945x00534",
+    "location": "New Dianeshire, UAE",
+    "linkedin_url": "https://linkedin.com/in/mackenzie-compton",
+    "github_url": "https://github.com/mackenziecompton",
+    "portfolio_url": null
+  },
+  "summary": "Junior devops / sre / mlops developer with 2 years of experience building applications using Python, YAML, CDK. Committed to writing clean, maintainable code.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2024-04",
+      "end_date": "Present",
+      "duration": "2024-04 – Present",
+      "duration_months": 23,
+      "description": "Built CI/CD pipelines using ELK Stack, reducing deployment time from 3s to 417ms\nImplemented container orchestration using ELK Stack, managing 1000+ containers\nImplemented container orchestration using MLOps, managing 5000+ containers\nImplemented container orchestration using YAML, managing 5000+ containers",
+      "technologies": [
+        "Pulumi",
+        "YAML",
+        "MLOps",
+        "Thanos",
+        "ELK Stack"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2025",
+      "gpa": null,
+      "activities": "Dean's List"
+    },
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2024",
+      "gpa": "3.15",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prompt Playground",
+      "description": "Built CI/CD Pipeline with YAML and Prometheus, serving 10,000+ daily active users",
+      "technologies": [
+        "Python",
+        "YAML",
+        "Prometheus"
+      ],
+      "url": "https://github.com/mackenziecompton/prompt-playground",
+      "date": "2023"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Developed Infrastructure as Code using AWS, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "YAML",
+        "AWS"
+      ],
+      "url": "https://github.com/mackenziecompton/autoscale-monitor",
+      "date": "2019"
+    },
+    {
+      "name": "ChatBot Framework",
+      "description": "Designed Infrastructure as Code leveraging Python microservices architecture with AWS for caching",
+      "technologies": [
+        "Python",
+        "YAML",
+        "AWS"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Sharp Ltd Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "YAML",
+    "CDK",
+    "Pulumi",
+    "Crossplane",
+    "ArgoCD",
+    "Envoy",
+    "Linkerd",
+    "Skopeo",
+    "Docker",
+    "Argo Workflows",
+    "GitLab CI",
+    "Tekton",
+    "CircleCI",
+    "GitHub Actions",
+    "Opsgenie",
+    "PagerDuty",
+    "Prometheus",
+    "VictoriaMetrics",
+    "AWS",
+    "DigitalOcean",
+    "Kale",
+    "MLflow",
+    "TorchServe",
+    "Chaos Engineering",
+    "Incident Management",
+    "GitOps",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "DeployFast"
+  ],
+  "job_titles": [
+    "Release Engineer"
+  ],
+  "universities": [
+    "UC Berkeley",
+    "Columbia University"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 416,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:47.828486",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

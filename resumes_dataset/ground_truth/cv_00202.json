@@ -1,0 +1,338 @@
+{
+  "full_name": "Mark Ferguson",
+  "email": "mark.ferguson@yahoo.com",
+  "location": "West Justin, Australia",
+  "years_of_experience": 7.1,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mark Ferguson",
+    "email": "mark.ferguson@yahoo.com",
+    "phone": "(278)231-7456x424",
+    "location": "West Justin, Australia",
+    "linkedin_url": "https://linkedin.com/in/mark-ferguson",
+    "github_url": "https://github.com/markferguson",
+    "portfolio_url": "https://markferguson.dev"
+  },
+  "summary": "Seasoned software professional with deep expertise in TypeScript, Java, and Python. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 – Present",
+      "duration_months": 37,
+      "description": "Built event-driven architecture using GCP, processing 10000+ events daily\nReduced infrastructure costs by 42% through optimization using CockroachDB\nBuilt event-driven architecture using GCP, processing 1000+ events daily",
+      "technologies": [
+        "Node.js",
+        "Spring Boot",
+        "GCP",
+        "CockroachDB",
+        "Cloudflare"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2019-12",
+      "end_date": "2023-02",
+      "duration": "2019-12 – 2023-02",
+      "duration_months": 38,
+      "description": "Designed and implemented microservices architecture using Gin, handling 50000+ concurrent users\nBuilt event-driven architecture using Java, processing 100000+ events daily\nArchitected and built RESTful APIs serving 100+ requests/day using Gin, reducing response time by 29%",
+      "technologies": [
+        "Java",
+        "Gin",
+        "Agile"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2018-10",
+      "end_date": "2019-08",
+      "duration": "2018-10 – 2019-08",
+      "duration_months": 10,
+      "description": "Reduced infrastructure costs by 53% through optimization using RabbitMQ\nBuilt event-driven architecture using RabbitMQ, processing 500+ events daily",
+      "technologies": [
+        "Go",
+        "RabbitMQ",
+        "Java"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Hackathon Winner"
+    },
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Log Aggregator",
+      "description": "Implemented Search Engine using Java, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "FastAPI",
+        "Java",
+        "Rails"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "Feature Store",
+      "description": "Designed and implemented User Management API with LlamaIndex, integrating with TypeScript for seamless data flow",
+      "technologies": [
+        "LlamaIndex",
+        "TypeScript",
+        "NestJS"
+      ],
+      "url": "https://github.com/markferguson/feature-store",
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Oracle Certified Professional Java SE",
+      "issuer": "Oracle",
+      "date": "2019",
+      "credential_id": "TA80XB77"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Harper-Robles Youth Program, 2023-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "English (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Java",
+    "Python",
+    "Rails",
+    "LlamaIndex",
+    "NestJS",
+    "FastAPI",
+    "MySQL",
+    "PlanetScale",
+    "Redis",
+    "DynamoDB",
+    "Docker",
+    "RabbitMQ",
+    "Nginx",
+    "Azure",
+    "Render",
+    "Railway",
+    "Claude API",
+    "Azure OpenAI",
+    "Hugging Face",
+    "Google Gemini",
+    "OpenAI API",
+    "Scrum",
+    "RAG Architecture",
+    "Event-Driven Architecture",
+    "GraphQL"
+  ],
+  "companies": [
+    "Twilio",
+    "CodeCraft Studios",
+    "Salesforce"
+  ],
+  "job_titles": [
+    "API Developer",
+    "Platform Engineer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "Technion",
+    "University of Toronto"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 202,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:59.478969",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

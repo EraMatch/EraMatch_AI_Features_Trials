@@ -1,0 +1,314 @@
+{
+  "full_name": "Lauren Miller",
+  "email": "lauren.miller@yahoo.com",
+  "location": "Johnsonhaven, Canada",
+  "years_of_experience": 9.0,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Lauren Miller",
+    "email": "lauren.miller@yahoo.com",
+    "phone": "+1-895-469-0705",
+    "location": "Johnsonhaven, Canada",
+    "linkedin_url": "https://linkedin.com/in/lauren-miller",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead frontend engineering professional with 9 years driving technical strategy and team excellence. Expert in TypeScript, CSS, Dart with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2021-09",
+      "end_date": "Present",
+      "duration": "2021-09 – Present",
+      "duration_months": 54,
+      "description": "Built interactive data visualizations using Firebase, serving 5000+ daily users\nImplemented automated testing framework using Svelte, achieving 70% code coverage\nIntegrated third-party APIs using Firebase, reducing integration time by 28%",
+      "technologies": [
+        "Firebase",
+        "Jest",
+        "Svelte"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2019-08",
+      "end_date": "2021-03",
+      "duration": "2019-08 – 2021-03",
+      "duration_months": 19,
+      "description": "Improved website accessibility score to 27% using JavaScript\nCreated progressive web app using Webpack, increasing user engagement by 64%",
+      "technologies": [
+        "Webpack",
+        "JavaScript",
+        "Astro",
+        "CSS"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2018-06",
+      "end_date": "2019-03",
+      "duration": "2018-06 – 2019-03",
+      "duration_months": 9,
+      "description": "Implemented state management solution using Bootstrap, reducing API calls by 36%\nCreated accessible UI components using Vite, achieving WCAG AA compliance\nCreated accessible UI components using Vite, achieving WCAG AA compliance\nBuilt interactive data visualizations using Vite, serving 10000+ daily users",
+      "technologies": [
+        "AWS Amplify",
+        "Netlify",
+        "Bootstrap",
+        "Vite"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2015-11",
+      "end_date": "2018-01",
+      "duration": "2015-11 – 2018-01",
+      "duration_months": 26,
+      "description": "Built real-time collaboration features using Figma, serving 100+ concurrent users\nDeveloped design system using Render, standardizing UI across 10000+ applications\nCreated progressive web app using Figma, increasing user engagement by 60%",
+      "technologies": [
+        "HTML",
+        "Git",
+        "PostgreSQL",
+        "Accessibility (WCAG)",
+        "Figma",
+        "Render"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2016",
+      "gpa": "2.84",
+      "activities": "UI/UX Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Implemented Form Builder using Astro, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Next.js",
+        "Astro",
+        "Dart"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Built SPA Framework with Dart and Astro, serving 10,000+ daily active users",
+      "technologies": [
+        "Dart",
+        "JavaScript",
+        "Astro"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "ML Model Registry",
+      "description": "Designed Dashboard Application leveraging TypeScript microservices architecture with CSS for caching",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "CSS",
+    "Dart",
+    "JavaScript",
+    "Astro",
+    "Next.js",
+    "Jest",
+    "Figma",
+    "Storybook",
+    "IndexedDB",
+    "Supabase",
+    "MongoDB",
+    "Firebase",
+    "Vercel",
+    "AWS Amplify",
+    "Netlify",
+    "Cloudflare Pages",
+    "Render",
+    "Component-Driven Development",
+    "Agile",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "Nvidia",
+    "Shopify",
+    "Palantir",
+    "Meta"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "Web Developer",
+    "Frontend Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "University of Michigan"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 338,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:08.420521",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

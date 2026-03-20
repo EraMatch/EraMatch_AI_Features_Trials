@@ -1,0 +1,307 @@
+{
+  "full_name": "Matthew Smith",
+  "email": "matthew.smith@smith.dev",
+  "location": "South Matthew, Japan",
+  "years_of_experience": 10.0,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Matthew Smith",
+    "email": "matthew.smith@smith.dev",
+    "phone": "+1-504-317-9291x1179",
+    "location": "South Matthew, Japan",
+    "linkedin_url": "https://linkedin.com/in/matthew-smith",
+    "github_url": "https://github.com/matthewsmith",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Kotlin, C++, and Java. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2022-10",
+      "end_date": "Present",
+      "duration": "2022-10 – Present",
+      "duration_months": 41,
+      "description": "Developed mobile application using TypeScript, achieving 500+ downloads\nDeveloped cross-platform solution using Realm, reducing development time by 50%\nDeveloped cross-platform solution using Supabase, reducing development time by 29%",
+      "technologies": [
+        "TypeScript",
+        "Supabase",
+        "Realm",
+        "Jetpack Compose",
+        "Java"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2019-04",
+      "end_date": "2022-08",
+      "duration": "2019-04 – 2022-08",
+      "duration_months": 40,
+      "description": "Implemented app streaming using Java, reducing download size by 63%\nBuilt widget functionality using C++, increasing daily active users by 18%",
+      "technologies": [
+        "Java",
+        "KMP",
+        "MVVM",
+        "C++"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2015-07",
+      "end_date": "2018-10",
+      "duration": "2015-07 – 2018-10",
+      "duration_months": 39,
+      "description": "Developed cross-platform solution using Firebase, reducing development time by 20%\nImplemented push notification system using TestFlight, increasing user engagement by 39%\nImplemented push notification system using Objective-C, increasing user engagement by 61%",
+      "technologies": [
+        "TestFlight",
+        "Realm",
+        "Firebase",
+        "CocoaPods",
+        "Gradle",
+        "Objective-C"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Implemented Mobile Backend API using Kotlin, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "KMP",
+        "React Native",
+        "Kotlin"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Built In-app Purchase System with Jetpack Compose and TypeScript, serving 10,000+ daily active users",
+      "technologies": [
+        "TypeScript",
+        "Jetpack Compose",
+        "React Native"
+      ],
+      "url": "https://github.com/matthewsmith/token-bucket-limiter",
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2025",
+      "credential_id": "II65UY19"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Competitive programming",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "C++",
+    "Java",
+    "TypeScript",
+    "React Native",
+    "KMP",
+    "UIKit",
+    "Jetpack Compose",
+    "App Center",
+    "Firebase",
+    "Hive",
+    "Realm",
+    "Firebase Firestore",
+    "Core Data",
+    "Supabase",
+    "RevenueCat",
+    "AWS Amplify",
+    "Firebase",
+    "Offline-First",
+    "App Store Optimization",
+    "MVVM",
+    "CI/CD for Mobile"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "DataPulse",
+    "Figma"
+  ],
+  "job_titles": [
+    "React Native Developer",
+    "Android Developer",
+    "Android Developer"
+  ],
+  "universities": [
+    "University of Toronto"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 263,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:29.676503",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

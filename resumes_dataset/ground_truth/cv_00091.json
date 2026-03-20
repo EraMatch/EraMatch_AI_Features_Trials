@@ -1,0 +1,356 @@
+{
+  "full_name": "Justin Brown",
+  "email": "justin.brown@brown.dev",
+  "location": "Lake Brandy, Japan",
+  "years_of_experience": 10.2,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Justin Brown",
+    "email": "justin.brown@brown.dev",
+    "phone": "+1-983-398-2258",
+    "location": "Lake Brandy, Japan",
+    "linkedin_url": "https://linkedin.com/in/justin-brown",
+    "github_url": "https://github.com/justinbrown",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Rust, Go, and Bash. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2021-12",
+      "end_date": "Present",
+      "duration": "2021-12 – Present",
+      "duration_months": 51,
+      "description": "Created self-service provisioning portal using Envoy, serving 100000+ engineers\nCreated monitoring and alerting system using Jenkins, reducing MTTR by 55%\nBuilt disaster recovery solution using Jenkins, achieving RTO of 51ms",
+      "technologies": [
+        "Hetzner",
+        "GitHub Actions",
+        "Jenkins",
+        "Envoy"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2019-07",
+      "end_date": "2021-06",
+      "duration": "2019-07 – 2021-06",
+      "duration_months": 23,
+      "description": "Optimized cloud infrastructure using VictoriaMetrics, reducing costs by 68%\nImplemented security scanning using TensorFlow Serving, identifying 50000+ vulnerabilities\nBuilt disaster recovery solution using Infrastructure as Code, achieving RTO of 188ms",
+      "technologies": [
+        "TensorFlow Serving",
+        "VictoriaMetrics",
+        "Grafana",
+        "Infrastructure as Code"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2015-03",
+      "end_date": "2019-03",
+      "duration": "2015-03 – 2019-03",
+      "duration_months": 48,
+      "description": "Created self-service provisioning portal using Istio, serving 50000+ engineers\nDesigned and implemented infrastructure as code using Istio, managing 50000+ servers\nEstablished GitOps workflows using Istio, improving deployment frequency by 31%\nBuilt automated backup solution using Istio, ensuring 5000% data protection",
+      "technologies": [
+        "Istio",
+        "Azure DevOps",
+        "Buildah"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "M.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deployment Dashboard",
+      "description": "Built GitOps Workflow using Go and Rust, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Go",
+        "Rust",
+        "PowerShell"
+      ],
+      "url": "https://github.com/justinbrown/deployment-dashboard",
+      "date": "2019"
+    },
+    {
+      "name": "ChatBot Framework",
+      "description": "Designed and implemented Secrets Management with Bash, integrating with PowerShell for seamless data flow",
+      "technologies": [
+        "Bash",
+        "Python",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Board games",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Go",
+    "Bash",
+    "PowerShell",
+    "Python",
+    "Pulumi",
+    "CDK",
+    "Ansible",
+    "Terraform",
+    "CloudFormation",
+    "Istio",
+    "Linkerd",
+    "Kubernetes",
+    "K3s",
+    "Azure DevOps",
+    "GitHub Actions",
+    "Argo Workflows",
+    "Tekton",
+    "Jenkins",
+    "Opsgenie",
+    "Grafana",
+    "Linode",
+    "DigitalOcean",
+    "AWS",
+    "Seldon",
+    "Kale",
+    " Triton Inference Server",
+    "TensorFlow Serving",
+    "GitOps",
+    "Zero Trust",
+    "Incident Management",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "TechFlow AI",
+    "Figma",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "MLOps Engineer",
+    "DevOps Engineer",
+    "MLOps Engineer"
+  ],
+  "universities": [
+    "Imperial College London"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 91,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:04.308276",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

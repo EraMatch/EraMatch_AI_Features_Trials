@@ -1,0 +1,250 @@
+{
+  "full_name": "Terri Mason",
+  "email": "terri.mason@outlook.com",
+  "location": "Port Katelynfort, Australia",
+  "years_of_experience": 8.4,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Terri Mason",
+    "email": "terri.mason@outlook.com",
+    "phone": "271.690.6594x0139",
+    "location": "Port Katelynfort, Australia",
+    "linkedin_url": "https://linkedin.com/in/terri-mason",
+    "github_url": "https://github.com/terrimason",
+    "portfolio_url": null
+  },
+  "summary": "Lead data science / ml / ai professional with 8 years driving technical strategy and team excellence. Expert in MATLAB, Julia, XGBoost with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2022-05",
+      "end_date": "Present",
+      "duration": "2022-05 – Present",
+      "duration_months": 46,
+      "description": "Built real-time analytics dashboard using AWS SageMaker, used by 1000+ stakeholders\nBuilt end-to-end ML pipeline using Dagster, processing 5000+ samples daily\nCreated feature engineering pipeline using Databricks, reducing preprocessing time by 30%\nEstablished MLOps practices using Dagster, reducing model deployment time by 34%",
+      "technologies": [
+        "Dagster",
+        "RAG",
+        "AWS SageMaker",
+        "GCP Vertex AI",
+        "Databricks",
+        "MLOps"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2019-11",
+      "end_date": "2022-01",
+      "duration": "2019-11 – 2022-01",
+      "duration_months": 26,
+      "description": "Built end-to-end ML pipeline using Kubeflow, processing 5000+ samples daily\nEstablished MLOps practices using Azure ML, reducing model deployment time by 59%",
+      "technologies": [
+        "Kubeflow",
+        "Go",
+        "Scikit-learn",
+        "Azure ML",
+        "MLflow"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2017-01",
+      "end_date": "2019-06",
+      "duration": "2017-01 – 2019-06",
+      "duration_months": 29,
+      "description": "Built real-time analytics dashboard using Dask, used by 1000+ stakeholders\nDeveloped data visualization tools using PostgreSQL, used by 10000+ analysts",
+      "technologies": [
+        "PyTorch",
+        "Feature Engineering",
+        "Dask",
+        "PostgreSQL",
+        "LightGBM",
+        "SQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Kaggle Competition"
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "MATLAB",
+    "Julia",
+    "XGBoost",
+    "TensorFlow",
+    "Scikit-learn",
+    "PyTorch",
+    "DVC",
+    "Weights & Biases",
+    "NumPy",
+    "Neptune",
+    "Databricks",
+    "ChromaDB",
+    "Lambda Labs",
+    "Bedrock",
+    "Fine-tuning",
+    "LLM Evaluation",
+    "Statistical Modeling"
+  ],
+  "companies": [
+    "CloudNova",
+    "NeuroLink Labs",
+    "Anthropic"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "AI Engineer",
+    "ML Engineer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 35,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:36.060812",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

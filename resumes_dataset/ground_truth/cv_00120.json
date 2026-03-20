@@ -1,0 +1,324 @@
+{
+  "full_name": "Gail Lane",
+  "email": "gail.lane@outlook.com",
+  "location": "Smithchester, Japan",
+  "years_of_experience": 7.2,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Gail Lane",
+    "email": "gail.lane@outlook.com",
+    "phone": "001-475-900-1701",
+    "location": "Smithchester, Japan",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Go, Rust, and Python. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": "2023-07 – Present",
+      "duration_months": 32,
+      "description": "Implemented security scanning using VictoriaMetrics, identifying 100000+ vulnerabilities\nCreated self-service provisioning portal using Argo Workflows, serving 10000+ engineers\nBuilt disaster recovery solution using VictoriaMetrics, achieving RTO of 460ms",
+      "technologies": [
+        "Helm",
+        "VictoriaMetrics",
+        "Argo Workflows"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2018-09",
+      "end_date": "2023-03",
+      "duration": "2018-09 – 2023-03",
+      "duration_months": 54,
+      "description": "Optimized cloud infrastructure using VictoriaMetrics, reducing costs by 53%\nImplemented container orchestration using Hetzner, managing 500+ containers",
+      "technologies": [
+        "Buildah",
+        "Hetzner",
+        "VictoriaMetrics"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Infrastructure Club"
+    },
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": "3.45",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "HashiCorp Terraform Associate",
+      "issuer": "HashiCorp",
+      "date": "2019",
+      "credential_id": "RF32PX42"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Portuguese (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Rust",
+    "Python",
+    "Bash",
+    "Crossplane",
+    "Ansible",
+    "Terraform",
+    "Pulumi",
+    "Podman",
+    "Docker",
+    "Buildah",
+    "Kubernetes",
+    "Linkerd",
+    "Tekton",
+    "CircleCI",
+    "Azure DevOps",
+    "GitLab CI",
+    "Argo Workflows",
+    "Thanos",
+    "Opsgenie",
+    "Hetzner",
+    "Oracle Cloud",
+    "Linode",
+    "Alibaba Cloud",
+    "Kubeflow",
+    "TorchServe",
+    "Kale",
+    "MLflow",
+    "TensorFlow Serving",
+    "SRE Practices",
+    "Chaos Engineering",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "NeuroLink Labs",
+    "Datadog"
+  ],
+  "job_titles": [
+    "SRE",
+    "MLOps Engineer"
+  ],
+  "universities": [
+    "Imperial College London",
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 120,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:19.099925",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

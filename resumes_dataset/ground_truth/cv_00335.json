@@ -1,0 +1,289 @@
+{
+  "full_name": "John Moody",
+  "email": "john.moody@moody.dev",
+  "location": "Carloston, Australia",
+  "years_of_experience": 11.8,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "John Moody",
+    "email": "john.moody@moody.dev",
+    "phone": "(296)304-4327",
+    "location": "Carloston, Australia",
+    "linkedin_url": "https://linkedin.com/in/john-moody",
+    "github_url": "https://github.com/johnmoody",
+    "portfolio_url": null
+  },
+  "summary": "Lead backend engineering professional with 12 years driving technical strategy and team excellence. Expert in C#, Go, Node.js with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 – Present",
+      "duration_months": 30,
+      "description": "Mentored team of 4 junior developers on Microservices best practices\nBuilt automated CI/CD pipelines with Microservices, reducing deployment time by 50%\nDesigned and implemented microservices architecture using Supabase, handling 1000+ concurrent users\nBuilt event-driven architecture using Supabase, processing 100+ events daily",
+      "technologies": [
+        "Heroku",
+        "Supabase",
+        "Microservices"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2020-05",
+      "end_date": "2023-07",
+      "duration": "2020-05 – 2023-07",
+      "duration_months": 38,
+      "description": "Built automated CI/CD pipelines with Jenkins, reducing deployment time by 26%\nOptimized database queries using Jenkins, improving query performance by 70%",
+      "technologies": [
+        "Railway",
+        "Elasticsearch",
+        "Jenkins",
+        "LlamaIndex"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2018-01",
+      "end_date": "2020-02",
+      "duration": "2018-01 – 2020-02",
+      "duration_months": 25,
+      "description": "Implemented caching layer with Kotlin, reducing database load by 30%\nLed migration from monolithic to microservices using AWS, improving system scalability by 25%\nMentored team of 5 junior developers on AWS best practices",
+      "technologies": [
+        "LangChain",
+        "Kotlin",
+        "AWS"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2013-09",
+      "end_date": "2017-09",
+      "duration": "2013-09 – 2017-09",
+      "duration_months": 48,
+      "description": "Built event-driven architecture using Python, processing 10000+ events daily\nBuilt automated CI/CD pipelines with PostgreSQL, reducing deployment time by 52%\nOptimized database queries using PostgreSQL, improving query performance by 54%",
+      "technologies": [
+        "Nginx",
+        "Flask",
+        "Python",
+        "Kubernetes",
+        "PostgreSQL",
+        "Supabase"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "Go",
+    "Node.js",
+    "Kotlin",
+    "Java",
+    "Rails",
+    "Flask",
+    "PlanetScale",
+    "PostgreSQL",
+    "MySQL",
+    "ArgoCD",
+    "Kafka",
+    "Render",
+    "Azure",
+    "AWS Bedrock",
+    "Azure OpenAI",
+    "Replicate",
+    "Anthropic",
+    "Scrum",
+    "RAG Architecture",
+    "CI/CD"
+  ],
+  "companies": [
+    "Figma",
+    "VectorDB Inc",
+    "Tesla",
+    "Datadog"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "LLM Engineer",
+    "Platform Engineer",
+    "API Developer"
+  ],
+  "universities": [
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 335,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:06.483242",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

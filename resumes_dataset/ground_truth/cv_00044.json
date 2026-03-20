@@ -1,0 +1,324 @@
+{
+  "full_name": "Kathleen Strong",
+  "email": "kathleen.strong@outlook.com",
+  "location": "North Renee, USA",
+  "years_of_experience": 3.2,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kathleen Strong",
+    "email": "kathleen.strong@outlook.com",
+    "phone": "239-753-3942x1047",
+    "location": "North Renee, USA",
+    "linkedin_url": "https://linkedin.com/in/kathleen-strong",
+    "github_url": "https://github.com/kathleenstrong",
+    "portfolio_url": "https://kathleenstrong.dev"
+  },
+  "summary": "Results-driven backend engineering professional with 3 years of experience designing and implementing scalable solutions using Python, TypeScript, C#. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2025-01",
+      "end_date": "Present",
+      "duration": "2025-01 – Present",
+      "duration_months": 14,
+      "description": "Designed and implemented microservices architecture using Cassandra, handling 50000+ concurrent users\nImplemented caching layer with Microservices, reducing database load by 30%",
+      "technologies": [
+        "Gin",
+        "Microservices",
+        "Vercel",
+        "CockroachDB",
+        "Redis",
+        "Cassandra"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2022-10",
+      "end_date": "2024-10",
+      "duration": "2022-10 – 2024-10",
+      "duration_months": 24,
+      "description": "Developed real-time data processing pipeline using Hugging Face, handling 100000+ documents/second\nReduced infrastructure costs by 40% through optimization using PHP\nMentored team of 8 junior developers on Hugging Face best practices",
+      "technologies": [
+        "PHP",
+        "Node.js",
+        "LlamaIndex",
+        "Hugging Face"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "M.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2023",
+      "gpa": "2.90",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartCache",
+      "description": "Built Payment Processing System with Flask and NestJS, serving 10,000+ daily active users",
+      "technologies": [
+        "NestJS",
+        "TypeScript",
+        "Flask"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Graph Query Builder",
+      "description": "Created REST API Framework leveraging NestJS for core functionality and Go for optimization",
+      "technologies": [
+        "NestJS",
+        "Go",
+        "C#"
+      ],
+      "url": "https://github.com/kathleenstrong/graph-query-builder",
+      "date": "2025"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Designed and implemented Search Engine with Python, integrating with Kotlin for seamless data flow",
+      "technologies": [
+        "Python",
+        "NestJS",
+        "Kotlin"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Google DevFest 2019",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Burgess-Thompson Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "C#",
+    "Kotlin",
+    "Go",
+    "NestJS",
+    "Flask",
+    "CockroachDB",
+    "Redis",
+    "Cassandra",
+    "SQLite",
+    "Neon",
+    "ArgoCD",
+    "Helm",
+    "Git",
+    "Fly.io",
+    "Render",
+    "GCP",
+    "DigitalOcean",
+    "OpenAI API",
+    "AWS Bedrock",
+    "Google Gemini",
+    "RAG Architecture",
+    "Agile",
+    "Microservices",
+    "Scrum",
+    "GraphQL"
+  ],
+  "companies": [
+    "ParseLab",
+    "TechFlow AI"
+  ],
+  "job_titles": [
+    "API Developer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 44,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:37:41.075671",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

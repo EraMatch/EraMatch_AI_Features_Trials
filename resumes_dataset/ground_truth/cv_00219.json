@@ -1,0 +1,276 @@
+{
+  "full_name": "Nicole Atkinson",
+  "email": "nicole.atkinson@gmail.com",
+  "location": "East Brent, Australia",
+  "years_of_experience": 6.1,
+  "seniority_level": "senior",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Nicole Atkinson",
+    "email": "nicole.atkinson@gmail.com",
+    "phone": "4607480589",
+    "location": "East Brent, Australia",
+    "linkedin_url": "https://linkedin.com/in/nicole-atkinson",
+    "github_url": "https://github.com/nicoleatkinson",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in design (ui/ux) with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in CSS, JavaScript, Sketch.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Visual Designer",
+      "title": "Visual Designer",
+      "start_date": "2023-03",
+      "end_date": "Present",
+      "duration": "2023-03 – Present",
+      "duration_months": 36,
+      "description": "Designed data visualizations using JavaScript, improving comprehension by 31%\nConducted usability testing using JavaScript, identifying 10000+ UX issues\nDesigned responsive layouts using Vue, serving 1000+ screen sizes",
+      "technologies": [
+        "Design Thinking",
+        "JavaScript",
+        "Hotjar",
+        "Figma"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Visual Designer",
+      "title": "Visual Designer",
+      "start_date": "2022-04",
+      "end_date": "2023-03",
+      "duration": "2022-04 – 2023-03",
+      "duration_months": 11,
+      "description": "Designed accessible interfaces using Cloudflare, achieving WCAG AA compliance\nDesigned responsive layouts using Vue, serving 1000+ screen sizes",
+      "technologies": [
+        "Usability Testing",
+        "Cloudflare",
+        "HTML"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2019-12",
+      "end_date": "2022-02",
+      "duration": "2019-12 – 2022-02",
+      "duration_months": 26,
+      "description": "Conducted usability testing using Firebase, identifying 100+ UX issues\nCreated design system using Firebase, used across 1000+ products\nDesigned responsive layouts using Vue, serving 1000+ screen sizes\nBuilt design collaboration workflow using Principle, reducing review time by 67%",
+      "technologies": [
+        "Principle",
+        "Firebase",
+        "Netlify"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "M.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2020",
+      "gpa": "3.60",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Framer",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "InVision",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zeplin",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Usability Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataPipe CLI",
+      "description": "Built Motion Design using InVision and Figma, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "InVision",
+        "Adobe XD",
+        "Figma"
+      ],
+      "url": "https://github.com/nicoleatkinson/datapipe-cli",
+      "date": "2025"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built Design Tokens using InVision and CSS, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "CSS",
+        "Sketch",
+        "InVision"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Created Prototyping Tool leveraging Sketch for core functionality and CSS for optimization",
+      "technologies": [
+        "CSS",
+        "Sketch",
+        "JavaScript"
+      ],
+      "url": "https://github.com/nicoleatkinson/api-gateway",
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — MLH 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "JavaScript",
+    "Sketch",
+    "Figma",
+    "Framer",
+    "InVision",
+    "Adobe XD",
+    "After Effects",
+    "Zeplin",
+    "Storybook",
+    "Firebase",
+    "Vercel",
+    "Cloudflare",
+    "Design Systems",
+    "Prototyping",
+    "Accessibility (WCAG)",
+    "Usability Testing"
+  ],
+  "companies": [
+    "Notion",
+    "Spotify",
+    "ResumeAI"
+  ],
+  "job_titles": [
+    "Visual Designer",
+    "Visual Designer",
+    "Design Lead"
+  ],
+  "universities": [
+    "Imperial College London"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 219,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:39:07.582517",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

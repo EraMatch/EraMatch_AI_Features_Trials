@@ -1,0 +1,304 @@
+{
+  "full_name": "Joshua Hickman",
+  "email": "joshua.hickman@yahoo.com",
+  "location": "Port Randyfort, Japan",
+  "years_of_experience": 3.4,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Joshua Hickman",
+    "email": "joshua.hickman@yahoo.com",
+    "phone": "(877)434-5401x93802",
+    "location": "Port Randyfort, Japan",
+    "linkedin_url": "https://linkedin.com/in/joshua-hickman",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in TypeScript, JavaScript, and Dart. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2022-10",
+      "end_date": "Present",
+      "duration": "2022-10 – Present",
+      "duration_months": 41,
+      "description": "Built reusable component library using Render, used by 5000+ developers\nBuilt interactive data visualizations using Jest, serving 1000+ daily users\nBuilt reusable component library using Angular, used by 5000+ developers\nBuilt real-time collaboration features using Render, serving 100000+ concurrent users",
+      "technologies": [
+        "Render",
+        "Jest",
+        "Angular"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "B.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2019",
+      "gpa": "3.48",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataPipe CLI",
+      "description": "Developed Admin Panel using Dart, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Dart",
+        "JavaScript",
+        "Remix"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "React Certified Developer",
+      "issuer": "React",
+      "date": "2024",
+      "credential_id": "TK24MG00"
+    },
+    {
+      "name": "Meta Front-End Developer Certificate",
+      "issuer": "Meta",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — Google DevFest 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "JavaScript",
+    "Dart",
+    "CSS",
+    "HTML",
+    "Angular",
+    "Next.js",
+    "Vue.js",
+    "Remix",
+    "Astro",
+    "Webpack",
+    "Git",
+    "Cypress",
+    "ESLint",
+    "Jest",
+    "IndexedDB",
+    "PostgreSQL",
+    "Supabase",
+    "Firebase",
+    "MongoDB",
+    "Netlify",
+    "Vercel",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Agile",
+    "Progressive Web Apps",
+    "Responsive Design",
+    "Component-Driven Development",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "React Developer"
+  ],
+  "universities": [
+    "University of Michigan",
+    "Technion"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 87,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:02.409240",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

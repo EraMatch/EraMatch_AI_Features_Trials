@@ -1,0 +1,305 @@
+{
+  "full_name": "Catherine Thompson",
+  "email": "catherine.thompson@outlook.com",
+  "location": "Ericaburgh, Canada",
+  "years_of_experience": 11.8,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Catherine Thompson",
+    "email": "catherine.thompson@outlook.com",
+    "phone": "+1-269-937-9237x474",
+    "location": "Ericaburgh, Canada",
+    "linkedin_url": "https://linkedin.com/in/catherine-thompson",
+    "github_url": "https://github.com/catherinethompson",
+    "portfolio_url": "https://catherinethompson.dev"
+  },
+  "summary": "Senior technical leader specializing in mobile development with expertise in Kotlin, Dart, Swift. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2022-02",
+      "end_date": "Present",
+      "duration": "2022-02 – Present",
+      "duration_months": 49,
+      "description": "Created app analytics tracking using Firebase, providing insights on 50000+ users\nImplemented push notification system using Offline-First, increasing user engagement by 20%\nImplemented deep linking using Expo, improving conversion rates by 60%",
+      "technologies": [
+        "Supabase",
+        "Expo",
+        "AWS Amplify",
+        "SQLite",
+        "Offline-First",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2019-08",
+      "end_date": "2021-12",
+      "duration": "2019-08 – 2021-12",
+      "duration_months": 28,
+      "description": "Created app analytics tracking using MVVM, providing insights on 5000+ users\nDeveloped mobile application using React Native, achieving 5000+ downloads",
+      "technologies": [
+        "MVVM",
+        "Core Data",
+        "React Native",
+        "Realm",
+        "SwiftUI",
+        "CI/CD for Mobile"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2016-12",
+      "end_date": "2019-08",
+      "duration": "2016-12 – 2019-08",
+      "duration_months": 32,
+      "description": "Built AR/VR features using Flutter, increasing user retention by 66%\nOptimized app performance using Swift, reducing battery consumption by 40%\nBuilt widget functionality using UIKit, increasing daily active users by 35%",
+      "technologies": [
+        "Swift",
+        "Flutter",
+        "Firebase",
+        "Xcode",
+        "RevenueCat",
+        "UIKit"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Netflix",
+      "organization": "Netflix",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2014-02",
+      "end_date": "2016-11",
+      "duration": "2014-02 – 2016-11",
+      "duration_months": 33,
+      "description": "Built AR/VR features using Firebase, increasing user retention by 24%\nImplemented app streaming using Firebase, reducing download size by 54%",
+      "technologies": [
+        "Firebase",
+        "RevenueCat",
+        "CocoaPods"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2014",
+      "gpa": "3.31",
+      "activities": "Flutter Community"
+    },
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2014",
+      "gpa": "3.14",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deployment Dashboard",
+      "description": "Designed and implemented Cross-platform SDK with UIKit, integrating with SwiftUI for seamless data flow",
+      "technologies": [
+        "Swift",
+        "SwiftUI",
+        "UIKit"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Photography",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "Dart",
+    "Swift",
+    "C++",
+    "Objective-C",
+    "SwiftUI",
+    "UIKit",
+    "Fastlane",
+    "Firebase",
+    "TestFlight",
+    "App Center",
+    "Firebase Firestore",
+    "Realm",
+    "RevenueCat",
+    "AWS Amplify",
+    "Supabase",
+    "Firebase",
+    "MVVM",
+    "Offline-First"
+  ],
+  "companies": [
+    "PipelineIO",
+    "PromptStack",
+    "HashiCorp",
+    "Netflix"
+  ],
+  "job_titles": [
+    "React Native Developer",
+    "Mobile Developer",
+    "Mobile Developer",
+    "React Native Developer"
+  ],
+  "universities": [
+    "UT Austin",
+    "EPFL"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 42,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:37:39.820048",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

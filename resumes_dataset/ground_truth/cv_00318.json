@@ -1,0 +1,263 @@
+{
+  "full_name": "Elizabeth Wright",
+  "email": "elizabeth.wright@outlook.com",
+  "location": "Brendahaven, UAE",
+  "years_of_experience": 13.0,
+  "seniority_level": "principal",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Elizabeth Wright",
+    "email": "elizabeth.wright@outlook.com",
+    "phone": "(649)708-1081x86617",
+    "location": "Brendahaven, UAE",
+    "linkedin_url": null,
+    "github_url": "https://github.com/elizabethwright",
+    "portfolio_url": null
+  },
+  "summary": "Executive-level technology leader with extensive background in frontend engineering. Expertise in TypeScript, CSS, JavaScript with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2021-09",
+      "end_date": "Present",
+      "duration": "2021-09 – Present",
+      "duration_months": 54,
+      "description": "Created accessible UI components using Progressive Web Apps, achieving WCAG AA compliance\nDeveloped design system using Python, standardizing UI across 1000+ applications\nBuilt reusable component library using Progressive Web Apps, used by 100+ developers\nDeveloped design system using Python, standardizing UI across 100+ applications",
+      "technologies": [
+        "Next.js",
+        "PostgreSQL",
+        "Progressive Web Apps",
+        "ESLint",
+        "Render",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2017-11",
+      "end_date": "2021-03",
+      "duration": "2017-11 – 2021-03",
+      "duration_months": 40,
+      "description": "Optimized frontend bundle size using Bootstrap, reducing load time by 32%\nImplemented state management solution using CSS, reducing API calls by 16%\nBuilt reusable component library using Vue.js, used by 5000+ developers\nIntegrated third-party APIs using Storybook, reducing integration time by 56%",
+      "technologies": [
+        "Svelte",
+        "Bootstrap",
+        "CSS",
+        "Storybook",
+        "Vue.js"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2015-09",
+      "end_date": "2017-07",
+      "duration": "2015-09 – 2017-07",
+      "duration_months": 22,
+      "description": "Implemented state management solution using AWS Amplify, reducing API calls by 54%\nCreated accessible UI components using Tailwind CSS, achieving WCAG AA compliance\nBuilt reusable component library using Responsive Design, used by 500+ developers",
+      "technologies": [
+        "Tailwind CSS",
+        "Responsive Design",
+        "Webpack",
+        "AWS Amplify"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2012-03",
+      "end_date": "2015-07",
+      "duration": "2012-03 – 2015-07",
+      "duration_months": 40,
+      "description": "Created accessible UI components using JavaScript, achieving WCAG AA compliance\nImplemented state management solution using JavaScript, reducing API calls by 46%\nIntegrated third-party APIs using Svelte, reducing integration time by 69%\nBuilt interactive data visualizations using Bootstrap, serving 1000+ daily users",
+      "technologies": [
+        "JavaScript",
+        "Bootstrap",
+        "Vercel",
+        "Svelte",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "M.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2011",
+      "gpa": "3.49",
+      "activities": null
+    },
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2011",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Box product conference consider\" — EMNLP 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "CSS",
+    "JavaScript",
+    "Vue.js",
+    "Astro",
+    "Material UI",
+    "Figma",
+    "Playwright",
+    "Firebase",
+    "MongoDB",
+    "Vercel",
+    "Cloudflare Pages",
+    "Render",
+    "Progressive Web Apps",
+    "Agile"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "Stripe",
+    "Snowflake",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "Full-Stack Developer",
+    "Web Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "MIT",
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 318,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:39:57.806655",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

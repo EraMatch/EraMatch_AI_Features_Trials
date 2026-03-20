@@ -1,0 +1,323 @@
+{
+  "full_name": "Mary Wright",
+  "email": "mary.wright@yahoo.com",
+  "location": "North Glenn, France",
+  "years_of_experience": 11.0,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mary Wright",
+    "email": "mary.wright@yahoo.com",
+    "phone": "+1-439-568-5270x17130",
+    "location": "North Glenn, France",
+    "linkedin_url": "https://linkedin.com/in/mary-wright",
+    "github_url": "https://github.com/marywright",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in C#, Go, and Node.js. 11 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2022-10",
+      "end_date": "Present",
+      "duration": "2022-10 – Present",
+      "duration_months": 41,
+      "description": "Designed and implemented microservices architecture using DynamoDB, handling 50000+ concurrent users\nDeveloped real-time data processing pipeline using REST API Design, handling 500+ requests/second\nArchitected and built RESTful APIs serving 100+ requests/day using REST API Design, reducing response time by 35%\nOptimized database queries using Rust, improving query performance by 44%",
+      "technologies": [
+        "REST API Design",
+        "Rust",
+        "Azure",
+        "CockroachDB",
+        "DynamoDB"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2021-09",
+      "end_date": "2022-04",
+      "duration": "2021-09 – 2022-04",
+      "duration_months": 7,
+      "description": "Implemented caching layer with Hugging Face, reducing database load by 31%\nDesigned and implemented message queue system using GraphQL, processing 50000+ messages/hour\nImplemented caching layer with GraphQL, reducing database load by 48%",
+      "technologies": [
+        "GraphQL",
+        "LlamaIndex",
+        "Hugging Face",
+        "Git",
+        "Azure",
+        "MongoDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2017-04",
+      "end_date": "2021-03",
+      "duration": "2017-04 – 2021-03",
+      "duration_months": 47,
+      "description": "Implemented caching layer with GraphQL, reducing database load by 70%\nBuilt event-driven architecture using GraphQL, processing 5000+ events daily\nBuilt event-driven architecture using Kafka, processing 5000+ events daily",
+      "technologies": [
+        "Express.js",
+        "Railway",
+        "Replicate",
+        "GraphQL",
+        "Kafka"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2014-02",
+      "end_date": "2017-03",
+      "duration": "2014-02 – 2017-03",
+      "duration_months": 37,
+      "description": "Architected and built RESTful APIs serving 100000+ requests/day using NestJS, reducing response time by 62%\nBuilt event-driven architecture using Neon, processing 5000+ events daily\nDeveloped real-time data processing pipeline using Express.js, handling 100+ messages/second\nOptimized database queries using Neon, improving query performance by 35%",
+      "technologies": [
+        "RAG Architecture",
+        "REST API Design",
+        "Neon",
+        "MySQL",
+        "NestJS",
+        "Express.js"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "Ph.D.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Teaching Assistant - Data Structures"
+    },
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "B.A.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2013",
+      "gpa": "3.54",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — Google DevFest 2025",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "Go",
+    "Node.js",
+    "PHP",
+    "Java",
+    "Gin",
+    "Express.js",
+    "FastAPI",
+    "FastAPI",
+    "DynamoDB",
+    "Cassandra",
+    "Nginx",
+    "Terraform",
+    "Heroku",
+    "Cloudflare",
+    "DigitalOcean",
+    "Vercel",
+    "Hugging Face",
+    "AWS Bedrock",
+    "Claude API",
+    "Anthropic",
+    "Scrum",
+    "TDD"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "Datadog",
+    "Cloudflare",
+    "ScaleGrid"
+  ],
+  "job_titles": [
+    "Server-Side Developer",
+    "Platform Engineer",
+    "Backend Developer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "EPFL",
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 375,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:27.387433",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

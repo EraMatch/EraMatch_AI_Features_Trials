@@ -1,0 +1,266 @@
+{
+  "full_name": "Carol Morris",
+  "email": "carol.morris@yahoo.com",
+  "location": "Samanthaburgh, Singapore",
+  "years_of_experience": 6.5,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Carol Morris",
+    "email": "carol.morris@yahoo.com",
+    "phone": "944-851-8952x02845",
+    "location": "Samanthaburgh, Singapore",
+    "linkedin_url": "https://linkedin.com/in/carol-morris",
+    "github_url": "https://github.com/carolmorris",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Python, MATLAB, and OpenCV. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2023-04",
+      "end_date": "Present",
+      "duration": "2023-04 – Present",
+      "duration_months": 35,
+      "description": "Designed data warehousing solution using Neptune, enabling analytics on 1000+ records\nCreated recommendation system using XGBoost, increasing user engagement by 59%\nBuilt end-to-end ML pipeline using XGBoost, processing 10000+ samples daily",
+      "technologies": [
+        "XGBoost",
+        "Spark",
+        "Weaviate",
+        "MLflow",
+        "Neptune",
+        "Vector Databases"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2019-09",
+      "end_date": "2023-04",
+      "duration": "2019-09 – 2023-04",
+      "duration_months": 43,
+      "description": "Built real-time analytics dashboard using Weaviate, used by 10000+ stakeholders\nDeveloped ML models using LLM Evaluation, improving prediction accuracy by 18%\nCreated recommendation system using Weaviate, increasing user engagement by 57%",
+      "technologies": [
+        "Neo4j",
+        "Weaviate",
+        "MATLAB",
+        "Redshift",
+        "LLM Evaluation"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Analytics Club"
+    },
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.A.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2018",
+      "gpa": "2.86",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vector Search API",
+      "description": "Designed Data Warehouse leveraging Python microservices architecture with MATLAB for caching",
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "AWS SageMaker"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Robinson PLC Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Decker PLC Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "MATLAB",
+    "OpenCV",
+    "PyTorch",
+    "Hugging Face",
+    "Scikit-learn",
+    "JAX",
+    "Weights & Biases",
+    "Dask",
+    "MongoDB",
+    "Databricks",
+    "Qdrant",
+    "Databricks",
+    "AWS SageMaker",
+    "Azure ML",
+    "Feature Engineering",
+    "Prompt Engineering",
+    "A/B Testing",
+    "Fine-tuning"
+  ],
+  "companies": [
+    "Figma",
+    "VectorDB Inc"
+  ],
+  "job_titles": [
+    "NLP Engineer",
+    "Data Scientist"
+  ],
+  "universities": [
+    "UIUC",
+    "UT Austin"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 284,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:39:40.699238",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

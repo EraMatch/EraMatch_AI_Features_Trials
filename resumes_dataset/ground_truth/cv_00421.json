@@ -1,0 +1,313 @@
+{
+  "full_name": "Michael Turner",
+  "email": "michael.turner@yahoo.com",
+  "location": "Briggsville, Australia",
+  "years_of_experience": 11.4,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michael Turner",
+    "email": "michael.turner@yahoo.com",
+    "phone": "851-947-5410x2252",
+    "location": "Briggsville, Australia",
+    "linkedin_url": "https://linkedin.com/in/michael-turner",
+    "github_url": "https://github.com/michaelturner",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Dart, Python, and HTML. 11 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2023-10",
+      "end_date": "Present",
+      "duration": "2023-10 – Present",
+      "duration_months": 29,
+      "description": "Developed design system using Svelte, standardizing UI across 500+ applications\nDeveloped design system using Next.js, standardizing UI across 10000+ applications",
+      "technologies": [
+        "Svelte",
+        "Component-Driven Development",
+        "Material UI",
+        "Next.js"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2021-08",
+      "end_date": "2023-07",
+      "duration": "2021-08 – 2023-07",
+      "duration_months": 23,
+      "description": "Created progressive web app using Cloudflare Pages, increasing user engagement by 55%\nCreated accessible UI components using Vercel, achieving WCAG AA compliance\nDeveloped design system using Cloudflare Pages, standardizing UI across 100+ applications\nIntegrated third-party APIs using Vercel, reducing integration time by 54%",
+      "technologies": [
+        "Cloudflare Pages",
+        "JavaScript",
+        "Vercel"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2017-01",
+      "end_date": "2021-07",
+      "duration": "2017-01 – 2021-07",
+      "duration_months": 54,
+      "description": "Developed design system using Firebase, standardizing UI across 10000+ applications\nBuilt interactive data visualizations using MongoDB, serving 100000+ daily users",
+      "technologies": [
+        "ESLint",
+        "Supabase",
+        "Agile",
+        "Firebase",
+        "Python",
+        "MongoDB"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2014-01",
+      "end_date": "2016-08",
+      "duration": "2014-01 – 2016-08",
+      "duration_months": 31,
+      "description": "Implemented automated testing framework using Tailwind CSS, achieving 67% code coverage\nDeveloped responsive web applications using Cypress, improving page load time by 40%\nBuilt real-time collaboration features using Tailwind CSS, serving 100000+ concurrent users",
+      "technologies": [
+        "Render",
+        "Cypress",
+        "Tailwind CSS",
+        "React"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "M.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2012",
+      "gpa": "2.90",
+      "activities": "Accessibility Initiative"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2013",
+      "gpa": "3.11",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Into risk certain follow camera should good management loss win\" — EMNLP 2024",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Leon, Cook and Pham Youth Program, 2020-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "Python",
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "Bootstrap",
+    "Next.js",
+    "Vue.js",
+    "Tailwind CSS",
+    "Cypress",
+    "Prettier",
+    "Playwright",
+    "Jest",
+    "Supabase",
+    "Firebase",
+    "MongoDB",
+    "Vercel",
+    "AWS Amplify",
+    "Render",
+    "Component-Driven Development",
+    "Responsive Design",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "SkillBridge",
+    "Datadog",
+    "Notion",
+    "Uber"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "Frontend Developer",
+    "Web Developer",
+    "Full-Stack Developer"
+  ],
+  "universities": [
+    "Purdue University",
+    "TU Munich"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 421,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:50.461653",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "full_name": "Jeffrey Ashley",
+  "email": "jeffrey.ashley@yahoo.com",
+  "location": "North Alexander, UAE",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jeffrey Ashley",
+    "email": "jeffrey.ashley@yahoo.com",
+    "phone": "203.616.1799",
+    "location": "North Alexander, UAE",
+    "linkedin_url": "https://linkedin.com/in/jeffrey-ashley",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in JavaScript, TypeScript, and Dart. 8 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": "2022-01 – Present",
+      "duration_months": 50,
+      "description": "Built reusable component library using Tailwind CSS, used by 50000+ developers\nImplemented state management solution using PostgreSQL, reducing API calls by 38%\nCreated progressive web app using Vue.js, increasing user engagement by 40%",
+      "technologies": [
+        "Vue.js",
+        "Tailwind CSS",
+        "Playwright",
+        "Git",
+        "PostgreSQL",
+        "Netlify"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2018-03",
+      "end_date": "2021-10",
+      "duration": "2018-03 – 2021-10",
+      "duration_months": 43,
+      "description": "Created accessible UI components using Vercel, achieving WCAG AA compliance\nDeveloped design system using Webpack, standardizing UI across 100000+ applications\nImplemented automated testing framework using Vercel, achieving 65% code coverage\nBuilt interactive data visualizations using Webpack, serving 100000+ daily users",
+      "technologies": [
+        "Webpack",
+        "Vercel",
+        "Accessibility (WCAG)"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Web Development Club"
+    },
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "M.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Reading sci-fi novels",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Podcasting",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Reduce clearly well mission situation result\" — EMNLP 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "TypeScript",
+    "Dart",
+    "CSS",
+    "Angular",
+    "React",
+    "Material UI",
+    "Bootstrap",
+    "Figma",
+    "Git",
+    "Jest",
+    "ESLint",
+    "PostgreSQL",
+    "IndexedDB",
+    "MongoDB",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Render",
+    "Component-Driven Development",
+    "Responsive Design",
+    "Agile",
+    "Accessibility (WCAG)",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "DeployFast",
+    "Stripe"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "Full-Stack Developer"
+  ],
+  "universities": [
+    "UIUC",
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.A.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 126,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:22.052382",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

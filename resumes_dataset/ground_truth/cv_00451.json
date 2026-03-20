@@ -1,0 +1,254 @@
+{
+  "full_name": "Scott Mullins",
+  "email": "scott.mullins@mullins.dev",
+  "location": "West Angelicabury, Japan",
+  "years_of_experience": 7.7,
+  "seniority_level": "senior",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Scott Mullins",
+    "email": "scott.mullins@mullins.dev",
+    "phone": "(671)688-3977x45731",
+    "location": "West Angelicabury, Japan",
+    "linkedin_url": "https://linkedin.com/in/scott-mullins",
+    "github_url": "https://github.com/scottmullins",
+    "portfolio_url": "https://scottmullins.dev"
+  },
+  "summary": "Technical leader in design (ui/ux) with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in JavaScript, HTML, InVision.",
+  "work_experience": [
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Product Designer",
+      "title": "Product Designer",
+      "start_date": "2024-06",
+      "end_date": "Present",
+      "duration": "2024-06 – Present",
+      "duration_months": 21,
+      "description": "Created design system using Vercel, used across 100000+ products\nBuilt design collaboration workflow using Hotjar, reducing review time by 69%\nBuilt interactive prototypes using Design Systems, reducing development cycles by 47%\nDesigned data visualizations using Design Systems, improving comprehension by 51%",
+      "technologies": [
+        "Design Systems",
+        "Hotjar",
+        "Vercel",
+        "Usability Testing",
+        "After Effects"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "Product Designer",
+      "title": "Product Designer",
+      "start_date": "2020-05",
+      "end_date": "2023-12",
+      "duration": "2020-05 – 2023-12",
+      "duration_months": 43,
+      "description": "Designed data visualizations using Accessibility (WCAG), improving comprehension by 25%\nCreated brand identity using Prototyping, applied across 100+ touchpoints\nCreated information architecture using Figma, improving navigation by 54%",
+      "technologies": [
+        "Figma",
+        "Prototyping",
+        "Cloudflare",
+        "Accessibility (WCAG)",
+        "Figma"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Product Designer",
+      "title": "Product Designer",
+      "start_date": "2018-01",
+      "end_date": "2020-05",
+      "duration": "2018-01 – 2020-05",
+      "duration_months": 28,
+      "description": "Conducted usability testing using Sketch, identifying 5000+ UX issues\nBuilt interactive prototypes using Sketch, reducing development cycles by 61%\nBuilt design collaboration workflow using Vercel, reducing review time by 24%\nConducted user research using Design Thinking, gathering insights from 10000+ users",
+      "technologies": [
+        "Vercel",
+        "Principle",
+        "Design Thinking",
+        "Usability Testing",
+        "Sketch",
+        "Cloudflare"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "Ph.D.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": "3.97",
+      "activities": "Design Thinking"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "InVision",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Maze",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Usability Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Information Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Design Thinking",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — MLH 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "HTML",
+    "InVision",
+    "Principle",
+    "Sketch",
+    "Adobe XD",
+    "After Effects",
+    "Maze",
+    "Adobe Creative Suite",
+    "Figma",
+    "Firebase",
+    "Vercel",
+    "Cloudflare",
+    "Netlify",
+    "Usability Testing",
+    "Information Architecture",
+    "Accessibility (WCAG)",
+    "Design Systems"
+  ],
+  "companies": [
+    "Tesla",
+    "PromptStack",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "Product Designer",
+    "Product Designer",
+    "Product Designer"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 451,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:41:05.460192",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

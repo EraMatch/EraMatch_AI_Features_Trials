@@ -1,0 +1,299 @@
+{
+  "full_name": "Teresa Thomas",
+  "email": "teresa.thomas@gmail.com",
+  "location": "Victoriachester, Singapore",
+  "years_of_experience": 9.6,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Teresa Thomas",
+    "email": "teresa.thomas@gmail.com",
+    "phone": "814.435.9892",
+    "location": "Victoriachester, Singapore",
+    "linkedin_url": null,
+    "github_url": "https://github.com/teresathomas",
+    "portfolio_url": "https://teresathomas.dev"
+  },
+  "summary": "Senior technical leader specializing in backend engineering with expertise in Node.js, C#, Go. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-02",
+      "end_date": "Present",
+      "duration": "2022-02 – Present",
+      "duration_months": 49,
+      "description": "Created authentication and authorization system using Docker, securing 50000+ user accounts\nDesigned and implemented message queue system using Redis, processing 100000+ messages/hour\nReduced infrastructure costs by 45% through optimization using Claude API\nReduced infrastructure costs by 21% through optimization using TDD",
+      "technologies": [
+        "TDD",
+        "Supabase",
+        "Redis",
+        "Claude API",
+        "Docker"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2019-04",
+      "end_date": "2022-02",
+      "duration": "2019-04 – 2022-02",
+      "duration_months": 34,
+      "description": "Architected and built RESTful APIs serving 100000+ requests/day using Redis, reducing response time by 30%\nDesigned and implemented message queue system using Fly.io, processing 500+ messages/hour\nDeveloped real-time data processing pipeline using Redis, handling 5000+ users/second\nArchitected and built RESTful APIs serving 100000+ requests/day using Azure, reducing response time by 64%",
+      "technologies": [
+        "Redis",
+        "Neon",
+        "Fly.io",
+        "Azure"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2016-02",
+      "end_date": "2018-10",
+      "duration": "2016-02 – 2018-10",
+      "duration_months": 32,
+      "description": "Designed and implemented message queue system using Node.js, processing 100000+ messages/hour\nReduced infrastructure costs by 39% through optimization using Node.js\nBuilt automated CI/CD pipelines with Elasticsearch, reducing deployment time by 58%",
+      "technologies": [
+        "Node.js",
+        "Neon",
+        "Event-Driven Architecture",
+        "AWS",
+        "Elasticsearch"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "3D printing",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "C#",
+    "Go",
+    "Flask",
+    "Rails",
+    "FastAPI",
+    "LangChain",
+    "Spring Boot",
+    "SQLite",
+    "Elasticsearch",
+    "Ansible",
+    "GitHub Actions",
+    "RabbitMQ",
+    "Nginx",
+    "Vercel",
+    "Render",
+    "Claude API",
+    "Google Gemini",
+    "Hugging Face",
+    "Replicate",
+    "OpenAI API",
+    "RAG Architecture",
+    "GraphQL",
+    "Microservices"
+  ],
+  "companies": [
+    "Uber",
+    "DataPulse",
+    "Cloudflare"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "AI Engineer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "McGill University",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 398,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:38.874076",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

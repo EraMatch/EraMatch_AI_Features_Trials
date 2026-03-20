@@ -1,0 +1,353 @@
+{
+  "full_name": "Sarah Valencia",
+  "email": "sarah.valencia@yahoo.com",
+  "location": "Banksburgh, UK",
+  "years_of_experience": 10.1,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sarah Valencia",
+    "email": "sarah.valencia@yahoo.com",
+    "phone": "456-891-5452",
+    "location": "Banksburgh, UK",
+    "linkedin_url": "https://linkedin.com/in/sarah-valencia",
+    "github_url": null,
+    "portfolio_url": "https://sarahvalencia.dev"
+  },
+  "summary": "Engineering leader with deep technical background in Rust, Python, and YAML. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 – Present",
+      "duration_months": 33,
+      "description": "Implemented container orchestration using Tekton, managing 50000+ containers\nOptimized cloud infrastructure using SRE Practices, reducing costs by 68%\nOptimized cloud infrastructure using Ansible, reducing costs by 42%",
+      "technologies": [
+        "Podman",
+        "Ansible",
+        "Seldon",
+        "Tekton",
+        "SRE Practices",
+        "MLflow"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2022-04",
+      "end_date": "2023-01",
+      "duration": "2022-04 – 2023-01",
+      "duration_months": 9,
+      "description": "Optimized cloud infrastructure using CloudFormation, reducing costs by 60%\nOptimized cloud infrastructure using Ansible, reducing costs by 33%\nEstablished chaos engineering practices using DigitalOcean, improving system resilience",
+      "technologies": [
+        "CloudFormation",
+        "MLflow",
+        "GCP",
+        "DigitalOcean",
+        "TorchServe",
+        "Ansible"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2018-01",
+      "end_date": "2022-03",
+      "duration": "2018-01 – 2022-03",
+      "duration_months": 50,
+      "description": "Designed and implemented infrastructure as code using Datadog, managing 500+ servers\nBuilt disaster recovery solution using Datadog, achieving RTO of 417ms\nBuilt automated backup solution using Argo Workflows, ensuring 100000% data protection",
+      "technologies": [
+        "Datadog",
+        "VictoriaMetrics",
+        "Istio",
+        "Linkerd",
+        "Argo Workflows"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2015-03",
+      "end_date": "2017-08",
+      "duration": "2015-03 – 2017-08",
+      "duration_months": 29,
+      "description": "Built disaster recovery solution using  Triton Inference Server, achieving RTO of 442ms\nEstablished chaos engineering practices using K3s, improving system resilience\nBuilt automated backup solution using  Triton Inference Server, ensuring 50000% data protection",
+      "technologies": [
+        "CDK",
+        "Argo Workflows",
+        "K3s",
+        " Triton Inference Server"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "B.A.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Task Scheduler",
+      "description": "Implemented Chaos Engineering Framework using YAML, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "YAML",
+        "Rust",
+        "Python"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Implemented Auto-scaling Solution using Rust, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Rust",
+        "YAML",
+        "Python"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed Kubernetes Cluster leveraging Rust microservices architecture with YAML for caching",
+      "technologies": [
+        "YAML",
+        "Python",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Really up skin development open compare fill read camera rock\" — CVPR 2025",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Arabic (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Python",
+    "YAML",
+    "Ansible",
+    "CDK",
+    "Terraform",
+    "ArgoCD",
+    "Kubernetes",
+    "Buildah",
+    "Istio",
+    "CircleCI",
+    "GitLab CI",
+    "Argo Workflows",
+    "Tekton",
+    "Prometheus",
+    "Thanos",
+    "Grafana",
+    "Azure",
+    "DigitalOcean",
+    " Triton Inference Server",
+    "TensorFlow Serving",
+    "Kale",
+    "Seldon",
+    "MLflow",
+    "Incident Management",
+    "MLOps"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "Snowflake",
+    "Twilio",
+    "Meta"
+  ],
+  "job_titles": [
+    "Infrastructure Engineer",
+    "SRE",
+    "SRE",
+    "MLOps Engineer"
+  ],
+  "universities": [
+    "TU Delft"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 140,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:28.951500",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

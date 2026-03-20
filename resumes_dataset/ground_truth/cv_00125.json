@@ -1,0 +1,314 @@
+{
+  "full_name": "James Davidson",
+  "email": "james.davidson@outlook.com",
+  "location": "Willisland, Netherlands",
+  "years_of_experience": 6.1,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "James Davidson",
+    "email": "james.davidson@outlook.com",
+    "phone": "+1-492-741-4183",
+    "location": "Willisland, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/james-davidson",
+    "github_url": "https://github.com/jamesdavidson",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Node.js, Java, TypeScript.",
+  "work_experience": [
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-03",
+      "end_date": "Present",
+      "duration": "2023-03 – Present",
+      "duration_months": 36,
+      "description": "Designed and implemented microservices architecture using Railway, handling 1000+ concurrent users\nImplemented caching layer with Neon, reducing database load by 40%",
+      "technologies": [
+        "Microservices",
+        "Ruby",
+        "GraphQL",
+        "Agile",
+        "Neon",
+        "Railway"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2020-02",
+      "end_date": "2023-03",
+      "duration": "2020-02 – 2023-03",
+      "duration_months": 37,
+      "description": "Designed and implemented message queue system using Azure OpenAI, processing 100+ messages/hour\nDesigned and implemented microservices architecture using Azure OpenAI, handling 100000+ concurrent users\nDeveloped real-time data processing pipeline using ASP.NET, handling 500+ queries/second",
+      "technologies": [
+        "Heroku",
+        "ASP.NET",
+        "Azure OpenAI",
+        "Ruby",
+        "RabbitMQ"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Open Source Contributor"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Implemented gRPC Services using Java, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Express.js",
+        "TypeScript",
+        "Java"
+      ],
+      "url": "https://github.com/jamesdavidson/api-gateway",
+      "date": "2021"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Designed Payment Processing System leveraging Java microservices architecture with FastAPI for caching",
+      "technologies": [
+        "FastAPI",
+        "NestJS",
+        "Java"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Graph Query Builder",
+      "description": "Created GraphQL Server leveraging PHP for core functionality and FastAPI for optimization",
+      "technologies": [
+        "FastAPI",
+        "Node.js",
+        "PHP"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Music production",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "Java",
+    "TypeScript",
+    "PHP",
+    "NestJS",
+    "Express.js",
+    "FastAPI",
+    "SQLite",
+    "DynamoDB",
+    "Kafka",
+    "Helm",
+    "Jenkins",
+    "Cloudflare",
+    "Railway",
+    "DigitalOcean",
+    "Heroku",
+    "Hugging Face",
+    "Anthropic",
+    "Google Gemini",
+    "Replicate",
+    "OpenAI API",
+    "Agile",
+    "REST API Design",
+    "LLM Integration",
+    "CI/CD",
+    "Event-Driven Architecture"
+  ],
+  "companies": [
+    "CodeCraft Studios",
+    "Notion"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 125,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:21.631438",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

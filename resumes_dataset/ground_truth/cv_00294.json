@@ -1,0 +1,283 @@
+{
+  "full_name": "Barbara Cole",
+  "email": "barbara.cole@cole.dev",
+  "location": "New Emilyside, Australia",
+  "years_of_experience": 5.9,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Barbara Cole",
+    "email": "barbara.cole@cole.dev",
+    "phone": "(877)900-2842x7624",
+    "location": "New Emilyside, Australia",
+    "linkedin_url": "https://linkedin.com/in/barbara-cole",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Dart, Kotlin, and UIKit. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2025-02",
+      "end_date": "Present",
+      "duration": "2025-02 – Present",
+      "duration_months": 13,
+      "description": "Created in-app purchase integration using Supabase, generating 10000+ in revenue\nImplemented deep linking using Firebase Firestore, improving conversion rates by 26%",
+      "technologies": [
+        "Hive",
+        "Firebase Firestore",
+        "App Center",
+        "Supabase",
+        "Gradle"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2021-01",
+      "end_date": "2024-09",
+      "duration": "2021-01 – 2024-09",
+      "duration_months": 44,
+      "description": "Implemented app streaming using AWS Amplify, reducing download size by 18%\nCreated in-app purchase integration using Objective-C, generating 50000+ in revenue\nBuilt AR/VR features using Objective-C, increasing user retention by 65%",
+      "technologies": [
+        "AWS Amplify",
+        "CocoaPods",
+        "Objective-C",
+        "MVVM",
+        "KMP",
+        "SwiftUI"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2019-10",
+      "end_date": "2020-12",
+      "duration": "2019-10 – 2020-12",
+      "duration_months": 14,
+      "description": "Implemented push notification system using Firebase Firestore, increasing user engagement by 29%\nBuilt widget functionality using MVVM, increasing daily active users by 65%\nImplemented app streaming using Supabase, reducing download size by 55%\nImplemented biometric authentication using Supabase, securing 1000+ user accounts",
+      "technologies": [
+        "Firebase Firestore",
+        "Expo",
+        "Flutter",
+        "MVVM",
+        "C++",
+        "Supabase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2020",
+      "gpa": "3.57",
+      "activities": "Mobile Development Club"
+    },
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "M.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.30",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — ACM 2023",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Occur live take media hot manager wife pay good within\" — EMNLP 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "Kotlin",
+    "UIKit",
+    "KMP",
+    "SwiftUI",
+    "Android Studio",
+    "CocoaPods",
+    "App Center",
+    "TestFlight",
+    "SQLite",
+    "Firebase Firestore",
+    "Core Data",
+    "Realm",
+    "Hive",
+    "Supabase",
+    "AWS Amplify",
+    "Firebase",
+    "RevenueCat",
+    "Clean Architecture",
+    "MVVM"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "Supabase",
+    "SkillBridge"
+  ],
+  "job_titles": [
+    "Flutter Developer",
+    "Android Developer",
+    "React Native Developer"
+  ],
+  "universities": [
+    "University of Washington",
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 294,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:45.543001",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

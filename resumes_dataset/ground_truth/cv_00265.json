@@ -1,0 +1,259 @@
+{
+  "full_name": "Alexis Tucker",
+  "email": "alexis.tucker@protonmail.com",
+  "location": "Alexandrachester, India",
+  "years_of_experience": 5.8,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Alexis Tucker",
+    "email": "alexis.tucker@protonmail.com",
+    "phone": "5024194672",
+    "location": "Alexandrachester, India",
+    "linkedin_url": "https://linkedin.com/in/alexis-tucker",
+    "github_url": null,
+    "portfolio_url": "https://alexistucker.dev"
+  },
+  "summary": "Technical leader in cybersecurity with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in C, Python, Rust.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": "2024-09 – Present",
+      "duration_months": 18,
+      "description": "Implemented encryption solution using Angular, protecting 5000+ records\nBuilt incident response automation using SonarQube, reducing recovery time by 47%\nConducted penetration testing using Rust, identifying 1000+ vulnerabilities\nDesigned zero-trust architecture using Nmap, securing 10000+ endpoints",
+      "technologies": [
+        "SonarQube",
+        "Snort",
+        "Nmap",
+        "Rust",
+        "SOC2 Compliance"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2020-01",
+      "end_date": "2024-04",
+      "duration": "2020-01 – 2024-04",
+      "duration_months": 51,
+      "description": "Built secure CI/CD pipeline using SAST/DAST, preventing 100000+ security issues\nBuilt secure CI/CD pipeline using SAST/DAST, preventing 5000+ security issues\nCreated vulnerability management program using Azure Sentinel, reducing CVEs by 54%\nImplemented SIEM solution using SAST/DAST, processing 100000+ logs/day",
+      "technologies": [
+        "SonarQube",
+        "SAST/DAST",
+        "Azure Sentinel"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "B.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — Google DevFest 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C",
+    "Python",
+    "Rust",
+    "Bash",
+    "PowerShell",
+    "Suricata",
+    "Sigma",
+    "Hashicorp Vault",
+    "SonarQube",
+    "Wireshark",
+    "Trivy",
+    "Redis",
+    "PostgreSQL",
+    "Elasticsearch",
+    "MongoDB",
+    "AWS Security Hub",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "OWASP Top 10",
+    "Incident Response",
+    "SAST/DAST",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "Supabase",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "Security Architect",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "University of Michigan",
+    "Stanford University"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 265,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:39:30.786182",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

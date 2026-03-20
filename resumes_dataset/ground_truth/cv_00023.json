@@ -1,0 +1,317 @@
+{
+  "full_name": "John Anderson",
+  "email": "john.anderson@anderson.dev",
+  "location": "Murphymouth, Netherlands",
+  "years_of_experience": 5.1,
+  "seniority_level": "senior",
+  "primary_domain": "QA / Testing",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "John Anderson",
+    "email": "john.anderson@anderson.dev",
+    "phone": "+1-280-669-9016x272",
+    "location": "Murphymouth, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/john-anderson",
+    "github_url": "https://github.com/johnanderson",
+    "portfolio_url": null
+  },
+  "summary": "Senior qa / testing engineer with 5 years of experience architecting and delivering enterprise solutions. Expert in JavaScript, Java, Python with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "QA Engineer",
+      "title": "QA Engineer",
+      "start_date": "2024-08",
+      "end_date": "Present",
+      "duration": "2024-08 – Present",
+      "duration_months": 19,
+      "description": "Implemented CI/CD testing using TestNG, catching 100+ defects pre-production\nImplemented exploratory testing using PostgreSQL, discovering 100+ edge cases\nImplemented exploratory testing using PostgreSQL, discovering 5000+ edge cases\nCreated test reporting dashboard using PostgreSQL, tracking 500+ test metrics",
+      "technologies": [
+        "Test Planning",
+        "PostgreSQL",
+        "Python",
+        "TestNG"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "QA Engineer",
+      "title": "QA Engineer",
+      "start_date": "2022-04",
+      "end_date": "2024-06",
+      "duration": "2022-04 – 2024-06",
+      "duration_months": 26,
+      "description": "Implemented exploratory testing using Jira, discovering 50000+ edge cases\nCreated test reporting dashboard using Agile Testing, tracking 5000+ test metrics\nDeveloped BDD framework using Jira, writing 50000+ scenarios\nImplemented shift-left testing using Jira, reducing bug escape rate by 61%",
+      "technologies": [
+        "Jira",
+        "BDD",
+        "CI/CD Testing",
+        "JUnit",
+        "Git",
+        "Agile Testing"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Software QA Engineer",
+      "title": "Software QA Engineer",
+      "start_date": "2020-07",
+      "end_date": "2021-11",
+      "duration": "2020-07 – 2021-11",
+      "duration_months": 16,
+      "description": "Implemented exploratory testing using TestNG, discovering 50000+ edge cases\nBuilt mobile testing automation using Test Automation, testing on 100+ devices\nImplemented shift-left testing using Performance Testing, reducing bug escape rate by 51%\nDeveloped API testing framework using Agile Testing, testing 10000+ endpoints",
+      "technologies": [
+        "Agile Testing",
+        "MySQL",
+        "TestNG",
+        "Test Automation",
+        "Performance Testing",
+        "PyTest"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "QA Club"
+    },
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": "3.43",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestNG",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTest",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BrowserStack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sauce Labs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Security Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Performance Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Agile Testing",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Implemented Mobile Testing using TestNG, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Java",
+        "TestNG",
+        "Python"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Graph Query Builder",
+      "description": "Created Performance Testing Suite leveraging Java for core functionality and JavaScript for optimization",
+      "technologies": [
+        "PyTest",
+        "Java",
+        "JavaScript"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Created Regression Suite leveraging TestNG for core functionality and JavaScript for optimization",
+      "technologies": [
+        "JavaScript",
+        "TestNG",
+        "Java"
+      ],
+      "url": "https://github.com/johnanderson/smartcache",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — Google DevFest 2019",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Java",
+    "Python",
+    "TestNG",
+    "PyTest",
+    "Git",
+    "Docker",
+    "BrowserStack",
+    "Sauce Labs",
+    "Jira",
+    "Redis",
+    "MySQL",
+    "MongoDB",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Test Planning",
+    "CI/CD Testing",
+    "Security Testing",
+    "Performance Testing",
+    "TDD"
+  ],
+  "companies": [
+    "Tesla",
+    "PipelineIO",
+    "NeuroLink Labs"
+  ],
+  "job_titles": [
+    "QA Engineer",
+    "QA Engineer",
+    "Software QA Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University",
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 23,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:37:29.945319",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

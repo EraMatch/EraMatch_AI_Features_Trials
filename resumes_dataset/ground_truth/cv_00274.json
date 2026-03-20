@@ -1,0 +1,317 @@
+{
+  "full_name": "Ebony Oliver",
+  "email": "ebony.oliver@outlook.com",
+  "location": "Port James, Japan",
+  "years_of_experience": 7.5,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ebony Oliver",
+    "email": "ebony.oliver@outlook.com",
+    "phone": "+1-413-971-1624x11241",
+    "location": "Port James, Japan",
+    "linkedin_url": "https://linkedin.com/in/ebony-oliver",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior mobile development engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in Objective-C, Swift, Java with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2024-10",
+      "end_date": "Present",
+      "duration": "2024-10 – Present",
+      "duration_months": 17,
+      "description": "Created app analytics tracking using Jetpack Compose, providing insights on 100000+ users\nImplemented push notification system using Jetpack Compose, increasing user engagement by 40%\nCreated in-app purchase integration using SQLite, generating 10000+ in revenue",
+      "technologies": [
+        "Firebase",
+        "SwiftUI",
+        "SQLite",
+        "Jetpack Compose",
+        "Clean Architecture"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2023-08",
+      "end_date": "2024-04",
+      "duration": "2023-08 – 2024-04",
+      "duration_months": 8,
+      "description": "Implemented biometric authentication using Core Data, securing 10000+ user accounts\nImplemented biometric authentication using Firebase Firestore, securing 100+ user accounts",
+      "technologies": [
+        "App Center",
+        "TypeScript",
+        "Kotlin",
+        "Firebase Firestore",
+        "Core Data"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2020-07",
+      "end_date": "2023-04",
+      "duration": "2020-07 – 2023-04",
+      "duration_months": 33,
+      "description": "Optimized app performance using SwiftUI, reducing battery consumption by 59%\nImplemented deep linking using RevenueCat, improving conversion rates by 44%\nBuilt AR/VR features using SwiftUI, increasing user retention by 21%",
+      "technologies": [
+        "RevenueCat",
+        "Offline-First",
+        "SwiftUI"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2017-07",
+      "end_date": "2020-03",
+      "duration": "2017-07 – 2020-03",
+      "duration_months": 32,
+      "description": "Built AR/VR features using RevenueCat, increasing user retention by 62%\nCreated in-app purchase integration using RevenueCat, generating 10000+ in revenue\nImplemented biometric authentication using React Native, securing 10000+ user accounts\nBuilt widget functionality using App Store Optimization, increasing daily active users by 32%",
+      "technologies": [
+        "RevenueCat",
+        "App Store Optimization",
+        "React Native"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2019",
+      "gpa": "3.31",
+      "activities": "Mobile Development Club"
+    },
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Arduino/IoT projects",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Objective-C",
+    "Swift",
+    "Java",
+    "KMP",
+    "Expo",
+    "React Native",
+    "Jetpack Compose",
+    "App Center",
+    "CocoaPods",
+    "Fastlane",
+    "Gradle",
+    "Firebase",
+    "Core Data",
+    "Firebase Firestore",
+    "SQLite",
+    "Hive",
+    "Realm",
+    "AWS Amplify",
+    "RevenueCat",
+    "Firebase",
+    "Supabase",
+    "Offline-First",
+    "App Store Optimization"
+  ],
+  "companies": [
+    "DataPulse",
+    "InfraCore",
+    "Block",
+    "Notion"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "Mobile Developer",
+    "React Native Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "KAIST",
+    "University of Michigan"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 274,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:35.772772",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

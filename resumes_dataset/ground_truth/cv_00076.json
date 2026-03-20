@@ -1,0 +1,311 @@
+{
+  "full_name": "Kathryn Jackson",
+  "email": "kathryn.jackson@protonmail.com",
+  "location": "Debrashire, Singapore",
+  "years_of_experience": 11.7,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kathryn Jackson",
+    "email": "kathryn.jackson@protonmail.com",
+    "phone": "001-322-299-5900",
+    "location": "Debrashire, Singapore",
+    "linkedin_url": "https://linkedin.com/in/kathryn-jackson",
+    "github_url": "https://github.com/kathrynjackson",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in CSS, Dart, and JavaScript. 12 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2022-11",
+      "end_date": "Present",
+      "duration": "2022-11 – Present",
+      "duration_months": 40,
+      "description": "Created progressive web app using Responsive Design, increasing user engagement by 19%\nIntegrated third-party APIs using Responsive Design, reducing integration time by 33%",
+      "technologies": [
+        "Webpack",
+        "Prettier",
+        "Responsive Design"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2019-05",
+      "end_date": "2022-07",
+      "duration": "2019-05 – 2022-07",
+      "duration_months": 38,
+      "description": "Built reusable component library using Storybook, used by 5000+ developers\nDeveloped design system using Component-Driven Development, standardizing UI across 10000+ applications\nImplemented automated testing framework using Agile, achieving 51% code coverage\nImproved website accessibility score to 15% using Cypress",
+      "technologies": [
+        "Storybook",
+        "Agile",
+        "Cypress",
+        "Component-Driven Development"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2017-12",
+      "end_date": "2019-01",
+      "duration": "2017-12 – 2019-01",
+      "duration_months": 13,
+      "description": "Implemented automated testing framework using Git, achieving 40% code coverage\nCreated accessible UI components using Vite, achieving WCAG AA compliance\nBuilt real-time collaboration features using Git, serving 500+ concurrent users\nBuilt real-time collaboration features using Cypress, serving 5000+ concurrent users",
+      "technologies": [
+        "Cloudflare Pages",
+        "Tailwind CSS",
+        "Cypress",
+        "Git",
+        "Vite"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2013-10",
+      "end_date": "2017-11",
+      "duration": "2013-10 – 2017-11",
+      "duration_months": 49,
+      "description": "Created accessible UI components using Agile, achieving WCAG AA compliance\nBuilt reusable component library using IndexedDB, used by 100+ developers",
+      "technologies": [
+        "Next.js",
+        "IndexedDB",
+        "Agile"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "Ph.D.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2015",
+      "gpa": "3.72",
+      "activities": "UI/UX Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Git",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Log Aggregator",
+      "description": "Implemented Admin Panel using Vue.js, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "JavaScript",
+        "Remix",
+        "Vue.js"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Designed Real-time Chat leveraging Angular microservices architecture with React for caching",
+      "technologies": [
+        "Vue.js",
+        "Angular",
+        "React"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Arduino/IoT projects",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "Dart",
+    "JavaScript",
+    "Remix",
+    "React",
+    "Vue.js",
+    "Bootstrap",
+    "Angular",
+    "Jest",
+    "Cypress",
+    "Supabase",
+    "MongoDB",
+    "IndexedDB",
+    "Netlify",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Component-Driven Development",
+    "Responsive Design",
+    "Accessibility (WCAG)",
+    "Agile",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "Spotify",
+    "DeployFast",
+    "Tesla",
+    "Cloudflare"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "React Developer",
+    "UI Engineer",
+    "Web Developer"
+  ],
+  "universities": [
+    "Technion"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 76,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:37:56.696891",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "full_name": "Robert Thompson",
+  "email": "robert.thompson@yahoo.com",
+  "location": "Port Jonathan, France",
+  "years_of_experience": 10.2,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Robert Thompson",
+    "email": "robert.thompson@yahoo.com",
+    "phone": "428.285.7448x9061",
+    "location": "Port Jonathan, France",
+    "linkedin_url": "https://linkedin.com/in/robert-thompson",
+    "github_url": "https://github.com/robertthompson",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in SQL, Julia, and Scala. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2024-05",
+      "end_date": "Present",
+      "duration": "2024-05 – Present",
+      "duration_months": 22,
+      "description": "Designed data warehousing solution using Polars, enabling analytics on 100+ records\nImplemented NLP solution using ChromaDB, processing 50000+ text documents daily\nBuilt end-to-end ML pipeline using Claude API, processing 100+ samples daily",
+      "technologies": [
+        "Polars",
+        "PyTorch",
+        "ChromaDB",
+        "Scikit-learn",
+        "Bedrock",
+        "Claude API"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2020-11",
+      "end_date": "2023-12",
+      "duration": "2020-11 – 2023-12",
+      "duration_months": 37,
+      "description": "Developed ML models using Pinecone, improving prediction accuracy by 39%\nDeveloped ML models using Pinecone, improving prediction accuracy by 48%\nCreated recommendation system using R, increasing user engagement by 52%\nCreated feature engineering pipeline using DVC, reducing preprocessing time by 60%",
+      "technologies": [
+        "Deep Learning",
+        "R",
+        "DVC",
+        "Pinecone",
+        "Dask"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2018-07",
+      "end_date": "2020-07",
+      "duration": "2018-07 – 2020-07",
+      "duration_months": 24,
+      "description": "Built end-to-end ML pipeline using Lambda Labs, processing 100000+ samples daily\nDeveloped data visualization tools using Feature Engineering, used by 1000+ analysts",
+      "technologies": [
+        "Feature Engineering",
+        "Go",
+        "Dask",
+        "ChromaDB",
+        "NumPy",
+        "Lambda Labs"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2014-12",
+      "end_date": "2018-03",
+      "duration": "2014-12 – 2018-03",
+      "duration_months": 39,
+      "description": "Built real-time analytics dashboard using Bedrock, used by 100+ stakeholders\nCreated recommendation system using Polars, increasing user engagement by 44%",
+      "technologies": [
+        "Bedrock",
+        "Python",
+        "Polars"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Research Assistant - ML Lab"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Davis, Garner and Green Youth Program, 2020-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Julia",
+    "Scala",
+    "R",
+    "Go",
+    "LangChain",
+    "XGBoost",
+    "Spark",
+    "Weights & Biases",
+    "Kubeflow",
+    "Neptune",
+    "ChromaDB",
+    "Weaviate",
+    "Hugging Face Endpoints",
+    "Azure ML",
+    "Bedrock",
+    "Databricks",
+    "AWS SageMaker",
+    "Vector Databases",
+    "Computer Vision",
+    "LLM Evaluation",
+    "Deep Learning"
+  ],
+  "companies": [
+    "PipelineIO",
+    "CloudNova",
+    "Supabase",
+    "ParseLab"
+  ],
+  "job_titles": [
+    "NLP Engineer",
+    "Data Scientist",
+    "AI Product Engineer",
+    "AI Product Engineer"
+  ],
+  "universities": [
+    "UIUC"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 197,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:56.793787",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

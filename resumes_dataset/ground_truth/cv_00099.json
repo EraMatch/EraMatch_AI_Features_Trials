@@ -1,0 +1,286 @@
+{
+  "full_name": "Robert Bowen",
+  "email": "robert.bowen@outlook.com",
+  "location": "East Mark, UAE",
+  "years_of_experience": 7.9,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Robert Bowen",
+    "email": "robert.bowen@outlook.com",
+    "phone": "001-853-655-6093x20489",
+    "location": "East Mark, UAE",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in frontend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in JavaScript, CSS, TypeScript.",
+  "work_experience": [
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2025-02",
+      "end_date": "Present",
+      "duration": "2025-02 – Present",
+      "duration_months": 13,
+      "description": "Implemented state management solution using Responsive Design, reducing API calls by 43%\nDeveloped responsive web applications using Responsive Design, improving page load time by 47%",
+      "technologies": [
+        "Playwright",
+        "CSS",
+        "Storybook",
+        "Responsive Design"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2021-03",
+      "end_date": "2024-09",
+      "duration": "2021-03 – 2024-09",
+      "duration_months": 42,
+      "description": "Created accessible UI components using Python, achieving WCAG AA compliance\nImplemented state management solution using Svelte, reducing API calls by 19%\nBuilt interactive data visualizations using Python, serving 100000+ daily users",
+      "technologies": [
+        "Svelte",
+        "Tailwind CSS",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2017-07",
+      "end_date": "2020-11",
+      "duration": "2017-07 – 2020-11",
+      "duration_months": 40,
+      "description": "Optimized frontend bundle size using Responsive Design, reducing load time by 52%\nImplemented automated testing framework using Cloudflare Pages, achieving 45% code coverage\nDeveloped design system using Remix, standardizing UI across 100+ applications",
+      "technologies": [
+        "Responsive Design",
+        "Cloudflare Pages",
+        "Remix",
+        "Next.js",
+        "Vue.js"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "M.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Code Review Bot",
+      "description": "Built Form Builder with Remix and JavaScript, serving 10,000+ daily active users",
+      "technologies": [
+        "Dart",
+        "Remix",
+        "JavaScript"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Hudson-Sanchez Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Arabic (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "CSS",
+    "TypeScript",
+    "Dart",
+    "HTML",
+    "Remix",
+    "Svelte",
+    "Tailwind CSS",
+    "Jest",
+    "Webpack",
+    "Storybook",
+    "Firebase",
+    "IndexedDB",
+    "Supabase",
+    "AWS Amplify",
+    "Render",
+    "Vercel",
+    "Responsive Design",
+    "Agile",
+    "Progressive Web Apps",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "Nvidia",
+    "NeuroLink Labs",
+    "Shopify"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "UI Engineer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "Imperial College London",
+    "Imperial College London"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 99,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:08.618209",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

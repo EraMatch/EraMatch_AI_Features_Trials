@@ -1,0 +1,392 @@
+{
+  "full_name": "Donna Shaw",
+  "email": "donna.shaw@outlook.com",
+  "location": "Millerfurt, Netherlands",
+  "years_of_experience": 11.5,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Donna Shaw",
+    "email": "donna.shaw@outlook.com",
+    "phone": "001-762-611-8233x984",
+    "location": "Millerfurt, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/donna-shaw",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in devops / sre / mlops with expertise in Bash, Go, CDK. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2025-02",
+      "end_date": "Present",
+      "duration": "2025-02 – Present",
+      "duration_months": 13,
+      "description": "Created monitoring and alerting system using MLOps, reducing MTTR by 44%\nBuilt automated backup solution using Hetzner, ensuring 100000% data protection",
+      "technologies": [
+        "GitLab CI",
+        "Hetzner",
+        "Skopeo",
+        "MLOps"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2021-02",
+      "end_date": "2024-11",
+      "duration": "2021-02 – 2024-11",
+      "duration_months": 45,
+      "description": "Created monitoring and alerting system using VictoriaMetrics, reducing MTTR by 62%\nCreated self-service provisioning portal using Crossplane, serving 5000+ engineers\nEstablished chaos engineering practices using VictoriaMetrics, improving system resilience",
+      "technologies": [
+        "Crossplane",
+        "Python",
+        "Envoy",
+        "Kubernetes",
+        "VictoriaMetrics",
+        "ELK Stack"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2017-07",
+      "end_date": "2020-10",
+      "duration": "2017-07 – 2020-10",
+      "duration_months": 39,
+      "description": "Implemented log aggregation using Helm, processing 50000+ logs/day\nEstablished chaos engineering practices using GitHub Actions, improving system resilience",
+      "technologies": [
+        "Argo Workflows",
+        "Helm",
+        "GitHub Actions"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2013-11",
+      "end_date": "2017-04",
+      "duration": "2013-11 – 2017-04",
+      "duration_months": 41,
+      "description": "Established chaos engineering practices using Bash, improving system resilience\nDesigned and implemented infrastructure as code using  Triton Inference Server, managing 50000+ servers",
+      "technologies": [
+        " Triton Inference Server",
+        "Bash",
+        "Docker",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.A.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2015",
+      "gpa": "3.89",
+      "activities": null
+    },
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "B.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2011",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Health Check Service",
+      "description": "Designed and implemented Log Aggregation Platform with Platform Engineering, integrating with Bash for seamless data flow",
+      "technologies": [
+        "Bash",
+        "Go",
+        "Platform Engineering"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Designed and implemented Container Registry with Go, integrating with Bash for seamless data flow",
+      "technologies": [
+        "Bash",
+        "Go",
+        "Azure"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2022",
+      "credential_id": null
+    },
+    {
+      "name": "HashiCorp Terraform Associate",
+      "issuer": "HashiCorp",
+      "date": "2022",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Cunningham-Branch Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "Go",
+    "CDK",
+    "Pulumi",
+    "Ansible",
+    "Docker",
+    "Skopeo",
+    "K3s",
+    "Kubernetes",
+    "GitLab CI",
+    "Tekton",
+    "Jenkins",
+    "CircleCI",
+    "GitHub Actions",
+    "Prometheus",
+    "Grafana",
+    "Datadog",
+    "ELK Stack",
+    "GCP",
+    "Azure",
+    "Hetzner",
+    "Seldon",
+    "Kubeflow",
+    "TensorFlow Serving",
+    "Kale",
+    "TorchServe",
+    "Platform Engineering",
+    "SRE Practices",
+    "MLOps",
+    "Zero Trust",
+    "GitOps"
+  ],
+  "companies": [
+    "CodeReview.io",
+    "Twilio",
+    "Datadog",
+    "Shopify"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Cloud Engineer",
+    "Release Engineer",
+    "DevOps Engineer"
+  ],
+  "universities": [
+    "Columbia University",
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "B.A.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 102,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:09.982487",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

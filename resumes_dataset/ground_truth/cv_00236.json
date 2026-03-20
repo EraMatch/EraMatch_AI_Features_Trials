@@ -1,0 +1,369 @@
+{
+  "full_name": "Erin Gutierrez",
+  "email": "erin.gutierrez@protonmail.com",
+  "location": "Jordanshire, Brazil",
+  "years_of_experience": 15.5,
+  "seniority_level": "principal",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Erin Gutierrez",
+    "email": "erin.gutierrez@protonmail.com",
+    "phone": "639.801.9817",
+    "location": "Jordanshire, Brazil",
+    "linkedin_url": "https://linkedin.com/in/erin-gutierrez",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Executive-level technology leader with extensive background in devops / sre / mlops. Expertise in YAML, Bash, Rust with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 – Present",
+      "duration_months": 42,
+      "description": "Optimized cloud infrastructure using SRE Practices, reducing costs by 15%\nImplemented security scanning using Hetzner, identifying 100000+ vulnerabilities",
+      "technologies": [
+        "Infrastructure as Code",
+        "Hetzner",
+        "Azure",
+        "SRE Practices"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2018-02",
+      "end_date": "2022-07",
+      "duration": "2018-02 – 2022-07",
+      "duration_months": 53,
+      "description": "Established chaos engineering practices using Infrastructure as Code, improving system resilience\nCreated self-service provisioning portal using Kubeflow, serving 100+ engineers\nBuilt automated backup solution using Infrastructure as Code, ensuring 500% data protection\nImplemented container orchestration using DigitalOcean, managing 1000+ containers",
+      "technologies": [
+        "DigitalOcean",
+        "Kubeflow",
+        "Infrastructure as Code"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2016-04",
+      "end_date": "2017-12",
+      "duration": "2016-04 – 2017-12",
+      "duration_months": 20,
+      "description": "Implemented container orchestration using Pulumi, managing 5000+ containers\nEstablished GitOps workflows using Pulumi, improving deployment frequency by 64%",
+      "technologies": [
+        "Kale",
+        "Opsgenie",
+        "Pulumi",
+        "DigitalOcean",
+        "MLOps"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2011-05",
+      "end_date": "2015-11",
+      "duration": "2011-05 – 2015-11",
+      "duration_months": 54,
+      "description": "Built disaster recovery solution using Grafana, achieving RTO of 112ms\nImplemented container orchestration using Grafana, managing 100+ containers\nImplemented log aggregation using Alibaba Cloud, processing 500+ logs/day",
+      "technologies": [
+        "Docker",
+        "Grafana",
+        "Crossplane",
+        "Alibaba Cloud"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2009-11",
+      "end_date": "2011-04",
+      "duration": "2009-11 – 2011-04",
+      "duration_months": 17,
+      "description": "Built automated backup solution using YAML, ensuring 5000% data protection\nEstablished GitOps workflows using YAML, improving deployment frequency by 65%\nImplemented container orchestration using YAML, managing 50000+ containers",
+      "technologies": [
+        "Chaos Engineering",
+        "YAML",
+        "Tekton"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2011",
+      "gpa": "3.50",
+      "activities": "Infrastructure Club"
+    },
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2008",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Designed Secrets Management leveraging Go microservices architecture with Rust for caching",
+      "technologies": [
+        "Rust",
+        "Go",
+        "Bash"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Built Container Registry using Rust and Go, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Bash",
+        "Go",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Azure Administrator Associate",
+      "issuer": "Microsoft",
+      "date": "2020",
+      "credential_id": "KF95HU29"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Marriage space this discussion fact cover brother let someone scene debate\" — EMNLP 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "YAML",
+    "Bash",
+    "Rust",
+    "Go",
+    "Terraform",
+    "Helm",
+    "Envoy",
+    "Buildah",
+    "Istio",
+    "Tekton",
+    "Argo Workflows",
+    "GitLab CI",
+    "Prometheus",
+    "PagerDuty",
+    "Oracle Cloud",
+    "Hetzner",
+    "Alibaba Cloud",
+    "Linode",
+    "GCP",
+    "TorchServe",
+    "Kale",
+    "MLflow",
+    " Triton Inference Server",
+    "GitOps",
+    "MLOps"
+  ],
+  "companies": [
+    "Meta",
+    "SkillBridge",
+    "Vercel",
+    "PipelineIO",
+    "Notion"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Platform Engineer",
+    "DevOps Engineer",
+    "MLOps Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "UC Berkeley",
+    "UIUC"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 236,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:16.278165",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "full_name": "Kendra Gutierrez",
+  "email": "kendra.gutierrez@yahoo.com",
+  "location": "Cookburgh, USA",
+  "years_of_experience": 5.0,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kendra Gutierrez",
+    "email": "kendra.gutierrez@yahoo.com",
+    "phone": "(423)356-9725",
+    "location": "Cookburgh, USA",
+    "linkedin_url": "https://linkedin.com/in/kendra-gutierrez",
+    "github_url": "https://github.com/kendragutierrez",
+    "portfolio_url": "https://kendragutierrez.dev"
+  },
+  "summary": "Seasoned software professional with deep expertise in Python, Node.js, and TypeScript. 5 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2025-08",
+      "end_date": "Present",
+      "duration": "2025-08 – Present",
+      "duration_months": 7,
+      "description": "Optimized database queries using Docker, improving query performance by 47%\nBuilt automated CI/CD pipelines with Docker, reducing deployment time by 53%\nBuilt automated CI/CD pipelines with Docker, reducing deployment time by 62%",
+      "technologies": [
+        "Claude API",
+        "AWS Bedrock",
+        "Azure OpenAI",
+        "Ruby",
+        "Django",
+        "Docker"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2022-09",
+      "end_date": "2025-05",
+      "duration": "2022-09 – 2025-05",
+      "duration_months": 32,
+      "description": "Designed and implemented message queue system using NestJS, processing 5000+ messages/hour\nImplemented caching layer with NestJS, reducing database load by 52%\nLed migration from monolithic to microservices using NestJS, improving system scalability by 22%",
+      "technologies": [
+        "MySQL",
+        "ArgoCD",
+        "TDD",
+        "NestJS",
+        "Microservices",
+        "Rails"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2020-12",
+      "end_date": "2022-09",
+      "duration": "2020-12 – 2022-09",
+      "duration_months": 21,
+      "description": "Designed and implemented message queue system using Nginx, processing 500+ messages/hour\nLed migration from monolithic to microservices using Nginx, improving system scalability by 22%\nReduced infrastructure costs by 23% through optimization using DynamoDB\nMentored team of 7 junior developers on Scrum best practices",
+      "technologies": [
+        "REST API Design",
+        "DynamoDB",
+        "C#",
+        "Nginx",
+        "Azure",
+        "Scrum"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2020",
+      "gpa": "3.40",
+      "activities": "Dean's List"
+    },
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "B.A.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2018",
+      "gpa": "3.51",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartCache",
+      "description": "Created Database Proxy leveraging Node.js for core functionality and TypeScript for optimization",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "Node.js"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Resume Parser",
+      "description": "Built API Gateway with Actix and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "Actix",
+        "Node.js",
+        "Python"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Graph Query Builder",
+      "description": "Created User Management API leveraging Rails for core functionality and Python for optimization",
+      "technologies": [
+        "Rails",
+        "Actix",
+        "Python"
+      ],
+      "url": "https://github.com/kendragutierrez/graph-query-builder",
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2021",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2020",
+      "credential_id": "RN50WX07"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Johnston and Sons Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Size sister can its investment investment local above move\" — IEEE 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Node.js",
+    "TypeScript",
+    "Rails",
+    "Actix",
+    "NestJS",
+    "PlanetScale",
+    "Cassandra",
+    "SQLite",
+    "MongoDB",
+    "DynamoDB",
+    "Jenkins",
+    "gRPC",
+    "Git",
+    "Render",
+    "Fly.io",
+    "Railway",
+    "AWS",
+    "DigitalOcean",
+    "Azure OpenAI",
+    "OpenAI API",
+    "Google Gemini",
+    "AWS Bedrock",
+    "TDD",
+    "Microservices",
+    "LLM Integration",
+    "GraphQL"
+  ],
+  "companies": [
+    "PromptStack",
+    "PromptStack",
+    "Twilio"
+  ],
+  "job_titles": [
+    "API Developer",
+    "AI Engineer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "University of Toronto",
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 156,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:36.931739",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

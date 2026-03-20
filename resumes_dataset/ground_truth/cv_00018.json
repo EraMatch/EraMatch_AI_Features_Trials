@@ -1,0 +1,296 @@
+{
+  "full_name": "Jeffrey Meyer",
+  "email": "jeffrey.meyer@gmail.com",
+  "location": "Nguyenport, Japan",
+  "years_of_experience": 10.8,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jeffrey Meyer",
+    "email": "jeffrey.meyer@gmail.com",
+    "phone": "+1-635-661-5951",
+    "location": "Nguyenport, Japan",
+    "linkedin_url": "https://linkedin.com/in/jeffrey-meyer",
+    "github_url": "https://github.com/jeffreymeyer",
+    "portfolio_url": null
+  },
+  "summary": "Lead mobile development professional with 11 years driving technical strategy and team excellence. Expert in C++, Kotlin, TypeScript with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2021-11",
+      "end_date": "Present",
+      "duration": "2021-11 – Present",
+      "duration_months": 52,
+      "description": "Created in-app purchase integration using SwiftUI, generating 1000+ in revenue\nDeveloped mobile application using C++, achieving 100000+ downloads\nDeveloped cross-platform solution using CocoaPods, reducing development time by 67%\nImplemented push notification system using C++, increasing user engagement by 36%",
+      "technologies": [
+        "CocoaPods",
+        "SwiftUI",
+        "C++"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2017-07",
+      "end_date": "2021-06",
+      "duration": "2017-07 – 2021-06",
+      "duration_months": 47,
+      "description": "Developed cross-platform solution using React Native, reducing development time by 26%\nDeveloped mobile application using Jetpack Compose, achieving 1000+ downloads\nImplemented push notification system using React Native, increasing user engagement by 18%\nCreated app analytics tracking using Jetpack Compose, providing insights on 5000+ users",
+      "technologies": [
+        "Jetpack Compose",
+        "Java",
+        "React Native"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2014-07",
+      "end_date": "2017-02",
+      "duration": "2014-07 – 2017-02",
+      "duration_months": 31,
+      "description": "Built widget functionality using Swift, increasing daily active users by 50%\nImplemented app streaming using TypeScript, reducing download size by 60%\nImplemented push notification system using Swift, increasing user engagement by 67%\nImplemented app streaming using Swift, reducing download size by 63%",
+      "technologies": [
+        "Offline-First",
+        "Swift",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2015",
+      "gpa": "3.59",
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2014",
+      "gpa": "3.96",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prompt Playground",
+      "description": "Designed and implemented Flutter App with Java, integrating with TypeScript for seamless data flow",
+      "technologies": [
+        "C++",
+        "Java",
+        "TypeScript"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C++",
+    "Kotlin",
+    "TypeScript",
+    "Java",
+    "Dart",
+    "KMP",
+    "UIKit",
+    "Expo",
+    "Flutter",
+    "Fastlane",
+    "Android Studio",
+    "CocoaPods",
+    "Core Data",
+    "Realm",
+    "Hive",
+    "SQLite",
+    "Firebase",
+    "AWS Amplify",
+    "Supabase",
+    "RevenueCat",
+    "App Store Optimization",
+    "MVVM",
+    "CI/CD for Mobile",
+    "Offline-First"
+  ],
+  "companies": [
+    "PromptStack",
+    "ModelShip",
+    "NeuroLink Labs"
+  ],
+  "job_titles": [
+    "React Native Developer",
+    "iOS Developer",
+    "Flutter Developer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "NUS"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 18,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:37:27.233321",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

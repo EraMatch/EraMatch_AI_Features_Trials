@@ -1,0 +1,248 @@
+{
+  "full_name": "Dr. Linda Salazar",
+  "email": "dr..linda.salazar@gmail.com",
+  "location": "Woodsbury, Singapore",
+  "years_of_experience": 7.7,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Dr. Linda Salazar",
+    "email": "dr..linda.salazar@gmail.com",
+    "phone": "587-724-0107",
+    "location": "Woodsbury, Singapore",
+    "linkedin_url": "https://linkedin.com/in/dr.-linda-salazar",
+    "github_url": "https://github.com/drlindasalazar",
+    "portfolio_url": "https://drlindasalazar.dev"
+  },
+  "summary": "Seasoned software professional with deep expertise in Python, Go, and R. 8 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2022-11",
+      "end_date": "Present",
+      "duration": "2022-11 – Present",
+      "duration_months": 40,
+      "description": "Developed data visualization tools using Neptune, used by 100+ analysts\nDeveloped ML models using LlamaIndex, improving prediction accuracy by 21%",
+      "technologies": [
+        "Neptune",
+        "Claude API",
+        "LlamaIndex"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2018-07",
+      "end_date": "2022-11",
+      "duration": "2018-07 – 2022-11",
+      "duration_months": 52,
+      "description": "Developed data visualization tools using Feature Engineering, used by 1000+ analysts\nCreated recommendation system using Feature Engineering, increasing user engagement by 50%",
+      "technologies": [
+        "Weights & Biases",
+        "Neo4j",
+        "Feature Engineering",
+        "Qdrant",
+        "Dagster",
+        "Prompt Engineering"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "Ph.D.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Research Assistant - ML Lab"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Built MLOps Platform using Python and Go, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Python",
+        "Go",
+        "R"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Go",
+    "R",
+    "Scikit-learn",
+    "Keras",
+    "Hugging Face",
+    "LightGBM",
+    "LangChain",
+    "Spark",
+    "Airflow",
+    "Pinecone",
+    "Neo4j",
+    "BigQuery",
+    "Lambda Labs",
+    "AWS SageMaker",
+    "Azure ML",
+    "Feature Engineering",
+    "Statistical Modeling",
+    "RAG"
+  ],
+  "companies": [
+    "Tesla",
+    "Anthropic"
+  ],
+  "job_titles": [
+    "ML Engineer",
+    "AI Product Engineer"
+  ],
+  "universities": [
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 477,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:41:17.916290",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

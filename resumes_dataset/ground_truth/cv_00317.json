@@ -1,0 +1,292 @@
+{
+  "full_name": "Karen Hart",
+  "email": "karen.hart@hart.dev",
+  "location": "West Taylorland, UK",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Karen Hart",
+    "email": "karen.hart@hart.dev",
+    "phone": "(416)959-2661x08573",
+    "location": "West Taylorland, UK",
+    "linkedin_url": null,
+    "github_url": "https://github.com/karenhart",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Python, PowerShell, and HCL. 8 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2022-11",
+      "end_date": "Present",
+      "duration": "2022-11 – Present",
+      "duration_months": 40,
+      "description": "Built automated backup solution using Kale, ensuring 10000% data protection\nImplemented log aggregation using Kale, processing 100000+ logs/day\nImplemented container orchestration using Kubernetes, managing 1000+ containers",
+      "technologies": [
+        "Kale",
+        "Kubernetes",
+        "Crossplane",
+        "K3s",
+        "GCP"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2018-06",
+      "end_date": "2022-06",
+      "duration": "2018-06 – 2022-06",
+      "duration_months": 48,
+      "description": "Implemented container orchestration using ELK Stack, managing 10000+ containers\nEstablished GitOps workflows using YAML, improving deployment frequency by 23%\nCreated self-service provisioning portal using YAML, serving 100000+ engineers\nBuilt disaster recovery solution using MLflow, achieving RTO of 172ms",
+      "technologies": [
+        "Skopeo",
+        "MLflow",
+        "ELK Stack",
+        "YAML"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2017-11",
+      "end_date": "2018-05",
+      "duration": "2017-11 – 2018-05",
+      "duration_months": 6,
+      "description": "Implemented log aggregation using Chaos Engineering, processing 1000+ logs/day\nBuilt disaster recovery solution using Thanos, achieving RTO of 54ms\nBuilt automated backup solution using Rust, ensuring 10000% data protection\nOptimized cloud infrastructure using Thanos, reducing costs by 20%",
+      "technologies": [
+        "Thanos",
+        "Chaos Engineering",
+        "Rust"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2018",
+      "gpa": "3.81",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Evans-Joyce Youth Program, 2020-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "PowerShell",
+    "HCL",
+    "Terraform",
+    "Helm",
+    "Buildah",
+    "Skopeo",
+    "Podman",
+    "Jenkins",
+    "GitHub Actions",
+    "Tekton",
+    "Azure DevOps",
+    "ELK Stack",
+    "Datadog",
+    "Thanos",
+    "VictoriaMetrics",
+    "PagerDuty",
+    "DigitalOcean",
+    "Linode",
+    "Alibaba Cloud",
+    "Kale",
+    "TorchServe",
+    "TensorFlow Serving",
+    "MLOps",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "Palantir",
+    "Snowflake",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "SRE",
+    "Release Engineer",
+    "Cloud Engineer"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 317,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:57.334347",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

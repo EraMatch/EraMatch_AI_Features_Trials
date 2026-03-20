@@ -1,0 +1,341 @@
+{
+  "full_name": "Brooke Thompson",
+  "email": "brooke.thompson@thompson.dev",
+  "location": "Jacquelinemouth, UK",
+  "years_of_experience": 9.9,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Brooke Thompson",
+    "email": "brooke.thompson@thompson.dev",
+    "phone": "520-667-9740",
+    "location": "Jacquelinemouth, UK",
+    "linkedin_url": "https://linkedin.com/in/brooke-thompson",
+    "github_url": "https://github.com/brookethompson",
+    "portfolio_url": null
+  },
+  "summary": "Lead cybersecurity professional with 10 years driving technical strategy and team excellence. Expert in PowerShell, Bash, Go with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2024-06",
+      "end_date": "Present",
+      "duration": "2024-06 – Present",
+      "duration_months": 21,
+      "description": "Designed zero-trust architecture using Elasticsearch, securing 100+ endpoints\nDeveloped threat intelligence platform using Elasticsearch, tracking 500+ threats\nImplemented SIEM solution using AWS Security Hub, processing 50000+ logs/day\nImplemented security monitoring using PostgreSQL, detecting 100000+ threats",
+      "technologies": [
+        "PostgreSQL",
+        "Elasticsearch",
+        "AWS Security Hub"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2019-12",
+      "end_date": "2024-03",
+      "duration": "2019-12 – 2024-03",
+      "duration_months": 51,
+      "description": "Created security awareness training using SOC2 Compliance, reducing phishing clicks by 62%\nImplemented encryption solution using Figma, protecting 100+ records\nImplemented identity management using SOC2 Compliance, securing 500+ user identities",
+      "technologies": [
+        "Suricata",
+        "CrowdStrike",
+        "SOC2 Compliance"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2018-08",
+      "end_date": "2019-07",
+      "duration": "2018-08 – 2019-07",
+      "duration_months": 11,
+      "description": "Implemented SIEM solution using Suricata, processing 500+ logs/day\nImplemented SIEM solution using Azure Sentinel, processing 5000+ logs/day\nImplemented SIEM solution using Suricata, processing 500+ logs/day\nBuilt incident response automation using Go, reducing recovery time by 21%",
+      "technologies": [
+        "CrowdStrike",
+        "Suricata",
+        "Go",
+        "Azure Sentinel"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2017-11",
+      "end_date": "2018-07",
+      "duration": "2017-11 – 2018-07",
+      "duration_months": 8,
+      "description": "Built security automation using CrowdStrike, reducing incident response time by 60%\nImplemented SIEM solution using SOC2 Compliance, processing 5000+ logs/day\nBuilt security automation using CrowdStrike, reducing incident response time by 31%",
+      "technologies": [
+        "CrowdStrike",
+        "Suricata",
+        "SOC2 Compliance",
+        "SAST/DAST"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2015-02",
+      "end_date": "2017-06",
+      "duration": "2015-02 – 2017-06",
+      "duration_months": 28,
+      "description": "Implemented encryption solution using Figma, protecting 10000+ records\nCreated vulnerability management program using Trivy, reducing CVEs by 24%\nDesigned zero-trust architecture using Trivy, securing 100000+ endpoints\nConducted penetration testing using Sigma, identifying 100000+ vulnerabilities",
+      "technologies": [
+        "Trivy",
+        "Sigma",
+        "Suricata",
+        "SOC2 Compliance"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Ethical Hacking Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataPipe CLI",
+      "description": "Developed Access Control System using Suricata, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Suricata",
+        "Bash",
+        "PowerShell"
+      ],
+      "url": "https://github.com/brookethompson/datapipe-cli",
+      "date": "2024"
+    },
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Built Security Awareness Training using Metasploit and Go, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Metasploit",
+        "Sigma",
+        "Go"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "Log Aggregator",
+      "description": "Created Security Dashboard leveraging OWASP ZAP for core functionality and PowerShell for optimization",
+      "technologies": [
+        "Go",
+        "OWASP ZAP",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Company Internal 2025",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PowerShell",
+    "Bash",
+    "Go",
+    "C",
+    "Metasploit",
+    "Sigma",
+    "OWASP ZAP",
+    "Burp Suite",
+    "Suricata",
+    "SonarQube",
+    "CrowdStrike",
+    "Hashicorp Vault",
+    "Redis",
+    "Elasticsearch",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "Zero Trust Architecture",
+    "Incident Response",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "Twilio",
+    "InfraCore",
+    "Palantir",
+    "AgentForge",
+    "NeuroLink Labs"
+  ],
+  "job_titles": [
+    "AppSec Engineer",
+    "Security Architect",
+    "Security Architect",
+    "AppSec Engineer",
+    "Security Engineer"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 33,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:37:34.952732",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

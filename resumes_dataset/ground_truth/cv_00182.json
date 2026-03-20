@@ -1,0 +1,327 @@
+{
+  "full_name": "David Robertson",
+  "email": "david.robertson@robertson.dev",
+  "location": "Clarkburgh, Australia",
+  "years_of_experience": 9.4,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "David Robertson",
+    "email": "david.robertson@robertson.dev",
+    "phone": "932-922-5913x651",
+    "location": "Clarkburgh, Australia",
+    "linkedin_url": null,
+    "github_url": "https://github.com/davidrobertson",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in TypeScript, Ruby, and Rust. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2022-08",
+      "end_date": "Present",
+      "duration": "2022-08 – Present",
+      "duration_months": 43,
+      "description": "Developed real-time data processing pipeline using Ansible, handling 100+ records/second\nCreated authentication and authorization system using Kotlin, securing 50000+ user accounts\nImplemented caching layer with LLM Integration, reducing database load by 55%",
+      "technologies": [
+        "LLM Integration",
+        "Ansible",
+        "Kotlin"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2018-11",
+      "end_date": "2022-07",
+      "duration": "2018-11 – 2022-07",
+      "duration_months": 44,
+      "description": "Architected and built RESTful APIs serving 500+ requests/day using Nginx, reducing response time by 51%\nDesigned and implemented microservices architecture using Nginx, handling 10000+ concurrent users\nOptimized database queries using Microservices, improving query performance by 19%",
+      "technologies": [
+        "Nginx",
+        "Kubernetes",
+        "Microservices"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2016-07",
+      "end_date": "2018-09",
+      "duration": "2016-07 – 2018-09",
+      "duration_months": 26,
+      "description": "Optimized database queries using Actix, improving query performance by 66%\nLed migration from monolithic to microservices using Python, improving system scalability by 41%\nDesigned and implemented microservices architecture using Rust, handling 1000+ concurrent users\nMentored team of 6 junior developers on Rust best practices",
+      "technologies": [
+        "Rust",
+        "Railway",
+        "MySQL",
+        "Python",
+        "Actix",
+        "Gin"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.A.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2015",
+      "gpa": "3.78",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed gRPC Services leveraging Actix microservices architecture with Rails for caching",
+      "technologies": [
+        "Actix",
+        "Rails",
+        "Ruby"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Developed Data Sync Platform using FastAPI, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Rust",
+        "Ruby",
+        "FastAPI"
+      ],
+      "url": "https://github.com/davidrobertson/config-manager",
+      "date": "2022"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Developed Auth Service using Actix, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "TypeScript",
+        "Spring Boot",
+        "Actix"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Whitaker, Johnson and Williams Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Ruby",
+    "Rust",
+    "Java",
+    "Actix",
+    "Spring Boot",
+    "LangChain",
+    "Rails",
+    "FastAPI",
+    "Neon",
+    "MySQL",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "RabbitMQ",
+    "Heroku",
+    "Render",
+    "Railway",
+    "GCP",
+    "Azure OpenAI",
+    "OpenAI API",
+    "Anthropic",
+    "Claude API",
+    "RAG Architecture",
+    "Microservices"
+  ],
+  "companies": [
+    "Palantir",
+    "VectorDB Inc",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "LLM Engineer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "Columbia University",
+    "UT Austin"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 182,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:49.411903",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

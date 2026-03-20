@@ -1,0 +1,318 @@
+{
+  "full_name": "Amanda Harvey",
+  "email": "amanda.harvey@gmail.com",
+  "location": "Gonzalezhaven, Japan",
+  "years_of_experience": 8.5,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Amanda Harvey",
+    "email": "amanda.harvey@gmail.com",
+    "phone": "847.468.7014",
+    "location": "Gonzalezhaven, Japan",
+    "linkedin_url": "https://linkedin.com/in/amanda-harvey",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Java, TypeScript, and Dart. 8 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Implemented push notification system using MVVM, increasing user engagement by 27%\nBuilt widget functionality using MVVM, increasing daily active users by 29%\nImplemented push notification system using Clean Architecture, increasing user engagement by 59%\nDeveloped mobile application using App Store Optimization, achieving 1000+ downloads",
+      "technologies": [
+        "MVVM",
+        "Clean Architecture",
+        "App Store Optimization"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2022-02",
+      "end_date": "2023-12",
+      "duration": "2022-02 – 2023-12",
+      "duration_months": 22,
+      "description": "Built widget functionality using C++, increasing daily active users by 55%\nBuilt widget functionality using RevenueCat, increasing daily active users by 39%",
+      "technologies": [
+        "RevenueCat",
+        "Firebase Firestore",
+        "SwiftUI",
+        "React Native",
+        "C++"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2020-07",
+      "end_date": "2022-02",
+      "duration": "2020-07 – 2022-02",
+      "duration_months": 19,
+      "description": "Built widget functionality using MVVM, increasing daily active users by 41%\nImplemented deep linking using CI/CD for Mobile, improving conversion rates by 42%",
+      "technologies": [
+        "Swift",
+        "MVVM",
+        "App Store Optimization",
+        "CI/CD for Mobile",
+        "Gradle",
+        "Supabase"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2017-04",
+      "end_date": "2020-03",
+      "duration": "2017-04 – 2020-03",
+      "duration_months": 35,
+      "description": "Implemented deep linking using TestFlight, improving conversion rates by 34%\nBuilt widget functionality using TestFlight, increasing daily active users by 52%",
+      "technologies": [
+        "TestFlight",
+        "C++",
+        "Expo"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Parser",
+      "description": "Designed and implemented Push Notification Service with KMP, integrating with Flutter for seamless data flow",
+      "technologies": [
+        "Kotlin",
+        "Flutter",
+        "KMP"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Resume Parser",
+      "description": "Implemented Mobile CI/CD using KMP, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Kotlin",
+        "KMP",
+        "Java"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Mccoy PLC Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Writer site grow name\" — EMNLP 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "TypeScript",
+    "Dart",
+    "Kotlin",
+    "C++",
+    "Flutter",
+    "KMP",
+    "TestFlight",
+    "Gradle",
+    "CocoaPods",
+    "App Center",
+    "Realm",
+    "Hive",
+    "SQLite",
+    "Firebase Firestore",
+    "Core Data",
+    "AWS Amplify",
+    "Supabase",
+    "Firebase",
+    "Clean Architecture",
+    "App Store Optimization"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "Airbnb",
+    "Stripe",
+    "Tesla"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "Android Developer",
+    "Android Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 136,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:38:27.133067",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

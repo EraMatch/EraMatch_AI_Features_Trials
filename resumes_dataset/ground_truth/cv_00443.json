@@ -1,0 +1,296 @@
+{
+  "full_name": "Jason Preston",
+  "email": "jason.preston@outlook.com",
+  "location": "New Judy, UAE",
+  "years_of_experience": 2.8,
+  "seniority_level": "mid",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jason Preston",
+    "email": "jason.preston@outlook.com",
+    "phone": "+1-972-224-0299x0155",
+    "location": "New Judy, UAE",
+    "linkedin_url": "https://linkedin.com/in/jason-preston",
+    "github_url": "https://github.com/jasonpreston",
+    "portfolio_url": null
+  },
+  "summary": "Results-driven mobile development professional with 3 years of experience designing and implementing scalable solutions using Dart, Kotlin, TypeScript. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 – Present",
+      "duration_months": 33,
+      "description": "Implemented push notification system using Objective-C, increasing user engagement by 52%\nCreated app analytics tracking using Objective-C, providing insights on 100+ users",
+      "technologies": [
+        "Android Studio",
+        "SQLite",
+        "Realm",
+        "Objective-C"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "M.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartCache",
+      "description": "Built App Analytics using Flutter and SwiftUI, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "SwiftUI",
+        "Flutter",
+        "Objective-C"
+      ],
+      "url": "https://github.com/jasonpreston/smartcache",
+      "date": "2022"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Designed and implemented Offline Sync with Dart, integrating with TypeScript for seamless data flow",
+      "technologies": [
+        "TypeScript",
+        "UIKit",
+        "Dart"
+      ],
+      "url": "https://github.com/jasonpreston/config-manager",
+      "date": "2019"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Designed In-app Purchase System leveraging Dart microservices architecture with Kotlin for caching",
+      "technologies": [
+        "Expo",
+        "Dart",
+        "Kotlin"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Associate Android Developer",
+      "issuer": "Google",
+      "date": "2020",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Lee Inc Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Music production",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "Kotlin",
+    "TypeScript",
+    "Objective-C",
+    "Swift",
+    "Flutter",
+    "Expo",
+    "SwiftUI",
+    "UIKit",
+    "Firebase",
+    "Android Studio",
+    "TestFlight",
+    "CocoaPods",
+    "Xcode",
+    "Hive",
+    "Firebase Firestore",
+    "SQLite",
+    "Firebase",
+    "Supabase",
+    "AWS Amplify",
+    "RevenueCat",
+    "App Store Optimization",
+    "CI/CD for Mobile",
+    "Offline-First"
+  ],
+  "companies": [
+    "OpenAI"
+  ],
+  "job_titles": [
+    "Flutter Developer"
+  ],
+  "universities": [
+    "MIT",
+    "Imperial College London"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 443,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:41:01.754531",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

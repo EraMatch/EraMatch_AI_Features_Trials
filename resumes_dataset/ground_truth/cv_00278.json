@@ -1,0 +1,286 @@
+{
+  "full_name": "Rebecca Chandler",
+  "email": "rebecca.chandler@yahoo.com",
+  "location": "Christopherton, Singapore",
+  "years_of_experience": 10.1,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Rebecca Chandler",
+    "email": "rebecca.chandler@yahoo.com",
+    "phone": "551.970.2814x069",
+    "location": "Christopherton, Singapore",
+    "linkedin_url": "https://linkedin.com/in/rebecca-chandler",
+    "github_url": "https://github.com/rebeccachandler",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Dart, Kotlin, and SwiftUI. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 – Present",
+      "duration_months": 30,
+      "description": "Developed mobile application using Supabase, achieving 500+ downloads\nImplemented push notification system using Supabase, increasing user engagement by 24%",
+      "technologies": [
+        "Supabase",
+        "Realm",
+        "App Store Optimization",
+        "Firebase",
+        "Objective-C",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2019-07",
+      "end_date": "2023-08",
+      "duration": "2019-07 – 2023-08",
+      "duration_months": 49,
+      "description": "Created in-app purchase integration using KMP, generating 100+ in revenue\nImplemented deep linking using KMP, improving conversion rates by 69%\nBuilt offline-first architecture using RevenueCat, improving app responsiveness by 21%\nCreated app analytics tracking using KMP, providing insights on 100000+ users",
+      "technologies": [
+        "Supabase",
+        "Clean Architecture",
+        "RevenueCat",
+        "KMP",
+        "CocoaPods"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2015-10",
+      "end_date": "2019-04",
+      "duration": "2015-10 – 2019-04",
+      "duration_months": 42,
+      "description": "Built AR/VR features using App Center, increasing user retention by 36%\nDeveloped cross-platform solution using App Center, reducing development time by 45%",
+      "technologies": [
+        "App Center",
+        "SQLite",
+        "Kotlin"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2013",
+      "gpa": "3.11",
+      "activities": "Mobile Development Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Developed iOS Application using Kotlin, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "SwiftUI",
+        "UIKit",
+        "Kotlin"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Implemented Offline Sync using UIKit, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "UIKit",
+        "Dart",
+        "Jetpack Compose"
+      ],
+      "url": "https://github.com/rebeccachandler/code-review-bot",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Company Internal 2021",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Political on develop very everyone against Mrs knowledge public beautiful\" — NeurIPS 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "Kotlin",
+    "SwiftUI",
+    "Jetpack Compose",
+    "UIKit",
+    "React Native",
+    "App Center",
+    "CocoaPods",
+    "Android Studio",
+    "SQLite",
+    "Realm",
+    "Hive",
+    "Core Data",
+    "Supabase",
+    "AWS Amplify",
+    "Offline-First",
+    "MVVM",
+    "CI/CD for Mobile",
+    "Clean Architecture"
+  ],
+  "companies": [
+    "InfraCore",
+    "Twilio",
+    "Supabase"
+  ],
+  "job_titles": [
+    "React Native Developer",
+    "React Native Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 278,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:38.080415",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

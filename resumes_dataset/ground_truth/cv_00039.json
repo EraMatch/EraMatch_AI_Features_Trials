@@ -1,0 +1,272 @@
+{
+  "full_name": "Katie Hoover",
+  "email": "katie.hoover@gmail.com",
+  "location": "Mollybury, Japan",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "General IT",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Katie Hoover",
+    "email": "katie.hoover@gmail.com",
+    "phone": "849-997-2787x5588",
+    "location": "Mollybury, Japan",
+    "linkedin_url": "https://linkedin.com/in/katie-hoover",
+    "github_url": "https://github.com/katiehoover",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in general it with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Bash, VBA, Active Directory.",
+  "work_experience": [
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "System Administrator",
+      "title": "System Administrator",
+      "start_date": "2022-06",
+      "end_date": "Present",
+      "duration": "2022-06 – Present",
+      "duration_months": 45,
+      "description": "Created IT documentation using VMware, serving 5000+ employees\nBuilt automation scripts using Exchange, saving 10+ hours/month",
+      "technologies": [
+        "SolarWinds",
+        "SQL",
+        "SharePoint",
+        "Exchange",
+        "System Administration",
+        "VMware"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Help Desk Analyst",
+      "title": "Help Desk Analyst",
+      "start_date": "2018-01",
+      "end_date": "2022-01",
+      "duration": "2018-01 – 2022-01",
+      "duration_months": 48,
+      "description": "Created IT documentation using MySQL, serving 10000+ employees\nManaged Windows/Active Directory infrastructure using Intune, supporting 1000+ users\nImplemented backup and recovery using PowerShell, achieving 100000% data protection",
+      "technologies": [
+        "Intune",
+        "PowerShell",
+        "MySQL"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2017",
+      "gpa": "3.56",
+      "activities": "Network Club"
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VBA",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Active Directory",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SharePoint",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VMware",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hyper-V",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Intune",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Help Desk",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ITIL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Change Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "System Administration",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Config Manager",
+      "description": "Developed IT Documentation using SharePoint, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "SharePoint",
+        "Exchange",
+        "Bash"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Developed Training Portal using SharePoint, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "SharePoint",
+        "VBA",
+        "Active Directory"
+      ],
+      "url": "https://github.com/katiehoover/code-review-bot",
+      "date": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CompTIA A+",
+      "issuer": "CompTIA",
+      "date": "2022",
+      "credential_id": "CU96VE36"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Yoga",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "VBA",
+    "Active Directory",
+    "Exchange",
+    "SharePoint",
+    "VMware",
+    "Hyper-V",
+    "Intune",
+    "Docker",
+    "PostgreSQL",
+    "SQL Server",
+    "MySQL",
+    "Google Workspace",
+    "AWS",
+    "Azure",
+    "Help Desk",
+    "ITIL",
+    "Change Management",
+    "Incident Management"
+  ],
+  "companies": [
+    "Snowflake",
+    "InfraCore"
+  ],
+  "job_titles": [
+    "System Administrator",
+    "Help Desk Analyst"
+  ],
+  "universities": [
+    "McGill University",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 39,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:37:38.350253",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

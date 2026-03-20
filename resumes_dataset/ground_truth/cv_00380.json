@@ -1,0 +1,332 @@
+{
+  "full_name": "Anthony Cruz",
+  "email": "anthony.cruz@cruz.dev",
+  "location": "Port Christopherfurt, Netherlands",
+  "years_of_experience": 8.8,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Anthony Cruz",
+    "email": "anthony.cruz@cruz.dev",
+    "phone": "(433)270-5024x97243",
+    "location": "Port Christopherfurt, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/anthony-cruz",
+    "github_url": "https://github.com/anthonycruz",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in frontend engineering with expertise in HTML, Dart, TypeScript. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2024-11",
+      "end_date": "Present",
+      "duration": "2024-11 – Present",
+      "duration_months": 16,
+      "description": "Built reusable component library using Cloudflare Pages, used by 5000+ developers\nOptimized frontend bundle size using Cloudflare Pages, reducing load time by 55%\nImproved website accessibility score to 36% using Cloudflare Pages",
+      "technologies": [
+        "Agile",
+        "Cloudflare Pages",
+        "MongoDB",
+        "Dart",
+        "Firebase",
+        "Component-Driven Development"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2021-04",
+      "end_date": "2024-07",
+      "duration": "2021-04 – 2024-07",
+      "duration_months": 39,
+      "description": "Implemented automated testing framework using Firebase, achieving 23% code coverage\nImplemented state management solution using Progressive Web Apps, reducing API calls by 67%",
+      "technologies": [
+        "Astro",
+        "CSS",
+        "Progressive Web Apps",
+        "Firebase",
+        "IndexedDB"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2017-02",
+      "end_date": "2021-04",
+      "duration": "2017-02 – 2021-04",
+      "duration_months": 50,
+      "description": "Developed responsive web applications using Python, improving page load time by 24%\nBuilt reusable component library using Python, used by 5000+ developers\nIntegrated third-party APIs using Python, reducing integration time by 33%\nBuilt interactive data visualizations using Python, serving 10000+ daily users",
+      "technologies": [
+        "Bootstrap",
+        "Progressive Web Apps",
+        "Cypress",
+        "Firebase",
+        "Python",
+        "Component-Driven Development"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "M.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.96",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Implemented Form Builder using Astro, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Astro",
+        "CSS",
+        "Dart"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Resume Parser",
+      "description": "Designed and implemented Form Builder with Bootstrap, integrating with Astro for seamless data flow",
+      "technologies": [
+        "Bootstrap",
+        "Astro",
+        "Next.js"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "React Certified Developer",
+      "issuer": "React",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Yoga",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "Dart",
+    "TypeScript",
+    "CSS",
+    "Astro",
+    "Bootstrap",
+    "Remix",
+    "Tailwind CSS",
+    "Next.js",
+    "Figma",
+    "ESLint",
+    "Prettier",
+    "Vite",
+    "PostgreSQL",
+    "IndexedDB",
+    "Firebase",
+    "Supabase",
+    "MongoDB",
+    "Netlify",
+    "Vercel",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Responsive Design",
+    "Agile",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "AgentForge",
+    "Uber",
+    "Tesla"
+  ],
+  "job_titles": [
+    "React Developer",
+    "UI Engineer",
+    "Web Developer"
+  ],
+  "universities": [
+    "University of Toronto"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 380,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:29.890129",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

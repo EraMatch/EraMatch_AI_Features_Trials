@@ -1,0 +1,288 @@
+{
+  "full_name": "Anthony Johnson",
+  "email": "anthony.johnson@yahoo.com",
+  "location": "Harrisborough, Japan",
+  "years_of_experience": 11.9,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Anthony Johnson",
+    "email": "anthony.johnson@yahoo.com",
+    "phone": "531-681-4396x661",
+    "location": "Harrisborough, Japan",
+    "linkedin_url": "https://linkedin.com/in/anthony-johnson",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, SQL, and Julia. 12 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Developed ML models using XGBoost, improving prediction accuracy by 63%\nBuilt ML model serving infrastructure using XGBoost, handling 500+ predictions/day\nDeveloped ML models using Qdrant, improving prediction accuracy by 44%\nCreated recommendation system using Qdrant, increasing user engagement by 70%",
+      "technologies": [
+        "Spark",
+        "XGBoost",
+        "Qdrant"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2020-12",
+      "end_date": "2022-03",
+      "duration": "2020-12 – 2022-03",
+      "duration_months": 15,
+      "description": "Built ML model serving infrastructure using Python, handling 10000+ predictions/day\nCreated recommendation system using Python, increasing user engagement by 35%\nImplemented A/B testing framework using Feature Engineering, running 5000+ experiments\nDeveloped data visualization tools using MLflow, used by 500+ analysts",
+      "technologies": [
+        "Feature Engineering",
+        "MLflow",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2016-04",
+      "end_date": "2020-09",
+      "duration": "2016-04 – 2020-09",
+      "duration_months": 53,
+      "description": "Created feature engineering pipeline using TensorFlow, reducing preprocessing time by 23%\nImplemented NLP solution using Bedrock, processing 100+ text documents daily",
+      "technologies": [
+        "Bedrock",
+        "Weights & Biases",
+        "TensorFlow"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2013-06",
+      "end_date": "2016-01",
+      "duration": "2013-06 – 2016-01",
+      "duration_months": 31,
+      "description": "Implemented A/B testing framework using Bedrock, running 100+ experiments\nBuilt end-to-end ML pipeline using Feature Engineering, processing 100000+ samples daily\nImplemented A/B testing framework using A/B Testing, running 10000+ experiments",
+      "technologies": [
+        "LlamaIndex",
+        "Bedrock",
+        "Feature Engineering",
+        "MLOps",
+        "A/B Testing",
+        "Deep Learning"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "B.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Research Assistant - ML Lab"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — MLH 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "SQL",
+    "Julia",
+    "Go",
+    "MATLAB",
+    "PyTorch",
+    "Keras",
+    "Dask",
+    "Spark",
+    "PostgreSQL",
+    "Redshift",
+    "Neo4j",
+    "Azure ML",
+    "GCP Vertex AI",
+    "AWS SageMaker",
+    "Hugging Face Endpoints",
+    "Lambda Labs",
+    "A/B Testing",
+    "LLM Evaluation",
+    "NLP",
+    "Feature Engineering"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "Meta",
+    "Tesla",
+    "Vercel"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "NLP Engineer",
+    "LLM Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "Technion"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 455,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:41:07.209961",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

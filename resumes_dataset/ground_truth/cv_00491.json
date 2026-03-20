@@ -1,0 +1,297 @@
+{
+  "full_name": "David Sanchez",
+  "email": "david.sanchez@yahoo.com",
+  "location": "Jacobsmouth, India",
+  "years_of_experience": 1.6,
+  "seniority_level": "junior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "David Sanchez",
+    "email": "david.sanchez@yahoo.com",
+    "phone": "001-353-775-1376x51588",
+    "location": "Jacobsmouth, India",
+    "linkedin_url": "https://linkedin.com/in/david-sanchez",
+    "github_url": "https://github.com/davidsanchez",
+    "portfolio_url": null
+  },
+  "summary": "Junior engineer with 2 years working with Python. Demonstrated ability to learn quickly and contribute to team projects.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2025-06",
+      "end_date": "Present",
+      "duration": "2025-06 – Present",
+      "duration_months": 9,
+      "description": "Developed real-time data processing pipeline using Go, handling 10000+ records/second\nDesigned and implemented message queue system using REST API Design, processing 100000+ messages/hour",
+      "technologies": [
+        "GCP",
+        "ArgoCD",
+        "Event-Driven Architecture",
+        "Go",
+        "REST API Design",
+        "Microservices"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2024-07",
+      "end_date": "2025-05",
+      "duration": "2024-07 – 2025-05",
+      "duration_months": 10,
+      "description": "Created authentication and authorization system using LlamaIndex, securing 100000+ user accounts\nReduced infrastructure costs by 50% through optimization using Actix\nOptimized database queries using Scrum, improving query performance by 37%",
+      "technologies": [
+        "Cloudflare",
+        "Actix",
+        "Scrum",
+        "Express.js",
+        "LlamaIndex"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2024",
+      "gpa": "3.46",
+      "activities": null
+    },
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "B.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Implemented Event Streaming Service using Flask, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Django",
+        "LlamaIndex",
+        "Flask"
+      ],
+      "url": "https://github.com/davidsanchez/ml-model-registry",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Reading sci-fi novels",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Kotlin",
+    "NestJS",
+    "LlamaIndex",
+    "Flask",
+    "Django",
+    "DynamoDB",
+    "Redis",
+    "Supabase",
+    "CockroachDB",
+    "SQLite",
+    "gRPC",
+    "Git",
+    "Kafka",
+    "Jenkins",
+    "Nginx",
+    "DigitalOcean",
+    "GCP",
+    "Fly.io",
+    "Replicate",
+    "Azure OpenAI",
+    "Google Gemini",
+    "CI/CD",
+    "GraphQL",
+    "Event-Driven Architecture"
+  ],
+  "companies": [
+    "HashiCorp",
+    "DeployFast"
+  ],
+  "job_titles": [
+    "API Developer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University",
+    "UIUC"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 491,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:41:24.285117",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "full_name": "Courtney Gonzalez",
+  "email": "courtney.gonzalez@outlook.com",
+  "location": "Rossberg, Germany",
+  "years_of_experience": 11.7,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Courtney Gonzalez",
+    "email": "courtney.gonzalez@outlook.com",
+    "phone": "5038791769",
+    "location": "Rossberg, Germany",
+    "linkedin_url": "https://linkedin.com/in/courtney-gonzalez",
+    "github_url": "https://github.com/courtneygonzalez",
+    "portfolio_url": "https://courtneygonzalez.dev"
+  },
+  "summary": "Engineering leader with deep technical background in Go, Java, and TypeScript. 12 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2021-09",
+      "end_date": "Present",
+      "duration": "2021-09 – Present",
+      "duration_months": 54,
+      "description": "Created authentication and authorization system using Kubernetes, securing 50000+ user accounts\nDesigned and implemented message queue system using Neon, processing 10000+ messages/hour\nOptimized database queries using Spring Boot, improving query performance by 45%\nBuilt event-driven architecture using TypeScript, processing 50000+ events daily",
+      "technologies": [
+        "Microservices",
+        "TypeScript",
+        "Kubernetes",
+        "Kotlin",
+        "Neon",
+        "Spring Boot"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2017-06",
+      "end_date": "2021-05",
+      "duration": "2017-06 – 2021-05",
+      "duration_months": 47,
+      "description": "Optimized database queries using RAG Architecture, improving query performance by 47%\nOptimized database queries using Azure, improving query performance by 37%\nCreated authentication and authorization system using ArgoCD, securing 1000+ user accounts",
+      "technologies": [
+        "ArgoCD",
+        "Azure",
+        "Cassandra",
+        "RAG Architecture"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2013-12",
+      "end_date": "2017-03",
+      "duration": "2013-12 – 2017-03",
+      "duration_months": 39,
+      "description": "Optimized database queries using AWS Bedrock, improving query performance by 47%\nCreated authentication and authorization system using Python, securing 10000+ user accounts\nArchitected and built RESTful APIs serving 10000+ requests/day using AWS Bedrock, reducing response time by 26%",
+      "technologies": [
+        "gRPC",
+        "AWS Bedrock",
+        "Google Gemini",
+        "Python",
+        "Hugging Face"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Hackathon Winner"
+    },
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "B.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2011",
+      "gpa": "2.93",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartCache",
+      "description": "Built gRPC Services using Node.js and TypeScript, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "TypeScript",
+        "Node.js",
+        "LlamaIndex"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2024",
+      "credential_id": "LZ01SH63"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Williams-Wright Youth Program, 2022-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Photography",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Java",
+    "TypeScript",
+    "Rust",
+    "Node.js",
+    "LlamaIndex",
+    "Gin",
+    "MySQL",
+    "Elasticsearch",
+    "gRPC",
+    "Kafka",
+    "Docker",
+    "Render",
+    "Fly.io",
+    "Vercel",
+    "Cloudflare",
+    "AWS",
+    "Google Gemini",
+    "Hugging Face",
+    "Replicate",
+    "Azure OpenAI",
+    "Anthropic",
+    "GraphQL",
+    "CI/CD"
+  ],
+  "companies": [
+    "Datadog",
+    "Supabase",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "Server-Side Developer",
+    "LLM Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "Technion"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 20,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:37:28.330875",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

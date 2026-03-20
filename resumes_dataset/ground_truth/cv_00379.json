@@ -1,0 +1,340 @@
+{
+  "full_name": "Scott Cross",
+  "email": "scott.cross@yahoo.com",
+  "location": "Frederickburgh, Germany",
+  "years_of_experience": 3.7,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Scott Cross",
+    "email": "scott.cross@yahoo.com",
+    "phone": "(276)366-5674x916",
+    "location": "Frederickburgh, Germany",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": "https://scottcross.dev"
+  },
+  "summary": "Mid-level backend engineering specialist with 4 years building production systems. Skilled in C#, Rust, Flask with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2025-05",
+      "end_date": "Present",
+      "duration": "2025-05 – Present",
+      "duration_months": 10,
+      "description": "Optimized database queries using REST API Design, improving query performance by 55%\nCreated authentication and authorization system using LLM Integration, securing 100000+ user accounts\nBuilt event-driven architecture using REST API Design, processing 500+ events daily",
+      "technologies": [
+        "Ansible",
+        "REST API Design",
+        "Kafka",
+        "Anthropic",
+        "LLM Integration"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2022-04",
+      "end_date": "2025-02",
+      "duration": "2022-04 – 2025-02",
+      "duration_months": 34,
+      "description": "Created authentication and authorization system using Microservices, securing 10000+ user accounts\nImplemented caching layer with Microservices, reducing database load by 52%",
+      "technologies": [
+        "Microservices",
+        "PHP",
+        "Rails",
+        "REST API Design"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "B.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Open Source Contributor"
+    },
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2022",
+      "gpa": "3.68",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Designed Database Proxy leveraging FastAPI microservices architecture with Rust for caching",
+      "technologies": [
+        "FastAPI",
+        "C#",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Created Database Proxy leveraging Actix for core functionality and C# for optimization",
+      "technologies": [
+        "Rust",
+        "C#",
+        "Actix"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Google DevFest 2021",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Hines LLC Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Bailey, Fletcher and Reid Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "Rust",
+    "Flask",
+    "Actix",
+    "FastAPI",
+    "PlanetScale",
+    "Elasticsearch",
+    "CockroachDB",
+    "DynamoDB",
+    "MySQL",
+    "GitHub Actions",
+    "Nginx",
+    "RabbitMQ",
+    "gRPC",
+    "Render",
+    "AWS",
+    "Fly.io",
+    "DigitalOcean",
+    "Azure",
+    "Hugging Face",
+    "Claude API",
+    "Anthropic",
+    "AWS Bedrock",
+    "Google Gemini",
+    "CI/CD",
+    "TDD",
+    "LLM Integration",
+    "RAG Architecture",
+    "Event-Driven Architecture"
+  ],
+  "companies": [
+    "Spotify",
+    "DeployFast"
+  ],
+  "job_titles": [
+    "Software Engineer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "UC Berkeley",
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 379,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:29.372224",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

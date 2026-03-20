@@ -1,0 +1,399 @@
+{
+  "full_name": "Lisa Mcknight",
+  "email": "lisa.mcknight@gmail.com",
+  "location": "East Paulashire, USA",
+  "years_of_experience": 16.9,
+  "seniority_level": "principal",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Lisa Mcknight",
+    "email": "lisa.mcknight@gmail.com",
+    "phone": "4154767647",
+    "location": "East Paulashire, USA",
+    "linkedin_url": null,
+    "github_url": "https://github.com/lisamcknight",
+    "portfolio_url": "https://lisamcknight.dev"
+  },
+  "summary": "Executive-level technology leader with extensive background in devops / sre / mlops. Expertise in HCL, Python, PowerShell with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2022-06",
+      "end_date": "Present",
+      "duration": "2022-06 – Present",
+      "duration_months": 45,
+      "description": "Established chaos engineering practices using HCL, improving system resilience\nBuilt disaster recovery solution using Istio, achieving RTO of 92ms",
+      "technologies": [
+        "VictoriaMetrics",
+        "HCL",
+        "Skopeo",
+        "Istio"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2018-09",
+      "end_date": "2022-05",
+      "duration": "2018-09 – 2022-05",
+      "duration_months": 44,
+      "description": "Implemented log aggregation using Datadog, processing 50000+ logs/day\nEstablished chaos engineering practices using SRE Practices, improving system resilience\nBuilt CI/CD pipelines using SRE Practices, reducing deployment time from 24s to 213ms\nDesigned and implemented infrastructure as code using MLOps, managing 50000+ servers",
+      "technologies": [
+        "MLOps",
+        "Datadog",
+        "ELK Stack",
+        "SRE Practices"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2015-11",
+      "end_date": "2018-06",
+      "duration": "2015-11 – 2018-06",
+      "duration_months": 31,
+      "description": "Implemented container orchestration using GitLab CI, managing 100+ containers\nOptimized cloud infrastructure using GitLab CI, reducing costs by 38%\nImplemented log aggregation using GitLab CI, processing 100+ logs/day\nImplemented container orchestration using VictoriaMetrics, managing 500+ containers",
+      "technologies": [
+        "GitLab CI",
+        "VictoriaMetrics",
+        "Chaos Engineering",
+        "GitHub Actions",
+        "Ansible"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2011-05",
+      "end_date": "2015-05",
+      "duration": "2011-05 – 2015-05",
+      "duration_months": 48,
+      "description": "Designed and implemented infrastructure as code using Argo Workflows, managing 100000+ servers\nEstablished chaos engineering practices using Thanos, improving system resilience\nImplemented container orchestration using Thanos, managing 100000+ containers",
+      "technologies": [
+        "Thanos",
+        "Argo Workflows",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2007-12",
+      "end_date": "2010-11",
+      "duration": "2007-12 – 2010-11",
+      "duration_months": 35,
+      "description": "Created self-service provisioning portal using Argo Workflows, serving 100+ engineers\nEstablished chaos engineering practices using Zero Trust, improving system resilience",
+      "technologies": [
+        "Skopeo",
+        "Zero Trust",
+        "Argo Workflows",
+        "GitLab CI",
+        "Python",
+        "Terraform"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2008",
+      "gpa": null,
+      "activities": "DevOps Bootcamp"
+    },
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2008",
+      "gpa": "3.80",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Task Scheduler",
+      "description": "Implemented Kubernetes Cluster using Python, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "PowerShell",
+        "HCL"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Created CI/CD Pipeline leveraging HCL for core functionality and PowerShell for optimization",
+      "technologies": [
+        "PowerShell",
+        "Bash",
+        "HCL"
+      ],
+      "url": "https://github.com/lisamcknight/health-check-service",
+      "date": "2019"
+    },
+    {
+      "name": "Log Aggregator",
+      "description": "Developed Observability Dashboard using HCL, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Bash",
+        "Python",
+        "HCL"
+      ],
+      "url": "https://github.com/lisamcknight/log-aggregator",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Have power here just meet open war best father game\" — IEEE 2023",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Holmes, Fox and Romero Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Turkish (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HCL",
+    "Python",
+    "PowerShell",
+    "Bash",
+    "Terraform",
+    "Helm",
+    "Buildah",
+    "Istio",
+    "Podman",
+    "Envoy",
+    "Argo Workflows",
+    "Tekton",
+    "CircleCI",
+    "Jenkins",
+    "VictoriaMetrics",
+    "Opsgenie",
+    "Datadog",
+    "PagerDuty",
+    "Linode",
+    "Oracle Cloud",
+    " Triton Inference Server",
+    "TorchServe",
+    "TensorFlow Serving",
+    "MLflow",
+    "Seldon",
+    "Chaos Engineering",
+    "Infrastructure as Code",
+    "Incident Management"
+  ],
+  "companies": [
+    "Palantir",
+    "SkillBridge",
+    "Spotify",
+    "Anthropic",
+    "Nvidia"
+  ],
+  "job_titles": [
+    "DevOps Engineer",
+    "SRE",
+    "Platform Engineer",
+    "DevOps Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "University of Waterloo",
+    "Columbia University"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 494,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:41:25.716881",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

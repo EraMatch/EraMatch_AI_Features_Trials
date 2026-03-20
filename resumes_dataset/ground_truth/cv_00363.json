@@ -1,0 +1,255 @@
+{
+  "full_name": "Gina Barnes",
+  "email": "gina.barnes@outlook.com",
+  "location": "South Bryce, Germany",
+  "years_of_experience": 5.1,
+  "seniority_level": "senior",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Gina Barnes",
+    "email": "gina.barnes@outlook.com",
+    "phone": "+1-868-845-9090x22599",
+    "location": "South Bryce, Germany",
+    "linkedin_url": "https://linkedin.com/in/gina-barnes",
+    "github_url": "https://github.com/ginabarnes",
+    "portfolio_url": null
+  },
+  "summary": "Senior product management engineer with 5 years of experience architecting and delivering enterprise solutions. Expert in Python, JavaScript, R with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Senior Product Manager",
+      "title": "Senior Product Manager",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 – Present",
+      "duration_months": 24,
+      "description": "Created product documentation using Scrum, serving 10000+ stakeholders\nConducted user research using Roadmunk, interviewing 10000+ users\nConducted user research using Scrum, interviewing 100000+ users",
+      "technologies": [
+        "Azure",
+        "Roadmunk",
+        "BigQuery",
+        "Zoom",
+        "Scrum",
+        "Jira"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2021-02",
+      "end_date": "2024-03",
+      "duration": "2021-02 – 2024-03",
+      "duration_months": 37,
+      "description": "Implemented A/B testing using Zoom, running 50000+ experiments\nConducted user research using Confluence, interviewing 5000+ users\nCreated product documentation using Confluence, serving 10000+ stakeholders\nConducted user research using Confluence, interviewing 5000+ users",
+      "technologies": [
+        "Zoom",
+        "BigQuery",
+        "Confluence",
+        "Figma"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "B.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2018",
+      "gpa": "3.71",
+      "activities": "Business Analytics"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Aha!",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmunk",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Amplitude",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmap Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vector Search API",
+      "description": "Designed User Onboarding Flow leveraging Aha! microservices architecture with SQL for caching",
+      "technologies": [
+        "Aha!",
+        "SQL",
+        "Productboard"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "English (Native)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "English (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "JavaScript",
+    "R",
+    "SQL",
+    "Aha!",
+    "Productboard",
+    "Confluence",
+    "Jira",
+    "Roadmunk",
+    "Google Analytics",
+    "Amplitude",
+    "Snowflake",
+    "MySQL",
+    "BigQuery",
+    "GCP",
+    "Azure",
+    "AWS",
+    "Scrum",
+    "Kanban",
+    "Roadmap Planning"
+  ],
+  "companies": [
+    "DeployFast",
+    "Google"
+  ],
+  "job_titles": [
+    "Senior Product Manager",
+    "Product Owner"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 363,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:40:21.278181",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

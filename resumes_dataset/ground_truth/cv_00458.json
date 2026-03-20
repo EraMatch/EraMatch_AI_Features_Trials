@@ -1,0 +1,262 @@
+{
+  "full_name": "Gene Holmes",
+  "email": "gene.holmes@outlook.com",
+  "location": "Jamieland, UK",
+  "years_of_experience": 8.5,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Gene Holmes",
+    "email": "gene.holmes@outlook.com",
+    "phone": "+1-597-814-8026x32570",
+    "location": "Jamieland, UK",
+    "linkedin_url": "https://linkedin.com/in/gene-holmes",
+    "github_url": "https://github.com/geneholmes",
+    "portfolio_url": null
+  },
+  "summary": "Lead data science / ml / ai professional with 8 years driving technical strategy and team excellence. Expert in Go, Julia, MATLAB with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 – Present",
+      "duration_months": 24,
+      "description": "Built real-time analytics dashboard using LangChain, used by 500+ stakeholders\nCreated feature engineering pipeline using A/B Testing, reducing preprocessing time by 17%\nCreated feature engineering pipeline using LangChain, reducing preprocessing time by 51%",
+      "technologies": [
+        "OpenAI API",
+        "LangChain",
+        "A/B Testing"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2020-12",
+      "end_date": "2023-10",
+      "duration": "2020-12 – 2023-10",
+      "duration_months": 34,
+      "description": "Designed data warehousing solution using TensorFlow, enabling analytics on 5000+ records\nDeveloped computer vision models using Databricks, achieving 45% accuracy\nBuilt ML model serving infrastructure using Snowflake, handling 10000+ predictions/day\nImplemented A/B testing framework using Vector Databases, running 100+ experiments",
+      "technologies": [
+        "Vector Databases",
+        "TensorFlow",
+        "Snowflake",
+        "Dagster",
+        "Databricks"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2016-12",
+      "end_date": "2020-08",
+      "duration": "2016-12 – 2020-08",
+      "duration_months": 44,
+      "description": "Implemented A/B testing framework using AWS SageMaker, running 10000+ experiments\nBuilt real-time analytics dashboard using AWS SageMaker, used by 5000+ stakeholders\nDesigned data warehousing solution using AWS SageMaker, enabling analytics on 500+ records",
+      "technologies": [
+        "AWS SageMaker",
+        "OpenCV",
+        "Neptune"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2015",
+      "gpa": "3.78",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Knapp Group Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Julia",
+    "MATLAB",
+    "Python",
+    "PyTorch",
+    "Scikit-learn",
+    "OpenCV",
+    "TensorFlow",
+    "LlamaIndex",
+    "Polars",
+    "Weights & Biases",
+    "BigQuery",
+    "PostgreSQL",
+    "Pinecone",
+    "Databricks",
+    "Snowflake",
+    "Hugging Face Endpoints",
+    "AWS SageMaker",
+    "Feature Engineering",
+    "Deep Learning",
+    "NLP"
+  ],
+  "companies": [
+    "Notion",
+    "Uber",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "LLM Engineer",
+    "Research Scientist"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 458,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:41:08.708418",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

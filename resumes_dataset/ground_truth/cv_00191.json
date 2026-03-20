@@ -1,0 +1,337 @@
+{
+  "full_name": "Deanna Medina",
+  "email": "deanna.medina@outlook.com",
+  "location": "Wilsonland, Japan",
+  "years_of_experience": 5.2,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Deanna Medina",
+    "email": "deanna.medina@outlook.com",
+    "phone": "001-947-269-7357",
+    "location": "Wilsonland, Japan",
+    "linkedin_url": "https://linkedin.com/in/deanna-medina",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Ruby, Node.js, and Go. 5 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2022-10",
+      "end_date": "Present",
+      "duration": "2022-10 – Present",
+      "duration_months": 41,
+      "description": "Built automated CI/CD pipelines with GitHub Actions, reducing deployment time by 16%\nMentored team of 5 junior developers on GitHub Actions best practices\nDesigned and implemented microservices architecture using GraphQL, handling 1000+ concurrent users",
+      "technologies": [
+        "GitHub Actions",
+        "GraphQL",
+        "RabbitMQ"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2020-07",
+      "end_date": "2022-04",
+      "duration": "2020-07 – 2022-04",
+      "duration_months": 21,
+      "description": "Reduced infrastructure costs by 68% through optimization using Rails\nReduced infrastructure costs by 50% through optimization using Supabase\nReduced infrastructure costs by 43% through optimization using Azure OpenAI",
+      "technologies": [
+        "Rails",
+        "Supabase",
+        "Docker",
+        "Azure OpenAI",
+        "FastAPI",
+        "OpenAI API"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.35",
+      "activities": "Hackathon Winner"
+    },
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Designed and implemented REST API Framework with Ruby, integrating with Go for seamless data flow",
+      "technologies": [
+        "Go",
+        "Ruby",
+        "LlamaIndex"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built Data Sync Platform with Ruby and Go, serving 10,000+ daily active users",
+      "technologies": [
+        "LangChain",
+        "Ruby",
+        "Go"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Oracle Certified Professional Java SE",
+      "issuer": "Oracle",
+      "date": "2022",
+      "credential_id": null
+    },
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Plant yes quality discover firm western might act\" — ArXiv 2022",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Ruby",
+    "Node.js",
+    "Go",
+    "Actix",
+    "FastAPI",
+    "LangChain",
+    "LlamaIndex",
+    "MySQL",
+    "Elasticsearch",
+    "SQLite",
+    "Docker",
+    "Kafka",
+    "Ansible",
+    "Nginx",
+    "RabbitMQ",
+    "Cloudflare",
+    "GCP",
+    "AWS",
+    "Vercel",
+    "Hugging Face",
+    "Azure OpenAI",
+    "Claude API",
+    "AWS Bedrock",
+    "Event-Driven Architecture",
+    "Agile",
+    "Microservices",
+    "GraphQL",
+    "CI/CD"
+  ],
+  "companies": [
+    "CloudNova",
+    "Meta"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "KAIST",
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 191,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:53.836961",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "full_name": "Joseph Moody",
+  "email": "joseph.moody@moody.dev",
+  "location": "New Stacy, USA",
+  "years_of_experience": 4.9,
+  "seniority_level": "mid",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Joseph Moody",
+    "email": "joseph.moody@moody.dev",
+    "phone": "001-203-796-5223x9559",
+    "location": "New Stacy, USA",
+    "linkedin_url": "https://linkedin.com/in/joseph-moody",
+    "github_url": "https://github.com/josephmoody",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level mobile development specialist with 5 years building production systems. Skilled in Java, Dart, Swift with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2021-10",
+      "end_date": "Present",
+      "duration": "2021-10 – Present",
+      "duration_months": 53,
+      "description": "Optimized app performance using TestFlight, reducing battery consumption by 35%\nBuilt AR/VR features using Kotlin, increasing user retention by 54%",
+      "technologies": [
+        "AWS Amplify",
+        "Firebase",
+        "TestFlight",
+        "Kotlin",
+        "Offline-First"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2021-03",
+      "end_date": "2021-09",
+      "duration": "2021-03 – 2021-09",
+      "duration_months": 6,
+      "description": "Built widget functionality using Hive, increasing daily active users by 36%\nBuilt offline-first architecture using Firebase, improving app responsiveness by 58%\nDeveloped cross-platform solution using Firebase, reducing development time by 65%",
+      "technologies": [
+        "Flutter",
+        "Hive",
+        "Firebase",
+        "SQLite"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "B.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "M.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2018",
+      "gpa": "3.13",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Schema Validator",
+      "description": "Built App Store Optimization using Jetpack Compose and KMP, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Kotlin",
+        "Jetpack Compose",
+        "KMP"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Task Scheduler",
+      "description": "Implemented Flutter App using Kotlin, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Expo",
+        "SwiftUI",
+        "Kotlin"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Reading sci-fi novels",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Weaver-Thompson Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "Dart",
+    "Swift",
+    "Kotlin",
+    "SwiftUI",
+    "KMP",
+    "Expo",
+    "Jetpack Compose",
+    "App Center",
+    "Xcode",
+    "Gradle",
+    "Hive",
+    "Firebase Firestore",
+    "SQLite",
+    "Realm",
+    "Firebase",
+    "Supabase",
+    "RevenueCat",
+    "AWS Amplify",
+    "Clean Architecture",
+    "MVVM",
+    "App Store Optimization",
+    "CI/CD for Mobile",
+    "Offline-First"
+  ],
+  "companies": [
+    "Airbnb",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "Georgia Tech",
+    "Technion"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 138,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:38:28.118009",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

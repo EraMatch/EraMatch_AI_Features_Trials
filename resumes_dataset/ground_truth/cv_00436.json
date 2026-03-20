@@ -1,0 +1,339 @@
+{
+  "full_name": "Guy Clayton",
+  "email": "guy.clayton@outlook.com",
+  "location": "Waltersville, India",
+  "years_of_experience": 10.4,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Guy Clayton",
+    "email": "guy.clayton@outlook.com",
+    "phone": "(885)612-7652x89286",
+    "location": "Waltersville, India",
+    "linkedin_url": null,
+    "github_url": "https://github.com/guyclayton",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in C#, PHP, and Java. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2024-06",
+      "end_date": "Present",
+      "duration": "2024-06 – Present",
+      "duration_months": 21,
+      "description": "Led migration from monolithic to microservices using Go, improving system scalability by 69%\nOptimized database queries using Hugging Face, improving query performance by 48%",
+      "technologies": [
+        "Docker",
+        "Django",
+        "Hugging Face",
+        "Go"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2020-06",
+      "end_date": "2024-01",
+      "duration": "2020-06 – 2024-01",
+      "duration_months": 43,
+      "description": "Reduced infrastructure costs by 37% through optimization using LangChain\nArchitected and built RESTful APIs serving 100+ requests/day using Google Gemini, reducing response time by 25%\nCreated authentication and authorization system using Google Gemini, securing 500+ user accounts\nBuilt event-driven architecture using LLM Integration, processing 100000+ events daily",
+      "technologies": [
+        "Google Gemini",
+        "LangChain",
+        "LLM Integration",
+        "Cloudflare"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2019-01",
+      "end_date": "2020-05",
+      "duration": "2019-01 – 2020-05",
+      "duration_months": 16,
+      "description": "Built automated CI/CD pipelines with FastAPI, reducing deployment time by 29%\nDesigned and implemented microservices architecture using TypeScript, handling 500+ concurrent users",
+      "technologies": [
+        "Jenkins",
+        "TypeScript",
+        "FastAPI",
+        "Google Gemini",
+        "Scrum",
+        "Actix"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2015-04",
+      "end_date": "2019-01",
+      "duration": "2015-04 – 2019-01",
+      "duration_months": 45,
+      "description": "Reduced infrastructure costs by 61% through optimization using Google Gemini\nDesigned and implemented microservices architecture using LangChain, handling 5000+ concurrent users\nDesigned and implemented message queue system using Event-Driven Architecture, processing 1000+ messages/hour",
+      "technologies": [
+        "Event-Driven Architecture",
+        "Google Gemini",
+        "LangChain",
+        "PlanetScale"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2013",
+      "gpa": "2.98",
+      "activities": "ACM Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Developed Cache Layer using FastAPI, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Rails",
+        "LlamaIndex",
+        "FastAPI"
+      ],
+      "url": "https://github.com/guyclayton/feature-store",
+      "date": "2025"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Built Event Streaming Service with LlamaIndex and PHP, serving 10,000+ daily active users",
+      "technologies": [
+        "LlamaIndex",
+        "Node.js",
+        "PHP"
+      ],
+      "url": "https://github.com/guyclayton/vector-search-api",
+      "date": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2023",
+      "credential_id": "NA11GF10"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Mandarin (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "PHP",
+    "Java",
+    "TypeScript",
+    "Node.js",
+    "Rails",
+    "LlamaIndex",
+    "FastAPI",
+    "Elasticsearch",
+    "PostgreSQL",
+    "Helm",
+    "Jenkins",
+    "Heroku",
+    "Vercel",
+    "Cloudflare",
+    "AWS",
+    "Fly.io",
+    "Hugging Face",
+    "Anthropic",
+    "Azure OpenAI",
+    "Claude API",
+    "RAG Architecture",
+    "Event-Driven Architecture",
+    "CI/CD"
+  ],
+  "companies": [
+    "Stripe",
+    "ScaleGrid",
+    "ResumeAI",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "Software Engineer",
+    "Server-Side Developer",
+    "API Developer"
+  ],
+  "universities": [
+    "TU Delft"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 436,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:58.405798",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

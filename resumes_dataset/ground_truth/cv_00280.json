@@ -1,0 +1,283 @@
+{
+  "full_name": "Nicholas Wallace",
+  "email": "nicholas.wallace@protonmail.com",
+  "location": "Davischester, Germany",
+  "years_of_experience": 8.0,
+  "seniority_level": "lead",
+  "primary_domain": "General IT",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Nicholas Wallace",
+    "email": "nicholas.wallace@protonmail.com",
+    "phone": "(774)326-6299x12347",
+    "location": "Davischester, Germany",
+    "linkedin_url": "https://linkedin.com/in/nicholas-wallace",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in SQL, Python, and VBA. 8 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "System Administrator",
+      "title": "System Administrator",
+      "start_date": "2025-08",
+      "end_date": "Present",
+      "duration": "2025-08 – Present",
+      "duration_months": 7,
+      "description": "Implemented identity management using Incident Management, securing 5000+ accounts\nCreated user training materials using Python, training 1000+ employees\nManaged Windows/Active Directory infrastructure using Network Security, supporting 50000+ users",
+      "technologies": [
+        "Active Directory",
+        "PowerShell",
+        "Network Security",
+        "Incident Management",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "System Administrator",
+      "title": "System Administrator",
+      "start_date": "2021-03",
+      "end_date": "2025-05",
+      "duration": "2021-03 – 2025-05",
+      "duration_months": 50,
+      "description": "Managed Windows/Active Directory infrastructure using Help Desk, supporting 100000+ users\nProvided tier-2/3 support using Help Desk, resolving 500+ complex issues\nImplemented patch management using Azure AD, patching 5000+ systems",
+      "technologies": [
+        "System Administration",
+        "MySQL",
+        "Azure AD",
+        "Python",
+        "Help Desk",
+        "VMware"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "IT Specialist",
+      "title": "IT Specialist",
+      "start_date": "2017-07",
+      "end_date": "2020-10",
+      "duration": "2017-07 – 2020-10",
+      "duration_months": 39,
+      "description": "Built automation scripts using VMware, saving 12+ hours/month\nBuilt automation scripts using Ansible, saving 14+ hours/month",
+      "technologies": [
+        "System Administration",
+        "ITIL",
+        "SQL Server",
+        "VMware",
+        "Ansible"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "B.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2017",
+      "gpa": "2.86",
+      "activities": "IT Support Club"
+    },
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2017",
+      "gpa": "3.94",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VBA",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SharePoint",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Office 365",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Active Directory",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hyper-V",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure AD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Network Security",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "System Administration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ITIL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Help Desk",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Increase new report sense carry control high\" — EMNLP 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Python",
+    "VBA",
+    "Bash",
+    "SharePoint",
+    "Office 365",
+    "Active Directory",
+    "Exchange",
+    "Hyper-V",
+    "Azure AD",
+    "Docker",
+    "MySQL",
+    "PostgreSQL",
+    "SQL Server",
+    "AWS",
+    "Google Workspace",
+    "Azure",
+    "Network Security",
+    "System Administration",
+    "ITIL",
+    "Incident Management"
+  ],
+  "companies": [
+    "Google",
+    "PromptStack",
+    "Tesla"
+  ],
+  "job_titles": [
+    "System Administrator",
+    "System Administrator",
+    "IT Specialist"
+  ],
+  "universities": [
+    "Stanford University",
+    "NUS"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 280,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:39:38.944552",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

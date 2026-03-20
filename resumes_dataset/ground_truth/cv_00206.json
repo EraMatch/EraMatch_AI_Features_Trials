@@ -1,0 +1,270 @@
+{
+  "full_name": "Randy Wright",
+  "email": "randy.wright@wright.dev",
+  "location": "Timothyport, Canada",
+  "years_of_experience": 3.2,
+  "seniority_level": "mid",
+  "primary_domain": "Product Management",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Randy Wright",
+    "email": "randy.wright@wright.dev",
+    "phone": "001-273-303-7183x76452",
+    "location": "Timothyport, Canada",
+    "linkedin_url": "https://linkedin.com/in/randy-wright",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Mid-level product management specialist with 3 years building production systems. Skilled in Python, SQL, JavaScript with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": "2023-08 – Present",
+      "duration_months": 31,
+      "description": "Developed product roadmap using Scrum, prioritizing 100000+ features\nImplemented A/B testing using Roadmap Planning, running 100+ experiments",
+      "technologies": [
+        "Scrum",
+        "JavaScript",
+        "SQL",
+        "Product Discovery",
+        "Roadmap Planning",
+        "MySQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2022-07",
+      "end_date": "2023-02",
+      "duration": "2022-07 – 2023-02",
+      "duration_months": 7,
+      "description": "Led product launches using BigQuery, achieving 100000+ signups\nDeveloped product roadmap using BigQuery, prioritizing 100000+ features\nDeveloped product roadmap using Azure, prioritizing 5000+ features\nLed agile product development using BigQuery, delivering 1000+ sprints",
+      "technologies": [
+        "Miro",
+        "BigQuery",
+        "OKRs",
+        "Agile",
+        "Azure"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Notion",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Amplitude",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Product Discovery",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OKRs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmap Planning",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Product Management Certificate",
+      "issuer": "Product School",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Turkish (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "SQL",
+    "JavaScript",
+    "R",
+    "Jira",
+    "Notion",
+    "Confluence",
+    "Productboard",
+    "Tableau",
+    "Miro",
+    "Amplitude",
+    "Figma",
+    "Snowflake",
+    "BigQuery",
+    "MySQL",
+    "PostgreSQL",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Scrum",
+    "Agile",
+    "Product Discovery",
+    "Kanban",
+    "OKRs"
+  ],
+  "companies": [
+    "Block",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "VP of Product",
+    "Product Manager"
+  ],
+  "universities": [
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 206,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:39:01.496099",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

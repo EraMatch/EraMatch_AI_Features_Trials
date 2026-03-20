@@ -1,0 +1,308 @@
+{
+  "full_name": "Melissa Yang",
+  "email": "melissa.yang@yang.dev",
+  "location": "North Ernest, Singapore",
+  "years_of_experience": 6.5,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Melissa Yang",
+    "email": "melissa.yang@yang.dev",
+    "phone": "(678)581-2786x8669",
+    "location": "North Ernest, Singapore",
+    "linkedin_url": null,
+    "github_url": "https://github.com/melissayang",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in data science / ml / ai with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Scala, R, Python.",
+  "work_experience": [
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2023-04",
+      "end_date": "Present",
+      "duration": "2023-04 – Present",
+      "duration_months": 35,
+      "description": "Developed data visualization tools using Pandas, used by 100+ analysts\nDeveloped computer vision models using Pandas, achieving 70% accuracy\nImplemented NLP solution using ChromaDB, processing 50000+ text documents daily\nDeveloped computer vision models using Scikit-learn, achieving 24% accuracy",
+      "technologies": [
+        "ChromaDB",
+        "GCP Vertex AI",
+        "Pandas",
+        "NLP",
+        "Fine-tuning",
+        "Scikit-learn"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2020-07",
+      "end_date": "2023-02",
+      "duration": "2020-07 – 2023-02",
+      "duration_months": 31,
+      "description": "Built real-time analytics dashboard using GCP Vertex AI, used by 1000+ stakeholders\nEstablished MLOps practices using A/B Testing, reducing model deployment time by 65%",
+      "technologies": [
+        "Lambda Labs",
+        "RAG",
+        "Claude API",
+        "GCP Vertex AI",
+        "A/B Testing"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2019-05",
+      "end_date": "2020-05",
+      "duration": "2019-05 – 2020-05",
+      "duration_months": 12,
+      "description": "Established MLOps practices using Pandas, reducing model deployment time by 56%\nDesigned data warehousing solution using A/B Testing, enabling analytics on 50000+ records\nCreated recommendation system using Kubeflow, increasing user engagement by 31%",
+      "technologies": [
+        "Pandas",
+        "Kubeflow",
+        "Dask",
+        "A/B Testing",
+        "OpenAI API"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Vargas Inc Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Scala",
+    "R",
+    "Python",
+    "MATLAB",
+    "SQL",
+    "LlamaIndex",
+    "Scikit-learn",
+    "JAX",
+    "Airflow",
+    "Weights & Biases",
+    "MLflow",
+    "Dagster",
+    "Neptune",
+    "Pinecone",
+    "Databricks",
+    "Snowflake",
+    "MongoDB",
+    "Weaviate",
+    "AWS SageMaker",
+    "Databricks",
+    "Bedrock",
+    "Azure ML",
+    "Prompt Engineering",
+    "RAG",
+    "LLM Evaluation",
+    "MLOps",
+    "A/B Testing"
+  ],
+  "companies": [
+    "Tesla",
+    "SkillBridge",
+    "Uber"
+  ],
+  "job_titles": [
+    "Research Scientist",
+    "Research Scientist",
+    "ML Engineer"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 414,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:40:46.759142",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

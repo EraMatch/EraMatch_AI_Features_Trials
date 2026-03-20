@@ -1,0 +1,300 @@
+{
+  "full_name": "Eric Evans",
+  "email": "eric.evans@protonmail.com",
+  "location": "Owenschester, Germany",
+  "years_of_experience": 9.4,
+  "seniority_level": "lead",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Eric Evans",
+    "email": "eric.evans@protonmail.com",
+    "phone": "+1-978-726-6128x7585",
+    "location": "Owenschester, Germany",
+    "linkedin_url": "https://linkedin.com/in/eric-evans",
+    "github_url": "https://github.com/ericevans",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, R, and JavaScript. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2025-07",
+      "end_date": "Present",
+      "duration": "2025-07 – Present",
+      "duration_months": 8,
+      "description": "Built customer feedback system using MySQL, collecting 1000+ insights\nLed product development using User Research, launching features used by 100+ users\nBuilt customer feedback system using User Research, collecting 5000+ insights\nImplemented A/B testing using JavaScript, running 10000+ experiments",
+      "technologies": [
+        "Jira",
+        "User Research",
+        "MySQL",
+        "Snowflake",
+        "JavaScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2023-03",
+      "end_date": "2025-03",
+      "duration": "2023-03 – 2025-03",
+      "duration_months": 24,
+      "description": "Conducted user research using Miro, interviewing 5000+ users\nDeveloped product roadmap using Productboard, prioritizing 1000+ features",
+      "technologies": [
+        "Agile",
+        "Productboard",
+        "JavaScript",
+        "PostgreSQL",
+        "Snowflake",
+        "Miro"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Senior Product Manager",
+      "title": "Senior Product Manager",
+      "start_date": "2019-09",
+      "end_date": "2023-01",
+      "duration": "2019-09 – 2023-01",
+      "duration_months": 40,
+      "description": "Implemented product analytics using Hotjar, tracking 100000+ metrics\nCreated product documentation using Notion, serving 1000+ stakeholders\nImplemented user onboarding using Azure, improving retention by 43%\nBuilt customer feedback system using Roadmap Planning, collecting 100+ insights",
+      "technologies": [
+        "Roadmap Planning",
+        "Azure",
+        "Notion",
+        "Hotjar"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Technical PM",
+      "title": "Technical PM",
+      "start_date": "2016-01",
+      "end_date": "2019-06",
+      "duration": "2016-01 – 2019-06",
+      "duration_months": 41,
+      "description": "Led product launches using Zoom, achieving 100000+ signups\nDeveloped OKR tracking using Zoom, achieving 59% of quarterly goals",
+      "technologies": [
+        "Python",
+        "Zoom",
+        "Figma",
+        "Roadmap Planning",
+        "Amplitude"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2017",
+      "gpa": "3.87",
+      "activities": null
+    },
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "B.A.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Notion",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Amplitude",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OKRs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zoom",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "CSPO - Certified Scrum Product Owner",
+      "issuer": "Scrum Alliance",
+      "date": "2023",
+      "credential_id": "XA70FW80"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Teaching coding workshops",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Spanish (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "R",
+    "JavaScript",
+    "Productboard",
+    "Confluence",
+    "Notion",
+    "Jira",
+    "Amplitude",
+    "Google Analytics",
+    "Figma",
+    "PostgreSQL",
+    "BigQuery",
+    "MySQL",
+    "Snowflake",
+    "GCP",
+    "Azure",
+    "AWS",
+    "Scrum",
+    "A/B Testing",
+    "OKRs"
+  ],
+  "companies": [
+    "Twilio",
+    "Airbnb",
+    "Microsoft",
+    "Datadog"
+  ],
+  "job_titles": [
+    "Product Owner",
+    "VP of Product",
+    "Senior Product Manager",
+    "Technical PM"
+  ],
+  "universities": [
+    "University of Michigan",
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 463,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:41:10.814247",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

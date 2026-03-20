@@ -1,0 +1,286 @@
+{
+  "full_name": "Douglas Kline",
+  "email": "douglas.kline@gmail.com",
+  "location": "Chungland, Canada",
+  "years_of_experience": 5.2,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Douglas Kline",
+    "email": "douglas.kline@gmail.com",
+    "phone": "817-353-6170",
+    "location": "Chungland, Canada",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": "https://douglaskline.dev"
+  },
+  "summary": "Seasoned software professional with deep expertise in C, Rust, and Go. 5 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2023-01",
+      "end_date": "Present",
+      "duration": "2023-01 – Present",
+      "duration_months": 38,
+      "description": "Created vulnerability management program using C, reducing CVEs by 39%\nDesigned zero-trust architecture using Nmap, securing 100+ endpoints\nImplemented encryption solution using Angular, protecting 100+ records\nImplemented identity management using Nmap, securing 100000+ user identities",
+      "technologies": [
+        "Nmap",
+        "C",
+        "Burp Suite"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2020-10",
+      "end_date": "2022-10",
+      "duration": "2020-10 – 2022-10",
+      "duration_months": 24,
+      "description": "Built incident response automation using C, reducing recovery time by 28%\nImplemented identity management using SonarQube, securing 50000+ user identities",
+      "technologies": [
+        "SonarQube",
+        "C",
+        "Azure Sentinel",
+        "Metasploit"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "Ph.D.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": "3.22",
+      "activities": "Dean's List"
+    },
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": "3.99",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Config Manager",
+      "description": "Designed and implemented Encryption Utility with Go, integrating with C for seamless data flow",
+      "technologies": [
+        "Bash",
+        "C",
+        "Go"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Designed and implemented Malware Detection with Rust, integrating with C for seamless data flow",
+      "technologies": [
+        "C",
+        "Snort",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — MLH 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C",
+    "Rust",
+    "Go",
+    "Bash",
+    "OWASP ZAP",
+    "Snort",
+    "Trivy",
+    "Nessus",
+    "SonarQube",
+    "Wireshark",
+    "Hashicorp Vault",
+    "PostgreSQL",
+    "Elasticsearch",
+    "Redis",
+    "MongoDB",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "SAST/DAST",
+    "Zero Trust Architecture",
+    "OWASP Top 10",
+    "Incident Response"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "Spotify"
+  ],
+  "job_titles": [
+    "AppSec Engineer",
+    "Security Architect"
+  ],
+  "universities": [
+    "MIT",
+    "University of Michigan"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 442,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:41:01.384839",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

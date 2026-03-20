@@ -1,0 +1,307 @@
+{
+  "full_name": "Scott Benson",
+  "email": "scott.benson@outlook.com",
+  "location": "New Debramouth, Brazil",
+  "years_of_experience": 8.3,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Scott Benson",
+    "email": "scott.benson@outlook.com",
+    "phone": "413.361.1155x4262",
+    "location": "New Debramouth, Brazil",
+    "linkedin_url": "https://linkedin.com/in/scott-benson",
+    "github_url": null,
+    "portfolio_url": "https://scottbenson.dev"
+  },
+  "summary": "Lead backend engineering professional with 8 years driving technical strategy and team excellence. Expert in Kotlin, C#, Ruby with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2022-11",
+      "end_date": "Present",
+      "duration": "2022-11 – Present",
+      "duration_months": 40,
+      "description": "Implemented caching layer with RabbitMQ, reducing database load by 49%\nReduced infrastructure costs by 70% through optimization using Cloudflare",
+      "technologies": [
+        "RabbitMQ",
+        "Cloudflare",
+        "NestJS",
+        "Jenkins"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2021-08",
+      "end_date": "2022-07",
+      "duration": "2021-08 – 2022-07",
+      "duration_months": 11,
+      "description": "Created authentication and authorization system using GitHub Actions, securing 5000+ user accounts\nLed migration from monolithic to microservices using Hugging Face, improving system scalability by 55%\nBuilt automated CI/CD pipelines with Hugging Face, reducing deployment time by 58%\nCreated authentication and authorization system using GitHub Actions, securing 5000+ user accounts",
+      "technologies": [
+        "Python",
+        "Kubernetes",
+        "Hugging Face",
+        "GitHub Actions"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2017-01",
+      "end_date": "2021-02",
+      "duration": "2017-01 – 2021-02",
+      "duration_months": 49,
+      "description": "Created authentication and authorization system using ASP.NET, securing 100000+ user accounts\nCreated authentication and authorization system using ASP.NET, securing 100+ user accounts",
+      "technologies": [
+        "Git",
+        "Hugging Face",
+        "RabbitMQ",
+        "ASP.NET"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "API Design Competition"
+    },
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Git",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Reveal physical character in rather team beautiful beyond\" — ICML 2022",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Chess",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Company Internal 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "C#",
+    "Ruby",
+    "Express.js",
+    "NestJS",
+    "Spring Boot",
+    "LlamaIndex",
+    "SQLite",
+    "Supabase",
+    "PostgreSQL",
+    "Docker",
+    "Terraform",
+    "AWS",
+    "GCP",
+    "Render",
+    "Cloudflare",
+    "Vercel",
+    "AWS Bedrock",
+    "Replicate",
+    "Azure OpenAI",
+    "GraphQL",
+    "Scrum",
+    "LLM Integration",
+    "Microservices"
+  ],
+  "companies": [
+    "Salesforce",
+    "Spotify",
+    "DeployFast"
+  ],
+  "job_titles": [
+    "Server-Side Developer",
+    "LLM Engineer",
+    "API Developer"
+  ],
+  "universities": [
+    "EPFL",
+    "TU Delft"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 122,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:20.207913",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

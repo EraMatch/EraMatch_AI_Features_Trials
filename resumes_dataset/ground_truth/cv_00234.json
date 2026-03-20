@@ -1,0 +1,320 @@
+{
+  "full_name": "Kimberly Smith",
+  "email": "kimberly.smith@yahoo.com",
+  "location": "East Eddiestad, UK",
+  "years_of_experience": 6.9,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kimberly Smith",
+    "email": "kimberly.smith@yahoo.com",
+    "phone": "633.597.7671x9903",
+    "location": "East Eddiestad, UK",
+    "linkedin_url": "https://linkedin.com/in/kimberly-smith",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Node.js, Java, Python.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2025-01",
+      "end_date": "Present",
+      "duration": "2025-01 – Present",
+      "duration_months": 14,
+      "description": "Architected and built RESTful APIs serving 5000+ requests/day using Express.js, reducing response time by 51%\nArchitected and built RESTful APIs serving 5000+ requests/day using Kotlin, reducing response time by 21%\nBuilt event-driven architecture using Azure OpenAI, processing 5000+ events daily",
+      "technologies": [
+        "Azure OpenAI",
+        "Supabase",
+        "Express.js",
+        "PlanetScale",
+        "Kotlin"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2020-10",
+      "end_date": "2025-01",
+      "duration": "2020-10 – 2025-01",
+      "duration_months": 51,
+      "description": "Reduced infrastructure costs by 47% through optimization using DigitalOcean\nReduced infrastructure costs by 51% through optimization using FastAPI\nReduced infrastructure costs by 42% through optimization using DigitalOcean\nBuilt automated CI/CD pipelines with RabbitMQ, reducing deployment time by 44%",
+      "technologies": [
+        "Rails",
+        "DigitalOcean",
+        "Terraform",
+        "FastAPI",
+        "RabbitMQ"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2018-10",
+      "end_date": "2020-04",
+      "duration": "2018-10 – 2020-04",
+      "duration_months": 18,
+      "description": "Mentored team of 2 junior developers on Render best practices\nImplemented caching layer with Terraform, reducing database load by 49%\nLed migration from monolithic to microservices using Render, improving system scalability by 38%",
+      "technologies": [
+        "Java",
+        "Anthropic",
+        "Terraform",
+        "Vercel",
+        "Hugging Face",
+        "Render"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Certainly allow official owner former\" — NeurIPS 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "Java",
+    "Python",
+    "NestJS",
+    "ASP.NET",
+    "Spring Boot",
+    "Actix",
+    "LangChain",
+    "SQLite",
+    "Cassandra",
+    "Supabase",
+    "MongoDB",
+    "PostgreSQL",
+    "RabbitMQ",
+    "Helm",
+    "Docker",
+    "Jenkins",
+    "gRPC",
+    "Fly.io",
+    "Railway",
+    "Render",
+    "AWS Bedrock",
+    "Anthropic",
+    "OpenAI API",
+    "Azure OpenAI",
+    "Hugging Face",
+    "RAG Architecture",
+    "Event-Driven Architecture",
+    "Scrum"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "ModelShip",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Platform Engineer",
+    "API Developer"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 234,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:15.201361",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

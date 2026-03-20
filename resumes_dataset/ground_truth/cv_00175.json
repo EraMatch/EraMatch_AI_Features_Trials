@@ -1,0 +1,263 @@
+{
+  "full_name": "Jennifer Hayes",
+  "email": "jennifer.hayes@protonmail.com",
+  "location": "Kristinport, Singapore",
+  "years_of_experience": 10.8,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jennifer Hayes",
+    "email": "jennifer.hayes@protonmail.com",
+    "phone": "(765)306-1809x1901",
+    "location": "Kristinport, Singapore",
+    "linkedin_url": "https://linkedin.com/in/jennifer-hayes",
+    "github_url": "https://github.com/jenniferhayes",
+    "portfolio_url": "https://jenniferhayes.dev"
+  },
+  "summary": "Engineering leader with deep technical background in Go, Bash, and Burp Suite. 11 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2022-02",
+      "end_date": "Present",
+      "duration": "2022-02 – Present",
+      "duration_months": 49,
+      "description": "Created vulnerability management program using PostgreSQL, reducing CVEs by 67%\nBuilt secure CI/CD pipeline using GCP Security Command Center, preventing 100+ security issues\nImplemented security monitoring using OWASP ZAP, detecting 1000+ threats\nBuilt incident response automation using OWASP ZAP, reducing recovery time by 64%",
+      "technologies": [
+        "PostgreSQL",
+        "OWASP ZAP",
+        "GCP Security Command Center",
+        "Go"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2017-04",
+      "end_date": "2021-08",
+      "duration": "2017-04 – 2021-08",
+      "duration_months": 52,
+      "description": "Built incident response automation using Wireshark, reducing recovery time by 20%\nBuilt incident response automation using Wireshark, reducing recovery time by 55%\nCreated security awareness training using Wireshark, reducing phishing clicks by 65%\nBuilt secure CI/CD pipeline using Wireshark, preventing 50000+ security issues",
+      "technologies": [
+        "Azure Sentinel",
+        "Wireshark",
+        "Python",
+        "Suricata"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2014-06",
+      "end_date": "2016-10",
+      "duration": "2014-06 – 2016-10",
+      "duration_months": 28,
+      "description": "Designed zero-trust architecture using Suricata, securing 10000+ endpoints\nImplemented encryption solution using Vue, protecting 500+ records\nImplemented SIEM solution using SOC2 Compliance, processing 50000+ logs/day",
+      "technologies": [
+        "Bash",
+        "Wireshark",
+        "Suricata",
+        "SOC2 Compliance"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2015",
+      "gpa": "3.82",
+      "activities": "Cyber Defense Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Miller, Hubbard and Kim Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Bash",
+    "Burp Suite",
+    "Suricata",
+    "Metasploit",
+    "Snort",
+    "OWASP ZAP",
+    "CrowdStrike",
+    "SonarQube",
+    "Wireshark",
+    "Trivy",
+    "Nessus",
+    "Redis",
+    "MongoDB",
+    "PostgreSQL",
+    "Elasticsearch",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "Zero Trust Architecture",
+    "OWASP Top 10"
+  ],
+  "companies": [
+    "Airbnb",
+    "InfraCore",
+    "Amazon"
+  ],
+  "job_titles": [
+    "AppSec Engineer",
+    "Security Architect",
+    "Security Architect"
+  ],
+  "universities": [
+    "University of Toronto"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 175,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:38:46.106263",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

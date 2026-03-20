@@ -1,0 +1,228 @@
+{
+  "full_name": "Anthony Guzman",
+  "email": "anthony.guzman@guzman.dev",
+  "location": "North Dylanberg, USA",
+  "years_of_experience": 3.8,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Anthony Guzman",
+    "email": "anthony.guzman@guzman.dev",
+    "phone": "4877059325",
+    "location": "North Dylanberg, USA",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": "https://anthonyguzman.dev"
+  },
+  "summary": "Mid-level frontend engineering specialist with 4 years building production systems. Skilled in Python, JavaScript, Remix with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2022-05",
+      "end_date": "Present",
+      "duration": "2022-05 – Present",
+      "duration_months": 46,
+      "description": "Improved website accessibility score to 49% using MongoDB\nImproved website accessibility score to 49% using Astro",
+      "technologies": [
+        "Astro",
+        "CSS",
+        "Material UI",
+        "MongoDB"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2020",
+      "gpa": "3.32",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "JavaScript",
+    "Remix",
+    "Astro",
+    "Vue.js",
+    "Figma",
+    "Vite",
+    "Prettier",
+    "Cypress",
+    "PostgreSQL",
+    "Firebase",
+    "Supabase",
+    "MongoDB",
+    "IndexedDB",
+    "Netlify",
+    "Render",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Responsive Design",
+    "Agile",
+    "Progressive Web Apps",
+    "Component-Driven Development",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "ResumeAI"
+  ],
+  "job_titles": [
+    "React Developer"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 139,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:28.564713",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

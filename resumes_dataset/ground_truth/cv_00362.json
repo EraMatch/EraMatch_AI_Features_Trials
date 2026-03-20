@@ -1,0 +1,291 @@
+{
+  "full_name": "Jose Hartman",
+  "email": "jose.hartman@gmail.com",
+  "location": "West Sherry, Australia",
+  "years_of_experience": 8.2,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Jose Hartman",
+    "email": "jose.hartman@gmail.com",
+    "phone": "001-777-451-5366x37780",
+    "location": "West Sherry, Australia",
+    "linkedin_url": null,
+    "github_url": "https://github.com/josehartman",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in CSS, TypeScript, and JavaScript. 8 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2025-05",
+      "end_date": "Present",
+      "duration": "2025-05 – Present",
+      "duration_months": 10,
+      "description": "Improved website accessibility score to 57% using Angular\nImproved website accessibility score to 49% using MongoDB",
+      "technologies": [
+        "Cypress",
+        "Vue.js",
+        "JavaScript",
+        "Angular",
+        "MongoDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2021-06",
+      "end_date": "2025-05",
+      "duration": "2021-06 – 2025-05",
+      "duration_months": 47,
+      "description": "Implemented state management solution using Prettier, reducing API calls by 18%\nImplemented automated testing framework using ESLint, achieving 25% code coverage",
+      "technologies": [
+        "TypeScript",
+        "ESLint",
+        "Progressive Web Apps",
+        "Cypress",
+        "Prettier"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2020-01",
+      "end_date": "2021-04",
+      "duration": "2020-01 – 2021-04",
+      "duration_months": 15,
+      "description": "Developed responsive web applications using Vite, improving page load time by 34%\nImproved website accessibility score to 47% using Supabase",
+      "technologies": [
+        "Dart",
+        "AWS Amplify",
+        "Vite",
+        "Figma",
+        "Supabase"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2017-09",
+      "end_date": "2019-12",
+      "duration": "2017-09 – 2019-12",
+      "duration_months": 27,
+      "description": "Implemented automated testing framework using Git, achieving 44% code coverage\nCreated accessible UI components using Supabase, achieving WCAG AA compliance\nBuilt interactive data visualizations using Progressive Web Apps, serving 100000+ daily users",
+      "technologies": [
+        "Git",
+        "Supabase",
+        "Progressive Web Apps",
+        "PostgreSQL",
+        "Astro"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Web Development Club"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Google DevFest 2020",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Porter Ltd Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Vue.js",
+    "Material UI",
+    "Figma",
+    "Prettier",
+    "Webpack",
+    "MongoDB",
+    "IndexedDB",
+    "Firebase",
+    "PostgreSQL",
+    "AWS Amplify",
+    "Render",
+    "Agile",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "Figma",
+    "Spotify",
+    "Uber",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "Full-Stack Developer",
+    "Frontend Developer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "McGill University",
+    "TU Munich"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 362,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:20.801119",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

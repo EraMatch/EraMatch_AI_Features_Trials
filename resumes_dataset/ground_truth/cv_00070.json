@@ -1,0 +1,313 @@
+{
+  "full_name": "Kelly Owen",
+  "email": "kelly.owen@gmail.com",
+  "location": "Jacksonmouth, UK",
+  "years_of_experience": 10.2,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kelly Owen",
+    "email": "kelly.owen@gmail.com",
+    "phone": "001-661-969-2845x1154",
+    "location": "Jacksonmouth, UK",
+    "linkedin_url": "https://linkedin.com/in/kelly-owen",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead backend engineering professional with 10 years driving technical strategy and team excellence. Expert in Python, Kotlin, Node.js with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Implemented caching layer with LlamaIndex, reducing database load by 57%\nBuilt automated CI/CD pipelines with Python, reducing deployment time by 67%\nCreated authentication and authorization system using LlamaIndex, securing 50000+ user accounts",
+      "technologies": [
+        "Python",
+        "Anthropic",
+        "LlamaIndex"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2020-02",
+      "end_date": "2022-02",
+      "duration": "2020-02 – 2022-02",
+      "duration_months": 24,
+      "description": "Optimized database queries using Vercel, improving query performance by 18%\nDesigned and implemented message queue system using Nginx, processing 100+ messages/hour\nDesigned and implemented microservices architecture using Vercel, handling 100000+ concurrent users\nDesigned and implemented message queue system using LLM Integration, processing 1000+ messages/hour",
+      "technologies": [
+        "Vercel",
+        "Elasticsearch",
+        "Terraform",
+        "Nginx",
+        "Redis",
+        "LLM Integration"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2015-07",
+      "end_date": "2019-11",
+      "duration": "2015-07 – 2019-11",
+      "duration_months": 52,
+      "description": "Built event-driven architecture using Java, processing 1000+ events daily\nBuilt event-driven architecture using Kafka, processing 1000+ events daily\nImplemented caching layer with GitHub Actions, reducing database load by 43%",
+      "technologies": [
+        "Node.js",
+        "Java",
+        "ArgoCD",
+        "Kafka",
+        "GitHub Actions",
+        "GraphQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Teaching Assistant - Data Structures"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google",
+      "date": "2022",
+      "credential_id": "NB57RO05"
+    },
+    {
+      "name": "Oracle Certified Professional Java SE",
+      "issuer": "Oracle",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — IEEE 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Kotlin",
+    "Node.js",
+    "Ruby",
+    "PHP",
+    "ASP.NET",
+    "Actix",
+    "CockroachDB",
+    "PlanetScale",
+    "Supabase",
+    "GitHub Actions",
+    "Git",
+    "Jenkins",
+    "Nginx",
+    "Azure",
+    "Render",
+    "Heroku",
+    "AWS",
+    "Claude API",
+    "Anthropic",
+    "Azure OpenAI",
+    "Replicate",
+    "Google Gemini",
+    "Scrum",
+    "CI/CD"
+  ],
+  "companies": [
+    "Salesforce",
+    "SkillBridge",
+    "Quantum Edge"
+  ],
+  "job_titles": [
+    "Software Engineer",
+    "AI Engineer",
+    "Software Engineer"
+  ],
+  "universities": [
+    "MIT"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 70,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:37:53.603086",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

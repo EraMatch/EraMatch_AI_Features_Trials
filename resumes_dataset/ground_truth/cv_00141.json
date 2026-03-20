@@ -1,0 +1,371 @@
+{
+  "full_name": "Tiffany Myers",
+  "email": "tiffany.myers@protonmail.com",
+  "location": "Garyland, France",
+  "years_of_experience": 7.0,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Tiffany Myers",
+    "email": "tiffany.myers@protonmail.com",
+    "phone": "001-590-729-5939x17251",
+    "location": "Garyland, France",
+    "linkedin_url": "https://linkedin.com/in/tiffany-myers",
+    "github_url": "https://github.com/tiffanymyers",
+    "portfolio_url": null
+  },
+  "summary": "Senior devops / sre / mlops engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in Rust, Bash, YAML with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2025-04",
+      "end_date": "Present",
+      "duration": "2025-04 – Present",
+      "duration_months": 11,
+      "description": "Created self-service provisioning portal using Chaos Engineering, serving 100000+ engineers\nBuilt automated backup solution using Pulumi, ensuring 10000% data protection",
+      "technologies": [
+        "Chaos Engineering",
+        "Pulumi",
+        "Skopeo",
+        "Buildah"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2023-12",
+      "end_date": "2024-11",
+      "duration": "2023-12 – 2024-11",
+      "duration_months": 11,
+      "description": "Designed and implemented infrastructure as code using PowerShell, managing 10000+ servers\nImplemented log aggregation using PowerShell, processing 10000+ logs/day\nImplemented container orchestration using PowerShell, managing 50000+ containers\nImplemented log aggregation using PowerShell, processing 100000+ logs/day",
+      "technologies": [
+        "PowerShell",
+        "Podman",
+        "Thanos"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2020-04",
+      "end_date": "2023-11",
+      "duration": "2020-04 – 2023-11",
+      "duration_months": 43,
+      "description": "Implemented security scanning using Bash, identifying 1000+ vulnerabilities\nCreated monitoring and alerting system using ELK Stack, reducing MTTR by 56%\nCreated monitoring and alerting system using Bash, reducing MTTR by 40%",
+      "technologies": [
+        "Bash",
+        "Prometheus",
+        "HCL",
+        "Kubernetes",
+        "Chaos Engineering",
+        "ELK Stack"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2018-08",
+      "end_date": "2020-03",
+      "duration": "2018-08 – 2020-03",
+      "duration_months": 19,
+      "description": "Designed and implemented infrastructure as code using MLflow, managing 100+ servers\nImplemented security scanning using MLflow, identifying 1000+ vulnerabilities",
+      "technologies": [
+        "YAML",
+        "Bash",
+        "Prometheus",
+        "Rust",
+        "MLflow",
+        "Linode"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Linux Club"
+    },
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Developed Kubernetes Cluster using Rust, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Bash",
+        "YAML",
+        "Rust"
+      ],
+      "url": "https://github.com/tiffanymyers/ml-model-registry",
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2025",
+      "credential_id": "NP57SE04"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Scott-Rodriguez Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Company Internal 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Bash",
+    "YAML",
+    "Helm",
+    "ArgoCD",
+    "Crossplane",
+    "CloudFormation",
+    "Ansible",
+    "Podman",
+    "K3s",
+    "Kubernetes",
+    "Buildah",
+    "Docker",
+    "GitLab CI",
+    "Argo Workflows",
+    "Thanos",
+    "ELK Stack",
+    "Datadog",
+    "Linode",
+    "DigitalOcean",
+    "Oracle Cloud",
+    "Azure",
+    "TorchServe",
+    "Seldon",
+    "Kale",
+    "MLflow",
+    "Kubeflow",
+    "MLOps",
+    "Platform Engineering",
+    "Infrastructure as Code"
+  ],
+  "companies": [
+    "Uber",
+    "PromptStack",
+    "Uber",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "SRE",
+    "SRE",
+    "Cloud Engineer",
+    "Release Engineer"
+  ],
+  "universities": [
+    "University of Washington",
+    "University of Toronto"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 141,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:29.565314",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

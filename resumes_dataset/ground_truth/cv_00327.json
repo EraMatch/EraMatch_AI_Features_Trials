@@ -1,0 +1,240 @@
+{
+  "full_name": "Jeremy Hunter",
+  "email": "jeremy.hunter@outlook.com",
+  "location": "North Joseph, Brazil",
+  "years_of_experience": 6.7,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jeremy Hunter",
+    "email": "jeremy.hunter@outlook.com",
+    "phone": "001-712-655-2137x6037",
+    "location": "North Joseph, Brazil",
+    "linkedin_url": "https://linkedin.com/in/jeremy-hunter",
+    "github_url": "https://github.com/jeremyhunter",
+    "portfolio_url": null
+  },
+  "summary": "Senior frontend engineering engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in Dart, TypeScript, Python with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2022-02",
+      "end_date": "Present",
+      "duration": "2022-02 – Present",
+      "duration_months": 49,
+      "description": "Developed design system using Dart, standardizing UI across 5000+ applications\nCreated progressive web app using Prettier, increasing user engagement by 58%",
+      "technologies": [
+        "Bootstrap",
+        "Prettier",
+        "Dart"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2019-01",
+      "end_date": "2021-08",
+      "duration": "2019-01 – 2021-08",
+      "duration_months": 31,
+      "description": "Implemented state management solution using Progressive Web Apps, reducing API calls by 16%\nBuilt real-time collaboration features using AWS Amplify, serving 100000+ concurrent users",
+      "technologies": [
+        "MongoDB",
+        "Vue.js",
+        "Progressive Web Apps",
+        "AWS Amplify"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Design Team Lead"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "React Certified Developer",
+      "issuer": "React",
+      "date": "2019",
+      "credential_id": "WW65HA32"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Arabic (Native)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Taylor Group Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "TypeScript",
+    "Python",
+    "JavaScript",
+    "Angular",
+    "Astro",
+    "Webpack",
+    "Prettier",
+    "Supabase",
+    "MongoDB",
+    "IndexedDB",
+    "Firebase",
+    "Vercel",
+    "Netlify",
+    "AWS Amplify",
+    "Responsive Design",
+    "Agile",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "Twilio",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 327,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:02.605903",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

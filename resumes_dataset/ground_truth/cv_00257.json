@@ -1,0 +1,288 @@
+{
+  "full_name": "Michelle Wilson",
+  "email": "michelle.wilson@wilson.dev",
+  "location": "Jonathanland, Netherlands",
+  "years_of_experience": 6.0,
+  "seniority_level": "senior",
+  "primary_domain": "QA / Testing",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michelle Wilson",
+    "email": "michelle.wilson@wilson.dev",
+    "phone": "+1-626-892-1244x717",
+    "location": "Jonathanland, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/michelle-wilson",
+    "github_url": "https://github.com/michellewilson",
+    "portfolio_url": null
+  },
+  "summary": "Senior qa / testing engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in JavaScript, Python, Java with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "QA Engineer",
+      "title": "QA Engineer",
+      "start_date": "2025-06",
+      "end_date": "Present",
+      "duration": "2025-06 – Present",
+      "duration_months": 9,
+      "description": "Built mobile testing automation using JavaScript, testing on 1000+ devices\nCreated performance testing suite using JavaScript, identifying 50000+ bottlenecks\nBuilt mobile testing automation using Selenium, testing on 1000+ devices",
+      "technologies": [
+        "Appium",
+        "JavaScript",
+        "Selenium"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "SDET",
+      "title": "SDET",
+      "start_date": "2022-11",
+      "end_date": "2025-06",
+      "duration": "2022-11 – 2025-06",
+      "duration_months": 31,
+      "description": "Built accessibility testing using Appium, ensuring compliance for 5000+ pages\nImplemented shift-left testing using Python, reducing bug escape rate by 56%",
+      "technologies": [
+        "Appium",
+        "Python",
+        "Security Testing",
+        "PyTest",
+        "Docker",
+        "JMeter"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Software QA Engineer",
+      "title": "Software QA Engineer",
+      "start_date": "2020-02",
+      "end_date": "2022-10",
+      "duration": "2020-02 – 2022-10",
+      "duration_months": 32,
+      "description": "Developed API testing framework using BDD, testing 1000+ endpoints\nBuilt security testing automation using JMeter, finding 100+ vulnerabilities\nImplemented exploratory testing using JMeter, discovering 100+ edge cases",
+      "technologies": [
+        "Sauce Labs",
+        "Docker",
+        "Playwright",
+        "BDD",
+        "Azure",
+        "JMeter"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Test Automation"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JUnit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BrowserStack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Security Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTest",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Implemented API Testing using Playwright, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Playwright",
+        "JUnit",
+        "JavaScript"
+      ],
+      "url": "https://github.com/michellewilson/ml-model-registry",
+      "date": "2025"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Designed Regression Suite leveraging Playwright microservices architecture with JavaScript for caching",
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "Playwright"
+      ],
+      "url": "https://github.com/michellewilson/deployment-dashboard",
+      "date": "2022"
+    },
+    {
+      "name": "ChatBot Framework",
+      "description": "Built Accessibility Testing with Python and JUnit, serving 10,000+ daily active users",
+      "technologies": [
+        "Python",
+        "JUnit",
+        "JavaScript"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Python",
+    "Java",
+    "JUnit",
+    "Playwright",
+    "BrowserStack",
+    "Docker",
+    "MySQL",
+    "MongoDB",
+    "PostgreSQL",
+    "Redis",
+    "AWS",
+    "GCP",
+    "Azure",
+    "BDD",
+    "Test Planning",
+    "CI/CD Testing",
+    "Agile Testing",
+    "Security Testing"
+  ],
+  "companies": [
+    "Meta",
+    "Airbnb",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "QA Engineer",
+    "SDET",
+    "Software QA Engineer"
+  ],
+  "universities": [
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 257,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:39:26.957871",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

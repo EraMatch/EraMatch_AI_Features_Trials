@@ -1,0 +1,274 @@
+{
+  "full_name": "Jonathan Davis",
+  "email": "jonathan.davis@davis.dev",
+  "location": "West Taramouth, USA",
+  "years_of_experience": 5.8,
+  "seniority_level": "senior",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Jonathan Davis",
+    "email": "jonathan.davis@davis.dev",
+    "phone": "904-616-5915x20177",
+    "location": "West Taramouth, USA",
+    "linkedin_url": null,
+    "github_url": "https://github.com/jonathandavis",
+    "portfolio_url": null
+  },
+  "summary": "Senior design (ui/ux) engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in HTML, CSS, JavaScript with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "UX Designer",
+      "title": "UX Designer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Designed responsive layouts using Angular, serving 5000+ screen sizes\nBuilt interactive prototypes using Information Architecture, reducing development cycles by 44%\nConducted user research using InVision, gathering insights from 1000+ users\nDesigned user interfaces using InVision, improving usability by 19%",
+      "technologies": [
+        "After Effects",
+        "Figma",
+        "Information Architecture",
+        "InVision"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2020-01",
+      "end_date": "2023-08",
+      "duration": "2020-01 – 2023-08",
+      "duration_months": 43,
+      "description": "Conducted usability testing using Hotjar, identifying 100+ UX issues\nBuilt design collaboration workflow using JavaScript, reducing review time by 51%\nBuilt design collaboration workflow using Hotjar, reducing review time by 67%\nDesigned user interfaces using JavaScript, improving usability by 18%",
+      "technologies": [
+        "Information Architecture",
+        "JavaScript",
+        "Zeplin",
+        "Hotjar"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": "3.44",
+      "activities": "UX Design Club"
+    },
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": "3.52",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zeplin",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Thinking",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Usability Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "InVision",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Information Architecture",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Schema Validator",
+      "description": "Designed User Research leveraging HTML microservices architecture with CSS for caching",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Sketch"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Built Design System with Sketch and CSS, serving 10,000+ daily active users",
+      "technologies": [
+        "Sketch",
+        "Python",
+        "CSS"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Created Icon Library leveraging JavaScript for core functionality and Python for optimization",
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "CSS"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Hindi (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "Adobe XD",
+    "Sketch",
+    "Figma",
+    "Zeplin",
+    "After Effects",
+    "Adobe Creative Suite",
+    "Firebase",
+    "Cloudflare",
+    "Netlify",
+    "Design Thinking",
+    "Accessibility (WCAG)",
+    "Usability Testing",
+    "Design Systems",
+    "User Research"
+  ],
+  "companies": [
+    "DataPulse",
+    "Spotify"
+  ],
+  "job_titles": [
+    "UX Designer",
+    "Design Lead"
+  ],
+  "universities": [
+    "Columbia University",
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 314,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:39:55.676008",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

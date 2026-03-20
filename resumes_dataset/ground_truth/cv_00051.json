@@ -1,0 +1,284 @@
+{
+  "full_name": "Michelle James",
+  "email": "michelle.james@outlook.com",
+  "location": "Morganmouth, Netherlands",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michelle James",
+    "email": "michelle.james@outlook.com",
+    "phone": "+1-984-578-9611x836",
+    "location": "Morganmouth, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/michelle-james",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior data science / ml / ai engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in Scala, Julia, R with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 – Present",
+      "duration_months": 42,
+      "description": "Developed data visualization tools using Spark, used by 1000+ analysts\nDesigned data warehousing solution using Hugging Face Endpoints, enabling analytics on 100+ records\nDeveloped ML models using LangChain, improving prediction accuracy by 38%\nImplemented A/B testing framework using Hugging Face Endpoints, running 500+ experiments",
+      "technologies": [
+        "Pandas",
+        "Spark",
+        "Hugging Face Endpoints",
+        "LangChain",
+        "Feature Engineering"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2018-01",
+      "end_date": "2022-04",
+      "duration": "2018-01 – 2022-04",
+      "duration_months": 51,
+      "description": "Built real-time analytics dashboard using MLflow, used by 100000+ stakeholders\nImplemented A/B testing framework using MLflow, running 500+ experiments\nDeveloped data visualization tools using MLflow, used by 50000+ analysts\nEstablished MLOps practices using Go, reducing model deployment time by 65%",
+      "technologies": [
+        "MLflow",
+        "Go",
+        "Prompt Engineering"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.A.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Built A/B Testing Framework with Scala and Julia, serving 10,000+ daily active users",
+      "technologies": [
+        "Julia",
+        "Scala",
+        "R"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Microsoft Certified: Azure Data Scientist",
+      "issuer": "Microsoft",
+      "date": "2024",
+      "credential_id": "BU66QQ15"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Game development as hobby",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Scala",
+    "Julia",
+    "R",
+    "Python",
+    "Go",
+    "JAX",
+    "Hugging Face",
+    "OpenAI API",
+    "PyTorch",
+    "Spark",
+    "Weights & Biases",
+    "Dagster",
+    "Airflow",
+    "Pinecone",
+    "Neo4j",
+    "ChromaDB",
+    "PostgreSQL",
+    "BigQuery",
+    "Databricks",
+    "Hugging Face Endpoints",
+    "GCP Vertex AI",
+    "Azure ML",
+    "Deep Learning",
+    "Fine-tuning"
+  ],
+  "companies": [
+    "Datadog",
+    "DataPulse"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "NLP Engineer"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 51,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:44.475342",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

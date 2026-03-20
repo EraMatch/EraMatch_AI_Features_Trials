@@ -1,0 +1,251 @@
+{
+  "full_name": "Kathleen Lynch",
+  "email": "kathleen.lynch@outlook.com",
+  "location": "Lake Christopherville, Japan",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kathleen Lynch",
+    "email": "kathleen.lynch@outlook.com",
+    "phone": "001-548-235-6420x87375",
+    "location": "Lake Christopherville, Japan",
+    "linkedin_url": "https://linkedin.com/in/kathleen-lynch",
+    "github_url": "https://github.com/kathleenlynch",
+    "portfolio_url": null
+  },
+  "summary": "Results-driven data science / ml / ai professional with 4 years of experience designing and implementing scalable solutions using SQL, R, OpenCV. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2021-12",
+      "end_date": "Present",
+      "duration": "2021-12 – Present",
+      "duration_months": 51,
+      "description": "Created recommendation system using Redshift, increasing user engagement by 66%\nBuilt end-to-end ML pipeline using GCP Vertex AI, processing 100+ samples daily\nDeveloped computer vision models using MLOps, achieving 48% accuracy\nImplemented A/B testing framework using Kubeflow, running 100+ experiments",
+      "technologies": [
+        "Kubeflow",
+        "GCP Vertex AI",
+        "BigQuery",
+        "MLOps",
+        "Snowflake",
+        "Redshift"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "M.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2021",
+      "gpa": "3.25",
+      "activities": "AI Research"
+    },
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "AWS Certified Machine Learning",
+      "issuer": "Amazon Web Services",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Caldwell, Hernandez and Davis Youth Program, 2022-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Yoga",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "R",
+    "OpenCV",
+    "Claude API",
+    "Kubeflow",
+    "Neptune",
+    "DVC",
+    "Polars",
+    "Spark",
+    "ChromaDB",
+    "Redshift",
+    "PostgreSQL",
+    "Pinecone",
+    "BigQuery",
+    "Bedrock",
+    "Lambda Labs",
+    "AWS SageMaker",
+    "Hugging Face Endpoints",
+    "Statistical Modeling",
+    "A/B Testing",
+    "LLM Evaluation"
+  ],
+  "companies": [
+    "PromptStack"
+  ],
+  "job_titles": [
+    "LLM Engineer"
+  ],
+  "universities": [
+    "MIT",
+    "KAIST"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 160,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:39.046788",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

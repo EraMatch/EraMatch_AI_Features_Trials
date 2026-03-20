@@ -1,0 +1,271 @@
+{
+  "full_name": "Jenna Griffin",
+  "email": "jenna.griffin@griffin.dev",
+  "location": "Bakerfurt, Canada",
+  "years_of_experience": 9.3,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jenna Griffin",
+    "email": "jenna.griffin@griffin.dev",
+    "phone": "+1-998-213-6462x251",
+    "location": "Bakerfurt, Canada",
+    "linkedin_url": "https://linkedin.com/in/jenna-griffin",
+    "github_url": "https://github.com/jennagriffin",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Objective-C, Swift, and TypeScript. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2022-06",
+      "end_date": "Present",
+      "duration": "2022-06 – Present",
+      "duration_months": 45,
+      "description": "Built AR/VR features using Core Data, increasing user retention by 23%\nCreated app analytics tracking using Android Studio, providing insights on 100+ users\nBuilt widget functionality using Core Data, increasing daily active users by 46%\nBuilt widget functionality using Android Studio, increasing daily active users by 29%",
+      "technologies": [
+        "Android Studio",
+        "Core Data",
+        "CocoaPods"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2019-12",
+      "end_date": "2022-02",
+      "duration": "2019-12 – 2022-02",
+      "duration_months": 26,
+      "description": "Implemented biometric authentication using React Native, securing 100000+ user accounts\nCreated app analytics tracking using React Native, providing insights on 50000+ users",
+      "technologies": [
+        "Firebase Firestore",
+        "KMP",
+        "React Native"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2018-01",
+      "end_date": "2019-07",
+      "duration": "2018-01 – 2019-07",
+      "duration_months": 18,
+      "description": "Implemented biometric authentication using CI/CD for Mobile, securing 10000+ user accounts\nImplemented biometric authentication using CI/CD for Mobile, securing 10000+ user accounts",
+      "technologies": [
+        "Flutter",
+        "Swift",
+        "Dart",
+        "Clean Architecture",
+        "CI/CD for Mobile"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2015-09",
+      "end_date": "2017-08",
+      "duration": "2015-09 – 2017-08",
+      "duration_months": 23,
+      "description": "Built AR/VR features using Java, increasing user retention by 17%\nDeveloped mobile application using Android Studio, achieving 1000+ downloads\nOptimized app performance using Offline-First, reducing battery consumption by 24%\nImplemented deep linking using Offline-First, improving conversion rates by 46%",
+      "technologies": [
+        "Java",
+        "Objective-C",
+        "Offline-First",
+        "C++",
+        "Android Studio"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2016",
+      "gpa": "3.78",
+      "activities": "App Development Team"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Hamilton, Wolfe and Gill Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Objective-C",
+    "Swift",
+    "TypeScript",
+    "C++",
+    "SwiftUI",
+    "Jetpack Compose",
+    "Fastlane",
+    "Gradle",
+    "Xcode",
+    "Firebase Firestore",
+    "Hive",
+    "Supabase",
+    "AWS Amplify",
+    "RevenueCat",
+    "Firebase",
+    "Clean Architecture",
+    "Offline-First",
+    "CI/CD for Mobile"
+  ],
+  "companies": [
+    "Stripe",
+    "InfraCore",
+    "Salesforce",
+    "Cloudflare"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "Android Developer",
+    "React Native Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 220,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:08.065526",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

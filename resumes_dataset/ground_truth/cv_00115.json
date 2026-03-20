@@ -1,0 +1,271 @@
+{
+  "full_name": "Michael Dixon",
+  "email": "michael.dixon@outlook.com",
+  "location": "Meganton, USA",
+  "years_of_experience": 7.2,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michael Dixon",
+    "email": "michael.dixon@outlook.com",
+    "phone": "(492)496-6278x28274",
+    "location": "Meganton, USA",
+    "linkedin_url": "https://linkedin.com/in/michael-dixon",
+    "github_url": "https://github.com/michaeldixon",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in TypeScript, Objective-C, and KMP. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2025-05",
+      "end_date": "Present",
+      "duration": "2025-05 – Present",
+      "duration_months": 10,
+      "description": "Implemented biometric authentication using TypeScript, securing 1000+ user accounts\nBuilt AR/VR features using CI/CD for Mobile, increasing user retention by 64%",
+      "technologies": [
+        "CI/CD for Mobile",
+        "SwiftUI",
+        "Swift",
+        "Gradle",
+        "Dart",
+        "TypeScript"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2021-12",
+      "end_date": "2024-11",
+      "duration": "2021-12 – 2024-11",
+      "duration_months": 35,
+      "description": "Created app analytics tracking using SQLite, providing insights on 100000+ users\nBuilt widget functionality using Objective-C, increasing daily active users by 29%\nCreated app analytics tracking using Objective-C, providing insights on 100000+ users\nBuilt AR/VR features using SQLite, increasing user retention by 25%",
+      "technologies": [
+        "Swift",
+        "SQLite",
+        "Xcode",
+        "Objective-C",
+        "TypeScript",
+        "Kotlin"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2018-01",
+      "end_date": "2021-06",
+      "duration": "2018-01 – 2021-06",
+      "duration_months": 41,
+      "description": "Created app analytics tracking using Supabase, providing insights on 1000+ users\nCreated app analytics tracking using CocoaPods, providing insights on 1000+ users\nImplemented deep linking using Supabase, improving conversion rates by 52%\nDeveloped mobile application using Supabase, achieving 100+ downloads",
+      "technologies": [
+        "Supabase",
+        "CocoaPods",
+        "Android Studio"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": "3.68",
+      "activities": "Mobile Development Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed iOS Application leveraging Jetpack Compose microservices architecture with UIKit for caching",
+      "technologies": [
+        "Jetpack Compose",
+        "UIKit",
+        "Objective-C"
+      ],
+      "url": "https://github.com/michaeldixon/autoscale-monitor",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Mandarin (Native)",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Weight machine crime himself no president important man\" — CVPR 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Objective-C",
+    "KMP",
+    "UIKit",
+    "SwiftUI",
+    "React Native",
+    "Jetpack Compose",
+    "Xcode",
+    "Fastlane",
+    "Gradle",
+    "Realm",
+    "Hive",
+    "SQLite",
+    "Core Data",
+    "RevenueCat",
+    "Supabase",
+    "Firebase",
+    "Offline-First",
+    "MVVM"
+  ],
+  "companies": [
+    "Palantir",
+    "SkillBridge",
+    "Confluent"
+  ],
+  "job_titles": [
+    "React Native Developer",
+    "Android Developer",
+    "React Native Developer"
+  ],
+  "universities": [
+    "MIT"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 115,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:38:16.839911",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "full_name": "Peter Vaughn DDS",
+  "email": "peter.vaughn.dds@outlook.com",
+  "location": "Michaelmouth, India",
+  "years_of_experience": 10.8,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Peter Vaughn DDS",
+    "email": "peter.vaughn.dds@outlook.com",
+    "phone": "770.814.3634x9578",
+    "location": "Michaelmouth, India",
+    "linkedin_url": "https://linkedin.com/in/peter-vaughn-dds",
+    "github_url": "https://github.com/petervaughndds",
+    "portfolio_url": "https://petervaughndds.dev"
+  },
+  "summary": "Engineering leader with deep technical background in Go, SQL, and R. 11 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2024-10",
+      "end_date": "Present",
+      "duration": "2024-10 – Present",
+      "duration_months": 17,
+      "description": "Designed data warehousing solution using ChromaDB, enabling analytics on 100000+ records\nBuilt end-to-end ML pipeline using Julia, processing 10000+ samples daily\nImplemented NLP solution using Dask, processing 500+ text documents daily",
+      "technologies": [
+        "Julia",
+        "ChromaDB",
+        "Dask"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2023-02",
+      "end_date": "2024-08",
+      "duration": "2023-02 – 2024-08",
+      "duration_months": 18,
+      "description": "Created recommendation system using LlamaIndex, increasing user engagement by 44%\nBuilt end-to-end ML pipeline using SQL, processing 100000+ samples daily\nBuilt ML model serving infrastructure using NumPy, handling 10000+ predictions/day",
+      "technologies": [
+        "LlamaIndex",
+        "NumPy",
+        "TensorFlow",
+        "SQL",
+        "GCP Vertex AI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2018-11",
+      "end_date": "2023-01",
+      "duration": "2018-11 – 2023-01",
+      "duration_months": 50,
+      "description": "Developed ML models using JAX, improving prediction accuracy by 25%\nDeveloped computer vision models using LightGBM, achieving 17% accuracy",
+      "technologies": [
+        "TensorFlow",
+        "Polars",
+        "LightGBM",
+        "JAX"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2015-02",
+      "end_date": "2018-11",
+      "duration": "2015-02 – 2018-11",
+      "duration_months": 45,
+      "description": "Implemented NLP solution using LangChain, processing 10000+ text documents daily\nDesigned data warehousing solution using Dask, enabling analytics on 1000+ records\nEstablished MLOps practices using Dask, reducing model deployment time by 44%\nImplemented NLP solution using Azure ML, processing 5000+ text documents daily",
+      "technologies": [
+        "Dask",
+        "LangChain",
+        "ChromaDB",
+        "Databricks",
+        "Azure ML"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.A.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "M.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataPipe CLI",
+      "description": "Built NLP Text Analyzer with SQL and Go, serving 10,000+ daily active users",
+      "technologies": [
+        "R",
+        "SQL",
+        "Go"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Created Feature Store leveraging Go for core functionality and R for optimization",
+      "technologies": [
+        "Go",
+        "R",
+        "SQL"
+      ],
+      "url": "https://github.com/petervaughndds/code-review-bot",
+      "date": "2024"
+    },
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Designed Feature Store leveraging SQL microservices architecture with R for caching",
+      "technologies": [
+        "R",
+        "SQL",
+        "Go"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Fill discover return firm sea week real\" — ArXiv 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "SQL",
+    "R",
+    "LlamaIndex",
+    "LangChain",
+    "PyTorch",
+    "Scikit-learn",
+    "OpenCV",
+    "MLflow",
+    "Polars",
+    "Kubeflow",
+    "Weights & Biases",
+    "Redshift",
+    "Weaviate",
+    "ChromaDB",
+    "Qdrant",
+    "AWS SageMaker",
+    "Bedrock",
+    "Azure ML",
+    "Fine-tuning",
+    "Deep Learning",
+    "MLOps"
+  ],
+  "companies": [
+    "CodeReview.io",
+    "Salesforce",
+    "Google",
+    "Vercel"
+  ],
+  "job_titles": [
+    "Research Scientist",
+    "NLP Engineer",
+    "LLM Engineer",
+    "Data Scientist"
+  ],
+  "universities": [
+    "Purdue University",
+    "Columbia University"
+  ],
+  "degrees": [
+    "B.A.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 29,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:32.810977",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

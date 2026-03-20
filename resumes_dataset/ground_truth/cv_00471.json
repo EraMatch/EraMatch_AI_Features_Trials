@@ -1,0 +1,324 @@
+{
+  "full_name": "Hannah Williamson",
+  "email": "hannah.williamson@outlook.com",
+  "location": "Camposchester, Singapore",
+  "years_of_experience": 9.1,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Hannah Williamson",
+    "email": "hannah.williamson@outlook.com",
+    "phone": "(310)402-3117x7533",
+    "location": "Camposchester, Singapore",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Ruby, Node.js, and Spring Boot. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Created authentication and authorization system using Hugging Face, securing 50000+ user accounts\nArchitected and built RESTful APIs serving 100000+ requests/day using Railway, reducing response time by 31%\nLed migration from monolithic to microservices using Vercel, improving system scalability by 50%\nDeveloped real-time data processing pipeline using Hugging Face, handling 5000+ events/second",
+      "technologies": [
+        "PlanetScale",
+        "Rust",
+        "Railway",
+        "Flask",
+        "Vercel",
+        "Hugging Face"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2021-03",
+      "end_date": "2023-12",
+      "duration": "2021-03 – 2023-12",
+      "duration_months": 33,
+      "description": "Designed and implemented message queue system using Hugging Face, processing 500+ messages/hour\nImplemented caching layer with Hugging Face, reducing database load by 54%\nDesigned and implemented microservices architecture using Hugging Face, handling 500+ concurrent users",
+      "technologies": [
+        "Google Gemini",
+        "Fly.io",
+        "LlamaIndex",
+        "Hugging Face",
+        "Ansible"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2016-08",
+      "end_date": "2020-10",
+      "duration": "2016-08 – 2020-10",
+      "duration_months": 50,
+      "description": "Mentored team of 7 junior developers on Helm best practices\nBuilt event-driven architecture using CI/CD, processing 100+ events daily\nDesigned and implemented microservices architecture using CI/CD, handling 50000+ concurrent users",
+      "technologies": [
+        "DigitalOcean",
+        "Helm",
+        "Express.js",
+        "CI/CD",
+        "GitHub Actions"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "API Design Competition"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "M.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2014",
+      "gpa": "3.80",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prompt Playground",
+      "description": "Designed API Gateway leveraging Node.js microservices architecture with Ruby for caching",
+      "technologies": [
+        "Ruby",
+        "Node.js",
+        "LangChain"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Feature Store",
+      "description": "Designed and implemented gRPC Services with LangChain, integrating with Express.js for seamless data flow",
+      "technologies": [
+        "Express.js",
+        "LangChain",
+        "Ruby"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built Database Proxy using Spring Boot and Actix, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Actix",
+        "Node.js",
+        "Spring Boot"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Brown LLC Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Ruby",
+    "Node.js",
+    "Spring Boot",
+    "Actix",
+    "NestJS",
+    "Express.js",
+    "LangChain",
+    "MongoDB",
+    "SQLite",
+    "DynamoDB",
+    "PostgreSQL",
+    "Kafka",
+    "GitHub Actions",
+    "Cloudflare",
+    "GCP",
+    "Railway",
+    "Azure",
+    "Render",
+    "Replicate",
+    "Anthropic",
+    "REST API Design",
+    "GraphQL",
+    "TDD"
+  ],
+  "companies": [
+    "OpenAI",
+    "Salesforce",
+    "Anthropic"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "AI Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "ETH Zurich",
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 471,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:41:14.983295",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

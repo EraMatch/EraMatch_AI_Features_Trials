@@ -1,0 +1,330 @@
+{
+  "full_name": "Kerri Brown",
+  "email": "kerri.brown@protonmail.com",
+  "location": "North Davidborough, France",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kerri Brown",
+    "email": "kerri.brown@protonmail.com",
+    "phone": "001-981-731-2920",
+    "location": "North Davidborough, France",
+    "linkedin_url": "https://linkedin.com/in/kerri-brown",
+    "github_url": "https://github.com/kerribrown",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Kotlin, Node.js, and Java. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "duration": "2023-12 – Present",
+      "duration_months": 27,
+      "description": "Built event-driven architecture using Agile, processing 50000+ events daily\nDeveloped real-time data processing pipeline using Docker, handling 100000+ records/second\nBuilt event-driven architecture using Cassandra, processing 50000+ events daily",
+      "technologies": [
+        "Express.js",
+        "Terraform",
+        "Docker",
+        "Cassandra",
+        "Agile",
+        "Java"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2022-05",
+      "end_date": "2023-11",
+      "duration": "2022-05 – 2023-11",
+      "duration_months": 18,
+      "description": "Reduced infrastructure costs by 18% through optimization using GraphQL\nDeveloped real-time data processing pipeline using AWS, handling 10000+ transactions/second\nDesigned and implemented microservices architecture using PlanetScale, handling 10000+ concurrent users\nOptimized database queries using PHP, improving query performance by 29%",
+      "technologies": [
+        "AWS",
+        "PHP",
+        "GraphQL",
+        "PlanetScale",
+        "Supabase",
+        "RAG Architecture"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2021-08",
+      "end_date": "2022-02",
+      "duration": "2021-08 – 2022-02",
+      "duration_months": 6,
+      "description": "Architected and built RESTful APIs serving 1000+ requests/day using Docker, reducing response time by 19%\nImplemented caching layer with REST API Design, reducing database load by 39%\nReduced infrastructure costs by 67% through optimization using ArgoCD",
+      "technologies": [
+        "ArgoCD",
+        "Anthropic",
+        "REST API Design",
+        "Docker"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2020",
+      "gpa": "2.99",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Because either send be by fear\" — EMNLP 2021",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Cooking",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "Node.js",
+    "Java",
+    "Go",
+    "Python",
+    "Rails",
+    "FastAPI",
+    "ASP.NET",
+    "NestJS",
+    "LlamaIndex",
+    "MySQL",
+    "PlanetScale",
+    "Redis",
+    "ArgoCD",
+    "Terraform",
+    "Jenkins",
+    "gRPC",
+    "Nginx",
+    "GCP",
+    "Railway",
+    "Fly.io",
+    "OpenAI API",
+    "Claude API",
+    "AWS Bedrock",
+    "Hugging Face",
+    "Event-Driven Architecture",
+    "CI/CD",
+    "RAG Architecture"
+  ],
+  "companies": [
+    "Apple",
+    "CloudNova",
+    "Figma"
+  ],
+  "job_titles": [
+    "Software Engineer",
+    "API Developer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "KAIST",
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.A.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 395,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:37.288921",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

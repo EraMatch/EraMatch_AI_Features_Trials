@@ -1,0 +1,285 @@
+{
+  "full_name": "Andre Rodriguez",
+  "email": "andre.rodriguez@outlook.com",
+  "location": "Jeffreyland, Netherlands",
+  "years_of_experience": 8.5,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Andre Rodriguez",
+    "email": "andre.rodriguez@outlook.com",
+    "phone": "610.296.7899",
+    "location": "Jeffreyland, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/andre-rodriguez",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in devops / sre / mlops with expertise in Rust, YAML, CloudFormation. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "duration": "2023-12 – Present",
+      "duration_months": 27,
+      "description": "Built disaster recovery solution using Jenkins, achieving RTO of 311ms\nImplemented security scanning using Jenkins, identifying 50000+ vulnerabilities\nEstablished GitOps workflows using Incident Management, improving deployment frequency by 33%",
+      "technologies": [
+        "PagerDuty",
+        "Skopeo",
+        "Jenkins",
+        "Incident Management",
+        "Datadog",
+        "Envoy"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2020-07",
+      "end_date": "2023-10",
+      "duration": "2020-07 – 2023-10",
+      "duration_months": 39,
+      "description": "Established chaos engineering practices using MLOps, improving system resilience\nOptimized cloud infrastructure using Tekton, reducing costs by 20%\nCreated self-service provisioning portal using MLOps, serving 10000+ engineers",
+      "technologies": [
+        "Azure",
+        "Terraform",
+        "Crossplane",
+        "Datadog",
+        "MLOps",
+        "Tekton"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2017-06",
+      "end_date": "2020-06",
+      "duration": "2017-06 – 2020-06",
+      "duration_months": 36,
+      "description": "Built CI/CD pipelines using PowerShell, reducing deployment time from 11s to 146ms\nImplemented log aggregation using Oracle Cloud, processing 1000+ logs/day\nEstablished chaos engineering practices using GitLab CI, improving system resilience\nCreated monitoring and alerting system using Oracle Cloud, reducing MTTR by 48%",
+      "technologies": [
+        "Oracle Cloud",
+        "Grafana",
+        "GitLab CI",
+        "PowerShell"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.A.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2017",
+      "gpa": "3.24",
+      "activities": null
+    },
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Russian (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "YAML",
+    "CloudFormation",
+    "Pulumi",
+    "Ansible",
+    "Kubernetes",
+    "Buildah",
+    "Linkerd",
+    "Envoy",
+    "GitHub Actions",
+    "Azure DevOps",
+    "CircleCI",
+    "Jenkins",
+    "Tekton",
+    "Grafana",
+    "Datadog",
+    "ELK Stack",
+    "Azure",
+    "Linode",
+    "MLflow",
+    "Seldon",
+    "MLOps",
+    "Chaos Engineering"
+  ],
+  "companies": [
+    "HashiCorp",
+    "Twilio",
+    "SkillBridge"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "DevOps Engineer",
+    "Infrastructure Engineer"
+  ],
+  "universities": [
+    "Imperial College London",
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "B.A.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 212,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:04.144865",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

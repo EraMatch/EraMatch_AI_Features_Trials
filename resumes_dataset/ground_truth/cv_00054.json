@@ -1,0 +1,266 @@
+{
+  "full_name": "Glen Wood",
+  "email": "glen.wood@protonmail.com",
+  "location": "Perryborough, USA",
+  "years_of_experience": 3.7,
+  "seniority_level": "mid",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Glen Wood",
+    "email": "glen.wood@protonmail.com",
+    "phone": "001-859-991-0229x0147",
+    "location": "Perryborough, USA",
+    "linkedin_url": "https://linkedin.com/in/glen-wood",
+    "github_url": "https://github.com/glenwood",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in TypeScript, C++, and Kotlin. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Implemented push notification system using App Store Optimization, increasing user engagement by 42%\nImplemented push notification system using Expo, increasing user engagement by 39%",
+      "technologies": [
+        "Dart",
+        "App Store Optimization",
+        "Firebase Firestore",
+        "Android Studio",
+        "Expo"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "M.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "Flutter Community"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Code Review Bot",
+      "description": "Built Mobile CI/CD with Expo and Dart, serving 10,000+ daily active users",
+      "technologies": [
+        "React Native",
+        "Expo",
+        "Dart"
+      ],
+      "url": "https://github.com/glenwood/code-review-bot",
+      "date": "2023"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Developed Push Notification Service using React Native, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Kotlin",
+        "React Native",
+        "Expo"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Implemented Mobile Backend API using C++, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Expo",
+        "C++",
+        "Dart"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Teaching coding workshops",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Box involve exist question main project animal house out account\" — ArXiv 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "C++",
+    "Kotlin",
+    "Dart",
+    "Expo",
+    "React Native",
+    "CocoaPods",
+    "Firebase",
+    "Xcode",
+    "Realm",
+    "SQLite",
+    "Hive",
+    "Firebase Firestore",
+    "Core Data",
+    "RevenueCat",
+    "Supabase",
+    "AWS Amplify",
+    "Firebase",
+    "Clean Architecture",
+    "MVVM",
+    "CI/CD for Mobile"
+  ],
+  "companies": [
+    "Datadog"
+  ],
+  "job_titles": [
+    "Mobile Developer"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 54,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:37:46.026555",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

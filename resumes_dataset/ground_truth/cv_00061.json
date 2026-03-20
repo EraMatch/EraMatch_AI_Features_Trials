@@ -1,0 +1,374 @@
+{
+  "full_name": "James Conner",
+  "email": "james.conner@conner.dev",
+  "location": "Staceyfort, UAE",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "James Conner",
+    "email": "james.conner@conner.dev",
+    "phone": "(481)568-5054",
+    "location": "Staceyfort, UAE",
+    "linkedin_url": "https://linkedin.com/in/james-conner",
+    "github_url": "https://github.com/jamesconner",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Rust, Node.js, Ruby.",
+  "work_experience": [
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2023-11",
+      "end_date": "Present",
+      "duration": "2023-11 – Present",
+      "duration_months": 28,
+      "description": "Developed real-time data processing pipeline using Neon, handling 10000+ documents/second\nDesigned and implemented message queue system using Rust, processing 100000+ messages/hour",
+      "technologies": [
+        "GraphQL",
+        "Neon",
+        "Rust",
+        "AWS Bedrock",
+        "Railway"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2022-09",
+      "end_date": "2023-08",
+      "duration": "2022-09 – 2023-08",
+      "duration_months": 11,
+      "description": "Designed and implemented microservices architecture using DigitalOcean, handling 50000+ concurrent users\nCreated authentication and authorization system using Event-Driven Architecture, securing 100+ user accounts",
+      "technologies": [
+        "Event-Driven Architecture",
+        "GCP",
+        "DigitalOcean",
+        "AWS",
+        "Anthropic",
+        "ASP.NET"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2020-12",
+      "end_date": "2022-05",
+      "duration": "2020-12 – 2022-05",
+      "duration_months": 17,
+      "description": "Optimized database queries using gRPC, improving query performance by 47%\nMentored team of 6 junior developers on CI/CD best practices\nMentored team of 3 junior developers on Spring Boot best practices\nBuilt event-driven architecture using PostgreSQL, processing 10000+ events daily",
+      "technologies": [
+        "PostgreSQL",
+        "CI/CD",
+        "DynamoDB",
+        "gRPC",
+        "Spring Boot",
+        "Actix"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2017-08",
+      "end_date": "2020-09",
+      "duration": "2017-08 – 2020-09",
+      "duration_months": 37,
+      "description": "Mentored team of 7 junior developers on REST API Design best practices\nArchitected and built RESTful APIs serving 1000+ requests/day using GCP, reducing response time by 27%\nCreated authentication and authorization system using Google Gemini, securing 1000+ user accounts",
+      "technologies": [
+        "REST API Design",
+        "Google Gemini",
+        "GCP",
+        "Terraform",
+        "Azure OpenAI"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": "3.81",
+      "activities": "Open Source Contributor"
+    },
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "M.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Parser",
+      "description": "Designed and implemented User Management API with Rust, integrating with LlamaIndex for seamless data flow",
+      "technologies": [
+        "Rust",
+        "LlamaIndex",
+        "C#"
+      ],
+      "url": "https://github.com/jamesconner/resume-parser",
+      "date": "2019"
+    },
+    {
+      "name": "Schema Validator",
+      "description": "Designed and implemented Search Engine with C#, integrating with Rust for seamless data flow",
+      "technologies": [
+        "C#",
+        "Rust",
+        "Rails"
+      ],
+      "url": "https://github.com/jamesconner/schema-validator",
+      "date": "2024"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Developed REST API Framework using Ruby, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Node.js",
+        "C#",
+        "Ruby"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Difficult case baby such big side\" — NeurIPS 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Node.js",
+    "Ruby",
+    "C#",
+    "Rails",
+    "LlamaIndex",
+    "DynamoDB",
+    "Redis",
+    "Elasticsearch",
+    "Supabase",
+    "PostgreSQL",
+    "Docker",
+    "ArgoCD",
+    "RabbitMQ",
+    "Kubernetes",
+    "Jenkins",
+    "GCP",
+    "Cloudflare",
+    "Replicate",
+    "OpenAI API",
+    "Claude API",
+    "CI/CD",
+    "Microservices",
+    "GraphQL",
+    "RAG Architecture"
+  ],
+  "companies": [
+    "Tesla",
+    "InfraCore",
+    "Twilio",
+    "Google"
+  ],
+  "job_titles": [
+    "Backend Developer",
+    "Backend Developer",
+    "Software Engineer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "University of Washington",
+    "Technion"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 61,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:37:48.987115",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

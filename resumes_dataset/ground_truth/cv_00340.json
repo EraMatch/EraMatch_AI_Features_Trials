@@ -1,0 +1,309 @@
+{
+  "full_name": "Laurie Vasquez",
+  "email": "laurie.vasquez@protonmail.com",
+  "location": "Angelashire, Japan",
+  "years_of_experience": 17.8,
+  "seniority_level": "principal",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Laurie Vasquez",
+    "email": "laurie.vasquez@protonmail.com",
+    "phone": "001-586-214-0578x61706",
+    "location": "Angelashire, Japan",
+    "linkedin_url": "https://linkedin.com/in/laurie-vasquez",
+    "github_url": "https://github.com/laurievasquez",
+    "portfolio_url": "https://laurievasquez.dev"
+  },
+  "summary": "Distinguished technologist with 18 years shaping backend engineering practice. Deep expertise in Java, C#, Node.js and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2022-02",
+      "end_date": "Present",
+      "duration": "2022-02 – Present",
+      "duration_months": 49,
+      "description": "Designed and implemented microservices architecture using PlanetScale, handling 50000+ concurrent users\nBuilt automated CI/CD pipelines with PlanetScale, reducing deployment time by 56%\nImplemented caching layer with Vercel, reducing database load by 40%",
+      "technologies": [
+        "Ruby",
+        "Vercel",
+        "PlanetScale"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2019-06",
+      "end_date": "2021-12",
+      "duration": "2019-06 – 2021-12",
+      "duration_months": 30,
+      "description": "Reduced infrastructure costs by 22% through optimization using CI/CD\nDeveloped real-time data processing pipeline using CI/CD, handling 50000+ transactions/second",
+      "technologies": [
+        "Google Gemini",
+        "CI/CD",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2016-01",
+      "end_date": "2019-02",
+      "duration": "2016-01 – 2019-02",
+      "duration_months": 37,
+      "description": "Led migration from monolithic to microservices using Agile, improving system scalability by 57%\nDesigned and implemented message queue system using PlanetScale, processing 500+ messages/hour",
+      "technologies": [
+        "DynamoDB",
+        "Agile",
+        "AWS",
+        "Jenkins",
+        "Go",
+        "PlanetScale"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2011-01",
+      "end_date": "2015-07",
+      "duration": "2011-01 – 2015-07",
+      "duration_months": 54,
+      "description": "Built automated CI/CD pipelines with Kotlin, reducing deployment time by 32%\nDeveloped real-time data processing pipeline using Kotlin, handling 100000+ transactions/second\nOptimized database queries using Kotlin, improving query performance by 42%\nBuilt automated CI/CD pipelines with DigitalOcean, reducing deployment time by 62%",
+      "technologies": [
+        "Gin",
+        "Kotlin",
+        "DigitalOcean",
+        "ASP.NET"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2007-06",
+      "end_date": "2011-01",
+      "duration": "2007-06 – 2011-01",
+      "duration_months": 43,
+      "description": "Designed and implemented microservices architecture using Azure OpenAI, handling 10000+ concurrent users\nMentored team of 4 junior developers on MongoDB best practices\nBuilt automated CI/CD pipelines with Azure OpenAI, reducing deployment time by 16%\nLed migration from monolithic to microservices using Ansible, improving system scalability by 38%",
+      "technologies": [
+        "AWS",
+        "MongoDB",
+        "Ansible",
+        "Go",
+        "Azure OpenAI"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2008",
+      "gpa": "3.27",
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2006",
+      "gpa": "3.23",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Drone building",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Reading sci-fi novels",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "C#",
+    "Node.js",
+    "Kotlin",
+    "Flask",
+    "Spring Boot",
+    "Supabase",
+    "CockroachDB",
+    "SQLite",
+    "Terraform",
+    "Ansible",
+    "Cloudflare",
+    "DigitalOcean",
+    "Google Gemini",
+    "Azure OpenAI",
+    "CI/CD",
+    "REST API Design",
+    "Scrum"
+  ],
+  "companies": [
+    "Salesforce",
+    "Apple",
+    "Snowflake",
+    "ParseLab",
+    "Figma"
+  ],
+  "job_titles": [
+    "Server-Side Developer",
+    "Platform Engineer",
+    "Platform Engineer",
+    "Backend Developer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "TU Delft",
+    "McGill University"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 340,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:09.496360",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "full_name": "Tyler Davis",
+  "email": "tyler.davis@protonmail.com",
+  "location": "East Jasonstad, Singapore",
+  "years_of_experience": 8.9,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Tyler Davis",
+    "email": "tyler.davis@protonmail.com",
+    "phone": "+1-822-806-8155x83938",
+    "location": "East Jasonstad, Singapore",
+    "linkedin_url": null,
+    "github_url": "https://github.com/tylerdavis",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in frontend engineering with expertise in JavaScript, TypeScript, Astro. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2022-02",
+      "end_date": "Present",
+      "duration": "2022-02 – Present",
+      "duration_months": 49,
+      "description": "Created accessible UI components using AWS Amplify, achieving WCAG AA compliance\nBuilt interactive data visualizations using Vite, serving 5000+ daily users",
+      "technologies": [
+        "AWS Amplify",
+        "Tailwind CSS",
+        "Vite",
+        "Jest",
+        "Cypress"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2018-03",
+      "end_date": "2022-02",
+      "duration": "2018-03 – 2022-02",
+      "duration_months": 47,
+      "description": "Built reusable component library using Firebase, used by 100000+ developers\nCreated accessible UI components using Progressive Web Apps, achieving WCAG AA compliance\nImplemented automated testing framework using Firebase, achieving 32% code coverage\nBuilt interactive data visualizations using Firebase, serving 1000+ daily users",
+      "technologies": [
+        "Progressive Web Apps",
+        "Playwright",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2017-02",
+      "end_date": "2018-01",
+      "duration": "2017-02 – 2018-01",
+      "duration_months": 11,
+      "description": "Improved website accessibility score to 17% using Netlify\nImproved website accessibility score to 51% using Netlify",
+      "technologies": [
+        "HTML",
+        "Netlify",
+        "React",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "M.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2015",
+      "gpa": "3.30",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Git",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Developed E-commerce Platform using Astro, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Tailwind CSS",
+        "Astro",
+        "React"
+      ],
+      "url": "https://github.com/tylerdavis/event-sourcing-engine",
+      "date": "2022"
+    },
+    {
+      "name": "Prompt Playground",
+      "description": "Developed E-commerce Platform using React, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "React",
+        "Svelte",
+        "TypeScript"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Developed Real-time Chat using Astro, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "TypeScript",
+        "React",
+        "Astro"
+      ],
+      "url": "https://github.com/tylerdavis/health-check-service",
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Meta Front-End Developer Certificate",
+      "issuer": "Meta",
+      "date": "2023",
+      "credential_id": "PU52AY06"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Ellis Inc Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "TypeScript",
+    "Astro",
+    "React",
+    "Svelte",
+    "Tailwind CSS",
+    "Vite",
+    "Figma",
+    "Supabase",
+    "MongoDB",
+    "PostgreSQL",
+    "Firebase",
+    "IndexedDB",
+    "Vercel",
+    "Netlify",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Accessibility (WCAG)",
+    "Responsive Design",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "Confluent",
+    "DataPulse",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "Frontend Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 371,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:25.322380",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "full_name": "Robert Evans",
+  "email": "robert.evans@protonmail.com",
+  "location": "Rebeccaton, Brazil",
+  "years_of_experience": 1.4,
+  "seniority_level": "junior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Robert Evans",
+    "email": "robert.evans@protonmail.com",
+    "phone": "+1-612-941-1824x49353",
+    "location": "Rebeccaton, Brazil",
+    "linkedin_url": "https://linkedin.com/in/robert-evans",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Junior engineer with 1 years working with Rust. Demonstrated ability to learn quickly and contribute to team projects.",
+  "work_experience": [
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2025-04",
+      "end_date": "Present",
+      "duration": "2025-04 – Present",
+      "duration_months": 11,
+      "description": "Created monitoring and alerting system using Linkerd, reducing MTTR by 46%\nEstablished chaos engineering practices using Linkerd, improving system resilience\nEstablished chaos engineering practices using Hetzner, improving system resilience",
+      "technologies": [
+        "GCP",
+        "DigitalOcean",
+        "Hetzner",
+        "Linkerd",
+        "Infrastructure as Code",
+        "HCL"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2024-09",
+      "end_date": "2025-03",
+      "duration": "2024-09 – 2025-03",
+      "duration_months": 6,
+      "description": "Created monitoring and alerting system using CircleCI, reducing MTTR by 61%\nImplemented log aggregation using Terraform, processing 50000+ logs/day",
+      "technologies": [
+        "TorchServe",
+        "Terraform",
+        "SRE Practices",
+        "CircleCI",
+        "Hetzner"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2025",
+      "gpa": "3.52",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Parser",
+      "description": "Built Infrastructure as Code with Rust and PowerShell, serving 10,000+ daily active users",
+      "technologies": [
+        "Rust",
+        "PowerShell",
+        "Istio"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Walters LLC Youth Program, 2023-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Game development as hobby",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "PowerShell",
+    "Helm",
+    "ArgoCD",
+    "CDK",
+    "Crossplane",
+    "Istio",
+    "Buildah",
+    "Skopeo",
+    "Azure DevOps",
+    "GitHub Actions",
+    "Thanos",
+    "Prometheus",
+    "Grafana",
+    "Datadog",
+    "VictoriaMetrics",
+    "Hetzner",
+    "Azure",
+    "Seldon",
+    "TensorFlow Serving",
+    " Triton Inference Server",
+    "Incident Management",
+    "Platform Engineering",
+    "Chaos Engineering",
+    "Infrastructure as Code"
+  ],
+  "companies": [
+    "Salesforce",
+    "Vercel"
+  ],
+  "job_titles": [
+    "Release Engineer",
+    "DevOps Engineer"
+  ],
+  "universities": [
+    "University of Michigan"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 13,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:37:24.817036",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

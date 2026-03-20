@@ -1,0 +1,310 @@
+{
+  "full_name": "Tara Mitchell",
+  "email": "tara.mitchell@mitchell.dev",
+  "location": "North Juan, Singapore",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Tara Mitchell",
+    "email": "tara.mitchell@mitchell.dev",
+    "phone": "+1-976-599-8426",
+    "location": "North Juan, Singapore",
+    "linkedin_url": "https://linkedin.com/in/tara-mitchell",
+    "github_url": "https://github.com/taramitchell",
+    "portfolio_url": null
+  },
+  "summary": "Results-driven backend engineering professional with 4 years of experience designing and implementing scalable solutions using Node.js, Go, Kotlin. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2022-10",
+      "end_date": "Present",
+      "duration": "2022-10 – Present",
+      "duration_months": 41,
+      "description": "Mentored team of 3 junior developers on Google Gemini best practices\nMentored team of 5 junior developers on PostgreSQL best practices\nImplemented caching layer with Agile, reducing database load by 60%",
+      "technologies": [
+        "OpenAI API",
+        "Agile",
+        "Supabase",
+        "PostgreSQL",
+        "Google Gemini",
+        "FastAPI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2021-07",
+      "end_date": "2022-04",
+      "duration": "2021-07 – 2022-04",
+      "duration_months": 9,
+      "description": "Developed real-time data processing pipeline using TypeScript, handling 100000+ transactions/second\nCreated authentication and authorization system using Rails, securing 100000+ user accounts\nBuilt event-driven architecture using TypeScript, processing 500+ events daily\nDeveloped real-time data processing pipeline using Rails, handling 500+ queries/second",
+      "technologies": [
+        "ArgoCD",
+        "Ansible",
+        "Helm",
+        "Kotlin",
+        "Rails",
+        "TypeScript"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2021",
+      "gpa": "3.21",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Created Database Proxy leveraging Rust for core functionality and Rails for optimization",
+      "technologies": [
+        "Rails",
+        "FastAPI",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022",
+      "credential_id": "SV41KZ38"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Rock climbing",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Gilbert LLC Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "Go",
+    "Kotlin",
+    "Rust",
+    "Rails",
+    "FastAPI",
+    "Gin",
+    "MongoDB",
+    "CockroachDB",
+    "DynamoDB",
+    "Ansible",
+    "gRPC",
+    "ArgoCD",
+    "GCP",
+    "AWS",
+    "Cloudflare",
+    "Heroku",
+    "Claude API",
+    "OpenAI API",
+    "Anthropic",
+    "Google Gemini",
+    "AWS Bedrock",
+    "GraphQL",
+    "REST API Design",
+    "Event-Driven Architecture"
+  ],
+  "companies": [
+    "Block",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "API Developer",
+    "API Developer"
+  ],
+  "universities": [
+    "Georgia Tech",
+    "University of Washington"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 484,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:41:21.092463",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "full_name": "James Howard",
+  "email": "james.howard@outlook.com",
+  "location": "Lake Mirandahaven, Germany",
+  "years_of_experience": 3.7,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "James Howard",
+    "email": "james.howard@outlook.com",
+    "phone": "6277716701",
+    "location": "Lake Mirandahaven, Germany",
+    "linkedin_url": null,
+    "github_url": "https://github.com/jameshoward",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in CSS, Dart, and Vue.js. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Optimized frontend bundle size using PostgreSQL, reducing load time by 16%\nIntegrated third-party APIs using PostgreSQL, reducing integration time by 36%\nImplemented state management solution using JavaScript, reducing API calls by 36%\nImproved website accessibility score to 40% using JavaScript",
+      "technologies": [
+        "PostgreSQL",
+        "Cypress",
+        "JavaScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "M.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2023",
+      "gpa": "3.87",
+      "activities": null
+    },
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.A.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": "2.89",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Graph Query Builder",
+      "description": "Created SPA Framework leveraging Dart for core functionality and Svelte for optimization",
+      "technologies": [
+        "Svelte",
+        "Dart",
+        "Vue.js"
+      ],
+      "url": "https://github.com/jameshoward/graph-query-builder",
+      "date": "2021"
+    },
+    {
+      "name": "DataPipe CLI",
+      "description": "Built SPA Framework using React and Svelte, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Bootstrap",
+        "React",
+        "Svelte"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Designed E-commerce Platform leveraging Bootstrap microservices architecture with Vue.js for caching",
+      "technologies": [
+        "Vue.js",
+        "Bootstrap",
+        "Svelte"
+      ],
+      "url": "https://github.com/jameshoward/health-check-service",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Rich difference what their mind read peace item risk loss\" — EMNLP 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "Dart",
+    "Vue.js",
+    "Bootstrap",
+    "Svelte",
+    "React",
+    "Material UI",
+    "Prettier",
+    "Storybook",
+    "Git",
+    "Jest",
+    "Playwright",
+    "Supabase",
+    "PostgreSQL",
+    "IndexedDB",
+    "Firebase",
+    "Netlify",
+    "AWS Amplify",
+    "Responsive Design",
+    "Component-Driven Development",
+    "Agile"
+  ],
+  "companies": [
+    "Shopify"
+  ],
+  "job_titles": [
+    "React Developer"
+  ],
+  "universities": [
+    "UT Austin",
+    "Purdue University"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 163,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:40.306690",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

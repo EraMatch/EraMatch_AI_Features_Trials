@@ -1,0 +1,272 @@
+{
+  "full_name": "Sheryl Davis",
+  "email": "sheryl.davis@gmail.com",
+  "location": "South Joseph, Brazil",
+  "years_of_experience": 4.4,
+  "seniority_level": "mid",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sheryl Davis",
+    "email": "sheryl.davis@gmail.com",
+    "phone": "545.877.5901x75186",
+    "location": "South Joseph, Brazil",
+    "linkedin_url": "https://linkedin.com/in/sheryl-davis",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Results-driven data science / ml / ai professional with 4 years of experience designing and implementing scalable solutions using SQL, Julia, Python. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": "2023-08 – Present",
+      "duration_months": 31,
+      "description": "Created feature engineering pipeline using Dagster, reducing preprocessing time by 38%\nImplemented NLP solution using Hugging Face Endpoints, processing 1000+ text documents daily\nBuilt end-to-end ML pipeline using Computer Vision, processing 100+ samples daily",
+      "technologies": [
+        "Lambda Labs",
+        "Dagster",
+        "Hugging Face Endpoints",
+        "Computer Vision"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2021-07",
+      "end_date": "2023-05",
+      "duration": "2021-07 – 2023-05",
+      "duration_months": 22,
+      "description": "Implemented NLP solution using MongoDB, processing 100000+ text documents daily\nDeveloped data visualization tools using Spark, used by 500+ analysts",
+      "technologies": [
+        "Spark",
+        "Redshift",
+        "PostgreSQL",
+        "MongoDB",
+        "BigQuery"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "AI Research"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Designed Predictive Analytics Platform leveraging Python microservices architecture with SQL for caching",
+      "technologies": [
+        "Julia",
+        "SQL",
+        "Python"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — MLH 2023",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — IEEE 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Julia",
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "JAX",
+    "MLflow",
+    "Kubeflow",
+    "Weaviate",
+    "BigQuery",
+    "Pinecone",
+    "MongoDB",
+    "Qdrant",
+    "Lambda Labs",
+    "Bedrock",
+    "Hugging Face Endpoints",
+    "Azure ML",
+    "Databricks",
+    "Deep Learning",
+    "Prompt Engineering",
+    "Vector Databases",
+    "Fine-tuning",
+    "Statistical Modeling"
+  ],
+  "companies": [
+    "Block",
+    "Shopify"
+  ],
+  "job_titles": [
+    "ML Engineer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 119,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:18.683574",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

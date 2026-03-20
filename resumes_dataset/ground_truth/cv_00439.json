@@ -1,0 +1,343 @@
+{
+  "full_name": "Matthew Poole",
+  "email": "matthew.poole@outlook.com",
+  "location": "Lake Lauriehaven, France",
+  "years_of_experience": 10.8,
+  "seniority_level": "lead",
+  "primary_domain": "QA / Testing",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Matthew Poole",
+    "email": "matthew.poole@outlook.com",
+    "phone": "001-862-562-6582",
+    "location": "Lake Lauriehaven, France",
+    "linkedin_url": "https://linkedin.com/in/matthew-poole",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in JavaScript, Python, and Ruby. 11 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "QA Lead",
+      "title": "QA Lead",
+      "start_date": "2024-10",
+      "end_date": "Present",
+      "duration": "2024-10 – Present",
+      "duration_months": 17,
+      "description": "Implemented exploratory testing using Appium, discovering 1000+ edge cases\nImplemented exploratory testing using Playwright, discovering 50000+ edge cases",
+      "technologies": [
+        "JMeter",
+        "Appium",
+        "TestNG",
+        "Performance Testing",
+        "Playwright"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "Test Automation Engineer",
+      "title": "Test Automation Engineer",
+      "start_date": "2023-11",
+      "end_date": "2024-06",
+      "duration": "2023-11 – 2024-06",
+      "duration_months": 7,
+      "description": "Created test data management using GCP, generating 5000+ test records\nCreated test reporting dashboard using JUnit, tracking 5000+ test metrics",
+      "technologies": [
+        "Redis",
+        "PyTest",
+        "JUnit",
+        "GCP",
+        "PostgreSQL"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Test Automation Engineer",
+      "title": "Test Automation Engineer",
+      "start_date": "2020-10",
+      "end_date": "2023-10",
+      "duration": "2020-10 – 2023-10",
+      "duration_months": 36,
+      "description": "Created test data management using Java, generating 1000+ test records\nImplemented exploratory testing using BDD, discovering 5000+ edge cases",
+      "technologies": [
+        "TestNG",
+        "BDD",
+        "Azure",
+        "Playwright",
+        "C#",
+        "Java"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "QA Engineer",
+      "title": "QA Engineer",
+      "start_date": "2018-11",
+      "end_date": "2020-10",
+      "duration": "2018-11 – 2020-10",
+      "duration_months": 23,
+      "description": "Implemented exploratory testing using TDD, discovering 5000+ edge cases\nDeveloped BDD framework using Agile Testing, writing 100000+ scenarios\nDeveloped BDD framework using Ruby, writing 500+ scenarios",
+      "technologies": [
+        "Ruby",
+        "Docker",
+        "Agile Testing",
+        "TDD"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "QA Lead",
+      "title": "QA Lead",
+      "start_date": "2014-12",
+      "end_date": "2018-11",
+      "duration": "2014-12 – 2018-11",
+      "duration_months": 47,
+      "description": "Implemented exploratory testing using GCP, discovering 50000+ edge cases\nImplemented exploratory testing using Agile Testing, discovering 100+ edge cases\nDeveloped test automation framework using BrowserStack, achieving 32% automation coverage\nBuilt security testing automation using BrowserStack, finding 100+ vulnerabilities",
+      "technologies": [
+        "BrowserStack",
+        "Agile Testing",
+        "GCP",
+        "Jira"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2015",
+      "gpa": "3.95",
+      "activities": "Test Automation"
+    },
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2014",
+      "gpa": "3.27",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Appium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Selenium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTest",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Postman",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JMeter",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BrowserStack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Automation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Security Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Performance Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — Company Internal 2024",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Welch Group Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Python",
+    "Ruby",
+    "Java",
+    "C#",
+    "Appium",
+    "Selenium",
+    "PyTest",
+    "Playwright",
+    "Postman",
+    "Jira",
+    "JMeter",
+    "BrowserStack",
+    "PostgreSQL",
+    "Redis",
+    "MySQL",
+    "Azure",
+    "GCP",
+    "AWS",
+    "BDD",
+    "Test Automation",
+    "Security Testing",
+    "Performance Testing",
+    "Agile Testing"
+  ],
+  "companies": [
+    "Confluent",
+    "Google",
+    "Shopify",
+    "Palantir",
+    "ScaleGrid"
+  ],
+  "job_titles": [
+    "QA Lead",
+    "Test Automation Engineer",
+    "Test Automation Engineer",
+    "QA Engineer",
+    "QA Lead"
+  ],
+  "universities": [
+    "UT Austin",
+    "Imperial College London"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 439,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:40:59.667409",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "full_name": "Brittany Barber",
+  "email": "brittany.barber@protonmail.com",
+  "location": "East Sabrina, Netherlands",
+  "years_of_experience": 7.2,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Brittany Barber",
+    "email": "brittany.barber@protonmail.com",
+    "phone": "467-947-4689x715",
+    "location": "East Sabrina, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/brittany-barber",
+    "github_url": "https://github.com/brittanybarber",
+    "portfolio_url": "https://brittanybarber.dev"
+  },
+  "summary": "Senior data science / ml / ai engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in Python, Julia, MATLAB with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 – Present",
+      "duration_months": 30,
+      "description": "Built real-time analytics dashboard using Airflow, used by 100+ stakeholders\nDeveloped ML models using Snowflake, improving prediction accuracy by 50%\nEstablished MLOps practices using MATLAB, reducing model deployment time by 52%",
+      "technologies": [
+        "LLM Evaluation",
+        "Snowflake",
+        "MATLAB",
+        "Databricks",
+        "Airflow"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2020-09",
+      "end_date": "2023-07",
+      "duration": "2020-09 – 2023-07",
+      "duration_months": 34,
+      "description": "Built ML model serving infrastructure using Bedrock, handling 100000+ predictions/day\nBuilt end-to-end ML pipeline using Airflow, processing 5000+ samples daily\nDeveloped ML models using Bedrock, improving prediction accuracy by 47%\nCreated recommendation system using GCP Vertex AI, increasing user engagement by 50%",
+      "technologies": [
+        "GCP Vertex AI",
+        "Airflow",
+        "Bedrock"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2019-02",
+      "end_date": "2020-03",
+      "duration": "2019-02 – 2020-03",
+      "duration_months": 13,
+      "description": "Built real-time analytics dashboard using Qdrant, used by 50000+ stakeholders\nDesigned data warehousing solution using Computer Vision, enabling analytics on 1000+ records\nDeveloped data visualization tools using Computer Vision, used by 50000+ analysts\nDeveloped computer vision models using PostgreSQL, achieving 24% accuracy",
+      "technologies": [
+        "ChromaDB",
+        "LightGBM",
+        "PostgreSQL",
+        "Qdrant",
+        "Computer Vision",
+        "Julia"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2018-05",
+      "end_date": "2019-02",
+      "duration": "2018-05 – 2019-02",
+      "duration_months": 9,
+      "description": "Implemented A/B testing framework using Polars, running 500+ experiments\nImplemented NLP solution using Polars, processing 500+ text documents daily",
+      "technologies": [
+        "Spark",
+        "Polars",
+        "NLP",
+        "ChromaDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "Ph.D.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Kaggle Competition"
+    },
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "B.A.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Databricks Certified Data Engineer",
+      "issuer": "Databricks",
+      "date": "2022",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Machine Learning",
+      "issuer": "Amazon Web Services",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Technical blogging",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Julia",
+    "MATLAB",
+    "Scikit-learn",
+    "Claude API",
+    "Hugging Face",
+    "LlamaIndex",
+    "Dagster",
+    "Neptune",
+    "Polars",
+    "DVC",
+    "Pandas",
+    "Snowflake",
+    "Pinecone",
+    "Lambda Labs",
+    "Databricks",
+    "Hugging Face Endpoints",
+    "Bedrock",
+    "Azure ML",
+    "Feature Engineering",
+    "A/B Testing",
+    "MLOps",
+    "RAG",
+    "Computer Vision"
+  ],
+  "companies": [
+    "Microsoft",
+    "VectorDB Inc",
+    "TechFlow AI",
+    "TechFlow AI"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "Data Scientist",
+    "Data Scientist",
+    "NLP Engineer"
+  ],
+  "universities": [
+    "Imperial College London",
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 378,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:40:28.761166",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

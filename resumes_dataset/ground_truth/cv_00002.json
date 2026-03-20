@@ -1,0 +1,284 @@
+{
+  "full_name": "Thomas Miller",
+  "email": "thomas.miller@outlook.com",
+  "location": "Franciscostad, France",
+  "years_of_experience": 6.3,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Thomas Miller",
+    "email": "thomas.miller@outlook.com",
+    "phone": "695-993-1034x1316",
+    "location": "Franciscostad, France",
+    "linkedin_url": "https://linkedin.com/in/thomas-miller",
+    "github_url": "https://github.com/thomasmiller",
+    "portfolio_url": null
+  },
+  "summary": "Senior cybersecurity engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Rust, Bash, Go with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2023-04",
+      "end_date": "Present",
+      "duration": "2023-04 – Present",
+      "duration_months": 35,
+      "description": "Implemented SIEM solution using SAST/DAST, processing 100+ logs/day\nImplemented identity management using Zero Trust Architecture, securing 50000+ user identities",
+      "technologies": [
+        "Nmap",
+        "Threat Modeling",
+        "Azure Sentinel",
+        "Zero Trust Architecture",
+        "SAST/DAST",
+        "MongoDB"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2019-06",
+      "end_date": "2022-11",
+      "duration": "2019-06 – 2022-11",
+      "duration_months": 41,
+      "description": "Created security awareness training using PostgreSQL, reducing phishing clicks by 42%\nImplemented encryption solution using Vue, protecting 100+ records\nBuilt incident response automation using Incident Response, reducing recovery time by 41%",
+      "technologies": [
+        "Incident Response",
+        "OWASP ZAP",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2017",
+      "gpa": "3.32",
+      "activities": "Security Research"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vector Search API",
+      "description": "Designed and implemented Vulnerability Scanner with Rust, integrating with Python for seamless data flow",
+      "technologies": [
+        "Rust",
+        "Burp Suite",
+        "Python"
+      ],
+      "url": "https://github.com/thomasmiller/vector-search-api",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Portuguese (Professional)",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — ACM 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Bash",
+    "Go",
+    "Python",
+    "C",
+    "Suricata",
+    "Sigma",
+    "Metasploit",
+    "Snort",
+    "Burp Suite",
+    "SonarQube",
+    "Nmap",
+    "Wireshark",
+    "MongoDB",
+    "Elasticsearch",
+    "PostgreSQL",
+    "Redis",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Incident Response",
+    "OWASP Top 10",
+    "Threat Modeling",
+    "SAST/DAST",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "Spotify",
+    "Datadog"
+  ],
+  "job_titles": [
+    "Security Architect",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "UT Austin"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 2,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:37:19.764346",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

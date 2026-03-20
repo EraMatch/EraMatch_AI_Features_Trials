@@ -1,0 +1,312 @@
+{
+  "full_name": "Nathan Gross",
+  "email": "nathan.gross@outlook.com",
+  "location": "North Brent, Brazil",
+  "years_of_experience": 11.5,
+  "seniority_level": "lead",
+  "primary_domain": "General IT",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Nathan Gross",
+    "email": "nathan.gross@outlook.com",
+    "phone": "(962)558-8153x714",
+    "location": "North Brent, Brazil",
+    "linkedin_url": null,
+    "github_url": "https://github.com/nathangross",
+    "portfolio_url": "https://nathangross.dev"
+  },
+  "summary": "Lead general it professional with 12 years driving technical strategy and team excellence. Expert in SQL, VBA, Python with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Network Administrator",
+      "title": "Network Administrator",
+      "start_date": "2021-11",
+      "end_date": "Present",
+      "duration": "2021-11 – Present",
+      "duration_months": 52,
+      "description": "Created user training materials using Exchange, training 10000+ employees\nCreated network monitoring using Azure AD, detecting 500+ incidents\nProvided tier-2/3 support using Azure, resolving 5000+ complex issues\nBuilt automation scripts using PowerShell, saving 17+ hours/month",
+      "technologies": [
+        "Azure",
+        "PowerShell",
+        "Python",
+        "Azure AD",
+        "Exchange"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "System Administrator",
+      "title": "System Administrator",
+      "start_date": "2020-06",
+      "end_date": "2021-06",
+      "duration": "2020-06 – 2021-06",
+      "duration_months": 12,
+      "description": "Created IT documentation using PowerShell, serving 100000+ employees\nCreated user training materials using Azure AD, training 50000+ employees\nImplemented IT service management using SQL, handling 5000+ tickets/month\nManaged Windows/Active Directory infrastructure using SQL, supporting 5000+ users",
+      "technologies": [
+        "Active Directory",
+        "SQL",
+        "Python",
+        "Azure AD",
+        "PowerShell"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Network Administrator",
+      "title": "Network Administrator",
+      "start_date": "2017-04",
+      "end_date": "2020-01",
+      "duration": "2017-04 – 2020-01",
+      "duration_months": 33,
+      "description": "Built monitoring dashboards using VBA, tracking 1000+ metrics\nProvided tier-2/3 support using SharePoint, resolving 10000+ complex issues\nCreated IT documentation using SolarWinds, serving 5000+ employees",
+      "technologies": [
+        "SolarWinds",
+        "SharePoint",
+        "VBA"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "System Administrator",
+      "title": "System Administrator",
+      "start_date": "2013-11",
+      "end_date": "2017-04",
+      "duration": "2013-11 – 2017-04",
+      "duration_months": 41,
+      "description": "Implemented identity management using Nagios, securing 100+ accounts\nCreated user training materials using Nagios, training 100+ employees",
+      "technologies": [
+        "Nagios",
+        "Hyper-V",
+        "Office 365"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.A.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2012",
+      "gpa": "3.76",
+      "activities": "Tech Support"
+    },
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2013",
+      "gpa": "3.83",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VBA",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Office 365",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Active Directory",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SharePoint",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nagios",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hyper-V",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ITIL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Change Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Help Desk",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "System Administration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SolarWinds",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Azure AD",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Schema Validator",
+      "description": "Developed Active Directory using Exchange, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "SQL",
+        "Exchange",
+        "SharePoint"
+      ],
+      "url": "https://github.com/nathangross/schema-validator",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "VBA",
+    "Python",
+    "Bash",
+    "Office 365",
+    "Active Directory",
+    "SharePoint",
+    "Exchange",
+    "Nagios",
+    "Hyper-V",
+    "PostgreSQL",
+    "MySQL",
+    "SQL Server",
+    "AWS",
+    "Google Workspace",
+    "Azure",
+    "Incident Management",
+    "ITIL",
+    "Change Management",
+    "Help Desk",
+    "System Administration"
+  ],
+  "companies": [
+    "Confluent",
+    "PromptStack",
+    "ModelShip",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "Network Administrator",
+    "System Administrator",
+    "Network Administrator",
+    "System Administrator"
+  ],
+  "universities": [
+    "TU Munich",
+    "MIT"
+  ],
+  "degrees": [
+    "B.A.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 78,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:37:57.649160",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "full_name": "Matthew Walker",
+  "email": "matthew.walker@gmail.com",
+  "location": "South Saraville, Canada",
+  "years_of_experience": 2.4,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Matthew Walker",
+    "email": "matthew.walker@gmail.com",
+    "phone": "283.364.0412",
+    "location": "South Saraville, Canada",
+    "linkedin_url": "https://linkedin.com/in/matthew-walker",
+    "github_url": "https://github.com/matthewwalker",
+    "portfolio_url": "https://matthewwalker.dev"
+  },
+  "summary": "Results-driven frontend engineering professional with 2 years of experience designing and implementing scalable solutions using JavaScript, Dart, Python. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": "2024-09 – Present",
+      "duration_months": 18,
+      "description": "Built real-time collaboration features using PostgreSQL, serving 100000+ concurrent users\nImproved website accessibility score to 40% using Material UI",
+      "technologies": [
+        "TypeScript",
+        "Material UI",
+        "PostgreSQL",
+        "Responsive Design",
+        "Vercel"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2023-07",
+      "end_date": "2024-06",
+      "duration": "2023-07 – 2024-06",
+      "duration_months": 11,
+      "description": "Optimized frontend bundle size using Prettier, reducing load time by 55%\nBuilt interactive data visualizations using Prettier, serving 1000+ daily users",
+      "technologies": [
+        "React",
+        "Bootstrap",
+        "PostgreSQL",
+        "Dart",
+        "Prettier",
+        "Storybook"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "B.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2024",
+      "gpa": "3.24",
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2023",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Code Review Bot",
+      "description": "Built Mobile Web App with Vue.js and Tailwind CSS, serving 10,000+ daily active users",
+      "technologies": [
+        "HTML",
+        "Tailwind CSS",
+        "Vue.js"
+      ],
+      "url": "https://github.com/matthewwalker/code-review-bot",
+      "date": "2020"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Built Real-time Chat using Remix and Tailwind CSS, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Tailwind CSS",
+        "Remix",
+        "Dart"
+      ],
+      "url": "https://github.com/matthewwalker/vector-search-api",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Japanese (Basic)",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — Google DevFest 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Dart",
+    "Python",
+    "TypeScript",
+    "HTML",
+    "Remix",
+    "Tailwind CSS",
+    "Vue.js",
+    "Git",
+    "Figma",
+    "ESLint",
+    "Jest",
+    "Playwright",
+    "MongoDB",
+    "IndexedDB",
+    "Supabase",
+    "Firebase",
+    "PostgreSQL",
+    "AWS Amplify",
+    "Render",
+    "Cloudflare Pages",
+    "Progressive Web Apps",
+    "Component-Driven Development",
+    "Responsive Design",
+    "Agile"
+  ],
+  "companies": [
+    "Nvidia",
+    "CodeCraft Studios"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "McGill University",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 441,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:41:00.948553",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

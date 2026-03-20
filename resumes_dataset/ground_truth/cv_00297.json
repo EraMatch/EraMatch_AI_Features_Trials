@@ -1,0 +1,350 @@
+{
+  "full_name": "Elijah Montes",
+  "email": "elijah.montes@gmail.com",
+  "location": "Lake Meganville, France",
+  "years_of_experience": 6.3,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Elijah Montes",
+    "email": "elijah.montes@gmail.com",
+    "phone": "871.583.4404",
+    "location": "Lake Meganville, France",
+    "linkedin_url": "https://linkedin.com/in/elijah-montes",
+    "github_url": "https://github.com/elijahmontes",
+    "portfolio_url": null
+  },
+  "summary": "Senior devops / sre / mlops engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Bash, YAML, Crossplane with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2025-07",
+      "end_date": "Present",
+      "duration": "2025-07 – Present",
+      "duration_months": 8,
+      "description": "Created monitoring and alerting system using Oracle Cloud, reducing MTTR by 61%\nImplemented container orchestration using CircleCI, managing 100000+ containers\nCreated monitoring and alerting system using TorchServe, reducing MTTR by 50%\nOptimized cloud infrastructure using Azure, reducing costs by 66%",
+      "technologies": [
+        "CircleCI",
+        "Azure",
+        "Oracle Cloud",
+        "TorchServe"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-02",
+      "end_date": "2025-06",
+      "duration": "2023-02 – 2025-06",
+      "duration_months": 28,
+      "description": "Established chaos engineering practices using Ansible, improving system resilience\nDesigned and implemented infrastructure as code using Opsgenie, managing 100+ servers\nImplemented container orchestration using MLOps, managing 5000+ containers",
+      "technologies": [
+        "Opsgenie",
+        "MLOps",
+        "Ansible"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2021-12",
+      "end_date": "2022-09",
+      "duration": "2021-12 – 2022-09",
+      "duration_months": 9,
+      "description": "Built automated backup solution using MLOps, ensuring 1000% data protection\nOptimized cloud infrastructure using Zero Trust, reducing costs by 68%\nImplemented security scanning using TorchServe, identifying 10000+ vulnerabilities",
+      "technologies": [
+        "YAML",
+        "Tekton",
+        "MLOps",
+        "HCL",
+        "TorchServe",
+        "Zero Trust"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2019-03",
+      "end_date": "2021-10",
+      "duration": "2019-03 – 2021-10",
+      "duration_months": 31,
+      "description": "Established GitOps workflows using Platform Engineering, improving deployment frequency by 65%\nOptimized cloud infrastructure using Kubeflow, reducing costs by 41%",
+      "technologies": [
+        "Kubeflow",
+        "Rust",
+        "Python",
+        "Platform Engineering"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2019",
+      "gpa": "3.84",
+      "activities": "Linux Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Built Secrets Management with Bash and YAML, serving 10,000+ daily active users",
+      "technologies": [
+        "Bash",
+        "YAML",
+        "Kubeflow"
+      ],
+      "url": "https://github.com/elijahmontes/token-bucket-limiter",
+      "date": "2024"
+    },
+    {
+      "name": "Task Scheduler",
+      "description": "Designed and implemented Kubernetes Cluster with Seldon, integrating with YAML for seamless data flow",
+      "technologies": [
+        "Bash",
+        "YAML",
+        "Seldon"
+      ],
+      "url": "https://github.com/elijahmontes/task-scheduler",
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Cloud Professional Cloud Engineer",
+      "issuer": "Google",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — MLH 2019",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Front attack song little decide somebody prepare few sound item\" — ACM 2021",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Google DevFest 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "YAML",
+    "Crossplane",
+    "Helm",
+    "K3s",
+    "Istio",
+    "Podman",
+    "GitHub Actions",
+    "CircleCI",
+    "Azure DevOps",
+    "Grafana",
+    "VictoriaMetrics",
+    "Azure",
+    "Oracle Cloud",
+    "AWS",
+    "Alibaba Cloud",
+    "Seldon",
+    "Kubeflow",
+    "MLflow",
+    "TorchServe",
+    "Kale",
+    "Incident Management",
+    "GitOps",
+    "Infrastructure as Code",
+    "Zero Trust",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "DeployFast",
+    "PipelineIO",
+    "Supabase",
+    "Block"
+  ],
+  "job_titles": [
+    "MLOps Engineer",
+    "Platform Engineer",
+    "SRE",
+    "MLOps Engineer"
+  ],
+  "universities": [
+    "EPFL"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 297,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:47.088949",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

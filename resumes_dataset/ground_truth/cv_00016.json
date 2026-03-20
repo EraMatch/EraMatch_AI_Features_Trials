@@ -1,0 +1,316 @@
+{
+  "full_name": "Allison Doyle",
+  "email": "allison.doyle@yahoo.com",
+  "location": "Lake Jamesmouth, Japan",
+  "years_of_experience": 9.2,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Allison Doyle",
+    "email": "allison.doyle@yahoo.com",
+    "phone": "563-542-1607x33754",
+    "location": "Lake Jamesmouth, Japan",
+    "linkedin_url": "https://linkedin.com/in/allison-doyle",
+    "github_url": "https://github.com/allisondoyle",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in devops / sre / mlops with expertise in Rust, YAML, HCL. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2023-05",
+      "end_date": "Present",
+      "duration": "2023-05 – Present",
+      "duration_months": 34,
+      "description": "Implemented container orchestration using Tekton, managing 1000+ containers\nImplemented log aggregation using Argo Workflows, processing 100+ logs/day",
+      "technologies": [
+        "Tekton",
+        "Argo Workflows",
+        "Kubernetes",
+        "CloudFormation",
+        " Triton Inference Server"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2019-03",
+      "end_date": "2023-04",
+      "duration": "2019-03 – 2023-04",
+      "duration_months": 49,
+      "description": "Built automated backup solution using TorchServe, ensuring 10000% data protection\nImplemented container orchestration using GCP, managing 10000+ containers\nBuilt disaster recovery solution using  Triton Inference Server, achieving RTO of 123ms",
+      "technologies": [
+        "TorchServe",
+        "GCP",
+        "Pulumi",
+        " Triton Inference Server"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2016-10",
+      "end_date": "2019-01",
+      "duration": "2016-10 – 2019-01",
+      "duration_months": 27,
+      "description": "Created monitoring and alerting system using K3s, reducing MTTR by 62%\nDesigned and implemented infrastructure as code using Infrastructure as Code, managing 1000+ servers",
+      "technologies": [
+        "Buildah",
+        "K3s",
+        " Triton Inference Server",
+        "Prometheus",
+        "Infrastructure as Code"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "M.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "B.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Azure Administrator Associate",
+      "issuer": "Microsoft",
+      "date": "2020",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — Google DevFest 2023",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Open-source contributing",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — MLH 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "YAML",
+    "HCL",
+    "Crossplane",
+    "Ansible",
+    "Pulumi",
+    "Terraform",
+    "Docker",
+    "Istio",
+    "Envoy",
+    "Kubernetes",
+    "Azure DevOps",
+    "GitHub Actions",
+    "Argo Workflows",
+    "PagerDuty",
+    "Opsgenie",
+    "Datadog",
+    "AWS",
+    "DigitalOcean",
+    "TorchServe",
+    "Kubeflow",
+    "TensorFlow Serving",
+    "Chaos Engineering",
+    "Incident Management"
+  ],
+  "companies": [
+    "Confluent",
+    "Meta",
+    "TechFlow AI"
+  ],
+  "job_titles": [
+    "DevOps Engineer",
+    "Infrastructure Engineer",
+    "MLOps Engineer"
+  ],
+  "universities": [
+    "University of Edinburgh",
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 16,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:37:26.365576",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

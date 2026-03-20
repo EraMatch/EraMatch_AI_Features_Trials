@@ -1,0 +1,274 @@
+{
+  "full_name": "Joseph Jackson",
+  "email": "joseph.jackson@jackson.dev",
+  "location": "Welchshire, Netherlands",
+  "years_of_experience": 2.3,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Joseph Jackson",
+    "email": "joseph.jackson@jackson.dev",
+    "phone": "4554778487",
+    "location": "Welchshire, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/joseph-jackson",
+    "github_url": "https://github.com/josephjackson",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level backend engineering specialist with 2 years building production systems. Skilled in Go, Python, LangChain with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2023-11",
+      "end_date": "Present",
+      "duration": "2023-11 – Present",
+      "duration_months": 28,
+      "description": "Led migration from monolithic to microservices using GCP, improving system scalability by 40%\nOptimized database queries using Kafka, improving query performance by 69%",
+      "technologies": [
+        "Kafka",
+        "NestJS",
+        "FastAPI",
+        "GCP",
+        "Claude API",
+        "Anthropic"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "M.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "ACM Club"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.A.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2021",
+      "gpa": "3.47",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Health Check Service",
+      "description": "Created gRPC Services leveraging Go for core functionality and Python for optimization",
+      "technologies": [
+        "Go",
+        "Python",
+        "Flask"
+      ],
+      "url": "https://github.com/josephjackson/health-check-service",
+      "date": "2019"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Created Data Sync Platform leveraging Go for core functionality and Python for optimization",
+      "technologies": [
+        "Go",
+        "Python",
+        "Flask"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Mandarin (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Python",
+    "LangChain",
+    "Actix",
+    "NestJS",
+    "Flask",
+    "ASP.NET",
+    "Cassandra",
+    "SQLite",
+    "DynamoDB",
+    "GitHub Actions",
+    "RabbitMQ",
+    "Kubernetes",
+    "Heroku",
+    "Fly.io",
+    "GCP",
+    "AWS",
+    "Anthropic",
+    "Replicate",
+    "Agile",
+    "LLM Integration",
+    "Scrum",
+    "CI/CD"
+  ],
+  "companies": [
+    "Supabase"
+  ],
+  "job_titles": [
+    "Backend Developer"
+  ],
+  "universities": [
+    "TU Delft",
+    "TU Munich"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 201,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:59.095426",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

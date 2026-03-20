@@ -1,0 +1,318 @@
+{
+  "full_name": "James Jones",
+  "email": "james.jones@outlook.com",
+  "location": "Dominguezport, UK",
+  "years_of_experience": 7.4,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "James Jones",
+    "email": "james.jones@outlook.com",
+    "phone": "001-444-438-6125x9047",
+    "location": "Dominguezport, UK",
+    "linkedin_url": null,
+    "github_url": "https://github.com/jamesjones",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Node.js, PHP, and Java. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2025-04",
+      "end_date": "Present",
+      "duration": "2025-04 – Present",
+      "duration_months": 11,
+      "description": "Built automated CI/CD pipelines with Microservices, reducing deployment time by 32%\nDeveloped real-time data processing pipeline using Microservices, handling 5000+ messages/second\nBuilt event-driven architecture using ASP.NET, processing 100000+ events daily\nLed migration from monolithic to microservices using Cloudflare, improving system scalability by 25%",
+      "technologies": [
+        "Microservices",
+        "ASP.NET",
+        "Redis",
+        "Docker",
+        "Cloudflare"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2022-02",
+      "end_date": "2025-01",
+      "duration": "2022-02 – 2025-01",
+      "duration_months": 35,
+      "description": "Created authentication and authorization system using Agile, securing 5000+ user accounts\nMentored team of 5 junior developers on Redis best practices",
+      "technologies": [
+        "DigitalOcean",
+        "MongoDB",
+        "Agile",
+        "Java",
+        "Python",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2018-01",
+      "end_date": "2021-08",
+      "duration": "2018-01 – 2021-08",
+      "duration_months": 43,
+      "description": "Mentored team of 2 junior developers on Supabase best practices\nCreated authentication and authorization system using SQLite, securing 5000+ user accounts\nBuilt event-driven architecture using SQLite, processing 1000+ events daily\nBuilt automated CI/CD pipelines with SQLite, reducing deployment time by 40%",
+      "technologies": [
+        "Supabase",
+        "SQLite",
+        "Git",
+        "PHP",
+        "Nginx"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": "3.02",
+      "activities": "API Design Competition"
+    },
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartCache",
+      "description": "Implemented Search Engine using Node.js, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "FastAPI",
+        "LangChain",
+        "Node.js"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Created Auth Service leveraging PHP for core functionality and FastAPI for optimization",
+      "technologies": [
+        "PHP",
+        "FastAPI",
+        "FastAPI"
+      ],
+      "url": "https://github.com/jamesjones/deployment-dashboard",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Clark Ltd Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "PHP",
+    "Java",
+    "FastAPI",
+    "NestJS",
+    "FastAPI",
+    "LangChain",
+    "Cassandra",
+    "PlanetScale",
+    "Kafka",
+    "Ansible",
+    "Terraform",
+    "Cloudflare",
+    "Render",
+    "Railway",
+    "Vercel",
+    "Claude API",
+    "AWS Bedrock",
+    "RAG Architecture",
+    "Agile",
+    "CI/CD",
+    "LLM Integration",
+    "Scrum"
+  ],
+  "companies": [
+    "Datadog",
+    "Confluent",
+    "Quantum Edge"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "Server-Side Developer",
+    "API Developer"
+  ],
+  "universities": [
+    "University of Washington",
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 391,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:35.266928",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

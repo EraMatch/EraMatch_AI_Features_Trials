@@ -1,0 +1,290 @@
+{
+  "full_name": "Christopher Palmer",
+  "email": "christopher.palmer@gmail.com",
+  "location": "West Candice, Australia",
+  "years_of_experience": 10.4,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Christopher Palmer",
+    "email": "christopher.palmer@gmail.com",
+    "phone": "(406)248-4229x4057",
+    "location": "West Candice, Australia",
+    "linkedin_url": "https://linkedin.com/in/christopher-palmer",
+    "github_url": "https://github.com/christopherpalmer",
+    "portfolio_url": null
+  },
+  "summary": "Lead data science / ml / ai professional with 10 years driving technical strategy and team excellence. Expert in Go, Julia, Python with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Developed ML models using OpenCV, improving prediction accuracy by 19%\nImplemented A/B testing framework using OpenCV, running 10000+ experiments\nDeveloped data visualization tools using Pandas, used by 5000+ analysts\nDeveloped data visualization tools using OpenCV, used by 1000+ analysts",
+      "technologies": [
+        "OpenCV",
+        "MLflow",
+        "Keras",
+        "Bedrock",
+        "Pandas"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2021-04",
+      "end_date": "2023-08",
+      "duration": "2021-04 – 2023-08",
+      "duration_months": 28,
+      "description": "Created feature engineering pipeline using LangChain, reducing preprocessing time by 63%\nDeveloped data visualization tools using Polars, used by 1000+ analysts\nDeveloped computer vision models using LangChain, achieving 31% accuracy\nImplemented NLP solution using LightGBM, processing 500+ text documents daily",
+      "technologies": [
+        "Computer Vision",
+        "LangChain",
+        "Neptune",
+        "Polars",
+        "LightGBM"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2017-09",
+      "end_date": "2021-03",
+      "duration": "2017-09 – 2021-03",
+      "duration_months": 42,
+      "description": "Created feature engineering pipeline using Hugging Face Endpoints, reducing preprocessing time by 45%\nDesigned data warehousing solution using Computer Vision, enabling analytics on 100000+ records\nBuilt end-to-end ML pipeline using Computer Vision, processing 5000+ samples daily",
+      "technologies": [
+        "Databricks",
+        "Computer Vision",
+        "Hugging Face Endpoints",
+        "GCP Vertex AI",
+        "RAG"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2014-11",
+      "end_date": "2017-04",
+      "duration": "2014-11 – 2017-04",
+      "duration_months": 29,
+      "description": "Implemented NLP solution using A/B Testing, processing 1000+ text documents daily\nCreated recommendation system using Python, increasing user engagement by 15%",
+      "technologies": [
+        "A/B Testing",
+        "Spark",
+        "Python",
+        "Airflow"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "Ph.D.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Data Science Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Teaching coding workshops",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Past product make of group six fish detail contain attention measure\" — ICML 2023",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Daniels-Powell Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Julia",
+    "Python",
+    "Scala",
+    "PyTorch",
+    "Hugging Face",
+    "JAX",
+    "Weights & Biases",
+    "Airflow",
+    "Qdrant",
+    "Neo4j",
+    "Redshift",
+    "Snowflake",
+    "GCP Vertex AI",
+    "Hugging Face Endpoints",
+    "AWS SageMaker",
+    "Lambda Labs",
+    "Vector Databases",
+    "NLP"
+  ],
+  "companies": [
+    "DeployFast",
+    "Microsoft",
+    "Notion",
+    "Anthropic"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "AI Product Engineer",
+    "AI Product Engineer",
+    "NLP Engineer"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 172,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:44.645606",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

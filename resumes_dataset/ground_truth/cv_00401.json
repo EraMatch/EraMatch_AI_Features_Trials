@@ -1,0 +1,325 @@
+{
+  "full_name": "Robert Byrd",
+  "email": "robert.byrd@yahoo.com",
+  "location": "South Ashley, USA",
+  "years_of_experience": 7.9,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Robert Byrd",
+    "email": "robert.byrd@yahoo.com",
+    "phone": "+1-489-467-9240",
+    "location": "South Ashley, USA",
+    "linkedin_url": "https://linkedin.com/in/robert-byrd",
+    "github_url": "https://github.com/robertbyrd",
+    "portfolio_url": null
+  },
+  "summary": "Senior mobile development engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in Dart, Kotlin, Java with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Developed mobile application using TestFlight, achieving 500+ downloads\nOptimized app performance using Firebase, reducing battery consumption by 33%\nBuilt offline-first architecture using Firebase, improving app responsiveness by 44%\nImplemented push notification system using Offline-First, increasing user engagement by 34%",
+      "technologies": [
+        "TestFlight",
+        "Offline-First",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2019-04",
+      "end_date": "2022-02",
+      "duration": "2019-04 – 2022-02",
+      "duration_months": 34,
+      "description": "Created in-app purchase integration using Firebase Firestore, generating 1000+ in revenue\nImplemented deep linking using TestFlight, improving conversion rates by 25%",
+      "technologies": [
+        "TypeScript",
+        "Clean Architecture",
+        "Firebase Firestore",
+        "TestFlight",
+        "Core Data"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2017-10",
+      "end_date": "2019-03",
+      "duration": "2017-10 – 2019-03",
+      "duration_months": 17,
+      "description": "Developed mobile application using Android Studio, achieving 100+ downloads\nOptimized app performance using CI/CD for Mobile, reducing battery consumption by 62%",
+      "technologies": [
+        "CI/CD for Mobile",
+        "Android Studio",
+        "CocoaPods"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": "3.14",
+      "activities": "iOS Developer"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Designed Flutter App leveraging Expo microservices architecture with TypeScript for caching",
+      "technologies": [
+        "Kotlin",
+        "Expo",
+        "TypeScript"
+      ],
+      "url": "https://github.com/robertbyrd/pdf-parser-toolkit",
+      "date": "2023"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Designed and implemented Android Application with Jetpack Compose, integrating with Flutter for seamless data flow",
+      "technologies": [
+        "Flutter",
+        "Jetpack Compose",
+        "Expo"
+      ],
+      "url": "https://github.com/robertbyrd/deployment-dashboard",
+      "date": "2019"
+    },
+    {
+      "name": "Resume Parser",
+      "description": "Designed Android Application leveraging Jetpack Compose microservices architecture with React Native for caching",
+      "technologies": [
+        "Jetpack Compose",
+        "Expo",
+        "React Native"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Swedish (Basic)",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Apply rise window religious eat participant religious\" — ICML 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "Kotlin",
+    "Java",
+    "TypeScript",
+    "Swift",
+    "Expo",
+    "Flutter",
+    "SwiftUI",
+    "Jetpack Compose",
+    "React Native",
+    "Firebase",
+    "Android Studio",
+    "App Center",
+    "TestFlight",
+    "Core Data",
+    "Realm",
+    "SQLite",
+    "Firebase Firestore",
+    "Supabase",
+    "Firebase",
+    "RevenueCat",
+    "AWS Amplify",
+    "CI/CD for Mobile",
+    "Offline-First",
+    "MVVM"
+  ],
+  "companies": [
+    "Palantir",
+    "Airbnb",
+    "Twilio"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "Android Developer",
+    "Flutter Developer"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 401,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:40:40.242187",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

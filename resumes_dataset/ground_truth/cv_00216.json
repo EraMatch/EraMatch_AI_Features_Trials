@@ -1,0 +1,328 @@
+{
+  "full_name": "Joshua Garner",
+  "email": "joshua.garner@gmail.com",
+  "location": "East Melissa, Japan",
+  "years_of_experience": 5.8,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Joshua Garner",
+    "email": "joshua.garner@gmail.com",
+    "phone": "(277)660-0490x824",
+    "location": "East Melissa, Japan",
+    "linkedin_url": "https://linkedin.com/in/joshua-garner",
+    "github_url": "https://github.com/joshuagarner",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in HTML, Dart, and TypeScript. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": "2023-08 – Present",
+      "duration_months": 31,
+      "description": "Created accessible UI components using AWS Amplify, achieving WCAG AA compliance\nDeveloped responsive web applications using Firebase, improving page load time by 28%",
+      "technologies": [
+        "Firebase",
+        "TypeScript",
+        "AWS Amplify",
+        "Remix"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2022-06",
+      "end_date": "2023-04",
+      "duration": "2022-06 – 2023-04",
+      "duration_months": 10,
+      "description": "Implemented state management solution using CSS, reducing API calls by 54%\nCreated progressive web app using Python, increasing user engagement by 15%\nBuilt real-time collaboration features using Material UI, serving 500+ concurrent users\nIntegrated third-party APIs using Python, reducing integration time by 60%",
+      "technologies": [
+        "Material UI",
+        "Firebase",
+        "Python",
+        "Prettier",
+        "CSS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2019-11",
+      "end_date": "2022-04",
+      "duration": "2019-11 – 2022-04",
+      "duration_months": 29,
+      "description": "Implemented state management solution using Webpack, reducing API calls by 48%\nDeveloped responsive web applications using Jest, improving page load time by 66%\nBuilt real-time collaboration features using Webpack, serving 100000+ concurrent users\nIntegrated third-party APIs using Python, reducing integration time by 29%",
+      "technologies": [
+        "Python",
+        "Jest",
+        "Astro",
+        "Webpack",
+        "Vercel"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2018",
+      "gpa": "3.82",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Built Progressive Web App with Astro and Bootstrap, serving 10,000+ daily active users",
+      "technologies": [
+        "Bootstrap",
+        "JavaScript",
+        "Astro"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Built SPA Framework with Svelte and Bootstrap, serving 10,000+ daily active users",
+      "technologies": [
+        "Remix",
+        "Bootstrap",
+        "Svelte"
+      ],
+      "url": "https://github.com/joshuagarner/token-bucket-limiter",
+      "date": "2022"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Implemented Progressive Web App using Vue.js, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Dart",
+        "Vue.js",
+        "JavaScript"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Dutch (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Mandarin (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "Dart",
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "Remix",
+    "Astro",
+    "Bootstrap",
+    "Vue.js",
+    "Svelte",
+    "Storybook",
+    "Git",
+    "Jest",
+    "Supabase",
+    "Firebase",
+    "MongoDB",
+    "PostgreSQL",
+    "Netlify",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Component-Driven Development",
+    "Responsive Design",
+    "Agile",
+    "Accessibility (WCAG)",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "CodeReview.io",
+    "Airbnb",
+    "CodeReview.io"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "UI Engineer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 216,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:39:06.027162",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

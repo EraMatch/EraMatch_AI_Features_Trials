@@ -1,0 +1,309 @@
+{
+  "full_name": "Samuel Turner",
+  "email": "samuel.turner@protonmail.com",
+  "location": "Deborahmouth, Japan",
+  "years_of_experience": 10.3,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Samuel Turner",
+    "email": "samuel.turner@protonmail.com",
+    "phone": "001-627-508-6688x263",
+    "location": "Deborahmouth, Japan",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Bash, Python, and C. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2022-05",
+      "end_date": "Present",
+      "duration": "2022-05 – Present",
+      "duration_months": 46,
+      "description": "Designed zero-trust architecture using Burp Suite, securing 50000+ endpoints\nCreated security awareness training using MongoDB, reducing phishing clicks by 44%\nDesigned zero-trust architecture using Nmap, securing 5000+ endpoints",
+      "technologies": [
+        "MongoDB",
+        "Python",
+        "Burp Suite",
+        "PowerShell",
+        "Nmap"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2020-08",
+      "end_date": "2022-01",
+      "duration": "2020-08 – 2022-01",
+      "duration_months": 17,
+      "description": "Conducted penetration testing using MongoDB, identifying 1000+ vulnerabilities\nBuilt secure CI/CD pipeline using Incident Response, preventing 1000+ security issues\nCreated security awareness training using Incident Response, reducing phishing clicks by 30%\nImplemented security monitoring using MongoDB, detecting 500+ threats",
+      "technologies": [
+        "MongoDB",
+        "Redis",
+        "Incident Response"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2018-02",
+      "end_date": "2020-02",
+      "duration": "2018-02 – 2020-02",
+      "duration_months": 24,
+      "description": "Built incident response automation using Bash, reducing recovery time by 66%\nBuilt incident response automation using Nessus, reducing recovery time by 39%",
+      "technologies": [
+        "SOC2 Compliance",
+        "PowerShell",
+        "Nessus",
+        "Bash",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2014-07",
+      "end_date": "2017-08",
+      "duration": "2014-07 – 2017-08",
+      "duration_months": 37,
+      "description": "Developed threat intelligence platform using SOC2 Compliance, tracking 100000+ threats\nCreated security awareness training using OWASP Top 10, reducing phishing clicks by 21%",
+      "technologies": [
+        "Snort",
+        "SAST/DAST",
+        "SOC2 Compliance",
+        "OWASP Top 10",
+        "Burp Suite"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "Ph.D.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Ethical Hacking Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Built Security Compliance Tool with Bash and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "Bash",
+        "Python",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CompTIA Security+",
+      "issuer": "CompTIA",
+      "date": "2023",
+      "credential_id": "DR51YR83"
+    },
+    {
+      "name": "AWS Certified Security Specialty",
+      "issuer": "Amazon Web Services",
+      "date": "2025",
+      "credential_id": "MZ99WL01"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Powers, Robinson and Clark Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Turner-Stout Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — Company Internal 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "Python",
+    "C",
+    "PowerShell",
+    "Rust",
+    "Metasploit",
+    "Snort",
+    "Wireshark",
+    "Trivy",
+    "CrowdStrike",
+    "PostgreSQL",
+    "Elasticsearch",
+    "Redis",
+    "MongoDB",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "Zero Trust Architecture",
+    "OWASP Top 10"
+  ],
+  "companies": [
+    "Airbnb",
+    "TechFlow AI",
+    "HashiCorp",
+    "Microsoft"
+  ],
+  "job_titles": [
+    "Security Architect",
+    "SOC Analyst",
+    "AppSec Engineer",
+    "Security Architect"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 97,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:38:07.529630",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

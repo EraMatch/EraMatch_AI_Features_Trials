@@ -1,0 +1,326 @@
+{
+  "full_name": "Michael Fuentes",
+  "email": "michael.fuentes@fuentes.dev",
+  "location": "Port Tanyaside, Australia",
+  "years_of_experience": 5.2,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Michael Fuentes",
+    "email": "michael.fuentes@fuentes.dev",
+    "phone": "(872)843-4266x17979",
+    "location": "Port Tanyaside, Australia",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in devops / sre / mlops with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Python, Go, Ansible.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-06",
+      "end_date": "Present",
+      "duration": "2022-06 – Present",
+      "duration_months": 45,
+      "description": "Established GitOps workflows using Pulumi, improving deployment frequency by 34%\nOptimized cloud infrastructure using Pulumi, reducing costs by 28%",
+      "technologies": [
+        "Docker",
+        "Podman",
+        "Pulumi"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2021-05",
+      "end_date": "2021-12",
+      "duration": "2021-05 – 2021-12",
+      "duration_months": 7,
+      "description": "Created self-service provisioning portal using Chaos Engineering, serving 100+ engineers\nCreated self-service provisioning portal using DigitalOcean, serving 1000+ engineers\nEstablished chaos engineering practices using SRE Practices, improving system resilience\nImplemented security scanning using Argo Workflows, identifying 5000+ vulnerabilities",
+      "technologies": [
+        "Chaos Engineering",
+        "Argo Workflows",
+        "DigitalOcean",
+        "SRE Practices",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2020-02",
+      "end_date": "2020-12",
+      "duration": "2020-02 – 2020-12",
+      "duration_months": 10,
+      "description": "Built automated backup solution using Prometheus, ensuring 10000% data protection\nBuilt disaster recovery solution using Prometheus, achieving RTO of 308ms",
+      "technologies": [
+        "GCP",
+        "Envoy",
+        "Podman",
+        "Prometheus"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2019",
+      "gpa": "3.26",
+      "activities": "Linux Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Designed and implemented Secrets Management with CDK, integrating with Python for seamless data flow",
+      "technologies": [
+        "Python",
+        "Go",
+        "CDK"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "ChatBot Framework",
+      "description": "Built Kubernetes Cluster with Python and PagerDuty, serving 10,000+ daily active users",
+      "technologies": [
+        "Python",
+        "Go",
+        "PagerDuty"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Created GitOps Workflow leveraging Go for core functionality and Python for optimization",
+      "technologies": [
+        "Python",
+        "Go",
+        "Python"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — IEEE 2019",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Technical blogging",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Go",
+    "Ansible",
+    "CDK",
+    "CloudFormation",
+    "Terraform",
+    "Envoy",
+    "Istio",
+    "Linkerd",
+    "Kubernetes",
+    "K3s",
+    "Azure DevOps",
+    "Argo Workflows",
+    "Grafana",
+    "Prometheus",
+    "Thanos",
+    "Datadog",
+    "PagerDuty",
+    "Linode",
+    "Oracle Cloud",
+    "Seldon",
+    "Kubeflow",
+    "Infrastructure as Code",
+    "Chaos Engineering",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "Meta",
+    "SkillBridge",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "SRE",
+    "DevOps Engineer"
+  ],
+  "universities": [
+    "EPFL"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 110,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:14.418028",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

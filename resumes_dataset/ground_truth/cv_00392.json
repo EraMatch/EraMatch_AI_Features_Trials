@@ -1,0 +1,290 @@
+{
+  "full_name": "Matthew Cox",
+  "email": "matthew.cox@cox.dev",
+  "location": "North Tinamouth, Netherlands",
+  "years_of_experience": 5.3,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Matthew Cox",
+    "email": "matthew.cox@cox.dev",
+    "phone": "001-912-466-2015",
+    "location": "North Tinamouth, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/matthew-cox",
+    "github_url": "https://github.com/matthewcox",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Java, Rust, TypeScript.",
+  "work_experience": [
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Designed and implemented message queue system using RAG Architecture, processing 100+ messages/hour\nCreated authentication and authorization system using Node.js, securing 100+ user accounts\nBuilt event-driven architecture using Heroku, processing 100000+ events daily\nDesigned and implemented microservices architecture using Heroku, handling 5000+ concurrent users",
+      "technologies": [
+        "RAG Architecture",
+        "Node.js",
+        "Heroku"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2020-05",
+      "end_date": "2022-01",
+      "duration": "2020-05 – 2022-01",
+      "duration_months": 20,
+      "description": "Built automated CI/CD pipelines with Nginx, reducing deployment time by 36%\nReduced infrastructure costs by 34% through optimization using GraphQL\nReduced infrastructure costs by 45% through optimization using Supabase",
+      "technologies": [
+        "Redis",
+        "Supabase",
+        "Nginx",
+        "GraphQL",
+        "GCP",
+        "FastAPI"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Teaching Assistant - Data Structures"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Portuguese (Professional)",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Turkish (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "Rust",
+    "TypeScript",
+    "C#",
+    "Node.js",
+    "Spring Boot",
+    "Gin",
+    "NestJS",
+    "LangChain",
+    "Django",
+    "PostgreSQL",
+    "CockroachDB",
+    "MongoDB",
+    "GitHub Actions",
+    "ArgoCD",
+    "DigitalOcean",
+    "Fly.io",
+    "AWS",
+    "Render",
+    "GCP",
+    "Hugging Face",
+    "AWS Bedrock",
+    "Anthropic",
+    "LLM Integration",
+    "GraphQL",
+    "Agile",
+    "REST API Design",
+    "Event-Driven Architecture"
+  ],
+  "companies": [
+    "Shopify",
+    "Confluent"
+  ],
+  "job_titles": [
+    "Backend Developer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "University of Michigan"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 392,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:35.904212",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

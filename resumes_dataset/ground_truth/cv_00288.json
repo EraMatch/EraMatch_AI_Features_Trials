@@ -1,0 +1,316 @@
+{
+  "full_name": "Pamela Rice",
+  "email": "pamela.rice@rice.dev",
+  "location": "East Maryfurt, Japan",
+  "years_of_experience": 8.7,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Pamela Rice",
+    "email": "pamela.rice@rice.dev",
+    "phone": "001-434-928-0138x759",
+    "location": "East Maryfurt, Japan",
+    "linkedin_url": "https://linkedin.com/in/pamela-rice",
+    "github_url": null,
+    "portfolio_url": "https://pamelarice.dev"
+  },
+  "summary": "Lead frontend engineering professional with 9 years driving technical strategy and team excellence. Expert in CSS, HTML, Python with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2025-02",
+      "end_date": "Present",
+      "duration": "2025-02 – Present",
+      "duration_months": 13,
+      "description": "Created progressive web app using HTML, increasing user engagement by 41%\nBuilt reusable component library using Cypress, used by 5000+ developers",
+      "technologies": [
+        "Cypress",
+        "HTML",
+        "Angular",
+        "Render",
+        "Supabase",
+        "JavaScript"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2021-08",
+      "end_date": "2025-02",
+      "duration": "2021-08 – 2025-02",
+      "duration_months": 42,
+      "description": "Improved website accessibility score to 40% using Responsive Design\nDeveloped responsive web applications using Responsive Design, improving page load time by 49%\nImplemented state management solution using Dart, reducing API calls by 38%\nCreated accessible UI components using Dart, achieving WCAG AA compliance",
+      "technologies": [
+        "Dart",
+        "JavaScript",
+        "Responsive Design"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2017-12",
+      "end_date": "2021-07",
+      "duration": "2017-12 – 2021-07",
+      "duration_months": 43,
+      "description": "Improved website accessibility score to 51% using Cypress\nBuilt reusable component library using Cloudflare Pages, used by 50000+ developers\nDeveloped responsive web applications using Jest, improving page load time by 38%",
+      "technologies": [
+        "Cypress",
+        "Cloudflare Pages",
+        "Jest",
+        "Next.js"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2017-03",
+      "end_date": "2017-09",
+      "duration": "2017-03 – 2017-09",
+      "duration_months": 6,
+      "description": "Implemented state management solution using Material UI, reducing API calls by 69%\nImproved website accessibility score to 40% using Vue.js",
+      "technologies": [
+        "Material UI",
+        "Vercel",
+        "Vue.js",
+        "Progressive Web Apps",
+        "Render",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Google Developer Group"
+    },
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "B.A.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Parser",
+      "description": "Developed Dashboard Application using Dart, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Dart",
+        "Python",
+        "HTML"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Drone building",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "HTML",
+    "Python",
+    "Dart",
+    "Svelte",
+    "Astro",
+    "Figma",
+    "Jest",
+    "Webpack",
+    "Playwright",
+    "Prettier",
+    "Firebase",
+    "PostgreSQL",
+    "IndexedDB",
+    "MongoDB",
+    "Cloudflare Pages",
+    "AWS Amplify",
+    "Vercel",
+    "Netlify",
+    "Render",
+    "Responsive Design",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "OpenAI",
+    "DataPulse",
+    "InfraCore",
+    "OpenAI"
+  ],
+  "job_titles": [
+    "React Developer",
+    "React Developer",
+    "UI Engineer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "Tsinghua University",
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 288,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:39:42.454641",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

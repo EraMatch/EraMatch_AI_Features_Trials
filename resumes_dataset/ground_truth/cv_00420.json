@@ -1,0 +1,345 @@
+{
+  "full_name": "Darrell Cruz",
+  "email": "darrell.cruz@gmail.com",
+  "location": "West Sandraland, Netherlands",
+  "years_of_experience": 16.1,
+  "seniority_level": "principal",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Darrell Cruz",
+    "email": "darrell.cruz@gmail.com",
+    "phone": "(343)761-7213x145",
+    "location": "West Sandraland, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/darrell-cruz",
+    "github_url": "https://github.com/darrellcruz",
+    "portfolio_url": "https://darrellcruz.dev"
+  },
+  "summary": "Executive-level technology leader with extensive background in backend engineering. Expertise in Ruby, Go, C# with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2021-09",
+      "end_date": "Present",
+      "duration": "2021-09 – Present",
+      "duration_months": 54,
+      "description": "Mentored team of 8 junior developers on Heroku best practices\nMentored team of 7 junior developers on Heroku best practices",
+      "technologies": [
+        "LlamaIndex",
+        "Heroku",
+        "FastAPI",
+        "RabbitMQ",
+        "Railway",
+        "TDD"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2019-09",
+      "end_date": "2021-08",
+      "duration": "2019-09 – 2021-08",
+      "duration_months": 23,
+      "description": "Led migration from monolithic to microservices using Node.js, improving system scalability by 55%\nLed migration from monolithic to microservices using Node.js, improving system scalability by 28%\nDesigned and implemented message queue system using Elasticsearch, processing 10000+ messages/hour\nReduced infrastructure costs by 64% through optimization using Elasticsearch",
+      "technologies": [
+        "SQLite",
+        "Node.js",
+        "Elasticsearch"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2016-06",
+      "end_date": "2019-08",
+      "duration": "2016-06 – 2019-08",
+      "duration_months": 38,
+      "description": "Optimized database queries using Helm, improving query performance by 66%\nReduced infrastructure costs by 47% through optimization using Helm\nArchitected and built RESTful APIs serving 1000+ requests/day using NestJS, reducing response time by 39%",
+      "technologies": [
+        "LlamaIndex",
+        "Agile",
+        "NestJS",
+        "Helm"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2014-01",
+      "end_date": "2016-04",
+      "duration": "2014-01 – 2016-04",
+      "duration_months": 27,
+      "description": "Designed and implemented microservices architecture using DigitalOcean, handling 100+ concurrent users\nArchitected and built RESTful APIs serving 500+ requests/day using REST API Design, reducing response time by 50%",
+      "technologies": [
+        "REST API Design",
+        "TypeScript",
+        "DigitalOcean",
+        "Flask",
+        "Claude API",
+        "Actix"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2009-10",
+      "end_date": "2014-01",
+      "duration": "2009-10 – 2014-01",
+      "duration_months": 51,
+      "description": "Developed real-time data processing pipeline using Hugging Face, handling 100+ users/second\nBuilt automated CI/CD pipelines with Hugging Face, reducing deployment time by 37%\nDesigned and implemented microservices architecture using Ruby, handling 50000+ concurrent users",
+      "technologies": [
+        "GitHub Actions",
+        "Hugging Face",
+        "Ruby"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2008",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Page concern most outside quickly\" — ArXiv 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Ruby",
+    "Go",
+    "C#",
+    "Node.js",
+    "Rails",
+    "Actix",
+    "Spring Boot",
+    "Flask",
+    "LlamaIndex",
+    "CockroachDB",
+    "DynamoDB",
+    "PostgreSQL",
+    "Redis",
+    "Kubernetes",
+    "Nginx",
+    "GitHub Actions",
+    "Git",
+    "AWS",
+    "DigitalOcean",
+    "Cloudflare",
+    "AWS Bedrock",
+    "Anthropic",
+    "Claude API",
+    "Google Gemini",
+    "OpenAI API",
+    "Agile",
+    "TDD"
+  ],
+  "companies": [
+    "TechFlow AI",
+    "ParseLab",
+    "TechFlow AI",
+    "Figma",
+    "DataPulse"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Software Engineer",
+    "Backend Developer",
+    "LLM Engineer",
+    "API Developer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 420,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:49.852280",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

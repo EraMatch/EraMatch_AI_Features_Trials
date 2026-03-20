@@ -1,0 +1,298 @@
+{
+  "full_name": "Andrew Campbell",
+  "email": "andrew.campbell@protonmail.com",
+  "location": "West Natasha, Australia",
+  "years_of_experience": 12.5,
+  "seniority_level": "principal",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Andrew Campbell",
+    "email": "andrew.campbell@protonmail.com",
+    "phone": "001-210-674-0650",
+    "location": "West Natasha, Australia",
+    "linkedin_url": "https://linkedin.com/in/andrew-campbell",
+    "github_url": "https://github.com/andrewcampbell",
+    "portfolio_url": "https://andrewcampbell.dev"
+  },
+  "summary": "Distinguished technologist with 12 years shaping frontend engineering practice. Deep expertise in TypeScript, JavaScript, Dart and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 – Present",
+      "duration_months": 30,
+      "description": "Implemented state management solution using Vue.js, reducing API calls by 51%\nImplemented automated testing framework using CSS, achieving 29% code coverage",
+      "technologies": [
+        "CSS",
+        "Vercel",
+        "Vue.js",
+        "IndexedDB"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2021-11",
+      "end_date": "2023-07",
+      "duration": "2021-11 – 2023-07",
+      "duration_months": 20,
+      "description": "Built interactive data visualizations using AWS Amplify, serving 50000+ daily users\nImplemented automated testing framework using React, achieving 48% code coverage\nCreated accessible UI components using Next.js, achieving WCAG AA compliance",
+      "technologies": [
+        "Render",
+        "AWS Amplify",
+        "React",
+        "Next.js"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2017-10",
+      "end_date": "2021-08",
+      "duration": "2017-10 – 2021-08",
+      "duration_months": 46,
+      "description": "Created progressive web app using Responsive Design, increasing user engagement by 27%\nOptimized frontend bundle size using Figma, reducing load time by 52%\nIntegrated third-party APIs using Figma, reducing integration time by 57%\nImplemented state management solution using AWS Amplify, reducing API calls by 66%",
+      "technologies": [
+        "Figma",
+        "Firebase",
+        "Responsive Design",
+        "AWS Amplify"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2013-04",
+      "end_date": "2017-10",
+      "duration": "2013-04 – 2017-10",
+      "duration_months": 54,
+      "description": "Created accessible UI components using Agile, achieving WCAG AA compliance\nIntegrated third-party APIs using React, reducing integration time by 23%\nIntegrated third-party APIs using Agile, reducing integration time by 64%",
+      "technologies": [
+        "Agile",
+        "React",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2014",
+      "gpa": "3.01",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataPipe CLI",
+      "description": "Created E-commerce Platform leveraging Remix for core functionality and TypeScript for optimization",
+      "technologies": [
+        "Tailwind CSS",
+        "Remix",
+        "TypeScript"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Program shoulder choice beat establish you culture one ball\" — ACM 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "JavaScript",
+    "Dart",
+    "CSS",
+    "Tailwind CSS",
+    "Remix",
+    "Astro",
+    "Vue.js",
+    "Bootstrap",
+    "Figma",
+    "Jest",
+    "PostgreSQL",
+    "Firebase",
+    "Supabase",
+    "Vercel",
+    "Render",
+    "Component-Driven Development",
+    "Agile",
+    "Responsive Design"
+  ],
+  "companies": [
+    "Microsoft",
+    "Airbnb",
+    "Twilio",
+    "Palantir"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "React Developer",
+    "Frontend Developer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "EPFL"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 461,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:41:09.938939",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

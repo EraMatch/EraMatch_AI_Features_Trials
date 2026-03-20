@@ -1,0 +1,293 @@
+{
+  "full_name": "James Wiley",
+  "email": "james.wiley@protonmail.com",
+  "location": "Brittanyfort, Singapore",
+  "years_of_experience": 10.8,
+  "seniority_level": "lead",
+  "primary_domain": "QA / Testing",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "James Wiley",
+    "email": "james.wiley@protonmail.com",
+    "phone": "545-918-7053x4949",
+    "location": "Brittanyfort, Singapore",
+    "linkedin_url": "https://linkedin.com/in/james-wiley",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in qa / testing with expertise in Java, Ruby, Appium. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "QA Lead",
+      "title": "QA Lead",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 – Present",
+      "duration_months": 24,
+      "description": "Developed API testing framework using Performance Testing, testing 100000+ endpoints\nBuilt accessibility testing using Java, ensuring compliance for 50000+ pages",
+      "technologies": [
+        "Java",
+        "Performance Testing",
+        "MySQL",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "QA Lead",
+      "title": "QA Lead",
+      "start_date": "2022-01",
+      "end_date": "2024-02",
+      "duration": "2022-01 – 2024-02",
+      "duration_months": 25,
+      "description": "Built accessibility testing using TestNG, ensuring compliance for 100000+ pages\nDeveloped API testing framework using AWS, testing 5000+ endpoints\nCreated test data management using CI/CD Testing, generating 5000+ test records",
+      "technologies": [
+        "BDD",
+        "CI/CD Testing",
+        "TestNG",
+        "AWS",
+        "PyTest",
+        "SoapUI"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "QA Engineer",
+      "title": "QA Engineer",
+      "start_date": "2017-09",
+      "end_date": "2021-07",
+      "duration": "2017-09 – 2021-07",
+      "duration_months": 46,
+      "description": "Implemented CI/CD testing using JUnit, catching 500+ defects pre-production\nImplemented shift-left testing using JUnit, reducing bug escape rate by 54%\nDeveloped BDD framework using JUnit, writing 50000+ scenarios\nCreated test data management using MySQL, generating 50000+ test records",
+      "technologies": [
+        "MySQL",
+        "JUnit",
+        "Performance Testing"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "SDET",
+      "title": "SDET",
+      "start_date": "2014-05",
+      "end_date": "2017-04",
+      "duration": "2014-05 – 2017-04",
+      "duration_months": 35,
+      "description": "Built accessibility testing using Test Automation, ensuring compliance for 1000+ pages\nBuilt mobile testing automation using JUnit, testing on 500+ devices",
+      "technologies": [
+        "Git",
+        "JUnit",
+        "Test Automation"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "M.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Software Testing"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Appium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sauce Labs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Postman",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Security Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTest",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "TestNG",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Designed and implemented API Testing with Appium, integrating with Ruby for seamless data flow",
+      "technologies": [
+        "Appium",
+        "Java",
+        "Ruby"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "DataPipe CLI",
+      "description": "Designed Test Automation Framework leveraging Appium microservices architecture with Ruby for caching",
+      "technologies": [
+        "Appium",
+        "Java",
+        "Ruby"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Created Accessibility Testing leveraging Java for core functionality and Playwright for optimization",
+      "technologies": [
+        "Java",
+        "Playwright",
+        "Ruby"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Learning new languages",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "Ruby",
+    "Appium",
+    "Playwright",
+    "Sauce Labs",
+    "Postman",
+    "Git",
+    "Docker",
+    "MySQL",
+    "PostgreSQL",
+    "Azure",
+    "AWS",
+    "GCP",
+    "CI/CD Testing",
+    "BDD",
+    "Security Testing"
+  ],
+  "companies": [
+    "Twilio",
+    "Spotify",
+    "Microsoft",
+    "Microsoft"
+  ],
+  "job_titles": [
+    "QA Lead",
+    "QA Lead",
+    "QA Engineer",
+    "SDET"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 129,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:38:23.887109",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "full_name": "Holly Walker",
+  "email": "holly.walker@protonmail.com",
+  "location": "New Seanstad, Japan",
+  "years_of_experience": 8.3,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Holly Walker",
+    "email": "holly.walker@protonmail.com",
+    "phone": "(572)579-5687",
+    "location": "New Seanstad, Japan",
+    "linkedin_url": "https://linkedin.com/in/holly-walker",
+    "github_url": "https://github.com/hollywalker",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Rust, TypeScript, and Go. 8 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2021-11",
+      "end_date": "Present",
+      "duration": "2021-11 – Present",
+      "duration_months": 52,
+      "description": "Designed and implemented message queue system using C#, processing 50000+ messages/hour\nDeveloped real-time data processing pipeline using Event-Driven Architecture, handling 5000+ documents/second",
+      "technologies": [
+        "CI/CD",
+        "C#",
+        "Supabase",
+        "Event-Driven Architecture"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2020-11",
+      "end_date": "2021-05",
+      "duration": "2020-11 – 2021-05",
+      "duration_months": 6,
+      "description": "Built event-driven architecture using Hugging Face, processing 5000+ events daily\nDesigned and implemented microservices architecture using Render, handling 5000+ concurrent users\nReduced infrastructure costs by 28% through optimization using Hugging Face",
+      "technologies": [
+        "LlamaIndex",
+        "GraphQL",
+        "Hugging Face",
+        "Azure OpenAI",
+        "Render",
+        "Scrum"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2017-01",
+      "end_date": "2020-07",
+      "duration": "2017-01 – 2020-07",
+      "duration_months": 42,
+      "description": "Architected and built RESTful APIs serving 5000+ requests/day using FastAPI, reducing response time by 42%\nBuilt automated CI/CD pipelines with MongoDB, reducing deployment time by 27%\nImplemented caching layer with MongoDB, reducing database load by 41%\nOptimized database queries using MongoDB, improving query performance by 70%",
+      "technologies": [
+        "FastAPI",
+        "Replicate",
+        "MongoDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Teaching Assistant - Data Structures"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Podcasting",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Company Internal 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "TypeScript",
+    "Go",
+    "FastAPI",
+    "Gin",
+    "Cassandra",
+    "MongoDB",
+    "Elasticsearch",
+    "Kafka",
+    "RabbitMQ",
+    "AWS",
+    "Fly.io",
+    "Railway",
+    "Heroku",
+    "Claude API",
+    "Azure OpenAI",
+    "OpenAI API",
+    "Google Gemini",
+    "Anthropic",
+    "Agile",
+    "LLM Integration",
+    "Scrum"
+  ],
+  "companies": [
+    "Amazon",
+    "Tesla",
+    "DeployFast"
+  ],
+  "job_titles": [
+    "Backend Developer",
+    "Backend Developer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 90,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:03.860051",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

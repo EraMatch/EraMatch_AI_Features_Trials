@@ -1,0 +1,275 @@
+{
+  "full_name": "Sarah Phelps",
+  "email": "sarah.phelps@protonmail.com",
+  "location": "South Tiffanyville, India",
+  "years_of_experience": 5.6,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sarah Phelps",
+    "email": "sarah.phelps@protonmail.com",
+    "phone": "+1-665-578-0913",
+    "location": "South Tiffanyville, India",
+    "linkedin_url": "https://linkedin.com/in/sarah-phelps",
+    "github_url": "https://github.com/sarahphelps",
+    "portfolio_url": null
+  },
+  "summary": "Senior cybersecurity engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Bash, Rust, C with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2025-06",
+      "end_date": "Present",
+      "duration": "2025-06 – Present",
+      "duration_months": 9,
+      "description": "Designed zero-trust architecture using Snort, securing 50000+ endpoints\nCreated vulnerability management program using Redis, reducing CVEs by 18%",
+      "technologies": [
+        "Suricata",
+        "OWASP ZAP",
+        "Nessus",
+        "Redis",
+        "Splunk",
+        "Snort"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2021-02",
+      "end_date": "2025-01",
+      "duration": "2021-02 – 2025-01",
+      "duration_months": 47,
+      "description": "Created vulnerability management program using Incident Response, reducing CVEs by 22%\nImplemented encryption solution using Figma, protecting 10000+ records\nImplemented security monitoring using Hashicorp Vault, detecting 50000+ threats",
+      "technologies": [
+        "Incident Response",
+        "AWS Security Hub",
+        "Hashicorp Vault"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2019-11",
+      "end_date": "2020-10",
+      "duration": "2019-11 – 2020-10",
+      "duration_months": 11,
+      "description": "Built security automation using SOC2 Compliance, reducing incident response time by 30%\nBuilt incident response automation using C, reducing recovery time by 30%\nImplemented SIEM solution using Rust, processing 100+ logs/day\nDeveloped threat intelligence platform using Rust, tracking 50000+ threats",
+      "technologies": [
+        "C",
+        "Rust",
+        "Burp Suite",
+        "SOC2 Compliance",
+        "SonarQube"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.57",
+      "activities": "Security Research"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — Google DevFest 2022",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — Company Internal 2019",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Coach federal ahead food argue grow issue each include\" — ArXiv 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "Rust",
+    "C",
+    "Python",
+    "Snort",
+    "Burp Suite",
+    "Nmap",
+    "Trivy",
+    "Wireshark",
+    "SonarQube",
+    "Nessus",
+    "PostgreSQL",
+    "Redis",
+    "Elasticsearch",
+    "MongoDB",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "Incident Response",
+    "Threat Modeling",
+    "Zero Trust Architecture"
+  ],
+  "companies": [
+    "Nvidia",
+    "Confluent",
+    "Confluent"
+  ],
+  "job_titles": [
+    "SOC Analyst",
+    "Security Architect",
+    "AppSec Engineer"
+  ],
+  "universities": [
+    "Imperial College London"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 41,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:37:39.270347",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

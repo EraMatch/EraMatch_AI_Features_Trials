@@ -1,0 +1,303 @@
+{
+  "full_name": "Courtney Lynn",
+  "email": "courtney.lynn@outlook.com",
+  "location": "North Georgefurt, Germany",
+  "years_of_experience": 9.6,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Courtney Lynn",
+    "email": "courtney.lynn@outlook.com",
+    "phone": "628-649-7185",
+    "location": "North Georgefurt, Germany",
+    "linkedin_url": "https://linkedin.com/in/courtney-lynn",
+    "github_url": "https://github.com/courtneylynn",
+    "portfolio_url": null
+  },
+  "summary": "Lead cybersecurity professional with 10 years driving technical strategy and team excellence. Expert in PowerShell, C, Go with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2023-04",
+      "end_date": "Present",
+      "duration": "2023-04 – Present",
+      "duration_months": 35,
+      "description": "Created security awareness training using Nessus, reducing phishing clicks by 50%\nDeveloped threat intelligence platform using Nessus, tracking 100+ threats\nBuilt incident response automation using Nessus, reducing recovery time by 58%\nConducted penetration testing using Nessus, identifying 1000+ vulnerabilities",
+      "technologies": [
+        "SonarQube",
+        "Splunk",
+        "Nessus"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2018-11",
+      "end_date": "2023-02",
+      "duration": "2018-11 – 2023-02",
+      "duration_months": 51,
+      "description": "Developed threat intelligence platform using Metasploit, tracking 1000+ threats\nBuilt secure CI/CD pipeline using Metasploit, preventing 1000+ security issues\nBuilt incident response automation using Bash, reducing recovery time by 60%\nCreated security awareness training using Redis, reducing phishing clicks by 59%",
+      "technologies": [
+        "Zero Trust Architecture",
+        "Redis",
+        "OWASP Top 10",
+        "Bash",
+        "Metasploit",
+        "Suricata"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2016-01",
+      "end_date": "2018-06",
+      "duration": "2016-01 – 2018-06",
+      "duration_months": 29,
+      "description": "Built secure CI/CD pipeline using PowerShell, preventing 100000+ security issues\nCreated security awareness training using PowerShell, reducing phishing clicks by 21%",
+      "technologies": [
+        "Metasploit",
+        "Python",
+        "PowerShell",
+        "Hashicorp Vault",
+        "Snort"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "B.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2014",
+      "gpa": "3.05",
+      "activities": "CTF Team"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Code Review Bot",
+      "description": "Built Threat Intelligence Feed using PowerShell and C, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "C",
+        "OWASP ZAP",
+        "PowerShell"
+      ],
+      "url": "https://github.com/courtneylynn/code-review-bot",
+      "date": "2022"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Created Security Audit System leveraging Snort for core functionality and Suricata for optimization",
+      "technologies": [
+        "Snort",
+        "Suricata",
+        "Python"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Feature Store",
+      "description": "Developed Threat Intelligence Feed using PowerShell, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "PowerShell",
+        "OWASP ZAP",
+        "Snort"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PowerShell",
+    "C",
+    "Go",
+    "Python",
+    "Suricata",
+    "OWASP ZAP",
+    "Snort",
+    "Nessus",
+    "Wireshark",
+    "MongoDB",
+    "Redis",
+    "Elasticsearch",
+    "PostgreSQL",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "SAST/DAST",
+    "OWASP Top 10",
+    "Incident Response",
+    "Threat Modeling",
+    "Zero Trust Architecture"
+  ],
+  "companies": [
+    "Google",
+    "ResumeAI",
+    "DataPulse"
+  ],
+  "job_titles": [
+    "SOC Analyst",
+    "Penetration Tester",
+    "AppSec Engineer"
+  ],
+  "universities": [
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 400,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:40:39.816321",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

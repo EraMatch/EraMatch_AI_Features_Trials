@@ -1,0 +1,305 @@
+{
+  "full_name": "Ruben Huff",
+  "email": "ruben.huff@outlook.com",
+  "location": "Travishaven, Brazil",
+  "years_of_experience": 7.5,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ruben Huff",
+    "email": "ruben.huff@outlook.com",
+    "phone": "(721)911-7908x075",
+    "location": "Travishaven, Brazil",
+    "linkedin_url": "https://linkedin.com/in/ruben-huff",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in C++, TypeScript, and Kotlin. 8 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": "2023-07 – Present",
+      "duration_months": 32,
+      "description": "Developed mobile application using TestFlight, achieving 1000+ downloads\nBuilt offline-first architecture using Flutter, improving app responsiveness by 46%\nBuilt offline-first architecture using Flutter, improving app responsiveness by 57%",
+      "technologies": [
+        "Firebase",
+        "Clean Architecture",
+        "TestFlight",
+        "Core Data",
+        "Flutter"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2021-03",
+      "end_date": "2023-02",
+      "duration": "2021-03 – 2023-02",
+      "duration_months": 23,
+      "description": "Implemented biometric authentication using Flutter, securing 100000+ user accounts\nImplemented deep linking using Kotlin, improving conversion rates by 33%\nBuilt widget functionality using CI/CD for Mobile, increasing daily active users by 43%\nImplemented deep linking using Kotlin, improving conversion rates by 41%",
+      "technologies": [
+        "Flutter",
+        "Firebase Firestore",
+        "MVVM",
+        "Kotlin",
+        "CI/CD for Mobile"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2018-01",
+      "end_date": "2020-12",
+      "duration": "2018-01 – 2020-12",
+      "duration_months": 35,
+      "description": "Optimized app performance using App Store Optimization, reducing battery consumption by 33%\nDeveloped cross-platform solution using App Store Optimization, reducing development time by 53%\nBuilt offline-first architecture using Swift, improving app responsiveness by 43%\nImplemented biometric authentication using AWS Amplify, securing 1000+ user accounts",
+      "technologies": [
+        "App Store Optimization",
+        "Swift",
+        "AWS Amplify"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019",
+      "gpa": "3.39",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Google Associate Android Developer",
+      "issuer": "Google",
+      "date": "2020",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "French (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C++",
+    "TypeScript",
+    "Kotlin",
+    "Swift",
+    "Dart",
+    "UIKit",
+    "Jetpack Compose",
+    "React Native",
+    "SwiftUI",
+    "Expo",
+    "Gradle",
+    "CocoaPods",
+    "Firebase",
+    "App Center",
+    "Core Data",
+    "SQLite",
+    "RevenueCat",
+    "AWS Amplify",
+    "Firebase",
+    "Supabase",
+    "Clean Architecture",
+    "App Store Optimization",
+    "Offline-First",
+    "CI/CD for Mobile",
+    "MVVM"
+  ],
+  "companies": [
+    "Notion",
+    "Airbnb",
+    "Salesforce"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "iOS Developer",
+    "Android Developer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 193,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:38:54.873538",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

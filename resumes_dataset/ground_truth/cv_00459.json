@@ -1,0 +1,230 @@
+{
+  "full_name": "Tracie Wiley",
+  "email": "tracie.wiley@gmail.com",
+  "location": "South Laurashire, Netherlands",
+  "years_of_experience": 3.1,
+  "seniority_level": "mid",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Tracie Wiley",
+    "email": "tracie.wiley@gmail.com",
+    "phone": "+1-287-782-4556x96443",
+    "location": "South Laurashire, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/tracie-wiley",
+    "github_url": "https://github.com/traciewiley",
+    "portfolio_url": null
+  },
+  "summary": "Results-driven data science / ml / ai professional with 3 years of experience designing and implementing scalable solutions using MATLAB, Julia, Python. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 – Present",
+      "duration_months": 37,
+      "description": "Developed data visualization tools using Databricks, used by 100+ analysts\nDeveloped data visualization tools using Claude API, used by 100000+ analysts\nDeveloped ML models using Go, improving prediction accuracy by 50%\nDesigned data warehousing solution using Databricks, enabling analytics on 100+ records",
+      "technologies": [
+        "Go",
+        "Databricks",
+        "Claude API",
+        "Deep Learning"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "B.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2023",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Go",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Created Anomaly Detection System leveraging R for core functionality and Julia for optimization",
+      "technologies": [
+        "R",
+        "MATLAB",
+        "Julia"
+      ],
+      "url": "https://github.com/traciewiley/real-time-analytics-engine",
+      "date": "2022"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Developed BI Dashboard using R, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "R",
+        "Python",
+        "Julia"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Designed Data Warehouse leveraging R microservices architecture with MATLAB for caching",
+      "technologies": [
+        "R",
+        "Julia",
+        "MATLAB"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — MLH 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "MATLAB",
+    "Julia",
+    "Python",
+    "R",
+    "Hugging Face",
+    "LightGBM",
+    "Pandas",
+    "NumPy",
+    "Redshift",
+    "Pinecone",
+    "Databricks",
+    "AWS SageMaker",
+    "Azure ML",
+    "Lambda Labs",
+    "Vector Databases",
+    "Prompt Engineering"
+  ],
+  "companies": [
+    "Palantir"
+  ],
+  "job_titles": [
+    "ML Engineer"
+  ],
+  "universities": [
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 459,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:41:09.160721",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

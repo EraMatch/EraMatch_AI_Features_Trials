@@ -1,0 +1,310 @@
+{
+  "full_name": "Cameron Norman",
+  "email": "cameron.norman@yahoo.com",
+  "location": "South Micheleburgh, Singapore",
+  "years_of_experience": 7.1,
+  "seniority_level": "senior",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Cameron Norman",
+    "email": "cameron.norman@yahoo.com",
+    "phone": "910-756-4814x917",
+    "location": "South Micheleburgh, Singapore",
+    "linkedin_url": "https://linkedin.com/in/cameron-norman",
+    "github_url": "https://github.com/cameronnorman",
+    "portfolio_url": null
+  },
+  "summary": "Senior product management engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in JavaScript, Python, Confluence with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2024-10",
+      "end_date": "Present",
+      "duration": "2024-10 – Present",
+      "duration_months": 17,
+      "description": "Implemented A/B testing using Roadmunk, running 100+ experiments\nConducted user research using User Research, interviewing 100000+ users\nImplemented A/B testing using Jira, running 1000+ experiments\nImplemented A/B testing using Roadmunk, running 100+ experiments",
+      "technologies": [
+        "User Research",
+        "Miro",
+        "Jira",
+        "Roadmunk"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2021-03",
+      "end_date": "2024-04",
+      "duration": "2021-03 – 2024-04",
+      "duration_months": 37,
+      "description": "Developed product roadmap using Productboard, prioritizing 1000+ features\nImplemented A/B testing using Tableau, running 100+ experiments\nLed product development using SQL, launching features used by 5000+ users\nLed product launches using Tableau, achieving 5000+ signups",
+      "technologies": [
+        "Azure",
+        "Productboard",
+        "Tableau",
+        "SQL",
+        "Jira"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2018-05",
+      "end_date": "2020-12",
+      "duration": "2018-05 – 2020-12",
+      "duration_months": 31,
+      "description": "Implemented user onboarding using Miro, improving retention by 29%\nDeveloped product roadmap using Miro, prioritizing 10000+ features\nLed product launches using Miro, achieving 100000+ signups\nCreated product backlog using Azure, managing 500+ user stories",
+      "technologies": [
+        "Hotjar",
+        "SQL",
+        "Azure",
+        "Miro",
+        "JavaScript"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": "3.10",
+      "activities": null
+    },
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "B.A.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OKRs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmap Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Health Check Service",
+      "description": "Implemented User Research using JavaScript, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "JavaScript",
+        "Confluence",
+        "Python"
+      ],
+      "url": "https://github.com/cameronnorman/health-check-service",
+      "date": "2021"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Designed and implemented Release Planning with JavaScript, integrating with Python for seamless data flow",
+      "technologies": [
+        "Productboard",
+        "Python",
+        "JavaScript"
+      ],
+      "url": "https://github.com/cameronnorman/smartcache",
+      "date": "2022"
+    },
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Designed Product Backlog leveraging JavaScript microservices architecture with Python for caching",
+      "technologies": [
+        "Confluence",
+        "JavaScript",
+        "Python"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CSPO - Certified Scrum Product Owner",
+      "issuer": "Scrum Alliance",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Moore-Ayala Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Purpose boy scientist able teach activity animal hair turn condition\" — CVPR 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Python",
+    "Confluence",
+    "Productboard",
+    "Google Analytics",
+    "Tableau",
+    "Hotjar",
+    "BigQuery",
+    "Snowflake",
+    "MySQL",
+    "PostgreSQL",
+    "GCP",
+    "Azure",
+    "AWS",
+    "A/B Testing",
+    "Agile",
+    "OKRs",
+    "Roadmap Planning",
+    "Scrum"
+  ],
+  "companies": [
+    "InfraCore",
+    "Microsoft",
+    "Twilio"
+  ],
+  "job_titles": [
+    "Product Owner",
+    "Product Manager",
+    "Product Manager"
+  ],
+  "universities": [
+    "University of Washington",
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 127,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:38:22.483596",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

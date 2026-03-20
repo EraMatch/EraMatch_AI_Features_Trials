@@ -1,0 +1,296 @@
+{
+  "full_name": "Bradley Walton",
+  "email": "bradley.walton@protonmail.com",
+  "location": "Richardsonfort, UAE",
+  "years_of_experience": 5.2,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Bradley Walton",
+    "email": "bradley.walton@protonmail.com",
+    "phone": "978-853-9078x9567",
+    "location": "Richardsonfort, UAE",
+    "linkedin_url": "https://linkedin.com/in/bradley-walton",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior devops / sre / mlops engineer with 5 years of experience architecting and delivering enterprise solutions. Expert in HCL, YAML, PowerShell with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-01",
+      "end_date": "Present",
+      "duration": "2023-01 – Present",
+      "duration_months": 38,
+      "description": "Built automated backup solution using Azure, ensuring 100% data protection\nEstablished GitOps workflows using Kubeflow, improving deployment frequency by 63%",
+      "technologies": [
+        "Kubeflow",
+        "Azure",
+        "GitLab CI",
+        "Opsgenie"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2021-01",
+      "end_date": "2023-01",
+      "duration": "2021-01 – 2023-01",
+      "duration_months": 24,
+      "description": "Established GitOps workflows using Hetzner, improving deployment frequency by 27%\nImplemented security scanning using GitLab CI, identifying 500+ vulnerabilities\nEstablished GitOps workflows using MLflow, improving deployment frequency by 15%\nBuilt disaster recovery solution using DigitalOcean, achieving RTO of 230ms",
+      "technologies": [
+        "MLflow",
+        "DigitalOcean",
+        "GitLab CI",
+        "Platform Engineering",
+        "Hetzner",
+        "TensorFlow Serving"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "B.A.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2021",
+      "gpa": "3.62",
+      "activities": "Cloud Computing Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Developed Container Registry using YAML, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "HCL",
+        "YAML",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Designed Chaos Engineering Framework leveraging PowerShell microservices architecture with YAML for caching",
+      "technologies": [
+        "YAML",
+        "HCL",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "French (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Playing guitar",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HCL",
+    "YAML",
+    "PowerShell",
+    "CDK",
+    "Helm",
+    "Terraform",
+    "Envoy",
+    "Skopeo",
+    "Buildah",
+    "GitLab CI",
+    "Jenkins",
+    "ELK Stack",
+    "Prometheus",
+    "PagerDuty",
+    "VictoriaMetrics",
+    "Grafana",
+    "GCP",
+    "AWS",
+    "Alibaba Cloud",
+    "Hetzner",
+    "MLflow",
+    "TorchServe",
+    "Infrastructure as Code",
+    "Zero Trust",
+    "MLOps"
+  ],
+  "companies": [
+    "SkillBridge",
+    "Microsoft"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Release Engineer"
+  ],
+  "universities": [
+    "UIUC"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 359,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:19.209354",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

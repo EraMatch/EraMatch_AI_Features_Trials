@@ -1,0 +1,246 @@
+{
+  "full_name": "Christina Morales",
+  "email": "christina.morales@outlook.com",
+  "location": "New Jamesmouth, Netherlands",
+  "years_of_experience": 3.8,
+  "seniority_level": "mid",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Christina Morales",
+    "email": "christina.morales@outlook.com",
+    "phone": "+1-687-882-0829x737",
+    "location": "New Jamesmouth, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/christina-morales",
+    "github_url": "https://github.com/christinamorales",
+    "portfolio_url": "https://christinamorales.dev"
+  },
+  "summary": "Results-driven product management professional with 4 years of experience designing and implementing scalable solutions using JavaScript, SQL, R. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Technical PM",
+      "title": "Technical PM",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Led agile product development using User Research, delivering 1000+ sprints\nBuilt customer feedback system using Google Analytics, collecting 50000+ insights\nDeveloped OKR tracking using R, achieving 46% of quarterly goals",
+      "technologies": [
+        "Google Analytics",
+        "User Research",
+        "R"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2021-12",
+      "end_date": "2023-07",
+      "duration": "2021-12 – 2023-07",
+      "duration_months": 19,
+      "description": "Led agile product development using AWS, delivering 50000+ sprints\nLed product development using Tableau, launching features used by 100000+ users\nLed product development using AWS, launching features used by 100000+ users",
+      "technologies": [
+        "Tableau",
+        "Agile",
+        "AWS",
+        "Amplitude"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Product Club"
+    },
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.A.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Notion",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmunk",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zoom",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mixpanel",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Amplitude",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — ACM 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "SQL",
+    "R",
+    "Python",
+    "Jira",
+    "Notion",
+    "Roadmunk",
+    "Confluence",
+    "Tableau",
+    "Google Analytics",
+    "Zoom",
+    "Mixpanel",
+    "Snowflake",
+    "BigQuery",
+    "PostgreSQL",
+    "MySQL",
+    "GCP",
+    "AWS",
+    "User Research",
+    "Agile"
+  ],
+  "companies": [
+    "ResumeAI",
+    "Vercel"
+  ],
+  "job_titles": [
+    "Technical PM",
+    "Product Owner"
+  ],
+  "universities": [
+    "Purdue University",
+    "MIT"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 298,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:39:47.617705",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

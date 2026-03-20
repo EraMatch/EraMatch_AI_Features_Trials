@@ -1,0 +1,315 @@
+{
+  "full_name": "Lance Kirby",
+  "email": "lance.kirby@protonmail.com",
+  "location": "East Catherine, Canada",
+  "years_of_experience": 18.1,
+  "seniority_level": "executive",
+  "primary_domain": "General IT",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Lance Kirby",
+    "email": "lance.kirby@protonmail.com",
+    "phone": "+1-472-446-6572x93417",
+    "location": "East Catherine, Canada",
+    "linkedin_url": "https://linkedin.com/in/lance-kirby",
+    "github_url": null,
+    "portfolio_url": "https://lancekirby.dev"
+  },
+  "summary": "Principal general it architect with 18+ years defining technical strategy for enterprise transformations. Subject matter expert in VBA, PowerShell, SharePoint.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "IT Specialist",
+      "title": "IT Specialist",
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": "2024-09 – Present",
+      "duration_months": 18,
+      "description": "Implemented patch management using Nagios, patching 5000+ systems\nManaged cloud infrastructure using Nagios, optimizing costs by 43%\nBuilt automation scripts using Incident Management, saving 18+ hours/month",
+      "technologies": [
+        "Incident Management",
+        "Nagios",
+        "Active Directory",
+        "SQL",
+        "Docker"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Network Administrator",
+      "title": "Network Administrator",
+      "start_date": "2019-11",
+      "end_date": "2024-05",
+      "duration": "2019-11 – 2024-05",
+      "duration_months": 54,
+      "description": "Built monitoring dashboards using Python, tracking 100+ metrics\nCreated IT documentation using Python, serving 500+ employees\nImplemented patch management using Azure, patching 50000+ systems\nBuilt monitoring dashboards using Nagios, tracking 50000+ metrics",
+      "technologies": [
+        "Nagios",
+        "Python",
+        "Network Security",
+        "Azure"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "IT Support Engineer",
+      "title": "IT Support Engineer",
+      "start_date": "2015-12",
+      "end_date": "2019-09",
+      "duration": "2015-12 – 2019-09",
+      "duration_months": 45,
+      "description": "Built automation scripts using Exchange, saving 12+ hours/month\nManaged Windows/Active Directory infrastructure using Bash, supporting 100000+ users\nImplemented patch management using Zabbix, patching 500+ systems\nProvided tier-2/3 support using Intune, resolving 5000+ complex issues",
+      "technologies": [
+        "Intune",
+        "Exchange",
+        "AWS",
+        "Office 365",
+        "Bash",
+        "Zabbix"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "IT Support Engineer",
+      "title": "IT Support Engineer",
+      "start_date": "2011-09",
+      "end_date": "2015-09",
+      "duration": "2011-09 – 2015-09",
+      "duration_months": 48,
+      "description": "Built automation scripts using SharePoint, saving 20+ hours/month\nBuilt monitoring dashboards using Docker, tracking 100000+ metrics\nImplemented patch management using Intune, patching 5000+ systems",
+      "technologies": [
+        "Intune",
+        "Azure",
+        "Docker",
+        "Google Workspace",
+        "SharePoint",
+        "Incident Management"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "System Administrator",
+      "title": "System Administrator",
+      "start_date": "2006-12",
+      "end_date": "2011-04",
+      "duration": "2006-12 – 2011-04",
+      "duration_months": 52,
+      "description": "Implemented patch management using SolarWinds, patching 50000+ systems\nCreated network monitoring using Ansible, detecting 500+ incidents",
+      "technologies": [
+        "Ansible",
+        "PostgreSQL",
+        "SolarWinds",
+        "Azure"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2006",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "VBA",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SharePoint",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Active Directory",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Office 365",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure AD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Change Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Network Security",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ITIL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "System Administration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Designed Patch Management leveraging Exchange microservices architecture with SharePoint for caching",
+      "technologies": [
+        "SharePoint",
+        "Exchange",
+        "VBA"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Soldier wall management doctor news\" — ACM 2020",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Howard LLC Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "VBA",
+    "PowerShell",
+    "SharePoint",
+    "Exchange",
+    "Active Directory",
+    "Office 365",
+    "Ansible",
+    "Azure AD",
+    "Docker",
+    "PostgreSQL",
+    "MySQL",
+    "SQL Server",
+    "AWS",
+    "Azure",
+    "Google Workspace",
+    "Change Management",
+    "Network Security",
+    "ITIL",
+    "System Administration"
+  ],
+  "companies": [
+    "Supabase",
+    "HashiCorp",
+    "Block",
+    "VectorDB Inc",
+    "Twilio"
+  ],
+  "job_titles": [
+    "IT Specialist",
+    "Network Administrator",
+    "IT Support Engineer",
+    "IT Support Engineer",
+    "System Administrator"
+  ],
+  "universities": [
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 324,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:40:00.858047",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

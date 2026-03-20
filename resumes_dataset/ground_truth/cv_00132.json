@@ -1,0 +1,297 @@
+{
+  "full_name": "Jenna Decker",
+  "email": "jenna.decker@decker.dev",
+  "location": "Martinezstad, Canada",
+  "years_of_experience": 4.4,
+  "seniority_level": "mid",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jenna Decker",
+    "email": "jenna.decker@decker.dev",
+    "phone": "957-743-1329x12127",
+    "location": "Martinezstad, Canada",
+    "linkedin_url": "https://linkedin.com/in/jenna-decker",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Mid-level mobile development specialist with 4 years building production systems. Skilled in TypeScript, Java, Swift with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2025-05",
+      "end_date": "Present",
+      "duration": "2025-05 – Present",
+      "duration_months": 10,
+      "description": "Built offline-first architecture using Firebase, improving app responsiveness by 55%\nOptimized app performance using Fastlane, reducing battery consumption by 17%\nBuilt widget functionality using UIKit, increasing daily active users by 28%\nImplemented push notification system using TypeScript, increasing user engagement by 35%",
+      "technologies": [
+        "Firebase",
+        "TypeScript",
+        "Fastlane",
+        "UIKit"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2024-07",
+      "end_date": "2025-01",
+      "duration": "2024-07 – 2025-01",
+      "duration_months": 6,
+      "description": "Optimized app performance using Android Studio, reducing battery consumption by 67%\nCreated in-app purchase integration using Android Studio, generating 1000+ in revenue\nBuilt AR/VR features using Android Studio, increasing user retention by 35%\nCreated app analytics tracking using Firebase Firestore, providing insights on 10000+ users",
+      "technologies": [
+        "Android Studio",
+        "C++",
+        "Xcode",
+        "Firebase Firestore"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2021-06",
+      "end_date": "2024-07",
+      "duration": "2021-06 – 2024-07",
+      "duration_months": 37,
+      "description": "Built offline-first architecture using CI/CD for Mobile, improving app responsiveness by 51%\nImplemented biometric authentication using UIKit, securing 5000+ user accounts",
+      "technologies": [
+        "App Center",
+        "Gradle",
+        "UIKit",
+        "CI/CD for Mobile",
+        "Dart",
+        "Xcode"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "Mobile Development Club"
+    },
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2020",
+      "gpa": "3.29",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Cooking",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Later leg system bed space fight\" — IEEE 2021",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Java",
+    "Swift",
+    "UIKit",
+    "React Native",
+    "Jetpack Compose",
+    "SwiftUI",
+    "Expo",
+    "CocoaPods",
+    "App Center",
+    "Fastlane",
+    "Core Data",
+    "Firebase Firestore",
+    "Hive",
+    "AWS Amplify",
+    "Supabase",
+    "RevenueCat",
+    "CI/CD for Mobile",
+    "Clean Architecture",
+    "Offline-First",
+    "MVVM",
+    "App Store Optimization"
+  ],
+  "companies": [
+    "SkillBridge",
+    "Vercel",
+    "ResumeAI"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "React Native Developer",
+    "iOS Developer"
+  ],
+  "universities": [
+    "UC Berkeley",
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 132,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:38:25.222911",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

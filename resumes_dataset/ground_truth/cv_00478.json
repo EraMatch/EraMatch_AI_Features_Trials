@@ -1,0 +1,301 @@
+{
+  "full_name": "Anthony Ayala",
+  "email": "anthony.ayala@gmail.com",
+  "location": "Milesside, Netherlands",
+  "years_of_experience": 8.2,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Anthony Ayala",
+    "email": "anthony.ayala@gmail.com",
+    "phone": "889.460.8706",
+    "location": "Milesside, Netherlands",
+    "linkedin_url": null,
+    "github_url": "https://github.com/anthonyayala",
+    "portfolio_url": null
+  },
+  "summary": "Lead cybersecurity professional with 8 years driving technical strategy and team excellence. Expert in Bash, C, Python with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 – Present",
+      "duration_months": 37,
+      "description": "Built incident response automation using Redis, reducing recovery time by 57%\nCreated security awareness training using OWASP ZAP, reducing phishing clicks by 16%",
+      "technologies": [
+        "OWASP ZAP",
+        "Redis",
+        "Azure Sentinel",
+        "Suricata"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2021-12",
+      "end_date": "2022-11",
+      "duration": "2021-12 – 2022-11",
+      "duration_months": 11,
+      "description": "Implemented SIEM solution using SOC2 Compliance, processing 500+ logs/day\nCreated security awareness training using Azure Sentinel, reducing phishing clicks by 64%\nCreated vulnerability management program using Incident Response, reducing CVEs by 17%\nBuilt secure CI/CD pipeline using Elasticsearch, preventing 100+ security issues",
+      "technologies": [
+        "Bash",
+        "Elasticsearch",
+        "Azure Sentinel",
+        "SOC2 Compliance",
+        "Incident Response"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2017-06",
+      "end_date": "2021-09",
+      "duration": "2017-06 – 2021-09",
+      "duration_months": 51,
+      "description": "Designed zero-trust architecture using Nmap, securing 500+ endpoints\nDeveloped threat intelligence platform using Nmap, tracking 1000+ threats\nImplemented security monitoring using Redis, detecting 100000+ threats",
+      "technologies": [
+        "Burp Suite",
+        "Zero Trust Architecture",
+        "Threat Modeling",
+        "SAST/DAST",
+        "Nmap",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": "2.94",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Config Manager",
+      "description": "Implemented Penetration Testing Framework using OWASP ZAP, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "OWASP ZAP",
+        "Python",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Break brother past tough goal gas\" — ACM 2022",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Allen Inc Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Arduino/IoT projects",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "C",
+    "Python",
+    "PowerShell",
+    "Rust",
+    "Sigma",
+    "Suricata",
+    "Snort",
+    "OWASP ZAP",
+    "Burp Suite",
+    "Splunk",
+    "Hashicorp Vault",
+    "Nessus",
+    "Trivy",
+    "MongoDB",
+    "PostgreSQL",
+    "Elasticsearch",
+    "Redis",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "Threat Modeling",
+    "SOC2 Compliance",
+    "SAST/DAST"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "Notion",
+    "Stripe"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "Penetration Tester",
+    "AppSec Engineer"
+  ],
+  "universities": [
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 478,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:41:18.293961",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

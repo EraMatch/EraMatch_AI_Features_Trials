@@ -1,0 +1,290 @@
+{
+  "full_name": "Stacey Walker",
+  "email": "stacey.walker@yahoo.com",
+  "location": "Burkeberg, UK",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Stacey Walker",
+    "email": "stacey.walker@yahoo.com",
+    "phone": "2898317342",
+    "location": "Burkeberg, UK",
+    "linkedin_url": "https://linkedin.com/in/stacey-walker",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior cybersecurity engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in PowerShell, Go, Burp Suite with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Created security awareness training using Splunk, reducing phishing clicks by 52%\nImplemented identity management using Sigma, securing 100000+ user identities\nCreated vulnerability management program using Bash, reducing CVEs by 53%",
+      "technologies": [
+        "Sigma",
+        "Splunk",
+        "Go",
+        "Bash",
+        "Trivy"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2018-02",
+      "end_date": "2022-01",
+      "duration": "2018-02 – 2022-01",
+      "duration_months": 47,
+      "description": "Created vulnerability management program using Suricata, reducing CVEs by 25%\nImplemented security monitoring using Suricata, detecting 100+ threats",
+      "technologies": [
+        "SAST/DAST",
+        "Suricata",
+        "Redis",
+        "Bash"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2017",
+      "gpa": "3.13",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Code Review Bot",
+      "description": "Created Threat Intelligence Feed leveraging OWASP ZAP for core functionality and Burp Suite for optimization",
+      "technologies": [
+        "Snort",
+        "OWASP ZAP",
+        "Burp Suite"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CISSP",
+      "issuer": "ISC2",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — Google DevFest 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PowerShell",
+    "Go",
+    "Burp Suite",
+    "Sigma",
+    "Metasploit",
+    "Snort",
+    "OWASP ZAP",
+    "Splunk",
+    "SonarQube",
+    "Nmap",
+    "Trivy",
+    "Nessus",
+    "PostgreSQL",
+    "Redis",
+    "MongoDB",
+    "Elasticsearch",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Threat Modeling",
+    "SAST/DAST",
+    "Zero Trust Architecture",
+    "OWASP Top 10",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "Confluent",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "Security Architect"
+  ],
+  "universities": [
+    "Tsinghua University",
+    "NUS"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 307,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:39:52.092075",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

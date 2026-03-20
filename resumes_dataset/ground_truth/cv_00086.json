@@ -1,0 +1,256 @@
+{
+  "full_name": "Cindy Clayton",
+  "email": "cindy.clayton@outlook.com",
+  "location": "South Markfort, Japan",
+  "years_of_experience": 5.6,
+  "seniority_level": "senior",
+  "primary_domain": "General IT",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Cindy Clayton",
+    "email": "cindy.clayton@outlook.com",
+    "phone": "584-221-9933x083",
+    "location": "South Markfort, Japan",
+    "linkedin_url": "https://linkedin.com/in/cindy-clayton",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior general it engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Bash, PowerShell, Python with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Help Desk Analyst",
+      "title": "Help Desk Analyst",
+      "start_date": "2024-07",
+      "end_date": "Present",
+      "duration": "2024-07 – Present",
+      "duration_months": 20,
+      "description": "Built automation scripts using SolarWinds, saving 19+ hours/month\nImplemented patch management using Hyper-V, patching 100+ systems",
+      "technologies": [
+        "Nagios",
+        "VBA",
+        "SQL Server",
+        "SolarWinds",
+        "Hyper-V",
+        "Azure"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Help Desk Analyst",
+      "title": "Help Desk Analyst",
+      "start_date": "2022-08",
+      "end_date": "2024-03",
+      "duration": "2022-08 – 2024-03",
+      "duration_months": 19,
+      "description": "Built automation scripts using Active Directory, saving 10+ hours/month\nCreated user training materials using Active Directory, training 100000+ employees",
+      "technologies": [
+        "Zabbix",
+        "Active Directory",
+        "Network Security"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "System Administrator",
+      "title": "System Administrator",
+      "start_date": "2020-02",
+      "end_date": "2022-06",
+      "duration": "2020-02 – 2022-06",
+      "duration_months": 28,
+      "description": "Implemented identity management using Docker, securing 10000+ accounts\nManaged Windows/Active Directory infrastructure using SharePoint, supporting 100+ users",
+      "technologies": [
+        "SharePoint",
+        "SolarWinds",
+        "Python",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "System Administration"
+    },
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SharePoint",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nagios",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VMware",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Change Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ITIL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Network Security",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Maldonado and Sons Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Game development as hobby",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Volunteering at local shelters",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "PowerShell",
+    "Python",
+    "SharePoint",
+    "Exchange",
+    "Nagios",
+    "VMware",
+    "Ansible",
+    "SQL Server",
+    "MySQL",
+    "PostgreSQL",
+    "AWS",
+    "Azure",
+    "Incident Management",
+    "Change Management",
+    "ITIL",
+    "Network Security"
+  ],
+  "companies": [
+    "HashiCorp",
+    "Cloudflare",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "Help Desk Analyst",
+    "Help Desk Analyst",
+    "System Administrator"
+  ],
+  "universities": [
+    "University of Edinburgh",
+    "University of Michigan"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 86,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:38:01.982293",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "full_name": "Thomas Keith",
+  "email": "thomas.keith@keith.dev",
+  "location": "Diazland, Germany",
+  "years_of_experience": 9.2,
+  "seniority_level": "lead",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Thomas Keith",
+    "email": "thomas.keith@keith.dev",
+    "phone": "4518844989",
+    "location": "Diazland, Germany",
+    "linkedin_url": "https://linkedin.com/in/thomas-keith",
+    "github_url": "https://github.com/thomaskeith",
+    "portfolio_url": null
+  },
+  "summary": "Lead product management professional with 9 years driving technical strategy and team excellence. Expert in SQL, R, JavaScript with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Senior Product Manager",
+      "title": "Senior Product Manager",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 – Present",
+      "duration_months": 42,
+      "description": "Led agile product development using R, delivering 5000+ sprints\nImplemented user onboarding using Snowflake, improving retention by 70%\nDeveloped product roadmap using Productboard, prioritizing 10000+ features",
+      "technologies": [
+        "Snowflake",
+        "Figma",
+        "Productboard",
+        "R"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2018-06",
+      "end_date": "2022-07",
+      "duration": "2018-06 – 2022-07",
+      "duration_months": 49,
+      "description": "Implemented user onboarding using Productboard, improving retention by 16%\nCreated product backlog using User Research, managing 1000+ user stories\nLed product launches using Productboard, achieving 50000+ signups\nImplemented A/B testing using Roadmunk, running 1000+ experiments",
+      "technologies": [
+        "User Research",
+        "Roadmunk",
+        "Productboard"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Senior Product Manager",
+      "title": "Senior Product Manager",
+      "start_date": "2016-10",
+      "end_date": "2018-05",
+      "duration": "2016-10 – 2018-05",
+      "duration_months": 19,
+      "description": "Built customer feedback system using Kanban, collecting 100000+ insights\nImplemented user onboarding using OKRs, improving retention by 53%\nLed product launches using OKRs, achieving 5000+ signups",
+      "technologies": [
+        "Hotjar",
+        "Kanban",
+        "Product Discovery",
+        "GCP",
+        "OKRs"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "M.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2014",
+      "gpa": "3.59",
+      "activities": "Product Club"
+    },
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "M.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2015",
+      "gpa": "3.99",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Aha!",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Notion",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmunk",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mixpanel",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zoom",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmap Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "OKRs",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Edge win development image stage generation society thought according think\" — ICML 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "R",
+    "JavaScript",
+    "Python",
+    "Aha!",
+    "Confluence",
+    "Notion",
+    "Roadmunk",
+    "Jira",
+    "Mixpanel",
+    "Figma",
+    "Tableau",
+    "Google Analytics",
+    "Zoom",
+    "BigQuery",
+    "MySQL",
+    "Snowflake",
+    "Azure",
+    "GCP",
+    "AWS",
+    "Roadmap Planning",
+    "Agile",
+    "Kanban"
+  ],
+  "companies": [
+    "Figma",
+    "Supabase",
+    "DeployFast"
+  ],
+  "job_titles": [
+    "Senior Product Manager",
+    "Product Owner",
+    "Senior Product Manager"
+  ],
+  "universities": [
+    "TU Munich",
+    "University of Toronto"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 181,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:38:48.914080",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "full_name": "Sandra Hines",
+  "email": "sandra.hines@gmail.com",
+  "location": "Hunterfurt, Canada",
+  "years_of_experience": 9.5,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sandra Hines",
+    "email": "sandra.hines@gmail.com",
+    "phone": "+1-365-877-2429x543",
+    "location": "Hunterfurt, Canada",
+    "linkedin_url": "https://linkedin.com/in/sandra-hines",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead mobile development professional with 10 years driving technical strategy and team excellence. Expert in Kotlin, Objective-C, Swift with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2024-02",
+      "end_date": "Present",
+      "duration": "2024-02 – Present",
+      "duration_months": 25,
+      "description": "Built AR/VR features using Offline-First, increasing user retention by 19%\nImplemented push notification system using Hive, increasing user engagement by 26%",
+      "technologies": [
+        "Gradle",
+        "Offline-First",
+        "Hive"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2020-06",
+      "end_date": "2024-02",
+      "duration": "2020-06 – 2024-02",
+      "duration_months": 44,
+      "description": "Created app analytics tracking using Fastlane, providing insights on 50000+ users\nImplemented push notification system using Xcode, increasing user engagement by 37%\nImplemented deep linking using Core Data, improving conversion rates by 16%\nImplemented push notification system using Fastlane, increasing user engagement by 54%",
+      "technologies": [
+        "Fastlane",
+        "Core Data",
+        "Xcode"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2016-03",
+      "end_date": "2019-12",
+      "duration": "2016-03 – 2019-12",
+      "duration_months": 45,
+      "description": "Created in-app purchase integration using Kotlin, generating 100000+ in revenue\nImplemented app streaming using Kotlin, reducing download size by 19%\nDeveloped mobile application using TypeScript, achieving 100+ downloads",
+      "technologies": [
+        "TypeScript",
+        "Expo",
+        "Kotlin",
+        "Core Data"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Flutter Community"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Apple Certified iOS App Developer",
+      "issuer": "Apple",
+      "date": "2020",
+      "credential_id": null
+    },
+    {
+      "name": "Google Associate Android Developer",
+      "issuer": "Google",
+      "date": "2020",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Russian (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "Objective-C",
+    "Swift",
+    "Flutter",
+    "UIKit",
+    "SwiftUI",
+    "React Native",
+    "Jetpack Compose",
+    "Android Studio",
+    "CocoaPods",
+    "App Center",
+    "Firebase Firestore",
+    "Hive",
+    "Firebase",
+    "Supabase",
+    "AWS Amplify",
+    "RevenueCat",
+    "CI/CD for Mobile",
+    "Clean Architecture",
+    "App Store Optimization",
+    "MVVM"
+  ],
+  "companies": [
+    "ModelShip",
+    "Twilio",
+    "DeployFast"
+  ],
+  "job_titles": [
+    "Flutter Developer",
+    "Android Developer",
+    "React Native Developer"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 306,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:51.567052",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

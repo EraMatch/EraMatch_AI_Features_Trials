@@ -1,0 +1,239 @@
+{
+  "full_name": "Michael Reynolds",
+  "email": "michael.reynolds@gmail.com",
+  "location": "West Stephanie, UK",
+  "years_of_experience": 3.8,
+  "seniority_level": "mid",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michael Reynolds",
+    "email": "michael.reynolds@gmail.com",
+    "phone": "(395)983-2197x19975",
+    "location": "West Stephanie, UK",
+    "linkedin_url": "https://linkedin.com/in/michael-reynolds",
+    "github_url": "https://github.com/michaelreynolds",
+    "portfolio_url": "https://michaelreynolds.dev"
+  },
+  "summary": "Experienced software engineer with expertise in Bash, Rust, and PowerShell. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2025-06",
+      "end_date": "Present",
+      "duration": "2025-06 – Present",
+      "duration_months": 9,
+      "description": "Implemented encryption solution using Angular, protecting 500+ records\nCreated security awareness training using SAST/DAST, reducing phishing clicks by 37%\nCreated vulnerability management program using MongoDB, reducing CVEs by 45%\nCreated security awareness training using Zero Trust Architecture, reducing phishing clicks by 40%",
+      "technologies": [
+        "Zero Trust Architecture",
+        "PostgreSQL",
+        "Elasticsearch",
+        "MongoDB",
+        "SAST/DAST"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2022-01",
+      "end_date": "2025-02",
+      "duration": "2022-01 – 2025-02",
+      "duration_months": 37,
+      "description": "Implemented encryption solution using Vue, protecting 100+ records\nBuilt security automation using Hashicorp Vault, reducing incident response time by 63%\nConducted penetration testing using AWS Security Hub, identifying 100+ vulnerabilities\nCreated vulnerability management program using Hashicorp Vault, reducing CVEs by 18%",
+      "technologies": [
+        "Hashicorp Vault",
+        "SonarQube",
+        "AWS Security Hub",
+        "Splunk",
+        "Rust"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "Ph.D.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "Cyber Defense Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "Rust",
+    "PowerShell",
+    "OWASP ZAP",
+    "Burp Suite",
+    "Snort",
+    "Sigma",
+    "SonarQube",
+    "Nmap",
+    "Wireshark",
+    "Nessus",
+    "CrowdStrike",
+    "PostgreSQL",
+    "Redis",
+    "Elasticsearch",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Incident Response",
+    "Zero Trust Architecture",
+    "OWASP Top 10"
+  ],
+  "companies": [
+    "PromptStack",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "Imperial College London"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 246,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:39:21.630304",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

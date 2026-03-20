@@ -1,0 +1,264 @@
+{
+  "full_name": "Cheryl Gregory",
+  "email": "cheryl.gregory@yahoo.com",
+  "location": "Simpsonhaven, Germany",
+  "years_of_experience": 7.9,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Cheryl Gregory",
+    "email": "cheryl.gregory@yahoo.com",
+    "phone": "001-689-348-7060x566",
+    "location": "Simpsonhaven, Germany",
+    "linkedin_url": "https://linkedin.com/in/cheryl-gregory",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior data science / ml / ai engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in Go, Julia, LightGBM with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2023-05",
+      "end_date": "Present",
+      "duration": "2023-05 – Present",
+      "duration_months": 34,
+      "description": "Developed computer vision models using Pinecone, achieving 29% accuracy\nDeveloped computer vision models using GCP Vertex AI, achieving 17% accuracy\nCreated recommendation system using A/B Testing, increasing user engagement by 47%\nBuilt real-time analytics dashboard using GCP Vertex AI, used by 100000+ stakeholders",
+      "technologies": [
+        "A/B Testing",
+        "GCP Vertex AI",
+        "Pinecone"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2019-11",
+      "end_date": "2022-12",
+      "duration": "2019-11 – 2022-12",
+      "duration_months": 37,
+      "description": "Created recommendation system using Databricks, increasing user engagement by 41%\nDeveloped data visualization tools using Lambda Labs, used by 5000+ analysts\nCreated feature engineering pipeline using XGBoost, reducing preprocessing time by 25%",
+      "technologies": [
+        "XGBoost",
+        "Databricks",
+        "Prompt Engineering",
+        "Keras",
+        "Lambda Labs",
+        "Deep Learning"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2017-11",
+      "end_date": "2019-11",
+      "duration": "2017-11 – 2019-11",
+      "duration_months": 24,
+      "description": "Created recommendation system using Dagster, increasing user engagement by 23%\nBuilt end-to-end ML pipeline using MLflow, processing 10000+ samples daily\nEstablished MLOps practices using Dagster, reducing model deployment time by 64%",
+      "technologies": [
+        "Weights & Biases",
+        "Scala",
+        "MLflow",
+        "Hugging Face",
+        "Dagster"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Analytics Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"This different everyone information large\" — IEEE 2020",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Hot free they space\" — CVPR 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Julia",
+    "LightGBM",
+    "Scikit-learn",
+    "LangChain",
+    "PyTorch",
+    "Neptune",
+    "Dagster",
+    "DVC",
+    "Airflow",
+    "NumPy",
+    "Weaviate",
+    "ChromaDB",
+    "Databricks",
+    "Databricks",
+    "Azure ML",
+    "Lambda Labs",
+    "Hugging Face Endpoints",
+    "Statistical Modeling",
+    "Deep Learning"
+  ],
+  "companies": [
+    "Anthropic",
+    "Block",
+    "ParseLab"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "AI Product Engineer",
+    "ML Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 346,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:40:12.556099",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

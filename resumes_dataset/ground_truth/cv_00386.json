@@ -1,0 +1,287 @@
+{
+  "full_name": "Nancy Gregory",
+  "email": "nancy.gregory@yahoo.com",
+  "location": "Catherineberg, Japan",
+  "years_of_experience": 8.9,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Nancy Gregory",
+    "email": "nancy.gregory@yahoo.com",
+    "phone": "397.869.1567",
+    "location": "Catherineberg, Japan",
+    "linkedin_url": "https://linkedin.com/in/nancy-gregory",
+    "github_url": "https://github.com/nancygregory",
+    "portfolio_url": null
+  },
+  "summary": "Lead frontend engineering professional with 9 years driving technical strategy and team excellence. Expert in Dart, CSS, TypeScript with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2024-08",
+      "end_date": "Present",
+      "duration": "2024-08 – Present",
+      "duration_months": 19,
+      "description": "Built interactive data visualizations using ESLint, serving 50000+ daily users\nDeveloped design system using Firebase, standardizing UI across 50000+ applications\nDeveloped design system using Firebase, standardizing UI across 50000+ applications",
+      "technologies": [
+        "Firebase",
+        "ESLint",
+        "Cypress"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2021-05",
+      "end_date": "2024-04",
+      "duration": "2021-05 – 2024-04",
+      "duration_months": 35,
+      "description": "Improved website accessibility score to 61% using Storybook\nDeveloped responsive web applications using AWS Amplify, improving page load time by 59%",
+      "technologies": [
+        "Supabase",
+        "Storybook",
+        "AWS Amplify",
+        "Render",
+        "CSS"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2016-10",
+      "end_date": "2021-03",
+      "duration": "2016-10 – 2021-03",
+      "duration_months": 53,
+      "description": "Developed responsive web applications using Netlify, improving page load time by 50%\nDeveloped design system using Netlify, standardizing UI across 500+ applications\nDeveloped design system using Firebase, standardizing UI across 50000+ applications\nCreated accessible UI components using Netlify, achieving WCAG AA compliance",
+      "technologies": [
+        "Remix",
+        "Astro",
+        "Netlify",
+        "Agile",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2016",
+      "gpa": "2.87",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built Mobile Web App with React and CSS, serving 10,000+ daily active users",
+      "technologies": [
+        "CSS",
+        "React",
+        "Svelte"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Korean (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "CSS",
+    "TypeScript",
+    "React",
+    "Angular",
+    "Svelte",
+    "Remix",
+    "Next.js",
+    "Git",
+    "ESLint",
+    "Supabase",
+    "IndexedDB",
+    "Cloudflare Pages",
+    "Netlify",
+    "AWS Amplify",
+    "Render",
+    "Vercel",
+    "Progressive Web Apps",
+    "Component-Driven Development",
+    "Agile",
+    "Responsive Design",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "PipelineIO",
+    "Notion",
+    "Amazon"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "UI Engineer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 386,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:32.970805",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

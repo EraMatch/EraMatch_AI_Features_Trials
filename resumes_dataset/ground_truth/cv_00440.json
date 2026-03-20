@@ -1,0 +1,350 @@
+{
+  "full_name": "Lori Green",
+  "email": "lori.green@yahoo.com",
+  "location": "New Patrickberg, France",
+  "years_of_experience": 9.9,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Lori Green",
+    "email": "lori.green@yahoo.com",
+    "phone": "+1-425-231-1060",
+    "location": "New Patrickberg, France",
+    "linkedin_url": "https://linkedin.com/in/lori-green",
+    "github_url": "https://github.com/lorigreen",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Rust, HCL, and Python. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Created self-service provisioning portal using Azure DevOps, serving 100+ engineers\nOptimized cloud infrastructure using Kale, reducing costs by 68%\nCreated monitoring and alerting system using Opsgenie, reducing MTTR by 20%\nBuilt CI/CD pipelines using Opsgenie, reducing deployment time from 4s to 499ms",
+      "technologies": [
+        "Kale",
+        "Opsgenie",
+        "Azure DevOps"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2020-01",
+      "end_date": "2021-11",
+      "duration": "2020-01 – 2021-11",
+      "duration_months": 22,
+      "description": "Established chaos engineering practices using PagerDuty, improving system resilience\nBuilt CI/CD pipelines using Tekton, reducing deployment time from 26s to 131ms",
+      "technologies": [
+        "Go",
+        "Tekton",
+        "Thanos",
+        "PagerDuty",
+        "Helm"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2018-07",
+      "end_date": "2020-01",
+      "duration": "2018-07 – 2020-01",
+      "duration_months": 18,
+      "description": "Designed and implemented infrastructure as code using Crossplane, managing 5000+ servers\nBuilt disaster recovery solution using Rust, achieving RTO of 100ms\nBuilt CI/CD pipelines using Crossplane, reducing deployment time from 21s to 471ms\nImplemented log aggregation using Crossplane, processing 100000+ logs/day",
+      "technologies": [
+        "Grafana",
+        "Tekton",
+        "Rust",
+        "Platform Engineering",
+        "Crossplane"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2015-07",
+      "end_date": "2018-03",
+      "duration": "2015-07 – 2018-03",
+      "duration_months": 32,
+      "description": "Established GitOps workflows using ArgoCD, improving deployment frequency by 63%\nCreated monitoring and alerting system using Oracle Cloud, reducing MTTR by 22%",
+      "technologies": [
+        "Oracle Cloud",
+        " Triton Inference Server",
+        "Jenkins",
+        "ArgoCD",
+        "Skopeo"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Linux Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Implemented GitOps Workflow using Python, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Rust",
+        "HCL",
+        "Python"
+      ],
+      "url": "https://github.com/lorigreen/real-time-analytics-engine",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — ACM 2021",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — MLH 2019",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Walters-Strickland Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "HCL",
+    "Python",
+    "CDK",
+    "Helm",
+    "ArgoCD",
+    "Docker",
+    "Linkerd",
+    "K3s",
+    "Envoy",
+    "Tekton",
+    "CircleCI",
+    "Argo Workflows",
+    "Grafana",
+    "PagerDuty",
+    "Datadog",
+    "GCP",
+    "AWS",
+    "Oracle Cloud",
+    "Alibaba Cloud",
+    "Linode",
+    " Triton Inference Server",
+    "TensorFlow Serving",
+    "Kale",
+    "Kubeflow",
+    "MLflow",
+    "Platform Engineering",
+    "SRE Practices"
+  ],
+  "companies": [
+    "Figma",
+    "ModelShip",
+    "InfraCore",
+    "Shopify"
+  ],
+  "job_titles": [
+    "SRE",
+    "DevOps Engineer",
+    "MLOps Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 440,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:41:00.348222",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

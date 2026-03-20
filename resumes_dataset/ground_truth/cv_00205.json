@@ -1,0 +1,318 @@
+{
+  "full_name": "Jason Floyd",
+  "email": "jason.floyd@gmail.com",
+  "location": "Lisatown, France",
+  "years_of_experience": 11.9,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Jason Floyd",
+    "email": "jason.floyd@gmail.com",
+    "phone": "457.505.1204x6187",
+    "location": "Lisatown, France",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead data science / ml / ai professional with 12 years driving technical strategy and team excellence. Expert in Python, Scala, SQL with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Built end-to-end ML pipeline using GCP Vertex AI, processing 100000+ samples daily\nDeveloped computer vision models using GCP Vertex AI, achieving 23% accuracy",
+      "technologies": [
+        "Neo4j",
+        "ChromaDB",
+        "GCP Vertex AI"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2019-06",
+      "end_date": "2022-06",
+      "duration": "2019-06 – 2022-06",
+      "duration_months": 36,
+      "description": "Created recommendation system using GCP Vertex AI, increasing user engagement by 32%\nCreated recommendation system using Neo4j, increasing user engagement by 34%\nDeveloped computer vision models using Weaviate, achieving 22% accuracy\nCreated feature engineering pipeline using MongoDB, reducing preprocessing time by 42%",
+      "technologies": [
+        "Neo4j",
+        "Dask",
+        "A/B Testing",
+        "MongoDB",
+        "Weaviate",
+        "GCP Vertex AI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2017-01",
+      "end_date": "2018-12",
+      "duration": "2017-01 – 2018-12",
+      "duration_months": 23,
+      "description": "Implemented A/B testing framework using OpenCV, running 100+ experiments\nBuilt ML model serving infrastructure using DVC, handling 1000+ predictions/day",
+      "technologies": [
+        "Julia",
+        "DVC",
+        "TensorFlow",
+        "Dask",
+        "OpenCV",
+        "XGBoost"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2013-09",
+      "end_date": "2017-01",
+      "duration": "2013-09 – 2017-01",
+      "duration_months": 40,
+      "description": "Built ML model serving infrastructure using Polars, handling 100000+ predictions/day\nImplemented A/B testing framework using Databricks, running 5000+ experiments",
+      "technologies": [
+        "Kubeflow",
+        "Python",
+        "Fine-tuning",
+        "Databricks",
+        "Weights & Biases",
+        "Polars"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2012",
+      "gpa": "3.62",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Swedish (Basic)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — MLH 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Scala",
+    "SQL",
+    "Julia",
+    "LlamaIndex",
+    "LangChain",
+    "Keras",
+    "Claude API",
+    "XGBoost",
+    "Dagster",
+    "Dask",
+    "PostgreSQL",
+    "Weaviate",
+    "Databricks",
+    "ChromaDB",
+    "Pinecone",
+    "Azure ML",
+    "AWS SageMaker",
+    "GCP Vertex AI",
+    "Hugging Face Endpoints",
+    "RAG",
+    "NLP",
+    "Statistical Modeling",
+    "LLM Evaluation",
+    "Prompt Engineering"
+  ],
+  "companies": [
+    "Salesforce",
+    "Vercel",
+    "Vercel",
+    "Block"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "LLM Engineer",
+    "Research Scientist",
+    "AI Product Engineer"
+  ],
+  "universities": [
+    "MIT"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 205,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:39:00.947537",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

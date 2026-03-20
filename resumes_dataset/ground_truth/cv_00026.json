@@ -1,0 +1,345 @@
+{
+  "full_name": "Michael Burton",
+  "email": "michael.burton@burton.dev",
+  "location": "Alexanderchester, Brazil",
+  "years_of_experience": 5.7,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michael Burton",
+    "email": "michael.burton@burton.dev",
+    "phone": "749-319-0586",
+    "location": "Alexanderchester, Brazil",
+    "linkedin_url": "https://linkedin.com/in/michael-burton",
+    "github_url": "https://github.com/michaelburton",
+    "portfolio_url": "https://michaelburton.dev"
+  },
+  "summary": "Technical leader in devops / sre / mlops with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Python, YAML, Go.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2025-09",
+      "end_date": "Present",
+      "duration": "2025-09 – Present",
+      "duration_months": 6,
+      "description": "Implemented log aggregation using GCP, processing 1000+ logs/day\nDesigned and implemented infrastructure as code using Argo Workflows, managing 5000+ servers",
+      "technologies": [
+        "Argo Workflows",
+        "GCP",
+        "Seldon"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2022-04",
+      "end_date": "2025-03",
+      "duration": "2022-04 – 2025-03",
+      "duration_months": 35,
+      "description": "Implemented security scanning using ELK Stack, identifying 500+ vulnerabilities\nImplemented container orchestration using ELK Stack, managing 100000+ containers\nCreated self-service provisioning portal using YAML, serving 1000+ engineers\nBuilt automated backup solution using ELK Stack, ensuring 1000% data protection",
+      "technologies": [
+        "Zero Trust",
+        "MLflow",
+        "YAML",
+        " Triton Inference Server",
+        "ELK Stack",
+        "Buildah"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2019-08",
+      "end_date": "2021-11",
+      "duration": "2019-08 – 2021-11",
+      "duration_months": 27,
+      "description": "Designed and implemented infrastructure as code using Kale, managing 500+ servers\nImplemented container orchestration using ELK Stack, managing 10000+ containers\nImplemented container orchestration using Rust, managing 1000+ containers",
+      "technologies": [
+        "Rust",
+        "ELK Stack",
+        "Kale"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": "3.04",
+      "activities": null
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartCache",
+      "description": "Built Container Registry with PowerShell and Go, serving 10,000+ daily active users",
+      "technologies": [
+        "Go",
+        "PowerShell",
+        "YAML"
+      ],
+      "url": "https://github.com/michaelburton/smartcache",
+      "date": "2020"
+    },
+    {
+      "name": "Schema Validator",
+      "description": "Designed Monitoring System leveraging YAML microservices architecture with Python for caching",
+      "technologies": [
+        "PowerShell",
+        "Python",
+        "YAML"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Implemented Observability Dashboard using Python, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Bash",
+        "YAML",
+        "Python"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — Google DevFest 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "YAML",
+    "Go",
+    "PowerShell",
+    "Bash",
+    "Helm",
+    "Ansible",
+    "ArgoCD",
+    "Skopeo",
+    "Istio",
+    "Kubernetes",
+    "Envoy",
+    "Azure DevOps",
+    "GitLab CI",
+    "CircleCI",
+    "Tekton",
+    "Grafana",
+    "Datadog",
+    "Hetzner",
+    "DigitalOcean",
+    " Triton Inference Server",
+    "Kubeflow",
+    "Kale",
+    "TensorFlow Serving",
+    "Seldon",
+    "SRE Practices",
+    "Chaos Engineering",
+    "Zero Trust"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "Spotify",
+    "DataPulse"
+  ],
+  "job_titles": [
+    "DevOps Engineer",
+    "MLOps Engineer",
+    "Infrastructure Engineer"
+  ],
+  "universities": [
+    "KAIST",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 26,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:37:31.357602",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "full_name": "Katie Ford",
+  "email": "katie.ford@yahoo.com",
+  "location": "Garciamouth, UAE",
+  "years_of_experience": 3.5,
+  "seniority_level": "mid",
+  "primary_domain": "General IT",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Katie Ford",
+    "email": "katie.ford@yahoo.com",
+    "phone": "+1-407-293-5978",
+    "location": "Garciamouth, UAE",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Bash, PowerShell, and Python. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Help Desk Analyst",
+      "title": "Help Desk Analyst",
+      "start_date": "2024-02",
+      "end_date": "Present",
+      "duration": "2024-02 – Present",
+      "duration_months": 25,
+      "description": "Implemented patch management using Azure, patching 5000+ systems\nProvided tier-2/3 support using System Administration, resolving 1000+ complex issues\nImplemented patch management using Network Security, patching 100000+ systems\nManaged cloud infrastructure using System Administration, optimizing costs by 45%",
+      "technologies": [
+        "System Administration",
+        "Network Security",
+        "Office 365",
+        "VBA",
+        "Intune",
+        "Azure"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "IT Support Engineer",
+      "title": "IT Support Engineer",
+      "start_date": "2022-05",
+      "end_date": "2023-10",
+      "duration": "2022-05 – 2023-10",
+      "duration_months": 17,
+      "description": "Implemented patch management using Zabbix, patching 100+ systems\nCreated network monitoring using Zabbix, detecting 5000+ incidents",
+      "technologies": [
+        "Incident Management",
+        "Help Desk",
+        "Zabbix",
+        "ITIL",
+        "Ansible"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SharePoint",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Office 365",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SolarWinds",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure AD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hyper-V",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ITIL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Change Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Help Desk",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "System Administration",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Designed and implemented Help Desk System with SharePoint, integrating with Exchange for seamless data flow",
+      "technologies": [
+        "SharePoint",
+        "Exchange",
+        "Office 365"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Schema Validator",
+      "description": "Developed User Provisioning using Office 365, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Office 365",
+        "PowerShell",
+        "SharePoint"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2022",
+      "credential_id": "PT18CC20"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — ACM 2022",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Russian (Basic)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "PowerShell",
+    "Python",
+    "SQL",
+    "Exchange",
+    "SharePoint",
+    "Office 365",
+    "SolarWinds",
+    "Azure AD",
+    "Hyper-V",
+    "MySQL",
+    "PostgreSQL",
+    "SQL Server",
+    "AWS",
+    "Azure",
+    "Google Workspace",
+    "ITIL",
+    "Change Management"
+  ],
+  "companies": [
+    "Shopify",
+    "InfraCore"
+  ],
+  "job_titles": [
+    "Help Desk Analyst",
+    "IT Support Engineer"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 59,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:37:48.108380",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

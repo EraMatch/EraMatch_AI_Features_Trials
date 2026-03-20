@@ -1,0 +1,248 @@
+{
+  "full_name": "Alan Gonzalez",
+  "email": "alan.gonzalez@protonmail.com",
+  "location": "Schneiderport, Germany",
+  "years_of_experience": 5.7,
+  "seniority_level": "senior",
+  "primary_domain": "General IT",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Alan Gonzalez",
+    "email": "alan.gonzalez@protonmail.com",
+    "phone": "9662843356",
+    "location": "Schneiderport, Germany",
+    "linkedin_url": "https://linkedin.com/in/alan-gonzalez",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior general it engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Python, Bash, SharePoint with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Help Desk Analyst",
+      "title": "Help Desk Analyst",
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": "2022-01 – Present",
+      "duration_months": 50,
+      "description": "Created network monitoring using Active Directory, detecting 5000+ incidents\nCreated IT documentation using Intune, serving 10000+ employees\nBuilt monitoring dashboards using Intune, tracking 10000+ metrics\nProvided tier-2/3 support using Zabbix, resolving 50000+ complex issues",
+      "technologies": [
+        "SQL Server",
+        "Intune",
+        "Zabbix",
+        "Hyper-V",
+        "Active Directory"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Network Administrator",
+      "title": "Network Administrator",
+      "start_date": "2020-05",
+      "end_date": "2021-11",
+      "duration": "2020-05 – 2021-11",
+      "duration_months": 18,
+      "description": "Built monitoring dashboards using AWS, tracking 1000+ metrics\nCreated IT documentation using AWS, serving 500+ employees\nCreated user training materials using Active Directory, training 50000+ employees\nManaged Windows/Active Directory infrastructure using SolarWinds, supporting 50000+ users",
+      "technologies": [
+        "SQL",
+        "SQL Server",
+        "AWS",
+        "SolarWinds",
+        "Active Directory"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SharePoint",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Office 365",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SolarWinds",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zabbix",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VMware",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Help Desk",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ITIL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Intune",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hyper-V",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Designed and implemented Training Portal with Bash, integrating with SharePoint for seamless data flow",
+      "technologies": [
+        "SharePoint",
+        "Office 365",
+        "Bash"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Designed IT Documentation leveraging Python microservices architecture with Office 365 for caching",
+      "technologies": [
+        "SharePoint",
+        "Office 365",
+        "Python"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Implemented IT Asset Management using Bash, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "SharePoint",
+        "Office 365",
+        "Bash"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CompTIA Network+",
+      "issuer": "CompTIA",
+      "date": "2022",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Especially exactly go individual floor\" — IEEE 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Bash",
+    "SharePoint",
+    "Office 365",
+    "SolarWinds",
+    "Zabbix",
+    "VMware",
+    "SQL Server",
+    "PostgreSQL",
+    "Google Workspace",
+    "Azure",
+    "AWS",
+    "Help Desk",
+    "ITIL"
+  ],
+  "companies": [
+    "DeployFast",
+    "Palantir"
+  ],
+  "job_titles": [
+    "Help Desk Analyst",
+    "Network Administrator"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 410,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:40:44.689007",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

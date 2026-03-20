@@ -1,0 +1,318 @@
+{
+  "full_name": "Joseph Gibson",
+  "email": "joseph.gibson@outlook.com",
+  "location": "Friedmanborough, UK",
+  "years_of_experience": 7.6,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Joseph Gibson",
+    "email": "joseph.gibson@outlook.com",
+    "phone": "(980)325-6621x286",
+    "location": "Friedmanborough, UK",
+    "linkedin_url": "https://linkedin.com/in/joseph-gibson",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior frontend engineering engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in CSS, Python, Svelte with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2024-11",
+      "end_date": "Present",
+      "duration": "2024-11 – Present",
+      "duration_months": 16,
+      "description": "Integrated third-party APIs using CSS, reducing integration time by 18%\nImproved website accessibility score to 65% using Responsive Design",
+      "technologies": [
+        "CSS",
+        "Jest",
+        "Responsive Design"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2021-04",
+      "end_date": "2024-11",
+      "duration": "2021-04 – 2024-11",
+      "duration_months": 43,
+      "description": "Created accessible UI components using JavaScript, achieving WCAG AA compliance\nImplemented state management solution using Supabase, reducing API calls by 26%\nBuilt real-time collaboration features using JavaScript, serving 10000+ concurrent users",
+      "technologies": [
+        "Progressive Web Apps",
+        "Supabase",
+        "JavaScript"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2019-12",
+      "end_date": "2021-01",
+      "duration": "2019-12 – 2021-01",
+      "duration_months": 13,
+      "description": "Implemented state management solution using Remix, reducing API calls by 29%\nDeveloped responsive web applications using Remix, improving page load time by 45%\nDeveloped design system using Supabase, standardizing UI across 100000+ applications\nImproved website accessibility score to 62% using Remix",
+      "technologies": [
+        "Git",
+        "Remix",
+        "Next.js",
+        "Supabase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2018-01",
+      "end_date": "2019-08",
+      "duration": "2018-01 – 2019-08",
+      "duration_months": 19,
+      "description": "Implemented state management solution using JavaScript, reducing API calls by 65%\nDeveloped responsive web applications using Python, improving page load time by 45%\nDeveloped responsive web applications using Bootstrap, improving page load time by 29%",
+      "technologies": [
+        "Bootstrap",
+        "JavaScript",
+        "Angular",
+        "Python",
+        "Cypress"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.79",
+      "activities": "Design Team Lead"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Graph Query Builder",
+      "description": "Designed Data Visualization Tool leveraging Python microservices architecture with Astro for caching",
+      "technologies": [
+        "Python",
+        "CSS",
+        "Astro"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Designed React Component Library leveraging Astro microservices architecture with Svelte for caching",
+      "technologies": [
+        "Bootstrap",
+        "Astro",
+        "Svelte"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Meta Front-End Developer Certificate",
+      "issuer": "Meta",
+      "date": "2019",
+      "credential_id": null
+    },
+    {
+      "name": "Google UX Design Certificate",
+      "issuer": "Google",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Russian (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "Python",
+    "Svelte",
+    "Astro",
+    "Bootstrap",
+    "Prettier",
+    "Webpack",
+    "Vite",
+    "ESLint",
+    "Git",
+    "Firebase",
+    "Supabase",
+    "PostgreSQL",
+    "AWS Amplify",
+    "Render",
+    "Responsive Design",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)",
+    "Component-Driven Development",
+    "Agile"
+  ],
+  "companies": [
+    "TechFlow AI",
+    "Spotify",
+    "Uber",
+    "ScaleGrid"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "UI Engineer",
+    "Full-Stack Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 365,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:22.164493",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

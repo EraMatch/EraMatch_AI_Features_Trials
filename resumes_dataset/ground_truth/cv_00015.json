@@ -1,0 +1,297 @@
+{
+  "full_name": "Timothy Stanton",
+  "email": "timothy.stanton@stanton.dev",
+  "location": "Port Lisa, USA",
+  "years_of_experience": 10.7,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Timothy Stanton",
+    "email": "timothy.stanton@stanton.dev",
+    "phone": "4535315869",
+    "location": "Port Lisa, USA",
+    "linkedin_url": null,
+    "github_url": "https://github.com/timothystanton",
+    "portfolio_url": "https://timothystanton.dev"
+  },
+  "summary": "Engineering leader with deep technical background in HTML, Dart, and Next.js. 11 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2023-01",
+      "end_date": "Present",
+      "duration": "2023-01 – Present",
+      "duration_months": 38,
+      "description": "Created accessible UI components using Webpack, achieving WCAG AA compliance\nIntegrated third-party APIs using MongoDB, reducing integration time by 67%\nDeveloped responsive web applications using Tailwind CSS, improving page load time by 42%\nDeveloped design system using Tailwind CSS, standardizing UI across 10000+ applications",
+      "technologies": [
+        "Webpack",
+        "Tailwind CSS",
+        "TypeScript",
+        "Prettier",
+        "MongoDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2020-01",
+      "end_date": "2022-07",
+      "duration": "2020-01 – 2022-07",
+      "duration_months": 30,
+      "description": "Developed responsive web applications using Playwright, improving page load time by 29%\nCreated progressive web app using Jest, increasing user engagement by 63%",
+      "technologies": [
+        "Cloudflare Pages",
+        "Vercel",
+        "Playwright",
+        "Responsive Design",
+        "Netlify",
+        "Jest"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2016-08",
+      "end_date": "2019-12",
+      "duration": "2016-08 – 2019-12",
+      "duration_months": 40,
+      "description": "Developed responsive web applications using CSS, improving page load time by 36%\nBuilt reusable component library using Dart, used by 50000+ developers",
+      "technologies": [
+        "Vercel",
+        "HTML",
+        "Dart",
+        "CSS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2014-08",
+      "end_date": "2016-04",
+      "duration": "2014-08 – 2016-04",
+      "duration_months": 20,
+      "description": "Built interactive data visualizations using Vue.js, serving 500+ daily users\nImplemented state management solution using ESLint, reducing API calls by 43%",
+      "technologies": [
+        "ESLint",
+        "Storybook",
+        "Figma",
+        "Vue.js"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Accessibility Initiative"
+    },
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2012",
+      "gpa": "3.81",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Built Mobile Web App using Next.js and Dart, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Next.js",
+        "Tailwind CSS",
+        "Dart"
+      ],
+      "url": "https://github.com/timothystanton/event-sourcing-engine",
+      "date": "2023"
+    },
+    {
+      "name": "Schema Validator",
+      "description": "Created React Component Library leveraging HTML for core functionality and Dart for optimization",
+      "technologies": [
+        "Dart",
+        "HTML",
+        "Tailwind CSS"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Graph Query Builder",
+      "description": "Implemented React Component Library using Tailwind CSS, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Tailwind CSS",
+        "HTML",
+        "Next.js"
+      ],
+      "url": "https://github.com/timothystanton/graph-query-builder",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "Dart",
+    "Next.js",
+    "Tailwind CSS",
+    "Playwright",
+    "Figma",
+    "Vite",
+    "MongoDB",
+    "PostgreSQL",
+    "Cloudflare Pages",
+    "Netlify",
+    "Accessibility (WCAG)",
+    "Responsive Design",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Agile"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "Shopify",
+    "CodeReview.io",
+    "ParseLab"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "React Developer",
+    "React Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "Purdue University",
+    "McGill University"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 15,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:37:25.837723",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

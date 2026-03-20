@@ -1,0 +1,275 @@
+{
+  "full_name": "Colton Figueroa",
+  "email": "colton.figueroa@yahoo.com",
+  "location": "Michaelfort, India",
+  "years_of_experience": 8.4,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Colton Figueroa",
+    "email": "colton.figueroa@yahoo.com",
+    "phone": "001-773-693-6385x4678",
+    "location": "Michaelfort, India",
+    "linkedin_url": "https://linkedin.com/in/colton-figueroa",
+    "github_url": "https://github.com/coltonfigueroa",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in data science / ml / ai with expertise in R, Julia, MATLAB. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2021-12",
+      "end_date": "Present",
+      "duration": "2021-12 – Present",
+      "duration_months": 51,
+      "description": "Developed data visualization tools using Databricks, used by 500+ analysts\nBuilt ML model serving infrastructure using Databricks, handling 50000+ predictions/day\nBuilt ML model serving infrastructure using Feature Engineering, handling 10000+ predictions/day",
+      "technologies": [
+        "OpenAI API",
+        "Databricks",
+        "Databricks",
+        "Feature Engineering",
+        "LLM Evaluation"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2018-07",
+      "end_date": "2021-08",
+      "duration": "2018-07 – 2021-08",
+      "duration_months": 37,
+      "description": "Implemented NLP solution using Scala, processing 100000+ text documents daily\nCreated recommendation system using Hugging Face, increasing user engagement by 21%",
+      "technologies": [
+        "Keras",
+        "Hugging Face",
+        "MLflow",
+        "Deep Learning",
+        "Scala"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2017-05",
+      "end_date": "2018-06",
+      "duration": "2017-05 – 2018-06",
+      "duration_months": 13,
+      "description": "Built end-to-end ML pipeline using PostgreSQL, processing 500+ samples daily\nCreated recommendation system using PostgreSQL, increasing user engagement by 46%",
+      "technologies": [
+        "Computer Vision",
+        "Databricks",
+        "Dagster",
+        "PostgreSQL",
+        "Claude API"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Data Science Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Playing guitar",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Italian (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "Julia",
+    "MATLAB",
+    "LangChain",
+    "OpenCV",
+    "OpenAI API",
+    "NumPy",
+    "MLflow",
+    "Polars",
+    "Pinecone",
+    "Neo4j",
+    "Databricks",
+    "BigQuery",
+    "Lambda Labs",
+    "AWS SageMaker",
+    "Databricks",
+    "Deep Learning",
+    "Statistical Modeling",
+    "NLP",
+    "MLOps"
+  ],
+  "companies": [
+    "Meta",
+    "Vercel",
+    "Block"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "NLP Engineer",
+    "Data Analyst"
+  ],
+  "universities": [
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 98,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:08.194785",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

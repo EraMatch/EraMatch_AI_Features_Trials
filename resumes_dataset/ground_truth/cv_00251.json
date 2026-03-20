@@ -1,0 +1,272 @@
+{
+  "full_name": "Kimberly Riley",
+  "email": "kimberly.riley@riley.dev",
+  "location": "Garyport, Netherlands",
+  "years_of_experience": 4.4,
+  "seniority_level": "mid",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kimberly Riley",
+    "email": "kimberly.riley@riley.dev",
+    "phone": "+1-705-680-7787x956",
+    "location": "Garyport, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/kimberly-riley",
+    "github_url": "https://github.com/kimberlyriley",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Bash, PowerShell, and Rust. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 – Present",
+      "duration_months": 30,
+      "description": "Built security automation using OWASP ZAP, reducing incident response time by 46%\nBuilt secure CI/CD pipeline using Splunk, preventing 10000+ security issues",
+      "technologies": [
+        "Snort",
+        "Splunk",
+        "Azure Sentinel",
+        "OWASP ZAP"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2022-10",
+      "end_date": "2023-04",
+      "duration": "2022-10 – 2023-04",
+      "duration_months": 6,
+      "description": "Designed zero-trust architecture using Metasploit, securing 100+ endpoints\nBuilt incident response automation using Metasploit, reducing recovery time by 37%",
+      "technologies": [
+        "Metasploit",
+        "Threat Modeling",
+        "Snort"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2021-01",
+      "end_date": "2022-06",
+      "duration": "2021-01 – 2022-06",
+      "duration_months": 17,
+      "description": "Built security automation using Metasploit, reducing incident response time by 28%\nBuilt secure CI/CD pipeline using AWS Security Hub, preventing 10000+ security issues\nDeveloped threat intelligence platform using Metasploit, tracking 5000+ threats",
+      "technologies": [
+        "Trivy",
+        "AWS Security Hub",
+        "Suricata",
+        "Metasploit"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "Ph.D.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Security Research"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built Incident Response Platform using PowerShell and OWASP ZAP, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "OWASP ZAP",
+        "Suricata",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Log Aggregator",
+      "description": "Built Malware Detection using Rust and PowerShell, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Bash",
+        "Rust",
+        "PowerShell"
+      ],
+      "url": "https://github.com/kimberlyriley/log-aggregator",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Glover, Green and Soto Youth Program, 2020-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "PowerShell",
+    "Rust",
+    "OWASP ZAP",
+    "Sigma",
+    "Suricata",
+    "CrowdStrike",
+    "Hashicorp Vault",
+    "Nessus",
+    "Redis",
+    "Elasticsearch",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "Incident Response",
+    "SOC2 Compliance",
+    "Threat Modeling",
+    "OWASP Top 10",
+    "SAST/DAST"
+  ],
+  "companies": [
+    "NeuroLink Labs",
+    "ModelShip",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "Penetration Tester",
+    "Security Architect",
+    "Security Engineer"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 251,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:39:23.940094",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

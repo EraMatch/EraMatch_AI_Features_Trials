@@ -1,0 +1,267 @@
+{
+  "full_name": "Brent Bowen",
+  "email": "brent.bowen@yahoo.com",
+  "location": "Anitamouth, India",
+  "years_of_experience": 7.7,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Brent Bowen",
+    "email": "brent.bowen@yahoo.com",
+    "phone": "451.440.1051x238",
+    "location": "Anitamouth, India",
+    "linkedin_url": "https://linkedin.com/in/brent-bowen",
+    "github_url": "https://github.com/brentbowen",
+    "portfolio_url": "https://brentbowen.dev"
+  },
+  "summary": "Technical leader in data science / ml / ai with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Go, MATLAB, Julia.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2021-09",
+      "end_date": "Present",
+      "duration": "2021-09 – Present",
+      "duration_months": 54,
+      "description": "Built end-to-end ML pipeline using Dask, processing 5000+ samples daily\nDesigned data warehousing solution using NLP, enabling analytics on 1000+ records",
+      "technologies": [
+        "Dask",
+        "Julia",
+        "NLP",
+        "ChromaDB"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2018-02",
+      "end_date": "2021-04",
+      "duration": "2018-02 – 2021-04",
+      "duration_months": 38,
+      "description": "Established MLOps practices using OpenCV, reducing model deployment time by 40%\nCreated recommendation system using Polars, increasing user engagement by 40%\nBuilt end-to-end ML pipeline using OpenCV, processing 5000+ samples daily\nImplemented A/B testing framework using OpenCV, running 100+ experiments",
+      "technologies": [
+        "OpenCV",
+        "Kubeflow",
+        "Pandas",
+        "Polars",
+        "BigQuery",
+        "Julia"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2018",
+      "gpa": "3.27",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Google Cloud Professional Data Engineer",
+      "issuer": "Google",
+      "date": "2024",
+      "credential_id": "OQ36BZ22"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Scene third last involve above\" — IEEE 2021",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Dutch (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "MATLAB",
+    "Julia",
+    "SQL",
+    "Scala",
+    "TensorFlow",
+    "XGBoost",
+    "DVC",
+    "Spark",
+    "Airflow",
+    "Kubeflow",
+    "ChromaDB",
+    "Databricks",
+    "BigQuery",
+    "Weaviate",
+    "Qdrant",
+    "Bedrock",
+    "Lambda Labs",
+    "Azure ML",
+    "NLP",
+    "Fine-tuning",
+    "Feature Engineering"
+  ],
+  "companies": [
+    "Block",
+    "DeployFast"
+  ],
+  "job_titles": [
+    "ML Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "UIUC"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 113,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:15.965782",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

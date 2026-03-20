@@ -1,0 +1,241 @@
+{
+  "full_name": "Timothy Hardy",
+  "email": "timothy.hardy@outlook.com",
+  "location": "East Joyfurt, Brazil",
+  "years_of_experience": 2.6,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Timothy Hardy",
+    "email": "timothy.hardy@outlook.com",
+    "phone": "206-990-3311",
+    "location": "East Joyfurt, Brazil",
+    "linkedin_url": "https://linkedin.com/in/timothy-hardy",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Mid-level frontend engineering specialist with 3 years building production systems. Skilled in Dart, Python, JavaScript with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2025-09",
+      "end_date": "Present",
+      "duration": "2025-09 – Present",
+      "duration_months": 6,
+      "description": "Optimized frontend bundle size using TypeScript, reducing load time by 30%\nDeveloped responsive web applications using Render, improving page load time by 39%",
+      "technologies": [
+        "JavaScript",
+        "Material UI",
+        "CSS",
+        "TypeScript",
+        "Render"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2023-04",
+      "end_date": "2025-05",
+      "duration": "2023-04 – 2025-05",
+      "duration_months": 25,
+      "description": "Created accessible UI components using Render, achieving WCAG AA compliance\nCreated progressive web app using Render, increasing user engagement by 20%\nBuilt reusable component library using Supabase, used by 100000+ developers",
+      "technologies": [
+        "Render",
+        "Supabase",
+        "IndexedDB"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "B.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2024",
+      "gpa": null,
+      "activities": "Google Developer Group"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Render",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Meta Front-End Developer Certificate",
+      "issuer": "Meta",
+      "date": "2022",
+      "credential_id": "WX73DI83"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Marathon running",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — MLH 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "Python",
+    "JavaScript",
+    "Vue.js",
+    "Angular",
+    "Material UI",
+    "Webpack",
+    "Figma",
+    "Playwright",
+    "Vite",
+    "IndexedDB",
+    "MongoDB",
+    "Cloudflare Pages",
+    "AWS Amplify",
+    "Accessibility (WCAG)",
+    "Component-Driven Development",
+    "Responsive Design",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "InfraCore"
+  ],
+  "job_titles": [
+    "React Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 95,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:06.469272",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

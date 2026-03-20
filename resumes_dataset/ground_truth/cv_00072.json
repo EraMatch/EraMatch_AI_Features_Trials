@@ -1,0 +1,316 @@
+{
+  "full_name": "Billy Taylor",
+  "email": "billy.taylor@protonmail.com",
+  "location": "Janeborough, India",
+  "years_of_experience": 8.0,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Billy Taylor",
+    "email": "billy.taylor@protonmail.com",
+    "phone": "(365)643-1027x868",
+    "location": "Janeborough, India",
+    "linkedin_url": "https://linkedin.com/in/billy-taylor",
+    "github_url": "https://github.com/billytaylor",
+    "portfolio_url": null
+  },
+  "summary": "Lead backend engineering professional with 8 years driving technical strategy and team excellence. Expert in Python, Kotlin, Java with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2023-11",
+      "end_date": "Present",
+      "duration": "2023-11 – Present",
+      "duration_months": 28,
+      "description": "Optimized database queries using Google Gemini, improving query performance by 43%\nDesigned and implemented message queue system using Cloudflare, processing 50000+ messages/hour\nMentored team of 4 junior developers on Google Gemini best practices",
+      "technologies": [
+        "Cloudflare",
+        "MongoDB",
+        "Docker",
+        "Google Gemini"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2020-01",
+      "end_date": "2023-08",
+      "duration": "2020-01 – 2023-08",
+      "duration_months": 43,
+      "description": "Implemented caching layer with GraphQL, reducing database load by 37%\nBuilt automated CI/CD pipelines with Spring Boot, reducing deployment time by 28%",
+      "technologies": [
+        "GraphQL",
+        "RAG Architecture",
+        "Helm",
+        "Spring Boot",
+        "AWS",
+        "Anthropic"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2018-12",
+      "end_date": "2020-01",
+      "duration": "2018-12 – 2020-01",
+      "duration_months": 13,
+      "description": "Built event-driven architecture using LLM Integration, processing 5000+ events daily\nBuilt event-driven architecture using NestJS, processing 1000+ events daily\nOptimized database queries using FastAPI, improving query performance by 62%\nArchitected and built RESTful APIs serving 50000+ requests/day using Redis, reducing response time by 38%",
+      "technologies": [
+        "Redis",
+        "FastAPI",
+        "Kafka",
+        "Elasticsearch",
+        "NestJS",
+        "LLM Integration"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2017-11",
+      "end_date": "2018-11",
+      "duration": "2017-11 – 2018-11",
+      "duration_months": 12,
+      "description": "Designed and implemented message queue system using TypeScript, processing 10000+ messages/hour\nLed migration from monolithic to microservices using Actix, improving system scalability by 53%",
+      "technologies": [
+        "DynamoDB",
+        "TypeScript",
+        "Actix",
+        "Vercel"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2017",
+      "gpa": "3.02",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vector Search API",
+      "description": "Designed REST API Framework leveraging LlamaIndex microservices architecture with Python for caching",
+      "technologies": [
+        "LlamaIndex",
+        "Python",
+        "Java"
+      ],
+      "url": "https://github.com/billytaylor/vector-search-api",
+      "date": "2019"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed Event Streaming Service leveraging FastAPI microservices architecture with Python for caching",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "LlamaIndex"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Experience trouble make but table later together knowledge because radio suffer\" — ACM 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Kotlin",
+    "Java",
+    "Gin",
+    "LlamaIndex",
+    "FastAPI",
+    "CockroachDB",
+    "Supabase",
+    "MySQL",
+    "DynamoDB",
+    "Ansible",
+    "Kafka",
+    "Kubernetes",
+    "Helm",
+    "Fly.io",
+    "Railway",
+    "Anthropic",
+    "Hugging Face",
+    "Claude API",
+    "LLM Integration",
+    "CI/CD"
+  ],
+  "companies": [
+    "OpenAI",
+    "Uber",
+    "ModelShip",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "API Developer",
+    "Software Engineer",
+    "API Developer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 72,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:37:54.608209",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

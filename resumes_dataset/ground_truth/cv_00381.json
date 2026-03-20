@@ -1,0 +1,316 @@
+{
+  "full_name": "Kevin Santana",
+  "email": "kevin.santana@outlook.com",
+  "location": "West Kaitlyn, Brazil",
+  "years_of_experience": 10.4,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kevin Santana",
+    "email": "kevin.santana@outlook.com",
+    "phone": "336.726.4488x69461",
+    "location": "West Kaitlyn, Brazil",
+    "linkedin_url": "https://linkedin.com/in/kevin-santana",
+    "github_url": "https://github.com/kevinsantana",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in C, Python, and Bash. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Built incident response automation using Metasploit, reducing recovery time by 38%\nImplemented SIEM solution using Threat Modeling, processing 100000+ logs/day",
+      "technologies": [
+        "Threat Modeling",
+        "Snort",
+        "Metasploit",
+        "Elasticsearch",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2019-04",
+      "end_date": "2022-06",
+      "duration": "2019-04 – 2022-06",
+      "duration_months": 38,
+      "description": "Created vulnerability management program using MongoDB, reducing CVEs by 20%\nBuilt incident response automation using MongoDB, reducing recovery time by 68%\nConducted penetration testing using GCP Security Command Center, identifying 100+ vulnerabilities\nBuilt security automation using GCP Security Command Center, reducing incident response time by 21%",
+      "technologies": [
+        "GCP Security Command Center",
+        "Elasticsearch",
+        "Trivy",
+        "MongoDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2015-04",
+      "end_date": "2018-11",
+      "duration": "2015-04 – 2018-11",
+      "duration_months": 43,
+      "description": "Designed zero-trust architecture using OWASP ZAP, securing 10000+ endpoints\nDesigned zero-trust architecture using Elasticsearch, securing 10000+ endpoints",
+      "technologies": [
+        "Nmap",
+        "Elasticsearch",
+        "OWASP ZAP"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.A.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2013",
+      "gpa": "2.99",
+      "activities": null
+    },
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "M.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2012",
+      "gpa": "2.93",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Designed and implemented Security Audit System with PowerShell, integrating with Bash for seamless data flow",
+      "technologies": [
+        "Bash",
+        "Snort",
+        "PowerShell"
+      ],
+      "url": "https://github.com/kevinsantana/pdf-parser-toolkit",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C",
+    "Python",
+    "Bash",
+    "Rust",
+    "PowerShell",
+    "Sigma",
+    "OWASP ZAP",
+    "Metasploit",
+    "Burp Suite",
+    "Snort",
+    "Wireshark",
+    "SonarQube",
+    "Hashicorp Vault",
+    "Nmap",
+    "Splunk",
+    "PostgreSQL",
+    "Redis",
+    "MongoDB",
+    "Elasticsearch",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "AWS Security Hub",
+    "Zero Trust Architecture",
+    "Incident Response",
+    "SAST/DAST",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "Block",
+    "DeployFast",
+    "ScaleGrid"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "AppSec Engineer",
+    "AppSec Engineer"
+  ],
+  "universities": [
+    "EPFL",
+    "University of Toronto"
+  ],
+  "degrees": [
+    "B.A.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 381,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:40:30.479846",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

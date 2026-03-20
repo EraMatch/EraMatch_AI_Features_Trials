@@ -1,0 +1,337 @@
+{
+  "full_name": "Isaiah Hensley",
+  "email": "isaiah.hensley@outlook.com",
+  "location": "Clarkstad, Australia",
+  "years_of_experience": 11.8,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Isaiah Hensley",
+    "email": "isaiah.hensley@outlook.com",
+    "phone": "(484)934-7955",
+    "location": "Clarkstad, Australia",
+    "linkedin_url": "https://linkedin.com/in/isaiah-hensley",
+    "github_url": "https://github.com/isaiahhensley",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Kotlin, C++, and Dart. 12 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": "2024-09 – Present",
+      "duration_months": 18,
+      "description": "Created app analytics tracking using MVVM, providing insights on 500+ users\nImplemented biometric authentication using SQLite, securing 5000+ user accounts",
+      "technologies": [
+        "SQLite",
+        "KMP",
+        "MVVM"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2020-12",
+      "end_date": "2024-04",
+      "duration": "2020-12 – 2024-04",
+      "duration_months": 40,
+      "description": "Implemented deep linking using Swift, improving conversion rates by 61%\nBuilt widget functionality using Firebase Firestore, increasing daily active users by 23%\nCreated app analytics tracking using Offline-First, providing insights on 50000+ users",
+      "technologies": [
+        "Swift",
+        "Offline-First",
+        "Core Data",
+        "Firebase Firestore",
+        "Objective-C",
+        "AWS Amplify"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2016-04",
+      "end_date": "2020-06",
+      "duration": "2016-04 – 2020-06",
+      "duration_months": 50,
+      "description": "Created app analytics tracking using Core Data, providing insights on 5000+ users\nImplemented app streaming using Core Data, reducing download size by 43%\nBuilt offline-first architecture using Expo, improving app responsiveness by 46%\nBuilt AR/VR features using Java, increasing user retention by 45%",
+      "technologies": [
+        "Core Data",
+        "Java",
+        "Expo",
+        "C++"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2013-01",
+      "end_date": "2015-10",
+      "duration": "2013-01 – 2015-10",
+      "duration_months": 33,
+      "description": "Created app analytics tracking using Gradle, providing insights on 100+ users\nBuilt AR/VR features using Gradle, increasing user retention by 35%\nImplemented deep linking using Swift, improving conversion rates by 44%",
+      "technologies": [
+        "CI/CD for Mobile",
+        "Gradle",
+        "Swift"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed Cross-platform SDK leveraging Expo microservices architecture with UIKit for caching",
+      "technologies": [
+        "Expo",
+        "Kotlin",
+        "UIKit"
+      ],
+      "url": "https://github.com/isaiahhensley/autoscale-monitor",
+      "date": "2025"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Built Android Application with Kotlin and Expo, serving 10,000+ daily active users",
+      "technologies": [
+        "Expo",
+        "Kotlin",
+        "SwiftUI"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Associate Android Developer",
+      "issuer": "Google",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "C++",
+    "Dart",
+    "Objective-C",
+    "TypeScript",
+    "Jetpack Compose",
+    "Expo",
+    "React Native",
+    "UIKit",
+    "SwiftUI",
+    "Fastlane",
+    "Firebase",
+    "Core Data",
+    "Firebase Firestore",
+    "Realm",
+    "SQLite",
+    "Hive",
+    "RevenueCat",
+    "Supabase",
+    "Firebase",
+    "Offline-First",
+    "Clean Architecture",
+    "App Store Optimization",
+    "MVVM"
+  ],
+  "companies": [
+    "Notion",
+    "Stripe",
+    "Figma",
+    "Notion"
+  ],
+  "job_titles": [
+    "Flutter Developer",
+    "React Native Developer",
+    "Flutter Developer",
+    "iOS Developer"
+  ],
+  "universities": [
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 195,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:38:55.885239",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

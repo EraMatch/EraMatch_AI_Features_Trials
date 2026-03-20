@@ -1,0 +1,286 @@
+{
+  "full_name": "Rebecca Roberts",
+  "email": "rebecca.roberts@gmail.com",
+  "location": "Robertsport, Japan",
+  "years_of_experience": 4.5,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Rebecca Roberts",
+    "email": "rebecca.roberts@gmail.com",
+    "phone": "4726728498",
+    "location": "Robertsport, Japan",
+    "linkedin_url": "https://linkedin.com/in/rebecca-roberts",
+    "github_url": "https://github.com/rebeccaroberts",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in PowerShell, HCL, and Python. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2025-03",
+      "end_date": "Present",
+      "duration": "2025-03 – Present",
+      "duration_months": 12,
+      "description": "Built automated backup solution using Linkerd, ensuring 50000% data protection\nBuilt CI/CD pipelines using Hetzner, reducing deployment time from 24s to 63ms",
+      "technologies": [
+        "VictoriaMetrics",
+        "Hetzner",
+        "Linkerd"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2021-03",
+      "end_date": "2024-09",
+      "duration": "2021-03 – 2024-09",
+      "duration_months": 42,
+      "description": "Implemented security scanning using Seldon, identifying 500+ vulnerabilities\nOptimized cloud infrastructure using Go, reducing costs by 19%\nBuilt automated backup solution using Seldon, ensuring 10000% data protection\nBuilt disaster recovery solution using Go, achieving RTO of 331ms",
+      "technologies": [
+        "Go",
+        "Tekton",
+        "Docker",
+        "Seldon"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2021",
+      "gpa": "3.35",
+      "activities": "Cloud Computing Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Cooking",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PowerShell",
+    "HCL",
+    "Python",
+    "Helm",
+    "CDK",
+    "ArgoCD",
+    "Podman",
+    "Envoy",
+    "GitHub Actions",
+    "Tekton",
+    "Argo Workflows",
+    "Jenkins",
+    "GitLab CI",
+    "Thanos",
+    "Grafana",
+    "VictoriaMetrics",
+    "Opsgenie",
+    "Prometheus",
+    "GCP",
+    "Oracle Cloud",
+    "Kale",
+    "MLflow",
+    "TensorFlow Serving",
+    "Kubeflow",
+    "Platform Engineering",
+    "MLOps"
+  ],
+  "companies": [
+    "DeployFast",
+    "Uber"
+  ],
+  "job_titles": [
+    "DevOps Engineer",
+    "SRE"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 460,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:41:09.563244",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

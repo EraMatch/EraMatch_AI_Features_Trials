@@ -1,0 +1,281 @@
+{
+  "full_name": "Tracy Sims",
+  "email": "tracy.sims@sims.dev",
+  "location": "Richardsonville, Netherlands",
+  "years_of_experience": 6.8,
+  "seniority_level": "senior",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Tracy Sims",
+    "email": "tracy.sims@sims.dev",
+    "phone": "(830)613-6749x2617",
+    "location": "Richardsonville, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/tracy-sims",
+    "github_url": "https://github.com/tracysims",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in JavaScript, Python, and Notion. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "duration": "2023-12 – Present",
+      "duration_months": 27,
+      "description": "Led product development using Google Analytics, launching features used by 100000+ users\nBuilt customer feedback system using Zoom, collecting 5000+ insights",
+      "technologies": [
+        "MySQL",
+        "Scrum",
+        "Zoom",
+        "Google Analytics",
+        "R"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2022-10",
+      "end_date": "2023-06",
+      "duration": "2022-10 – 2023-06",
+      "duration_months": 8,
+      "description": "Created product documentation using MySQL, serving 100+ stakeholders\nLed agile product development using A/B Testing, delivering 500+ sprints\nDeveloped product roadmap using MySQL, prioritizing 5000+ features\nLed agile product development using MySQL, delivering 500+ sprints",
+      "technologies": [
+        "MySQL",
+        "Productboard",
+        "GCP",
+        "Jira",
+        "A/B Testing"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Technical PM",
+      "title": "Technical PM",
+      "start_date": "2018-12",
+      "end_date": "2022-10",
+      "duration": "2018-12 – 2022-10",
+      "duration_months": 46,
+      "description": "Led agile product development using Tableau, delivering 10000+ sprints\nBuilt customer feedback system using Roadmunk, collecting 100000+ insights\nConducted user research using Tableau, interviewing 100000+ users",
+      "technologies": [
+        "Roadmunk",
+        "Zoom",
+        "Tableau",
+        "MySQL"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.81",
+      "activities": "Startup Club"
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2018",
+      "gpa": "3.85",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Notion",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Aha!",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mixpanel",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Amplitude",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmap Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OKRs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zoom",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Task Scheduler",
+      "description": "Developed Release Planning using Notion, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Aha!",
+        "Productboard",
+        "Notion"
+      ],
+      "url": "https://github.com/tracysims/task-scheduler",
+      "date": "2025"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Built OKR Tracking with Python and Aha!, serving 10,000+ daily active users",
+      "technologies": [
+        "Productboard",
+        "Python",
+        "Aha!"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "PMP - Project Management Professional",
+      "issuer": "PMI",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "English (Native)",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Bar majority protect meeting age\" — EMNLP 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Python",
+    "Notion",
+    "Productboard",
+    "Aha!",
+    "Mixpanel",
+    "Amplitude",
+    "Snowflake",
+    "PostgreSQL",
+    "GCP",
+    "Azure",
+    "AWS",
+    "Scrum",
+    "Kanban",
+    "Roadmap Planning",
+    "OKRs"
+  ],
+  "companies": [
+    "Supabase",
+    "Notion",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "Product Manager",
+    "Product Manager",
+    "Technical PM"
+  ],
+  "universities": [
+    "MIT",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 393,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:40:36.325543",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

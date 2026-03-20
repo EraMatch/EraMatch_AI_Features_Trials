@@ -1,0 +1,317 @@
+{
+  "full_name": "Michelle Williams",
+  "email": "michelle.williams@gmail.com",
+  "location": "Zamoratown, Australia",
+  "years_of_experience": 10.7,
+  "seniority_level": "lead",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michelle Williams",
+    "email": "michelle.williams@gmail.com",
+    "phone": "245.676.2055x54384",
+    "location": "Zamoratown, Australia",
+    "linkedin_url": "https://linkedin.com/in/michelle-williams",
+    "github_url": "https://github.com/michellewilliams",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in design (ui/ux) with expertise in JavaScript, Python, Adobe XD. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2024-07",
+      "end_date": "Present",
+      "duration": "2024-07 – Present",
+      "duration_months": 20,
+      "description": "Designed data visualizations using Principle, improving comprehension by 52%\nBuilt design collaboration workflow using Principle, reducing review time by 28%\nConducted usability testing using Figma, identifying 100000+ UX issues",
+      "technologies": [
+        "Figma",
+        "Accessibility (WCAG)",
+        "After Effects",
+        "Zeplin",
+        "Figma",
+        "Principle"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Visual Designer",
+      "title": "Visual Designer",
+      "start_date": "2021-02",
+      "end_date": "2024-04",
+      "duration": "2021-02 – 2024-04",
+      "duration_months": 38,
+      "description": "Designed responsive layouts using Vue, serving 5000+ screen sizes\nBuilt design collaboration workflow using User Research, reducing review time by 63%\nDesigned data visualizations using User Research, improving comprehension by 41%",
+      "technologies": [
+        "Figma",
+        "Figma",
+        "User Research",
+        "Vercel"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "UX Designer",
+      "title": "UX Designer",
+      "start_date": "2019-04",
+      "end_date": "2021-02",
+      "duration": "2019-04 – 2021-02",
+      "duration_months": 22,
+      "description": "Designed data visualizations using Framer, improving comprehension by 68%\nCreated motion design using Principle, increasing engagement by 55%",
+      "technologies": [
+        "Adobe Creative Suite",
+        "Framer",
+        "Principle"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "UI Designer",
+      "title": "UI Designer",
+      "start_date": "2014-12",
+      "end_date": "2018-12",
+      "duration": "2014-12 – 2018-12",
+      "duration_months": 48,
+      "description": "Designed data visualizations using User Research, improving comprehension by 46%\nCreated brand identity using After Effects, applied across 500+ touchpoints",
+      "technologies": [
+        "After Effects",
+        "User Research",
+        "Vercel"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "M.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2013",
+      "gpa": "3.49",
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "InVision",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Framer",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Information Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Thinking",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataPipe CLI",
+      "description": "Built UI Component Library using Principle and Adobe XD, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Principle",
+        "Python",
+        "Adobe XD"
+      ],
+      "url": "https://github.com/michellewilliams/datapipe-cli",
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Adobe Certified Expert",
+      "issuer": "Adobe",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Dutch (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Competitive programming",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Python",
+    "Adobe XD",
+    "InVision",
+    "Principle",
+    "Sketch",
+    "Framer",
+    "Storybook",
+    "Adobe Creative Suite",
+    "Miro",
+    "Hotjar",
+    "Firebase",
+    "Netlify",
+    "Vercel",
+    "Cloudflare",
+    "User Research",
+    "Design Systems",
+    "Information Architecture",
+    "Design Thinking"
+  ],
+  "companies": [
+    "CloudNova",
+    "Block",
+    "Cloudflare",
+    "Twilio"
+  ],
+  "job_titles": [
+    "Design Lead",
+    "Visual Designer",
+    "UX Designer",
+    "UI Designer"
+  ],
+  "universities": [
+    "TU Munich",
+    "University of Washington"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 225,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:39:10.788011",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

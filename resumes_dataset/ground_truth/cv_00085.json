@@ -1,0 +1,261 @@
+{
+  "full_name": "Katherine Castillo",
+  "email": "katherine.castillo@castillo.dev",
+  "location": "West Stephanieland, India",
+  "years_of_experience": 5.9,
+  "seniority_level": "senior",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Katherine Castillo",
+    "email": "katherine.castillo@castillo.dev",
+    "phone": "+1-444-619-8665",
+    "location": "West Stephanieland, India",
+    "linkedin_url": "https://linkedin.com/in/katherine-castillo",
+    "github_url": "https://github.com/katherinecastillo",
+    "portfolio_url": "https://katherinecastillo.dev"
+  },
+  "summary": "Technical leader in design (ui/ux) with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in HTML, CSS, Sketch.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Visual Designer",
+      "title": "Visual Designer",
+      "start_date": "2025-02",
+      "end_date": "Present",
+      "duration": "2025-02 – Present",
+      "duration_months": 13,
+      "description": "Designed accessible interfaces using Adobe Creative Suite, achieving WCAG AA compliance\nBuilt interactive prototypes using CSS, reducing development cycles by 43%\nBuilt design collaboration workflow using After Effects, reducing review time by 25%",
+      "technologies": [
+        "HTML",
+        "Hotjar",
+        "CSS",
+        "Adobe Creative Suite",
+        "After Effects",
+        "Maze"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2022-06",
+      "end_date": "2024-09",
+      "duration": "2022-06 – 2024-09",
+      "duration_months": 27,
+      "description": "Designed user interfaces using Hotjar, improving usability by 53%\nDesigned responsive layouts using Vue, serving 500+ screen sizes\nBuilt interactive prototypes using Netlify, reducing development cycles by 66%\nConducted usability testing using Python, identifying 1000+ UX issues",
+      "technologies": [
+        "Framer",
+        "Netlify",
+        "Figma",
+        "Python",
+        "Hotjar"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Visual Designer",
+      "title": "Visual Designer",
+      "start_date": "2019-07",
+      "end_date": "2022-02",
+      "duration": "2019-07 – 2022-02",
+      "duration_months": 31,
+      "description": "Built interactive prototypes using Miro, reducing development cycles by 49%\nDesigned data visualizations using Adobe XD, improving comprehension by 34%\nCreated motion design using Framer, increasing engagement by 32%",
+      "technologies": [
+        "Usability Testing",
+        "JavaScript",
+        "Miro",
+        "Adobe XD",
+        "Framer",
+        "Figma"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "B.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2018",
+      "gpa": "3.72",
+      "activities": "UX Design Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "InVision",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Maze",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Usability Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Information Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Framer",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Bradshaw-Douglas Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "CSS",
+    "Sketch",
+    "Principle",
+    "Figma",
+    "InVision",
+    "Maze",
+    "Figma",
+    "Storybook",
+    "After Effects",
+    "Firebase",
+    "Vercel",
+    "Netlify",
+    "Cloudflare",
+    "Design Systems",
+    "Usability Testing",
+    "Prototyping",
+    "Information Architecture",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "Salesforce",
+    "Uber"
+  ],
+  "job_titles": [
+    "Visual Designer",
+    "Design Lead",
+    "Visual Designer"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 85,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:38:01.482877",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

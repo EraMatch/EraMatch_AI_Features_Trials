@@ -1,0 +1,332 @@
+{
+  "full_name": "Erin Walters",
+  "email": "erin.walters@yahoo.com",
+  "location": "North Josephfurt, Germany",
+  "years_of_experience": 10.6,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Erin Walters",
+    "email": "erin.walters@yahoo.com",
+    "phone": "673.558.6629x619",
+    "location": "North Josephfurt, Germany",
+    "linkedin_url": "https://linkedin.com/in/erin-walters",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, YAML, and Bash. 11 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2024-12",
+      "end_date": "Present",
+      "duration": "2024-12 – Present",
+      "duration_months": 15,
+      "description": "Built disaster recovery solution using TensorFlow Serving, achieving RTO of 232ms\nOptimized cloud infrastructure using Zero Trust, reducing costs by 40%",
+      "technologies": [
+        "TensorFlow Serving",
+        "Terraform",
+        "YAML",
+        " Triton Inference Server",
+        "Datadog",
+        "Zero Trust"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2021-05",
+      "end_date": "2024-08",
+      "duration": "2021-05 – 2024-08",
+      "duration_months": 39,
+      "description": "Implemented security scanning using YAML, identifying 500+ vulnerabilities\nCreated self-service provisioning portal using Linkerd, serving 100+ engineers\nBuilt disaster recovery solution using Linode, achieving RTO of 379ms",
+      "technologies": [
+        "Podman",
+        "Linode",
+        "YAML",
+        "Linkerd"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2016-08",
+      "end_date": "2021-01",
+      "duration": "2016-08 – 2021-01",
+      "duration_months": 53,
+      "description": "Established chaos engineering practices using K3s, improving system resilience\nBuilt disaster recovery solution using Thanos, achieving RTO of 231ms\nImplemented log aggregation using Thanos, processing 50000+ logs/day",
+      "technologies": [
+        "K3s",
+        "DigitalOcean",
+        "Thanos",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2014-07",
+      "end_date": "2016-03",
+      "duration": "2014-07 – 2016-03",
+      "duration_months": 20,
+      "description": "Implemented log aggregation using GitOps, processing 100000+ logs/day\nOptimized cloud infrastructure using VictoriaMetrics, reducing costs by 38%\nCreated self-service provisioning portal using Ansible, serving 10000+ engineers",
+      "technologies": [
+        "GitOps",
+        "ELK Stack",
+        "VictoriaMetrics",
+        "Kubeflow",
+        "Ansible"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Designed and implemented Disaster Recovery System with Bash, integrating with Python for seamless data flow",
+      "technologies": [
+        "Python",
+        "YAML",
+        "Bash"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Feature Store",
+      "description": "Designed Chaos Engineering Framework leveraging Python microservices architecture with Bash for caching",
+      "technologies": [
+        "YAML",
+        "Python",
+        "Bash"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Designed Observability Dashboard leveraging Python microservices architecture with YAML for caching",
+      "technologies": [
+        "Bash",
+        "YAML",
+        "Python"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Science first blood accept final growth\" — NeurIPS 2020",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Bill beautiful issue news mention billion bed\" — CVPR 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "YAML",
+    "Bash",
+    "CDK",
+    "Helm",
+    "Podman",
+    "Kubernetes",
+    "K3s",
+    "Azure DevOps",
+    "Tekton",
+    "VictoriaMetrics",
+    "PagerDuty",
+    "Linode",
+    "Oracle Cloud",
+    "GCP",
+    " Triton Inference Server",
+    "Kale",
+    "TorchServe",
+    "TensorFlow Serving",
+    "Kubeflow",
+    "Platform Engineering",
+    "SRE Practices"
+  ],
+  "companies": [
+    "ResumeAI",
+    "Notion",
+    "DeployFast",
+    "CloudNova"
+  ],
+  "job_titles": [
+    "SRE",
+    "MLOps Engineer",
+    "DevOps Engineer",
+    "DevOps Engineer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 106,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:12.237236",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

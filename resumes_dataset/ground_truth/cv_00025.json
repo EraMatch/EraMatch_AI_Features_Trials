@@ -1,0 +1,284 @@
+{
+  "full_name": "Kristy Robinson",
+  "email": "kristy.robinson@gmail.com",
+  "location": "Davidborough, Brazil",
+  "years_of_experience": 7.7,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kristy Robinson",
+    "email": "kristy.robinson@gmail.com",
+    "phone": "001-645-829-9124x190",
+    "location": "Davidborough, Brazil",
+    "linkedin_url": "https://linkedin.com/in/kristy-robinson",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in data science / ml / ai with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Julia, MATLAB, Scala.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 – Present",
+      "duration_months": 30,
+      "description": "Designed data warehousing solution using Claude API, enabling analytics on 50000+ records\nDeveloped computer vision models using TensorFlow, achieving 62% accuracy",
+      "technologies": [
+        "TensorFlow",
+        "Hugging Face",
+        "LlamaIndex",
+        "Claude API",
+        "SQL",
+        "Airflow"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2019-03",
+      "end_date": "2023-08",
+      "duration": "2019-03 – 2023-08",
+      "duration_months": 53,
+      "description": "Designed data warehousing solution using Julia, enabling analytics on 1000+ records\nDeveloped computer vision models using Julia, achieving 43% accuracy\nBuilt end-to-end ML pipeline using Snowflake, processing 1000+ samples daily",
+      "technologies": [
+        "Snowflake",
+        "Hugging Face Endpoints",
+        "Qdrant",
+        "Julia",
+        "LlamaIndex",
+        "LightGBM"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2018-05",
+      "end_date": "2019-02",
+      "duration": "2018-05 – 2019-02",
+      "duration_months": 9,
+      "description": "Built end-to-end ML pipeline using Databricks, processing 10000+ samples daily\nImplemented A/B testing framework using Feature Engineering, running 10000+ experiments",
+      "technologies": [
+        "OpenCV",
+        "Databricks",
+        "Bedrock",
+        "Feature Engineering",
+        "DVC"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": "3.30",
+      "activities": "Kaggle Competition"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Developed Anomaly Detection System using MATLAB, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Scala",
+        "Julia",
+        "MATLAB"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — MLH 2021",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Portuguese (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Julia",
+    "MATLAB",
+    "Scala",
+    "PyTorch",
+    "TensorFlow",
+    "LangChain",
+    "LlamaIndex",
+    "Airflow",
+    "NumPy",
+    "Neptune",
+    "DVC",
+    "PostgreSQL",
+    "Pinecone",
+    "AWS SageMaker",
+    "Hugging Face Endpoints",
+    "Azure ML",
+    "LLM Evaluation",
+    "RAG",
+    "Feature Engineering",
+    "Computer Vision"
+  ],
+  "companies": [
+    "Confluent",
+    "Figma",
+    "Salesforce"
+  ],
+  "job_titles": [
+    "AI Product Engineer",
+    "Data Scientist",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 25,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:30.864549",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

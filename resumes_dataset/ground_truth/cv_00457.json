@@ -1,0 +1,265 @@
+{
+  "full_name": "Wanda Conley",
+  "email": "wanda.conley@conley.dev",
+  "location": "Smithstad, India",
+  "years_of_experience": 6.1,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Wanda Conley",
+    "email": "wanda.conley@conley.dev",
+    "phone": "682.721.1457x75847",
+    "location": "Smithstad, India",
+    "linkedin_url": "https://linkedin.com/in/wanda-conley",
+    "github_url": "https://github.com/wandaconley",
+    "portfolio_url": "https://wandaconley.dev"
+  },
+  "summary": "Seasoned software professional with deep expertise in C++, Dart, and UIKit. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": "2024-09 – Present",
+      "duration_months": 18,
+      "description": "Built widget functionality using Supabase, increasing daily active users by 19%\nBuilt AR/VR features using Dart, increasing user retention by 65%\nImplemented deep linking using Supabase, improving conversion rates by 27%",
+      "technologies": [
+        "App Center",
+        "Dart",
+        "Supabase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2020-09",
+      "end_date": "2024-07",
+      "duration": "2020-09 – 2024-07",
+      "duration_months": 46,
+      "description": "Created in-app purchase integration using React Native, generating 10000+ in revenue\nCreated app analytics tracking using React Native, providing insights on 10000+ users\nImplemented app streaming using Firebase, reducing download size by 70%",
+      "technologies": [
+        "Firebase",
+        "SQLite",
+        "React Native",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2019-07",
+      "end_date": "2020-04",
+      "duration": "2019-07 – 2020-04",
+      "duration_months": 9,
+      "description": "Optimized app performance using Dart, reducing battery consumption by 60%\nImplemented push notification system using C++, increasing user engagement by 29%\nBuilt widget functionality using SwiftUI, increasing daily active users by 52%",
+      "technologies": [
+        "Dart",
+        "SwiftUI",
+        "AWS Amplify",
+        "C++",
+        "Firebase Firestore",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "Ph.D.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2017",
+      "gpa": "2.83",
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.A.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Spanish (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C++",
+    "Dart",
+    "UIKit",
+    "Jetpack Compose",
+    "SwiftUI",
+    "Firebase",
+    "Xcode",
+    "Fastlane",
+    "Gradle",
+    "TestFlight",
+    "Firebase Firestore",
+    "Core Data",
+    "SQLite",
+    "Firebase",
+    "AWS Amplify",
+    "RevenueCat",
+    "CI/CD for Mobile",
+    "MVVM",
+    "Offline-First"
+  ],
+  "companies": [
+    "Palantir",
+    "Tesla",
+    "Meta"
+  ],
+  "job_titles": [
+    "Flutter Developer",
+    "Mobile Developer",
+    "Android Developer"
+  ],
+  "universities": [
+    "University of Washington",
+    "University of Washington"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 457,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:41:08.200711",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

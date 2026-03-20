@@ -1,0 +1,293 @@
+{
+  "full_name": "Jerry Bailey",
+  "email": "jerry.bailey@yahoo.com",
+  "location": "West Sarahmouth, Germany",
+  "years_of_experience": 7.4,
+  "seniority_level": "senior",
+  "primary_domain": "QA / Testing",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jerry Bailey",
+    "email": "jerry.bailey@yahoo.com",
+    "phone": "7605685361",
+    "location": "West Sarahmouth, Germany",
+    "linkedin_url": "https://linkedin.com/in/jerry-bailey",
+    "github_url": "https://github.com/jerrybailey",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in qa / testing with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in JavaScript, Java, Ruby.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "QA Engineer",
+      "title": "QA Engineer",
+      "start_date": "2022-06",
+      "end_date": "Present",
+      "duration": "2022-06 – Present",
+      "duration_months": 45,
+      "description": "Implemented exploratory testing using Redis, discovering 5000+ edge cases\nCreated test reporting dashboard using MySQL, tracking 1000+ test metrics",
+      "technologies": [
+        "BDD",
+        "Docker",
+        "MySQL",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Test Automation Engineer",
+      "title": "Test Automation Engineer",
+      "start_date": "2018-10",
+      "end_date": "2022-06",
+      "duration": "2018-10 – 2022-06",
+      "duration_months": 44,
+      "description": "Built accessibility testing using Test Automation, ensuring compliance for 100000+ pages\nDeveloped API testing framework using AWS, testing 10000+ endpoints\nBuilt security testing automation using AWS, finding 100000+ vulnerabilities",
+      "technologies": [
+        "Test Automation",
+        "AWS",
+        "Jira"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "M.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": "3.13",
+      "activities": "Software Testing"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Selenium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTest",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JMeter",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Postman",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Test Automation",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Built API Testing with Python and Selenium, serving 10,000+ daily active users",
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "Selenium"
+      ],
+      "url": "https://github.com/jerrybailey/chatbot-framework",
+      "date": "2024"
+    },
+    {
+      "name": "Feature Store",
+      "description": "Created Regression Suite leveraging JavaScript for core functionality and Ruby for optimization",
+      "technologies": [
+        "JavaScript",
+        "Ruby",
+        "Selenium"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Implemented Load Testing using PyTest, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "C#",
+        "JavaScript",
+        "PyTest"
+      ],
+      "url": "https://github.com/jerrybailey/real-time-analytics-engine",
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified ScrumMaster",
+      "issuer": "Scrum Alliance",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Game development as hobby",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Java",
+    "Ruby",
+    "Python",
+    "C#",
+    "Selenium",
+    "PyTest",
+    "Git",
+    "JMeter",
+    "Postman",
+    "Docker",
+    "PostgreSQL",
+    "MongoDB",
+    "MySQL",
+    "Redis",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Agile Testing",
+    "CI/CD Testing",
+    "BDD",
+    "Test Planning"
+  ],
+  "companies": [
+    "Notion",
+    "Vercel"
+  ],
+  "job_titles": [
+    "QA Engineer",
+    "Test Automation Engineer"
+  ],
+  "universities": [
+    "UT Austin"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 64,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:37:50.862712",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

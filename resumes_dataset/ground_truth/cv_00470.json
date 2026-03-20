@@ -1,0 +1,238 @@
+{
+  "full_name": "Julia Trevino",
+  "email": "julia.trevino@outlook.com",
+  "location": "Lake Mario, Brazil",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Julia Trevino",
+    "email": "julia.trevino@outlook.com",
+    "phone": "(444)661-7679",
+    "location": "Lake Mario, Brazil",
+    "linkedin_url": "https://linkedin.com/in/julia-trevino",
+    "github_url": "https://github.com/juliatrevino",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level cybersecurity specialist with 4 years building production systems. Skilled in Go, Python, Snort with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Built security automation using SAST/DAST, reducing incident response time by 35%\nCreated vulnerability management program using Azure Sentinel, reducing CVEs by 49%\nCreated security awareness training using Redis, reducing phishing clicks by 16%\nDesigned zero-trust architecture using Threat Modeling, securing 100+ endpoints",
+      "technologies": [
+        "SAST/DAST",
+        "Threat Modeling",
+        "Azure Sentinel",
+        "Zero Trust Architecture",
+        "Redis",
+        "C"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2021-09",
+      "end_date": "2023-09",
+      "duration": "2021-09 – 2023-09",
+      "duration_months": 24,
+      "description": "Built security automation using SonarQube, reducing incident response time by 24%\nCreated security awareness training using AWS Security Hub, reducing phishing clicks by 69%\nDeveloped threat intelligence platform using AWS Security Hub, tracking 10000+ threats\nImplemented SIEM solution using Bash, processing 500+ logs/day",
+      "technologies": [
+        "Wireshark",
+        "Bash",
+        "AWS Security Hub",
+        "SonarQube"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.A.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Developed Security Awareness Training using Python, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "Go",
+        "Metasploit"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "French (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Python",
+    "Snort",
+    "OWASP ZAP",
+    "Burp Suite",
+    "Metasploit",
+    "SonarQube",
+    "Trivy",
+    "Nessus",
+    "Redis",
+    "Elasticsearch",
+    "PostgreSQL",
+    "Azure Sentinel",
+    "AWS Security Hub",
+    "GCP Security Command Center",
+    "Incident Response",
+    "Zero Trust Architecture",
+    "SAST/DAST"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "NeuroLink Labs"
+  ],
+  "job_titles": [
+    "Penetration Tester",
+    "SOC Analyst"
+  ],
+  "universities": [
+    "University of Washington"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 470,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:41:14.534514",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

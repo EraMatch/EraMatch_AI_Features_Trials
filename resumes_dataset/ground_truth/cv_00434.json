@@ -1,0 +1,307 @@
+{
+  "full_name": "Brianna Beck",
+  "email": "brianna.beck@protonmail.com",
+  "location": "Fowlershire, Netherlands",
+  "years_of_experience": 8.5,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Brianna Beck",
+    "email": "brianna.beck@protonmail.com",
+    "phone": "001-950-427-2751x6480",
+    "location": "Fowlershire, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/brianna-beck",
+    "github_url": "https://github.com/briannabeck",
+    "portfolio_url": null
+  },
+  "summary": "Lead frontend engineering professional with 8 years driving technical strategy and team excellence. Expert in Dart, HTML, TypeScript with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2023-10",
+      "end_date": "Present",
+      "duration": "2023-10 – Present",
+      "duration_months": 29,
+      "description": "Developed responsive web applications using Vue.js, improving page load time by 61%\nBuilt reusable component library using Agile, used by 100+ developers\nBuilt real-time collaboration features using Netlify, serving 50000+ concurrent users",
+      "technologies": [
+        "Vue.js",
+        "Svelte",
+        "Netlify",
+        "Responsive Design",
+        "Agile",
+        "Dart"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2021-05",
+      "end_date": "2023-06",
+      "duration": "2021-05 – 2023-06",
+      "duration_months": 25,
+      "description": "Developed responsive web applications using Prettier, improving page load time by 51%\nCreated accessible UI components using Vite, achieving WCAG AA compliance",
+      "technologies": [
+        "Webpack",
+        "CSS",
+        "IndexedDB",
+        "Prettier",
+        "Firebase",
+        "Vite"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2017-04",
+      "end_date": "2021-04",
+      "duration": "2017-04 – 2021-04",
+      "duration_months": 48,
+      "description": "Implemented state management solution using Astro, reducing API calls by 46%\nOptimized frontend bundle size using Firebase, reducing load time by 62%\nDeveloped responsive web applications using Git, improving page load time by 47%\nBuilt interactive data visualizations using Firebase, serving 100000+ daily users",
+      "technologies": [
+        "HTML",
+        "Firebase",
+        "Git",
+        "Astro",
+        "Figma"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Designed and implemented Mobile Web App with Tailwind CSS, integrating with Dart for seamless data flow",
+      "technologies": [
+        "TypeScript",
+        "Dart",
+        "Tailwind CSS"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — ACM 2024",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — ACM 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "HTML",
+    "TypeScript",
+    "JavaScript",
+    "Next.js",
+    "Tailwind CSS",
+    "Material UI",
+    "Remix",
+    "Vue.js",
+    "Storybook",
+    "Prettier",
+    "Jest",
+    "MongoDB",
+    "Firebase",
+    "PostgreSQL",
+    "AWS Amplify",
+    "Vercel",
+    "Netlify",
+    "Agile",
+    "Responsive Design",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "PipelineIO",
+    "Airbnb",
+    "Block"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "UI Engineer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 434,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:57.409140",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

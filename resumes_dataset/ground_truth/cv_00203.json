@@ -1,0 +1,318 @@
+{
+  "full_name": "Chelsea Khan",
+  "email": "chelsea.khan@protonmail.com",
+  "location": "Lopezland, UAE",
+  "years_of_experience": 4.6,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Chelsea Khan",
+    "email": "chelsea.khan@protonmail.com",
+    "phone": "(663)626-6341x63894",
+    "location": "Lopezland, UAE",
+    "linkedin_url": null,
+    "github_url": "https://github.com/chelseakhan",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level frontend engineering specialist with 5 years building production systems. Skilled in TypeScript, CSS, Python with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Integrated third-party APIs using MongoDB, reducing integration time by 40%\nOptimized frontend bundle size using React, reducing load time by 45%\nImproved website accessibility score to 33% using MongoDB",
+      "technologies": [
+        "Storybook",
+        "MongoDB",
+        "Bootstrap",
+        "Python",
+        "React",
+        "Prettier"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2022-08",
+      "end_date": "2023-07",
+      "duration": "2022-08 – 2023-07",
+      "duration_months": 11,
+      "description": "Integrated third-party APIs using AWS Amplify, reducing integration time by 62%\nOptimized frontend bundle size using MongoDB, reducing load time by 31%",
+      "technologies": [
+        "Dart",
+        "AWS Amplify",
+        "Bootstrap",
+        "MongoDB"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2021-02",
+      "end_date": "2022-02",
+      "duration": "2021-02 – 2022-02",
+      "duration_months": 12,
+      "description": "Built real-time collaboration features using Material UI, serving 500+ concurrent users\nBuilt reusable component library using Material UI, used by 10000+ developers",
+      "technologies": [
+        "Git",
+        "Playwright",
+        "Material UI"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2020-03",
+      "end_date": "2020-09",
+      "duration": "2020-03 – 2020-09",
+      "duration_months": 6,
+      "description": "Built reusable component library using Astro, used by 50000+ developers\nImplemented state management solution using Accessibility (WCAG), reducing API calls by 21%\nDeveloped responsive web applications using Accessibility (WCAG), improving page load time by 55%\nDeveloped design system using Dart, standardizing UI across 50000+ applications",
+      "technologies": [
+        "Astro",
+        "Accessibility (WCAG)",
+        "Dart"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2021",
+      "gpa": "3.34",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "React",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Developed SPA Framework using Python, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Material UI",
+        "Angular",
+        "Python"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Task Scheduler",
+      "description": "Created Mobile Web App leveraging TypeScript for core functionality and Material UI for optimization",
+      "technologies": [
+        "Material UI",
+        "TypeScript",
+        "Python"
+      ],
+      "url": "https://github.com/chelseakhan/task-scheduler",
+      "date": "2022"
+    },
+    {
+      "name": "Schema Validator",
+      "description": "Created E-commerce Platform leveraging Material UI for core functionality and Python for optimization",
+      "technologies": [
+        "Angular",
+        "Python",
+        "Material UI"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "React Certified Developer",
+      "issuer": "React",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Turkish (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "CSS",
+    "Python",
+    "Material UI",
+    "Angular",
+    "Git",
+    "Prettier",
+    "Playwright",
+    "PostgreSQL",
+    "Supabase",
+    "Vercel",
+    "Netlify",
+    "Cloudflare Pages",
+    "Render",
+    "Agile",
+    "Component-Driven Development",
+    "Accessibility (WCAG)",
+    "Responsive Design",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "Uber",
+    "Snowflake",
+    "AgentForge",
+    "Twilio"
+  ],
+  "job_titles": [
+    "React Developer",
+    "React Developer",
+    "Web Developer",
+    "React Developer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 203,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:59.904123",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

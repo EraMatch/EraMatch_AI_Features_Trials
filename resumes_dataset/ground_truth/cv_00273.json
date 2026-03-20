@@ -1,0 +1,298 @@
+{
+  "full_name": "Michele Castro",
+  "email": "michele.castro@outlook.com",
+  "location": "North Nathanmouth, UAE",
+  "years_of_experience": 2.8,
+  "seniority_level": "mid",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michele Castro",
+    "email": "michele.castro@outlook.com",
+    "phone": "001-832-653-8179x33554",
+    "location": "North Nathanmouth, UAE",
+    "linkedin_url": "https://linkedin.com/in/michele-castro",
+    "github_url": "https://github.com/michelecastro",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Rust, Bash, and C. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2025-04",
+      "end_date": "Present",
+      "duration": "2025-04 – Present",
+      "duration_months": 11,
+      "description": "Built security automation using Suricata, reducing incident response time by 64%\nDesigned zero-trust architecture using AWS Security Hub, securing 100000+ endpoints\nImplemented encryption solution using Angular, protecting 100+ records\nImplemented encryption solution using Angular, protecting 100+ records",
+      "technologies": [
+        "Hashicorp Vault",
+        "Suricata",
+        "SAST/DAST",
+        "AWS Security Hub",
+        "Python",
+        "CrowdStrike"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2023-04",
+      "end_date": "2025-03",
+      "duration": "2023-04 – 2025-03",
+      "duration_months": 23,
+      "description": "Implemented SIEM solution using SonarQube, processing 5000+ logs/day\nImplemented identity management using SonarQube, securing 5000+ user identities",
+      "technologies": [
+        "Go",
+        "SonarQube",
+        "MongoDB",
+        "Snort",
+        "Bash",
+        "Incident Response"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Task Scheduler",
+      "description": "Built Penetration Testing Framework with Bash and Metasploit, serving 10,000+ daily active users",
+      "technologies": [
+        "Metasploit",
+        "Bash",
+        "OWASP ZAP"
+      ],
+      "url": "https://github.com/michelecastro/task-scheduler",
+      "date": "2025"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Built Access Control System with OWASP ZAP and Metasploit, serving 10,000+ daily active users",
+      "technologies": [
+        "C",
+        "OWASP ZAP",
+        "Metasploit"
+      ],
+      "url": "https://github.com/michelecastro/api-gateway",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Mason-Gallegos Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Mckinney-Gregory Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Bash",
+    "C",
+    "Python",
+    "Suricata",
+    "OWASP ZAP",
+    "Metasploit",
+    "Snort",
+    "Burp Suite",
+    "Nmap",
+    "SonarQube",
+    "Hashicorp Vault",
+    "CrowdStrike",
+    "Trivy",
+    "PostgreSQL",
+    "MongoDB",
+    "Elasticsearch",
+    "Redis",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "AWS Security Hub",
+    "SOC2 Compliance",
+    "OWASP Top 10",
+    "Threat Modeling",
+    "Incident Response"
+  ],
+  "companies": [
+    "Palantir",
+    "OpenAI"
+  ],
+  "job_titles": [
+    "SOC Analyst",
+    "Security Architect"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 273,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:39:35.323091",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

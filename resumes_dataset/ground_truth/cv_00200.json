@@ -1,0 +1,325 @@
+{
+  "full_name": "Beth Young",
+  "email": "beth.young@young.dev",
+  "location": "West Christineland, UAE",
+  "years_of_experience": 17.7,
+  "seniority_level": "principal",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Beth Young",
+    "email": "beth.young@young.dev",
+    "phone": "813-326-1117x800",
+    "location": "West Christineland, UAE",
+    "linkedin_url": "https://linkedin.com/in/beth-young",
+    "github_url": "https://github.com/bethyoung",
+    "portfolio_url": null
+  },
+  "summary": "Executive-level technology leader with extensive background in mobile development. Expertise in TypeScript, Swift, KMP with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2022-11",
+      "end_date": "Present",
+      "duration": "2022-11 – Present",
+      "duration_months": 40,
+      "description": "Built AR/VR features using Flutter, increasing user retention by 59%\nBuilt widget functionality using Flutter, increasing daily active users by 24%\nImplemented deep linking using Xcode, improving conversion rates by 22%\nImplemented biometric authentication using Expo, securing 50000+ user accounts",
+      "technologies": [
+        "Expo",
+        "Flutter",
+        "Xcode"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2020-01",
+      "end_date": "2022-06",
+      "duration": "2020-01 – 2022-06",
+      "duration_months": 29,
+      "description": "Developed mobile application using Android Studio, achieving 1000+ downloads\nImplemented biometric authentication using Java, securing 10000+ user accounts\nCreated in-app purchase integration using Hive, generating 500+ in revenue\nBuilt offline-first architecture using Java, improving app responsiveness by 42%",
+      "technologies": [
+        "Java",
+        "Android Studio",
+        "Hive"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2015-10",
+      "end_date": "2019-12",
+      "duration": "2015-10 – 2019-12",
+      "duration_months": 50,
+      "description": "Created app analytics tracking using TestFlight, providing insights on 100+ users\nImplemented app streaming using TestFlight, reducing download size by 21%\nBuilt widget functionality using RevenueCat, increasing daily active users by 23%",
+      "technologies": [
+        "RevenueCat",
+        "MVVM",
+        "TestFlight"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2012-02",
+      "end_date": "2015-06",
+      "duration": "2012-02 – 2015-06",
+      "duration_months": 40,
+      "description": "Implemented push notification system using Firebase, increasing user engagement by 40%\nImplemented biometric authentication using Kotlin, securing 100000+ user accounts\nImplemented deep linking using Kotlin, improving conversion rates by 34%",
+      "technologies": [
+        "Kotlin",
+        "Hive",
+        "KMP",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2007-06",
+      "end_date": "2011-11",
+      "duration": "2007-06 – 2011-11",
+      "duration_months": 53,
+      "description": "Created in-app purchase integration using Offline-First, generating 100+ in revenue\nDeveloped cross-platform solution using Offline-First, reducing development time by 38%\nDeveloped mobile application using KMP, achieving 100+ downloads",
+      "technologies": [
+        "Java",
+        "Offline-First",
+        "Swift",
+        "Firebase",
+        "KMP"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "M.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2006",
+      "gpa": "3.07",
+      "activities": "Android Community"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2024",
+      "credential_id": "VS64CO33"
+    },
+    {
+      "name": "Google Associate Android Developer",
+      "issuer": "Google",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — ACM 2020",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "English (Native)",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "3D printing",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Swift",
+    "KMP",
+    "Expo",
+    "Android Studio",
+    "Fastlane",
+    "TestFlight",
+    "App Center",
+    "Core Data",
+    "SQLite",
+    "Firebase Firestore",
+    "Realm",
+    "Hive",
+    "Firebase",
+    "AWS Amplify",
+    "Supabase",
+    "MVVM",
+    "Offline-First",
+    "App Store Optimization",
+    "Clean Architecture"
+  ],
+  "companies": [
+    "Confluent",
+    "Anthropic",
+    "Airbnb",
+    "Meta",
+    "Tesla"
+  ],
+  "job_titles": [
+    "React Native Developer",
+    "Flutter Developer",
+    "iOS Developer",
+    "Android Developer",
+    "Android Developer"
+  ],
+  "universities": [
+    "UT Austin"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 200,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:38:58.448532",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "full_name": "Daniel Taylor",
+  "email": "daniel.taylor@protonmail.com",
+  "location": "Hensleyton, UAE",
+  "years_of_experience": 6.6,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Daniel Taylor",
+    "email": "daniel.taylor@protonmail.com",
+    "phone": "745-310-7622x683",
+    "location": "Hensleyton, UAE",
+    "linkedin_url": "https://linkedin.com/in/daniel-taylor",
+    "github_url": "https://github.com/danieltaylor",
+    "portfolio_url": null
+  },
+  "summary": "Senior frontend engineering engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in Python, HTML, JavaScript with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": "2023-07 – Present",
+      "duration_months": 32,
+      "description": "Built reusable component library using Render, used by 500+ developers\nIntegrated third-party APIs using Astro, reducing integration time by 64%\nDeveloped design system using Vercel, standardizing UI across 1000+ applications\nCreated accessible UI components using Render, achieving WCAG AA compliance",
+      "technologies": [
+        "Render",
+        "Vercel",
+        "Astro",
+        "ESLint",
+        "Cloudflare Pages"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2019-06",
+      "end_date": "2023-05",
+      "duration": "2019-06 – 2023-05",
+      "duration_months": 47,
+      "description": "Created accessible UI components using Git, achieving WCAG AA compliance\nIntegrated third-party APIs using Git, reducing integration time by 30%\nBuilt interactive data visualizations using Svelte, serving 10000+ daily users\nBuilt interactive data visualizations using Astro, serving 100+ daily users",
+      "technologies": [
+        "Svelte",
+        "PostgreSQL",
+        "Git",
+        "Astro"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Accessibility Initiative"
+    },
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2017",
+      "gpa": "3.33",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Task Scheduler",
+      "description": "Created Real-time Chat leveraging Remix for core functionality and Svelte for optimization",
+      "technologies": [
+        "Svelte",
+        "Remix",
+        "React"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Designed Real-time Chat leveraging Remix microservices architecture with JavaScript for caching",
+      "technologies": [
+        "JavaScript",
+        "Remix",
+        "React"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Reading sci-fi novels",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Music production",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "Remix",
+    "Svelte",
+    "React",
+    "Cypress",
+    "Prettier",
+    "Jest",
+    "Supabase",
+    "MongoDB",
+    "IndexedDB",
+    "PostgreSQL",
+    "Netlify",
+    "Render",
+    "Vercel",
+    "Cloudflare Pages",
+    "Agile",
+    "Accessibility (WCAG)",
+    "Responsive Design",
+    "Progressive Web Apps",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "Notion",
+    "Nvidia"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "Full-Stack Developer"
+  ],
+  "universities": [
+    "University of Toronto",
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 55,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:37:46.442439",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

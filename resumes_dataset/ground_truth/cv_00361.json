@@ -1,0 +1,305 @@
+{
+  "full_name": "Patrick Mack",
+  "email": "patrick.mack@outlook.com",
+  "location": "Port Raymond, Netherlands",
+  "years_of_experience": 5.5,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Patrick Mack",
+    "email": "patrick.mack@outlook.com",
+    "phone": "239-928-4044x566",
+    "location": "Port Raymond, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/patrick-mack",
+    "github_url": "https://github.com/patrickmack",
+    "portfolio_url": "https://patrickmack.dev"
+  },
+  "summary": "Senior backend engineering engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Node.js, C#, FastAPI with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2021-09",
+      "end_date": "Present",
+      "duration": "2021-09 – Present",
+      "duration_months": 54,
+      "description": "Designed and implemented message queue system using Ruby, processing 500+ messages/hour\nBuilt event-driven architecture using RabbitMQ, processing 100+ events daily",
+      "technologies": [
+        "Docker",
+        "GCP",
+        "Ruby",
+        "RabbitMQ"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2020-06",
+      "end_date": "2021-06",
+      "duration": "2020-06 – 2021-06",
+      "duration_months": 12,
+      "description": "Architected and built RESTful APIs serving 5000+ requests/day using Helm, reducing response time by 28%\nBuilt automated CI/CD pipelines with Fly.io, reducing deployment time by 56%\nOptimized database queries using Express.js, improving query performance by 48%",
+      "technologies": [
+        "Helm",
+        "Agile",
+        "Java",
+        "Fly.io",
+        "Express.js"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "B.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Designed Payment Processing System leveraging Node.js microservices architecture with Django for caching",
+      "technologies": [
+        "Django",
+        "Node.js",
+        "FastAPI"
+      ],
+      "url": "https://github.com/patrickmack/chatbot-framework",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Cummings and Sons Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "C#",
+    "FastAPI",
+    "Django",
+    "LangChain",
+    "Cassandra",
+    "Neon",
+    "PostgreSQL",
+    "RabbitMQ",
+    "Ansible",
+    "Terraform",
+    "GitHub Actions",
+    "Cloudflare",
+    "GCP",
+    "Railway",
+    "AWS",
+    "Render",
+    "Azure OpenAI",
+    "OpenAI API",
+    "Replicate",
+    "AWS Bedrock",
+    "GraphQL",
+    "Scrum",
+    "Event-Driven Architecture",
+    "LLM Integration"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "API Developer",
+    "API Developer"
+  ],
+  "universities": [
+    "UT Austin",
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 361,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:20.295214",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

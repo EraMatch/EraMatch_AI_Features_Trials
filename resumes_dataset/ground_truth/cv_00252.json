@@ -1,0 +1,338 @@
+{
+  "full_name": "Laura Douglas",
+  "email": "laura.douglas@douglas.dev",
+  "location": "Alexisville, Japan",
+  "years_of_experience": 9.5,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Laura Douglas",
+    "email": "laura.douglas@douglas.dev",
+    "phone": "690-647-1281x4429",
+    "location": "Alexisville, Japan",
+    "linkedin_url": "https://linkedin.com/in/laura-douglas",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in backend engineering with expertise in Java, TypeScript, C#. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2022-10",
+      "end_date": "Present",
+      "duration": "2022-10 – Present",
+      "duration_months": 41,
+      "description": "Built event-driven architecture using Replicate, processing 10000+ events daily\nOptimized database queries using Replicate, improving query performance by 58%\nOptimized database queries using LlamaIndex, improving query performance by 16%\nImplemented caching layer with Go, reducing database load by 28%",
+      "technologies": [
+        "Replicate",
+        "LlamaIndex",
+        "Go"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2019-09",
+      "end_date": "2022-10",
+      "duration": "2019-09 – 2022-10",
+      "duration_months": 37,
+      "description": "Built event-driven architecture using Gin, processing 10000+ events daily\nDeveloped real-time data processing pipeline using Ruby, handling 10000+ logs/second",
+      "technologies": [
+        "Ruby",
+        "AWS",
+        "TDD",
+        "Nginx",
+        "Gin"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2016-05",
+      "end_date": "2019-05",
+      "duration": "2016-05 – 2019-05",
+      "duration_months": 36,
+      "description": "Built event-driven architecture using Express.js, processing 500+ events daily\nMentored team of 7 junior developers on Event-Driven Architecture best practices\nDesigned and implemented message queue system using Go, processing 500+ messages/hour",
+      "technologies": [
+        "Go",
+        "Express.js",
+        "Gin",
+        "Ansible",
+        "Event-Driven Architecture"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.A.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2014",
+      "gpa": "3.78",
+      "activities": "API Design Competition"
+    },
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2016",
+      "gpa": "2.88",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Designed Notification Service leveraging Java microservices architecture with Actix for caching",
+      "technologies": [
+        "Java",
+        "Actix",
+        "TypeScript"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Reading sci-fi novels",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — MLH 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "TypeScript",
+    "C#",
+    "Actix",
+    "LangChain",
+    "FastAPI",
+    "LlamaIndex",
+    "Supabase",
+    "SQLite",
+    "Cassandra",
+    "Git",
+    "RabbitMQ",
+    "Jenkins",
+    "Helm",
+    "Fly.io",
+    "Cloudflare",
+    "DigitalOcean",
+    "Railway",
+    "AWS",
+    "Google Gemini",
+    "OpenAI API",
+    "Claude API",
+    "Replicate",
+    "Agile",
+    "RAG Architecture",
+    "Scrum",
+    "Microservices"
+  ],
+  "companies": [
+    "Google",
+    "Cloudflare",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Backend Developer",
+    "Software Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University",
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "B.A.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 252,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:24.392089",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

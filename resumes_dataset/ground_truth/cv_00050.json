@@ -1,0 +1,301 @@
+{
+  "full_name": "Sharon Boyd",
+  "email": "sharon.boyd@protonmail.com",
+  "location": "West Claudia, Netherlands",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sharon Boyd",
+    "email": "sharon.boyd@protonmail.com",
+    "phone": "400.376.6177x115",
+    "location": "West Claudia, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/sharon-boyd",
+    "github_url": "https://github.com/sharonboyd",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in R, Julia, and Python. 8 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2023-04",
+      "end_date": "Present",
+      "duration": "2023-04 – Present",
+      "duration_months": 35,
+      "description": "Built end-to-end ML pipeline using Python, processing 1000+ samples daily\nBuilt ML model serving infrastructure using XGBoost, handling 500+ predictions/day\nBuilt ML model serving infrastructure using LLM Evaluation, handling 10000+ predictions/day",
+      "technologies": [
+        "LLM Evaluation",
+        "Python",
+        "XGBoost",
+        "A/B Testing"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2021-11",
+      "end_date": "2022-12",
+      "duration": "2021-11 – 2022-12",
+      "duration_months": 13,
+      "description": "Created feature engineering pipeline using BigQuery, reducing preprocessing time by 60%\nBuilt end-to-end ML pipeline using AWS SageMaker, processing 1000+ samples daily",
+      "technologies": [
+        "AWS SageMaker",
+        "BigQuery",
+        "MLOps",
+        "DVC"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2017-12",
+      "end_date": "2021-09",
+      "duration": "2017-12 – 2021-09",
+      "duration_months": 45,
+      "description": "Developed ML models using Dask, improving prediction accuracy by 28%\nImplemented NLP solution using Prompt Engineering, processing 100+ text documents daily\nImplemented NLP solution using LightGBM, processing 100000+ text documents daily\nCreated feature engineering pipeline using Dask, reducing preprocessing time by 56%",
+      "technologies": [
+        "Dask",
+        "SQL",
+        "LightGBM",
+        "Prompt Engineering"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2016",
+      "gpa": "3.98",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deployment Dashboard",
+      "description": "Developed Recommendation Engine using Julia, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "R",
+        "Julia"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Implemented Feature Store using R, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "Julia",
+        "R"
+      ],
+      "url": "https://github.com/sharonboyd/health-check-service",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Photography",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Learning new languages",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Google DevFest 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "Julia",
+    "Python",
+    "TensorFlow",
+    "OpenAI API",
+    "LangChain",
+    "Neptune",
+    "NumPy",
+    "Polars",
+    "Pandas",
+    "Airflow",
+    "Redshift",
+    "Snowflake",
+    "Lambda Labs",
+    "Bedrock",
+    "Databricks",
+    "MLOps",
+    "NLP",
+    "RAG",
+    "LLM Evaluation",
+    "Computer Vision"
+  ],
+  "companies": [
+    "Stripe",
+    "PipelineIO",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "Data Scientist",
+    "Data Scientist"
+  ],
+  "universities": [
+    "University of Washington"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 50,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:43.988109",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

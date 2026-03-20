@@ -1,0 +1,263 @@
+{
+  "full_name": "Crystal Mann",
+  "email": "crystal.mann@gmail.com",
+  "location": "New Andreatown, India",
+  "years_of_experience": 1.9,
+  "seniority_level": "junior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Crystal Mann",
+    "email": "crystal.mann@gmail.com",
+    "phone": "9382750997",
+    "location": "New Andreatown, India",
+    "linkedin_url": "https://linkedin.com/in/crystal-mann",
+    "github_url": "https://github.com/crystalmann",
+    "portfolio_url": null
+  },
+  "summary": "Junior engineer with 2 years working with SQL. Demonstrated ability to learn quickly and contribute to team projects.",
+  "work_experience": [
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2024-04",
+      "end_date": "Present",
+      "duration": "2024-04 – Present",
+      "duration_months": 23,
+      "description": "Built real-time analytics dashboard using Spark, used by 100000+ stakeholders\nCreated feature engineering pipeline using Redshift, reducing preprocessing time by 51%\nDeveloped data visualization tools using Spark, used by 100+ analysts\nDesigned data warehousing solution using Spark, enabling analytics on 500+ records",
+      "technologies": [
+        "Julia",
+        "Dagster",
+        "Databricks",
+        "Spark",
+        "MATLAB",
+        "Redshift"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2025",
+      "gpa": null,
+      "activities": "AI Research"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vector Search API",
+      "description": "Implemented Recommendation Engine using Scala, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Julia",
+        "Go",
+        "Scala"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Designed ML Model Training Pipeline leveraging Go microservices architecture with R for caching",
+      "technologies": [
+        "Go",
+        "R",
+        "SQL"
+      ],
+      "url": "https://github.com/crystalmann/config-manager",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Moreno LLC Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "R",
+    "Scala",
+    "Go",
+    "Julia",
+    "OpenAI API",
+    "Claude API",
+    "Kubeflow",
+    "Airflow",
+    "Dask",
+    "Weaviate",
+    "Redshift",
+    "Qdrant",
+    "Pinecone",
+    "AWS SageMaker",
+    "Hugging Face Endpoints",
+    "Azure ML",
+    "Lambda Labs",
+    "Bedrock",
+    "Prompt Engineering",
+    "NLP",
+    "Vector Databases",
+    "A/B Testing"
+  ],
+  "companies": [
+    "Uber"
+  ],
+  "job_titles": [
+    "AI Engineer"
+  ],
+  "universities": [
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 101,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:09.607534",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

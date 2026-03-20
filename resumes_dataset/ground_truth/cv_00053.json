@@ -1,0 +1,349 @@
+{
+  "full_name": "Donald Perez",
+  "email": "donald.perez@yahoo.com",
+  "location": "New Diane, Singapore",
+  "years_of_experience": 12.1,
+  "seniority_level": "principal",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Donald Perez",
+    "email": "donald.perez@yahoo.com",
+    "phone": "(289)498-0940x24455",
+    "location": "New Diane, Singapore",
+    "linkedin_url": null,
+    "github_url": "https://github.com/donaldperez",
+    "portfolio_url": null
+  },
+  "summary": "Executive-level technology leader with extensive background in mobile development. Expertise in Kotlin, Dart, SwiftUI with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2024-08",
+      "end_date": "Present",
+      "duration": "2024-08 – Present",
+      "duration_months": 19,
+      "description": "Implemented push notification system using Xcode, increasing user engagement by 45%\nCreated in-app purchase integration using TypeScript, generating 100000+ in revenue\nImplemented app streaming using Xcode, reducing download size by 50%\nImplemented app streaming using KMP, reducing download size by 54%",
+      "technologies": [
+        "Xcode",
+        "KMP",
+        "TypeScript"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2023-12",
+      "end_date": "2024-06",
+      "duration": "2023-12 – 2024-06",
+      "duration_months": 6,
+      "description": "Implemented deep linking using Dart, improving conversion rates by 53%\nImplemented app streaming using Fastlane, reducing download size by 20%",
+      "technologies": [
+        "Dart",
+        "Fastlane",
+        "RevenueCat",
+        "Firebase Firestore",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2019-04",
+      "end_date": "2023-07",
+      "duration": "2019-04 – 2023-07",
+      "duration_months": 51,
+      "description": "Implemented push notification system using Firebase Firestore, increasing user engagement by 26%\nBuilt offline-first architecture using Firebase Firestore, improving app responsiveness by 51%\nCreated in-app purchase integration using Firebase Firestore, generating 50000+ in revenue\nOptimized app performance using Swift, reducing battery consumption by 35%",
+      "technologies": [
+        "CI/CD for Mobile",
+        "Swift",
+        "Firebase Firestore",
+        "Hive",
+        "Java"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2015-04",
+      "end_date": "2019-02",
+      "duration": "2015-04 – 2019-02",
+      "duration_months": 46,
+      "description": "Built AR/VR features using Flutter, increasing user retention by 28%\nCreated app analytics tracking using App Store Optimization, providing insights on 500+ users\nBuilt AR/VR features using Flutter, increasing user retention by 36%\nImplemented deep linking using App Store Optimization, improving conversion rates by 61%",
+      "technologies": [
+        "Core Data",
+        "Flutter",
+        "App Store Optimization"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2013-01",
+      "end_date": "2014-12",
+      "duration": "2013-01 – 2014-12",
+      "duration_months": 23,
+      "description": "Created app analytics tracking using React Native, providing insights on 500+ users\nDeveloped cross-platform solution using Kotlin, reducing development time by 27%\nDeveloped mobile application using App Store Optimization, achieving 100+ downloads\nImplemented biometric authentication using React Native, securing 1000+ user accounts",
+      "technologies": [
+        "Kotlin",
+        "React Native",
+        "Clean Architecture",
+        "App Store Optimization",
+        "Gradle",
+        "AWS Amplify"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "iOS Developer"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Developed iOS Application using Jetpack Compose, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Flutter",
+        "Jetpack Compose",
+        "Expo"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Designed Mobile CI/CD leveraging Jetpack Compose microservices architecture with Kotlin for caching",
+      "technologies": [
+        "SwiftUI",
+        "Jetpack Compose",
+        "Kotlin"
+      ],
+      "url": "https://github.com/donaldperez/config-manager",
+      "date": "2021"
+    },
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Designed Offline Sync leveraging Dart microservices architecture with Kotlin for caching",
+      "technologies": [
+        "SwiftUI",
+        "Kotlin",
+        "Dart"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Apple Certified iOS App Developer",
+      "issuer": "Apple",
+      "date": "2022",
+      "credential_id": "VH12NY01"
+    },
+    {
+      "name": "Google Associate Android Developer",
+      "issuer": "Google",
+      "date": "2022",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Company Internal 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "Dart",
+    "SwiftUI",
+    "Flutter",
+    "React Native",
+    "Jetpack Compose",
+    "Expo",
+    "CocoaPods",
+    "Firebase",
+    "Fastlane",
+    "SQLite",
+    "Core Data",
+    "Realm",
+    "Hive",
+    "Firebase Firestore",
+    "Firebase",
+    "AWS Amplify",
+    "RevenueCat",
+    "Supabase",
+    "App Store Optimization",
+    "MVVM"
+  ],
+  "companies": [
+    "CodeReview.io",
+    "PromptStack",
+    "InfraCore",
+    "Vercel",
+    "Stripe"
+  ],
+  "job_titles": [
+    "iOS Developer",
+    "React Native Developer",
+    "iOS Developer",
+    "iOS Developer",
+    "React Native Developer"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 53,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:37:45.331598",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

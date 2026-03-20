@@ -1,0 +1,260 @@
+{
+  "full_name": "Amber Alvarez",
+  "email": "amber.alvarez@alvarez.dev",
+  "location": "Jessicaland, Canada",
+  "years_of_experience": 5.2,
+  "seniority_level": "senior",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Amber Alvarez",
+    "email": "amber.alvarez@alvarez.dev",
+    "phone": "950-754-4471x324",
+    "location": "Jessicaland, Canada",
+    "linkedin_url": "https://linkedin.com/in/amber-alvarez",
+    "github_url": "https://github.com/amberalvarez",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in design (ui/ux) with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in HTML, Python, JavaScript.",
+  "work_experience": [
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "UX Designer",
+      "title": "UX Designer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Designed data visualizations using Design Thinking, improving comprehension by 25%\nDesigned responsive layouts using React, serving 1000+ screen sizes\nConducted user research using Principle, gathering insights from 100+ users\nDesigned accessible interfaces using Principle, achieving WCAG AA compliance",
+      "technologies": [
+        "Accessibility (WCAG)",
+        "HTML",
+        "Principle",
+        "Design Thinking"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Visual Designer",
+      "title": "Visual Designer",
+      "start_date": "2020-06",
+      "end_date": "2022-01",
+      "duration": "2020-06 – 2022-01",
+      "duration_months": 19,
+      "description": "Designed accessible interfaces using Firebase, achieving WCAG AA compliance\nBuilt interactive prototypes using User Research, reducing development cycles by 37%\nDesigned responsive layouts using Angular, serving 5000+ screen sizes",
+      "technologies": [
+        "User Research",
+        "After Effects",
+        "Figma",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "UX Design Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "InVision",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zeplin",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Maze",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Information Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Usability Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Thinking",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataPipe CLI",
+      "description": "Developed Design System using InVision, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "InVision",
+        "CSS",
+        "HTML"
+      ],
+      "url": "https://github.com/amberalvarez/datapipe-cli",
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google UX Design Certificate",
+      "issuer": "Google",
+      "date": "2025",
+      "credential_id": "VF37WH36"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Nicholson-Robertson Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "Python",
+    "JavaScript",
+    "CSS",
+    "InVision",
+    "Adobe XD",
+    "Figma",
+    "After Effects",
+    "Zeplin",
+    "Storybook",
+    "Maze",
+    "Firebase",
+    "Netlify",
+    "Cloudflare",
+    "Vercel",
+    "Design Systems",
+    "Information Architecture",
+    "Usability Testing",
+    "Accessibility (WCAG)",
+    "Prototyping"
+  ],
+  "companies": [
+    "Snowflake",
+    "Meta"
+  ],
+  "job_titles": [
+    "UX Designer",
+    "Visual Designer"
+  ],
+  "universities": [
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 149,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:38:33.438052",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "full_name": "Nancy Harris",
+  "email": "nancy.harris@gmail.com",
+  "location": "West Jasonshire, Germany",
+  "years_of_experience": 3.4,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Nancy Harris",
+    "email": "nancy.harris@gmail.com",
+    "phone": "517-903-0376",
+    "location": "West Jasonshire, Germany",
+    "linkedin_url": "https://linkedin.com/in/nancy-harris",
+    "github_url": "https://github.com/nancyharris",
+    "portfolio_url": "https://nancyharris.dev"
+  },
+  "summary": "Experienced software engineer with expertise in Dart, JavaScript, and CSS. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2024-10",
+      "end_date": "Present",
+      "duration": "2024-10 – Present",
+      "duration_months": 17,
+      "description": "Built interactive data visualizations using Prettier, serving 500+ daily users\nImplemented automated testing framework using Prettier, achieving 23% code coverage\nImplemented state management solution using CSS, reducing API calls by 44%\nBuilt reusable component library using Cypress, used by 50000+ developers",
+      "technologies": [
+        "Cypress",
+        "Agile",
+        "CSS",
+        "Prettier",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2022-04",
+      "end_date": "2024-04",
+      "duration": "2022-04 – 2024-04",
+      "duration_months": 24,
+      "description": "Implemented automated testing framework using Storybook, achieving 69% code coverage\nDeveloped responsive web applications using Storybook, improving page load time by 66%",
+      "technologies": [
+        "Storybook",
+        "Render",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2020",
+      "gpa": "3.46",
+      "activities": "UI/UX Club"
+    },
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Created SPA Framework leveraging Material UI for core functionality and React for optimization",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Material UI"
+      ],
+      "url": "https://github.com/nancyharris/api-gateway",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Method finish want remain pretty summer black candidate true history\" — CVPR 2023",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "JavaScript",
+    "CSS",
+    "TypeScript",
+    "React",
+    "Vue.js",
+    "Remix",
+    "Material UI",
+    "Bootstrap",
+    "Figma",
+    "Git",
+    "ESLint",
+    "Playwright",
+    "Supabase",
+    "Firebase",
+    "Render",
+    "Cloudflare Pages",
+    "Netlify",
+    "Vercel",
+    "Responsive Design",
+    "Agile"
+  ],
+  "companies": [
+    "Datadog",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "NUS"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 452,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:41:05.964397",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

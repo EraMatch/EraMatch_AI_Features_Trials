@@ -1,0 +1,274 @@
+{
+  "full_name": "Marie Cook",
+  "email": "marie.cook@outlook.com",
+  "location": "New Joy, Singapore",
+  "years_of_experience": 12.2,
+  "seniority_level": "principal",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Marie Cook",
+    "email": "marie.cook@outlook.com",
+    "phone": "249-575-0198",
+    "location": "New Joy, Singapore",
+    "linkedin_url": "https://linkedin.com/in/marie-cook",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 12 years shaping design (ui/ux) practice. Deep expertise in JavaScript, HTML, CSS and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2025-05",
+      "end_date": "Present",
+      "duration": "2025-05 – Present",
+      "duration_months": 10,
+      "description": "Designed accessible interfaces using Prototyping, achieving WCAG AA compliance\nCreated motion design using Prototyping, increasing engagement by 42%\nConducted user research using Zeplin, gathering insights from 10000+ users",
+      "technologies": [
+        "Adobe Creative Suite",
+        "Prototyping",
+        "Zeplin",
+        "Information Architecture"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "UX Designer",
+      "title": "UX Designer",
+      "start_date": "2021-09",
+      "end_date": "2025-04",
+      "duration": "2021-09 – 2025-04",
+      "duration_months": 43,
+      "description": "Created brand identity using Cloudflare, applied across 1000+ touchpoints\nDesigned accessible interfaces using Cloudflare, achieving WCAG AA compliance\nCreated design system using Cloudflare, used across 100000+ products\nCreated design system using Prototyping, used across 10000+ products",
+      "technologies": [
+        "Figma",
+        "Sketch",
+        "Prototyping",
+        "Usability Testing",
+        "Hotjar",
+        "Cloudflare"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "UX Designer",
+      "title": "UX Designer",
+      "start_date": "2016-11",
+      "end_date": "2021-03",
+      "duration": "2016-11 – 2021-03",
+      "duration_months": 52,
+      "description": "Created motion design using Storybook, increasing engagement by 59%\nCreated information architecture using Usability Testing, improving navigation by 34%\nDesigned accessible interfaces using Usability Testing, achieving WCAG AA compliance",
+      "technologies": [
+        "Storybook",
+        "Usability Testing",
+        "Accessibility (WCAG)",
+        "Hotjar",
+        "User Research"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2013-06",
+      "end_date": "2016-11",
+      "duration": "2013-06 – 2016-11",
+      "duration_months": 41,
+      "description": "Created motion design using Adobe Creative Suite, increasing engagement by 27%\nConducted usability testing using Principle, identifying 500+ UX issues\nDesigned user interfaces using Principle, improving usability by 57%\nDesigned data visualizations using Adobe Creative Suite, improving comprehension by 17%",
+      "technologies": [
+        "HTML",
+        "Principle",
+        "Adobe Creative Suite"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2014",
+      "gpa": "3.75",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "InVision",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Developed Icon Library using CSS, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "InVision",
+        "HTML",
+        "CSS"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "InVision",
+    "Adobe XD",
+    "Sketch",
+    "Figma",
+    "Hotjar",
+    "Miro",
+    "Adobe Creative Suite",
+    "Storybook",
+    "Firebase",
+    "Cloudflare",
+    "Vercel",
+    "Netlify",
+    "Prototyping",
+    "User Research"
+  ],
+  "companies": [
+    "PromptStack",
+    "Vercel",
+    "Microsoft",
+    "Vercel"
+  ],
+  "job_titles": [
+    "Design Lead",
+    "UX Designer",
+    "UX Designer",
+    "Design Lead"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 465,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:41:12.146774",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

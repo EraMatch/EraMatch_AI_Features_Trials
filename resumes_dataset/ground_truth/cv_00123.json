@@ -1,0 +1,300 @@
+{
+  "full_name": "Leah Cruz",
+  "email": "leah.cruz@yahoo.com",
+  "location": "Phillipston, India",
+  "years_of_experience": 6.3,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Leah Cruz",
+    "email": "leah.cruz@yahoo.com",
+    "phone": "(552)534-1389x99404",
+    "location": "Phillipston, India",
+    "linkedin_url": "https://linkedin.com/in/leah-cruz",
+    "github_url": "https://github.com/leahcruz",
+    "portfolio_url": null
+  },
+  "summary": "Senior cybersecurity engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Go, PowerShell, Python with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2023-01",
+      "end_date": "Present",
+      "duration": "2023-01 – Present",
+      "duration_months": 38,
+      "description": "Implemented encryption solution using Vue, protecting 50000+ records\nBuilt incident response automation using Hashicorp Vault, reducing recovery time by 15%\nBuilt security automation using Hashicorp Vault, reducing incident response time by 31%\nImplemented identity management using Hashicorp Vault, securing 10000+ user identities",
+      "technologies": [
+        "Python",
+        "Hashicorp Vault",
+        "MongoDB",
+        "Nessus",
+        "Threat Modeling",
+        "Trivy"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2021-03",
+      "end_date": "2023-01",
+      "duration": "2021-03 – 2023-01",
+      "duration_months": 22,
+      "description": "Implemented encryption solution using Vue, protecting 10000+ records\nCreated vulnerability management program using Bash, reducing CVEs by 58%\nCreated security awareness training using Nessus, reducing phishing clicks by 38%",
+      "technologies": [
+        "Bash",
+        "Suricata",
+        "Nessus"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2019-06",
+      "end_date": "2020-10",
+      "duration": "2019-06 – 2020-10",
+      "duration_months": 16,
+      "description": "Created vulnerability management program using GCP Security Command Center, reducing CVEs by 28%\nImplemented SIEM solution using CrowdStrike, processing 500+ logs/day\nBuilt security automation using Elasticsearch, reducing incident response time by 35%",
+      "technologies": [
+        "Elasticsearch",
+        "MongoDB",
+        "Azure Sentinel",
+        "CrowdStrike",
+        "GCP Security Command Center",
+        "OWASP Top 10"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "B.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": "2.87",
+      "activities": "Cyber Defense Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Graph Query Builder",
+      "description": "Implemented Penetration Testing Framework using Snort, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "Snort",
+        "PowerShell"
+      ],
+      "url": "https://github.com/leahcruz/graph-query-builder",
+      "date": "2023"
+    },
+    {
+      "name": "ML Model Registry",
+      "description": "Implemented Encryption Utility using Snort, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Go",
+        "C",
+        "Snort"
+      ],
+      "url": "https://github.com/leahcruz/ml-model-registry",
+      "date": "2023"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Implemented Malware Detection using Go, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Go",
+        "Snort",
+        "Rust"
+      ],
+      "url": "https://github.com/leahcruz/smartcache",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — Google DevFest 2025",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — ACM 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "PowerShell",
+    "Python",
+    "C",
+    "Rust",
+    "Suricata",
+    "Snort",
+    "CrowdStrike",
+    "Hashicorp Vault",
+    "Nessus",
+    "Trivy",
+    "MongoDB",
+    "Redis",
+    "Elasticsearch",
+    "PostgreSQL",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "SAST/DAST",
+    "SOC2 Compliance",
+    "OWASP Top 10"
+  ],
+  "companies": [
+    "Twilio",
+    "Nvidia",
+    "DataPulse"
+  ],
+  "job_titles": [
+    "Security Architect",
+    "SOC Analyst",
+    "AppSec Engineer"
+  ],
+  "universities": [
+    "Stanford University"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 123,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:38:20.670088",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

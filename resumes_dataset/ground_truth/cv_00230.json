@@ -1,0 +1,261 @@
+{
+  "full_name": "Jennifer Crosby",
+  "email": "jennifer.crosby@gmail.com",
+  "location": "Terrellton, Japan",
+  "years_of_experience": 8.1,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jennifer Crosby",
+    "email": "jennifer.crosby@gmail.com",
+    "phone": "001-298-580-8177",
+    "location": "Terrellton, Japan",
+    "linkedin_url": "https://linkedin.com/in/jennifer-crosby",
+    "github_url": null,
+    "portfolio_url": "https://jennifercrosby.dev"
+  },
+  "summary": "Engineering leader with deep technical background in C++, Kotlin, and Dart. 8 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Created app analytics tracking using CI/CD for Mobile, providing insights on 100+ users\nDeveloped mobile application using CI/CD for Mobile, achieving 100+ downloads\nDeveloped cross-platform solution using MVVM, reducing development time by 52%",
+      "technologies": [
+        "CI/CD for Mobile",
+        "MVVM",
+        "React Native"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2021-01",
+      "end_date": "2022-01",
+      "duration": "2021-01 – 2022-01",
+      "duration_months": 12,
+      "description": "Implemented push notification system using Realm, increasing user engagement by 39%\nDeveloped mobile application using Java, achieving 100000+ downloads",
+      "technologies": [
+        "Java",
+        "Realm",
+        "Fastlane"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2017-07",
+      "end_date": "2020-09",
+      "duration": "2017-07 – 2020-09",
+      "duration_months": 38,
+      "description": "Implemented push notification system using Java, increasing user engagement by 27%\nDeveloped mobile application using Java, achieving 500+ downloads\nImplemented push notification system using CI/CD for Mobile, increasing user engagement by 35%\nImplemented biometric authentication using CI/CD for Mobile, securing 5000+ user accounts",
+      "technologies": [
+        "Xcode",
+        "Java",
+        "Expo",
+        "C++",
+        "CI/CD for Mobile",
+        "CocoaPods"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "M.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Mobile Development Club"
+    },
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "Ph.D.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": "3.23",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Java",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Rock climbing",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C++",
+    "Kotlin",
+    "Dart",
+    "UIKit",
+    "SwiftUI",
+    "Flutter",
+    "CocoaPods",
+    "Android Studio",
+    "Firebase",
+    "Gradle",
+    "Fastlane",
+    "Firebase Firestore",
+    "Core Data",
+    "RevenueCat",
+    "Firebase",
+    "AWS Amplify",
+    "Clean Architecture",
+    "CI/CD for Mobile"
+  ],
+  "companies": [
+    "Airbnb",
+    "Datadog",
+    "Block"
+  ],
+  "job_titles": [
+    "iOS Developer",
+    "React Native Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "TU Delft",
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 230,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:13.146008",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "full_name": "Danielle Peters",
+  "email": "danielle.peters@outlook.com",
+  "location": "New Stephanie, Japan",
+  "years_of_experience": 10.7,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Danielle Peters",
+    "email": "danielle.peters@outlook.com",
+    "phone": "(749)467-1832",
+    "location": "New Stephanie, Japan",
+    "linkedin_url": "https://linkedin.com/in/danielle-peters",
+    "github_url": "https://github.com/daniellepeters",
+    "portfolio_url": null
+  },
+  "summary": "Lead frontend engineering professional with 11 years driving technical strategy and team excellence. Expert in Dart, CSS, JavaScript with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Built real-time collaboration features using HTML, serving 100000+ concurrent users\nOptimized frontend bundle size using Progressive Web Apps, reducing load time by 50%\nImplemented automated testing framework using HTML, achieving 23% code coverage",
+      "technologies": [
+        "HTML",
+        "Progressive Web Apps",
+        "Prettier"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2019-03",
+      "end_date": "2022-01",
+      "duration": "2019-03 – 2022-01",
+      "duration_months": 34,
+      "description": "Integrated third-party APIs using MongoDB, reducing integration time by 39%\nCreated progressive web app using Storybook, increasing user engagement by 70%\nDeveloped design system using Component-Driven Development, standardizing UI across 100+ applications\nImproved website accessibility score to 34% using Remix",
+      "technologies": [
+        "Git",
+        "MongoDB",
+        "Component-Driven Development",
+        "Storybook",
+        "Remix"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2015-02",
+      "end_date": "2019-01",
+      "duration": "2015-02 – 2019-01",
+      "duration_months": 47,
+      "description": "Developed responsive web applications using Prettier, improving page load time by 44%\nBuilt real-time collaboration features using Responsive Design, serving 100+ concurrent users\nBuilt interactive data visualizations using ESLint, serving 5000+ daily users\nOptimized frontend bundle size using Prettier, reducing load time by 46%",
+      "technologies": [
+        "CSS",
+        "ESLint",
+        "Responsive Design",
+        "Prettier",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2014",
+      "gpa": "3.04",
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2015",
+      "gpa": "3.81",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "TypeScript",
+    "Angular",
+    "React",
+    "Remix",
+    "Tailwind CSS",
+    "Storybook",
+    "Jest",
+    "Vite",
+    "Figma",
+    "Git",
+    "MongoDB",
+    "Supabase",
+    "IndexedDB",
+    "Firebase",
+    "PostgreSQL",
+    "Netlify",
+    "Render",
+    "Progressive Web Apps",
+    "Agile"
+  ],
+  "companies": [
+    "CloudNova",
+    "Vercel",
+    "CodeCraft Studios"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "React Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "MIT",
+    "University of Washington"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 341,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:09.999856",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

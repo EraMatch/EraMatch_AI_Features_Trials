@@ -1,0 +1,307 @@
+{
+  "full_name": "Victor Wright",
+  "email": "victor.wright@wright.dev",
+  "location": "Alejandrofurt, Australia",
+  "years_of_experience": 6.2,
+  "seniority_level": "senior",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Victor Wright",
+    "email": "victor.wright@wright.dev",
+    "phone": "418-518-6151x554",
+    "location": "Alejandrofurt, Australia",
+    "linkedin_url": null,
+    "github_url": "https://github.com/victorwright",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in SQL, Python, and JavaScript. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2023-03",
+      "end_date": "Present",
+      "duration": "2023-03 – Present",
+      "duration_months": 36,
+      "description": "Created product documentation using Aha!, serving 100+ stakeholders\nCreated product backlog using Amplitude, managing 1000+ user stories",
+      "technologies": [
+        "Amplitude",
+        "AWS",
+        "Aha!",
+        "Kanban"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2022-05",
+      "end_date": "2023-01",
+      "duration": "2022-05 – 2023-01",
+      "duration_months": 8,
+      "description": "Implemented user onboarding using Snowflake, improving retention by 62%\nDeveloped OKR tracking using Roadmap Planning, achieving 64% of quarterly goals",
+      "technologies": [
+        "Tableau",
+        "Amplitude",
+        "Snowflake",
+        "Roadmap Planning",
+        "Confluence",
+        "A/B Testing"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Senior Product Manager",
+      "title": "Senior Product Manager",
+      "start_date": "2019-11",
+      "end_date": "2022-05",
+      "duration": "2019-11 – 2022-05",
+      "duration_months": 30,
+      "description": "Created product documentation using Snowflake, serving 100000+ stakeholders\nConducted user research using BigQuery, interviewing 50000+ users\nLed agile product development using JavaScript, delivering 50000+ sprints\nImplemented user onboarding using Python, improving retention by 46%",
+      "technologies": [
+        "Snowflake",
+        "JavaScript",
+        "Python",
+        "User Research",
+        "BigQuery",
+        "Kanban"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmunk",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Notion",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zoom",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mixpanel",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OKRs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Product Discovery",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Amplitude",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Created A/B Testing Framework leveraging JavaScript for core functionality and Notion for optimization",
+      "technologies": [
+        "Productboard",
+        "JavaScript",
+        "Notion"
+      ],
+      "url": "https://github.com/victorwright/event-sourcing-engine",
+      "date": "2019"
+    },
+    {
+      "name": "ML Model Registry",
+      "description": "Built A/B Testing Framework using R and Confluence, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Productboard",
+        "Confluence",
+        "R"
+      ],
+      "url": "https://github.com/victorwright/ml-model-registry",
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Python",
+    "JavaScript",
+    "R",
+    "Confluence",
+    "Roadmunk",
+    "Productboard",
+    "Jira",
+    "Notion",
+    "Zoom",
+    "Figma",
+    "Mixpanel",
+    "MySQL",
+    "BigQuery",
+    "Snowflake",
+    "PostgreSQL",
+    "GCP",
+    "AWS",
+    "Scrum",
+    "OKRs",
+    "Product Discovery",
+    "Kanban",
+    "User Research"
+  ],
+  "companies": [
+    "Anthropic",
+    "Meta",
+    "Tesla"
+  ],
+  "job_titles": [
+    "VP of Product",
+    "VP of Product",
+    "Senior Product Manager"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 399,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:40:39.362603",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

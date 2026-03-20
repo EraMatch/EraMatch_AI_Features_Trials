@@ -1,0 +1,274 @@
+{
+  "full_name": "Anthony Mcmillan",
+  "email": "anthony.mcmillan@mcmillan.dev",
+  "location": "Port Christine, Netherlands",
+  "years_of_experience": 3.2,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Anthony Mcmillan",
+    "email": "anthony.mcmillan@mcmillan.dev",
+    "phone": "598-451-7244x472",
+    "location": "Port Christine, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/anthony-mcmillan",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Mid-level backend engineering specialist with 3 years building production systems. Skilled in TypeScript, Go, FastAPI with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2024-05",
+      "end_date": "Present",
+      "duration": "2024-05 – Present",
+      "duration_months": 22,
+      "description": "Mentored team of 4 junior developers on C# best practices\nArchitected and built RESTful APIs serving 50000+ requests/day using FastAPI, reducing response time by 45%\nDesigned and implemented microservices architecture using MongoDB, handling 50000+ concurrent users\nDesigned and implemented message queue system using Nginx, processing 100+ messages/hour",
+      "technologies": [
+        "Kafka",
+        "Nginx",
+        "MongoDB",
+        "FastAPI",
+        "C#"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2022-12",
+      "end_date": "2024-04",
+      "duration": "2022-12 – 2024-04",
+      "duration_months": 16,
+      "description": "Built event-driven architecture using Elasticsearch, processing 5000+ events daily\nArchitected and built RESTful APIs serving 100+ requests/day using NestJS, reducing response time by 19%\nLed migration from monolithic to microservices using NestJS, improving system scalability by 45%",
+      "technologies": [
+        "Kotlin",
+        "PostgreSQL",
+        "Claude API",
+        "Ansible",
+        "NestJS",
+        "Elasticsearch"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2022",
+      "gpa": "3.20",
+      "activities": "Hackathon Winner"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Health Check Service",
+      "description": "Designed and implemented API Gateway with LangChain, integrating with ASP.NET for seamless data flow",
+      "technologies": [
+        "FastAPI",
+        "LangChain",
+        "ASP.NET"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — IEEE 2020",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Go",
+    "FastAPI",
+    "ASP.NET",
+    "LangChain",
+    "Express.js",
+    "Elasticsearch",
+    "Cassandra",
+    "CockroachDB",
+    "MySQL",
+    "Git",
+    "ArgoCD",
+    "gRPC",
+    "RabbitMQ",
+    "Kubernetes",
+    "Railway",
+    "GCP",
+    "Heroku",
+    "Azure OpenAI",
+    "Claude API",
+    "AWS Bedrock",
+    "RAG Architecture",
+    "LLM Integration"
+  ],
+  "companies": [
+    "DeployFast",
+    "Stripe"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Software Engineer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 486,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:41:22.002326",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

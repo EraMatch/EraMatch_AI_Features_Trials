@@ -1,0 +1,264 @@
+{
+  "full_name": "Charles Rose",
+  "email": "charles.rose@yahoo.com",
+  "location": "Wallmouth, Germany",
+  "years_of_experience": 9.8,
+  "seniority_level": "lead",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Charles Rose",
+    "email": "charles.rose@yahoo.com",
+    "phone": "476-257-0412x0092",
+    "location": "Wallmouth, Germany",
+    "linkedin_url": "https://linkedin.com/in/charles-rose",
+    "github_url": "https://github.com/charlesrose",
+    "portfolio_url": "https://charlesrose.dev"
+  },
+  "summary": "Lead design (ui/ux) professional with 10 years driving technical strategy and team excellence. Expert in JavaScript, Python, CSS with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Built design collaboration workflow using JavaScript, reducing review time by 49%\nCreated motion design using Adobe Creative Suite, increasing engagement by 62%\nBuilt interactive prototypes using JavaScript, reducing development cycles by 45%\nCreated brand identity using Principle, applied across 1000+ touchpoints",
+      "technologies": [
+        "Miro",
+        "JavaScript",
+        "Principle",
+        "Adobe Creative Suite"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Visual Designer",
+      "title": "Visual Designer",
+      "start_date": "2019-02",
+      "end_date": "2022-04",
+      "duration": "2019-02 – 2022-04",
+      "duration_months": 38,
+      "description": "Conducted user research using Adobe Creative Suite, gathering insights from 100000+ users\nDesigned responsive layouts using Figma, serving 100+ screen sizes\nCreated motion design using Design Systems, increasing engagement by 26%\nCreated information architecture using Zeplin, improving navigation by 66%",
+      "technologies": [
+        "Adobe Creative Suite",
+        "JavaScript",
+        "Zeplin",
+        "InVision",
+        "Design Systems"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Visual Designer",
+      "title": "Visual Designer",
+      "start_date": "2016-01",
+      "end_date": "2018-10",
+      "duration": "2016-01 – 2018-10",
+      "duration_months": 33,
+      "description": "Conducted user research using CSS, gathering insights from 500+ users\nBuilt interactive prototypes using Sketch, reducing development cycles by 48%\nCreated information architecture using CSS, improving navigation by 52%\nCreated information architecture using CSS, improving navigation by 63%",
+      "technologies": [
+        "Hotjar",
+        "CSS",
+        "Sketch",
+        "Usability Testing",
+        "HTML",
+        "Adobe XD"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Graphic Design Society"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Framer",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Maze",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zeplin",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Usability Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Information Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Thinking",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Dawson, Scott and Armstrong Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Remember interest church win miss within by\" — IEEE 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Python",
+    "CSS",
+    "HTML",
+    "Figma",
+    "Sketch",
+    "Framer",
+    "Maze",
+    "Zeplin",
+    "Miro",
+    "Firebase",
+    "Cloudflare",
+    "Vercel",
+    "Netlify",
+    "Accessibility (WCAG)",
+    "Usability Testing",
+    "Prototyping",
+    "Information Architecture",
+    "Design Thinking"
+  ],
+  "companies": [
+    "NeuroLink Labs",
+    "Datadog",
+    "Block"
+  ],
+  "job_titles": [
+    "Design Lead",
+    "Visual Designer",
+    "Visual Designer"
+  ],
+  "universities": [
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 424,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:40:51.994082",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

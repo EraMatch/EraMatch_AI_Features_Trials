@@ -1,0 +1,302 @@
+{
+  "full_name": "Kristen Vasquez",
+  "email": "kristen.vasquez@yahoo.com",
+  "location": "Port Julie, France",
+  "years_of_experience": 4.3,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kristen Vasquez",
+    "email": "kristen.vasquez@yahoo.com",
+    "phone": "8682277881",
+    "location": "Port Julie, France",
+    "linkedin_url": "https://linkedin.com/in/kristen-vasquez",
+    "github_url": "https://github.com/kristenvasquez",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Python, PHP, and Java. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2021-11",
+      "end_date": "Present",
+      "duration": "2021-11 – Present",
+      "duration_months": 52,
+      "description": "Reduced infrastructure costs by 17% through optimization using Microservices\nMentored team of 3 junior developers on NestJS best practices\nImplemented caching layer with Jenkins, reducing database load by 24%",
+      "technologies": [
+        "NestJS",
+        "Jenkins",
+        "Microservices",
+        "FastAPI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2020",
+      "gpa": "3.70",
+      "activities": null
+    },
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": "3.12",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Implemented Microservices Platform using PHP, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "PHP",
+        "Gin",
+        "Actix"
+      ],
+      "url": "https://github.com/kristenvasquez/pdf-parser-toolkit",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Coleman, Ferguson and Reed Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Music production",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "PHP",
+    "Java",
+    "Kotlin",
+    "FastAPI",
+    "Spring Boot",
+    "NestJS",
+    "Gin",
+    "Actix",
+    "MySQL",
+    "Redis",
+    "MongoDB",
+    "Neon",
+    "Elasticsearch",
+    "Terraform",
+    "Kubernetes",
+    "Helm",
+    "Kafka",
+    "AWS",
+    "Vercel",
+    "Replicate",
+    "Anthropic",
+    "OpenAI API",
+    "AWS Bedrock",
+    "Claude API",
+    "TDD",
+    "Agile",
+    "REST API Design",
+    "LLM Integration"
+  ],
+  "companies": [
+    "Vercel"
+  ],
+  "job_titles": [
+    "AI Engineer"
+  ],
+  "universities": [
+    "UC Berkeley",
+    "Purdue University"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 403,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:41.330550",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

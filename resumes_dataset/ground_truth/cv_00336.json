@@ -1,0 +1,353 @@
+{
+  "full_name": "Kenneth Knight",
+  "email": "kenneth.knight@gmail.com",
+  "location": "South Matthew, Brazil",
+  "years_of_experience": 5.4,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kenneth Knight",
+    "email": "kenneth.knight@gmail.com",
+    "phone": "867-892-2877x72519",
+    "location": "South Matthew, Brazil",
+    "linkedin_url": "https://linkedin.com/in/kenneth-knight",
+    "github_url": "https://github.com/kennethknight",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in YAML, Go, and Bash. 5 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2025-03",
+      "end_date": "Present",
+      "duration": "2025-03 – Present",
+      "duration_months": 12,
+      "description": "Created monitoring and alerting system using Incident Management, reducing MTTR by 18%\nBuilt disaster recovery solution using Jenkins, achieving RTO of 417ms\nBuilt disaster recovery solution using AWS, achieving RTO of 459ms",
+      "technologies": [
+        "Bash",
+        "Incident Management",
+        "Jenkins",
+        "AWS",
+        "Azure",
+        "YAML"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2020-08",
+      "end_date": "2025-01",
+      "duration": "2020-08 – 2025-01",
+      "duration_months": 53,
+      "description": "Created self-service provisioning portal using YAML, serving 1000+ engineers\nEstablished GitOps workflows using GCP, improving deployment frequency by 18%\nBuilt automated backup solution using Azure DevOps, ensuring 1000% data protection",
+      "technologies": [
+        "Oracle Cloud",
+        "Kubernetes",
+        "YAML",
+        "GCP",
+        "SRE Practices",
+        "Azure DevOps"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Infrastructure Club"
+    },
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.A.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataPipe CLI",
+      "description": "Built Observability Dashboard with Bash and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "Python",
+        "YAML",
+        "Bash"
+      ],
+      "url": "https://github.com/kennethknight/datapipe-cli",
+      "date": "2021"
+    },
+    {
+      "name": "Log Aggregator",
+      "description": "Built Container Registry with Python and YAML, serving 10,000+ daily active users",
+      "technologies": [
+        "YAML",
+        "Go",
+        "Python"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Built GitOps Workflow with Go and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "YAML",
+        "Python",
+        "Go"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "HashiCorp Terraform Associate",
+      "issuer": "HashiCorp",
+      "date": "2022",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — IEEE 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "YAML",
+    "Go",
+    "Bash",
+    "Python",
+    "Ansible",
+    "CloudFormation",
+    "ArgoCD",
+    "Pulumi",
+    "Helm",
+    "Podman",
+    "K3s",
+    "Envoy",
+    "CircleCI",
+    "Jenkins",
+    "Azure DevOps",
+    "GitHub Actions",
+    "GitLab CI",
+    "Grafana",
+    "Thanos",
+    "Prometheus",
+    "Datadog",
+    "Azure",
+    "Alibaba Cloud",
+    "AWS",
+    " Triton Inference Server",
+    "Kale",
+    "Seldon",
+    "SRE Practices",
+    "Platform Engineering",
+    "Incident Management",
+    "MLOps"
+  ],
+  "companies": [
+    "CloudNova",
+    "Shopify"
+  ],
+  "job_titles": [
+    "Infrastructure Engineer",
+    "Infrastructure Engineer"
+  ],
+  "universities": [
+    "University of Michigan",
+    "Columbia University"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 336,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:07.008625",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

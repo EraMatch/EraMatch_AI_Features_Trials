@@ -1,0 +1,278 @@
+{
+  "full_name": "Jessica Ramirez",
+  "email": "jessica.ramirez@ramirez.dev",
+  "location": "Robertfort, UAE",
+  "years_of_experience": 5.9,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jessica Ramirez",
+    "email": "jessica.ramirez@ramirez.dev",
+    "phone": "001-367-417-5655",
+    "location": "Robertfort, UAE",
+    "linkedin_url": "https://linkedin.com/in/jessica-ramirez",
+    "github_url": "https://github.com/jessicaramirez",
+    "portfolio_url": null
+  },
+  "summary": "Senior frontend engineering engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in TypeScript, CSS, HTML with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "duration": "2023-12 – Present",
+      "duration_months": 27,
+      "description": "Built reusable component library using Firebase, used by 1000+ developers\nImplemented state management solution using Firebase, reducing API calls by 34%",
+      "technologies": [
+        "Firebase",
+        "TypeScript",
+        "AWS Amplify",
+        "Jest"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2022-07",
+      "end_date": "2023-08",
+      "duration": "2022-07 – 2023-08",
+      "duration_months": 13,
+      "description": "Developed responsive web applications using PostgreSQL, improving page load time by 16%\nImproved website accessibility score to 65% using Render\nImproved website accessibility score to 18% using Jest",
+      "technologies": [
+        "Jest",
+        "PostgreSQL",
+        "Render"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2019-08",
+      "end_date": "2022-03",
+      "duration": "2019-08 – 2022-03",
+      "duration_months": 31,
+      "description": "Improved website accessibility score to 63% using Supabase\nImproved website accessibility score to 45% using Render\nImproved website accessibility score to 37% using Material UI",
+      "technologies": [
+        "Render",
+        "Vite",
+        "Supabase",
+        "Material UI"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.A.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Implemented Progressive Web App using Material UI, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Material UI",
+        "HTML",
+        "TypeScript"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built Real-time Chat using TypeScript and CSS, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Svelte",
+        "TypeScript",
+        "CSS"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "Schema Validator",
+      "description": "Developed SPA Framework using HTML, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "HTML",
+        "TypeScript",
+        "Material UI"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Italian (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Bates-Morales Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "CSS",
+    "HTML",
+    "Svelte",
+    "Material UI",
+    "Webpack",
+    "Storybook",
+    "Playwright",
+    "MongoDB",
+    "PostgreSQL",
+    "Render",
+    "Netlify",
+    "AWS Amplify",
+    "Responsive Design",
+    "Accessibility (WCAG)",
+    "Agile"
+  ],
+  "companies": [
+    "Shopify",
+    "Figma",
+    "Meta"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "React Developer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "Imperial College London"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 36,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:37:36.522807",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "full_name": "Jill Washington",
+  "email": "jill.washington@gmail.com",
+  "location": "Lake Melaniechester, Netherlands",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jill Washington",
+    "email": "jill.washington@gmail.com",
+    "phone": "7792334960",
+    "location": "Lake Melaniechester, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/jill-washington",
+    "github_url": "https://github.com/jillwashington",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Swift, Dart, and C++. 8 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2022-12",
+      "end_date": "Present",
+      "duration": "2022-12 – Present",
+      "duration_months": 39,
+      "description": "Implemented deep linking using Core Data, improving conversion rates by 44%\nBuilt AR/VR features using Jetpack Compose, increasing user retention by 39%",
+      "technologies": [
+        "UIKit",
+        "App Center",
+        "Core Data",
+        "Jetpack Compose"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2019-11",
+      "end_date": "2022-08",
+      "duration": "2019-11 – 2022-08",
+      "duration_months": 33,
+      "description": "Built AR/VR features using KMP, increasing user retention by 16%\nImplemented app streaming using SwiftUI, reducing download size by 24%\nImplemented biometric authentication using Core Data, securing 500+ user accounts\nImplemented biometric authentication using SwiftUI, securing 100000+ user accounts",
+      "technologies": [
+        "SwiftUI",
+        "Core Data",
+        "KMP",
+        "Gradle"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2017-10",
+      "end_date": "2019-07",
+      "duration": "2017-10 – 2019-07",
+      "duration_months": 21,
+      "description": "Optimized app performance using Firebase, reducing battery consumption by 63%\nBuilt offline-first architecture using Firebase Firestore, improving app responsiveness by 19%\nDeveloped mobile application using Android Studio, achieving 500+ downloads\nImplemented deep linking using Firebase Firestore, improving conversion rates by 67%",
+      "technologies": [
+        "Firebase",
+        "MVVM",
+        "Android Studio",
+        "Firebase Firestore"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2016",
+      "gpa": "3.77",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Arabic (Native)",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "3D printing",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Swift",
+    "Dart",
+    "C++",
+    "UIKit",
+    "Jetpack Compose",
+    "KMP",
+    "React Native",
+    "SwiftUI",
+    "Fastlane",
+    "CocoaPods",
+    "Android Studio",
+    "Hive",
+    "SQLite",
+    "Core Data",
+    "Supabase",
+    "RevenueCat",
+    "AWS Amplify",
+    "Firebase",
+    "MVVM",
+    "CI/CD for Mobile",
+    "Offline-First",
+    "App Store Optimization"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "ModelShip",
+    "Confluent"
+  ],
+  "job_titles": [
+    "React Native Developer",
+    "Android Developer",
+    "iOS Developer"
+  ],
+  "universities": [
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 321,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:59.546150",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

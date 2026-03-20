@@ -1,0 +1,308 @@
+{
+  "full_name": "Carolyn Greer",
+  "email": "carolyn.greer@outlook.com",
+  "location": "Cruzville, Canada",
+  "years_of_experience": 6.2,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Carolyn Greer",
+    "email": "carolyn.greer@outlook.com",
+    "phone": "+1-329-529-8425x799",
+    "location": "Cruzville, Canada",
+    "linkedin_url": "https://linkedin.com/in/carolyn-greer",
+    "github_url": "https://github.com/carolyngreer",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Objective-C, Kotlin, and React Native. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2024-02",
+      "end_date": "Present",
+      "duration": "2024-02 – Present",
+      "duration_months": 25,
+      "description": "Created in-app purchase integration using SQLite, generating 500+ in revenue\nCreated app analytics tracking using TestFlight, providing insights on 100+ users\nOptimized app performance using Firebase, reducing battery consumption by 52%\nDeveloped mobile application using Clean Architecture, achieving 50000+ downloads",
+      "technologies": [
+        "Android Studio",
+        "TestFlight",
+        "Firebase",
+        "SQLite",
+        "Clean Architecture"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2022-11",
+      "end_date": "2023-11",
+      "duration": "2022-11 – 2023-11",
+      "duration_months": 12,
+      "description": "Built widget functionality using Xcode, increasing daily active users by 21%\nBuilt offline-first architecture using Xcode, improving app responsiveness by 29%",
+      "technologies": [
+        "Xcode",
+        "App Store Optimization",
+        "CocoaPods"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2019-04",
+      "end_date": "2022-05",
+      "duration": "2019-04 – 2022-05",
+      "duration_months": 37,
+      "description": "Built widget functionality using Offline-First, increasing daily active users by 63%\nBuilt offline-first architecture using Clean Architecture, improving app responsiveness by 17%",
+      "technologies": [
+        "Dart",
+        "Offline-First",
+        "Java",
+        "Clean Architecture",
+        "AWS Amplify"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Built Push Notification Service using Kotlin and Jetpack Compose, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "React Native",
+        "Kotlin",
+        "Jetpack Compose"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Designed App Analytics leveraging Objective-C microservices architecture with Kotlin for caching",
+      "technologies": [
+        "Kotlin",
+        "Objective-C",
+        "Jetpack Compose"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Dutch (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Dark teacher mean information\" — NeurIPS 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Objective-C",
+    "Kotlin",
+    "React Native",
+    "Jetpack Compose",
+    "Expo",
+    "Gradle",
+    "TestFlight",
+    "Android Studio",
+    "Firebase",
+    "App Center",
+    "Firebase Firestore",
+    "SQLite",
+    "Core Data",
+    "Realm",
+    "Hive",
+    "Supabase",
+    "AWS Amplify",
+    "CI/CD for Mobile",
+    "MVVM",
+    "App Store Optimization",
+    "Clean Architecture"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "AgentForge",
+    "SkillBridge"
+  ],
+  "job_titles": [
+    "React Native Developer",
+    "iOS Developer",
+    "Android Developer"
+  ],
+  "universities": [
+    "UIUC",
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 184,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:38:50.678046",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

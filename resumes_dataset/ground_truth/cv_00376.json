@@ -1,0 +1,344 @@
+{
+  "full_name": "Rebecca Harris",
+  "email": "rebecca.harris@protonmail.com",
+  "location": "Michellefort, Netherlands",
+  "years_of_experience": 10.3,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Rebecca Harris",
+    "email": "rebecca.harris@protonmail.com",
+    "phone": "916.574.2336x29344",
+    "location": "Michellefort, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/rebecca-harris",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead devops / sre / mlops professional with 10 years driving technical strategy and team excellence. Expert in Python, HCL, Bash with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2024-12",
+      "end_date": "Present",
+      "duration": "2024-12 – Present",
+      "duration_months": 15,
+      "description": "Implemented container orchestration using Grafana, managing 500+ containers\nCreated self-service provisioning portal using Azure DevOps, serving 100000+ engineers",
+      "technologies": [
+        "Buildah",
+        "Grafana",
+        "Azure DevOps",
+        "Podman"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2022-03",
+      "end_date": "2024-12",
+      "duration": "2022-03 – 2024-12",
+      "duration_months": 33,
+      "description": "Implemented security scanning using ArgoCD, identifying 100+ vulnerabilities\nImplemented log aggregation using ELK Stack, processing 100+ logs/day\nOptimized cloud infrastructure using  Triton Inference Server, reducing costs by 49%\nImplemented container orchestration using  Triton Inference Server, managing 10000+ containers",
+      "technologies": [
+        " Triton Inference Server",
+        "ELK Stack",
+        "ArgoCD",
+        "SRE Practices"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2019-03",
+      "end_date": "2022-01",
+      "duration": "2019-03 – 2022-01",
+      "duration_months": 34,
+      "description": "Built disaster recovery solution using CDK, achieving RTO of 113ms\nImplemented log aggregation using CDK, processing 100+ logs/day",
+      "technologies": [
+        "CDK",
+        "Incident Management",
+        "K3s",
+        "Kubernetes",
+        "Terraform",
+        "Skopeo"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2015-03",
+      "end_date": "2018-09",
+      "duration": "2015-03 – 2018-09",
+      "duration_months": 42,
+      "description": "Built CI/CD pipelines using YAML, reducing deployment time from 9s to 327ms\nEstablished chaos engineering practices using YAML, improving system resilience\nBuilt disaster recovery solution using Go, achieving RTO of 145ms\nBuilt disaster recovery solution using TorchServe, achieving RTO of 165ms",
+      "technologies": [
+        "Go",
+        "YAML",
+        "TorchServe"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2013",
+      "gpa": "2.87",
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "HCL",
+    "Bash",
+    "Go",
+    "Rust",
+    "Helm",
+    "ArgoCD",
+    "Terraform",
+    "K3s",
+    "Linkerd",
+    "Skopeo",
+    "Podman",
+    "Docker",
+    "Tekton",
+    "CircleCI",
+    "GitLab CI",
+    "ELK Stack",
+    "Grafana",
+    "Prometheus",
+    "GCP",
+    "Hetzner",
+    "Linode",
+    "TensorFlow Serving",
+    " Triton Inference Server",
+    "MLflow",
+    "Kubeflow",
+    "TorchServe",
+    "Platform Engineering",
+    "Zero Trust"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "Meta",
+    "Airbnb",
+    "Confluent"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Release Engineer",
+    "DevOps Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "KAIST",
+    "MIT"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 376,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:27.895026",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

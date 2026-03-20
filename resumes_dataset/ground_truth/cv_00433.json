@@ -1,0 +1,306 @@
+{
+  "full_name": "Ronald Davis",
+  "email": "ronald.davis@protonmail.com",
+  "location": "North Jennifer, India",
+  "years_of_experience": 13.1,
+  "seniority_level": "principal",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ronald Davis",
+    "email": "ronald.davis@protonmail.com",
+    "phone": "(854)223-5677x82659",
+    "location": "North Jennifer, India",
+    "linkedin_url": "https://linkedin.com/in/ronald-davis",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 13 years shaping data science / ml / ai practice. Deep expertise in Python, MATLAB, R and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2022-03",
+      "end_date": "Present",
+      "duration": "2022-03 – Present",
+      "duration_months": 48,
+      "description": "Developed computer vision models using Neptune, achieving 42% accuracy\nBuilt end-to-end ML pipeline using Neptune, processing 50000+ samples daily\nImplemented A/B testing framework using Lambda Labs, running 10000+ experiments",
+      "technologies": [
+        "Neptune",
+        "Hugging Face",
+        "Lambda Labs"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2021-05",
+      "end_date": "2022-03",
+      "duration": "2021-05 – 2022-03",
+      "duration_months": 10,
+      "description": "Created recommendation system using ChromaDB, increasing user engagement by 59%\nBuilt real-time analytics dashboard using SQL, used by 100+ stakeholders\nCreated recommendation system using DVC, increasing user engagement by 23%",
+      "technologies": [
+        "ChromaDB",
+        "DVC",
+        "SQL",
+        "Scikit-learn"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2018-06",
+      "end_date": "2020-11",
+      "duration": "2018-06 – 2020-11",
+      "duration_months": 29,
+      "description": "Developed computer vision models using Weights & Biases, achieving 23% accuracy\nDeveloped computer vision models using Go, achieving 48% accuracy",
+      "technologies": [
+        "Go",
+        "Azure ML",
+        "Prompt Engineering",
+        "Weights & Biases",
+        "GCP Vertex AI",
+        "Scala"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2015-01",
+      "end_date": "2017-12",
+      "duration": "2015-01 – 2017-12",
+      "duration_months": 35,
+      "description": "Implemented A/B testing framework using LLM Evaluation, running 500+ experiments\nBuilt end-to-end ML pipeline using Polars, processing 50000+ samples daily",
+      "technologies": [
+        "Statistical Modeling",
+        "MongoDB",
+        "Bedrock",
+        "Polars",
+        "LLM Evaluation"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2011-10",
+      "end_date": "2014-09",
+      "duration": "2011-10 – 2014-09",
+      "duration_months": 35,
+      "description": "Implemented A/B testing framework using Hugging Face Endpoints, running 50000+ experiments\nDeveloped ML models using Hugging Face Endpoints, improving prediction accuracy by 43%",
+      "technologies": [
+        "PyTorch",
+        "Python",
+        "AWS SageMaker",
+        "Hugging Face Endpoints"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2011",
+      "gpa": "3.35",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataPipe CLI",
+      "description": "Implemented Feature Store using Python, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "R"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Log Aggregator",
+      "description": "Designed and implemented Data Quality Monitor with MATLAB, integrating with Python for seamless data flow",
+      "technologies": [
+        "Python",
+        "R",
+        "MATLAB"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Portuguese (Professional)",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — MLH 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "MATLAB",
+    "R",
+    "LangChain",
+    "PyTorch",
+    "Weights & Biases",
+    "Dagster",
+    "Redshift",
+    "ChromaDB",
+    "Lambda Labs",
+    "Databricks",
+    "Bedrock",
+    "GCP Vertex AI",
+    "Statistical Modeling",
+    "Deep Learning",
+    "Prompt Engineering",
+    "MLOps"
+  ],
+  "companies": [
+    "CloudNova",
+    "TechFlow AI",
+    "Twilio",
+    "Notion",
+    "CodeCraft Studios"
+  ],
+  "job_titles": [
+    "AI Product Engineer",
+    "Research Scientist",
+    "LLM Engineer",
+    "Data Analyst",
+    "AI Engineer"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 433,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:40:56.707196",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

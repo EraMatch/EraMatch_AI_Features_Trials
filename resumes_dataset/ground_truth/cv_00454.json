@@ -1,0 +1,231 @@
+{
+  "full_name": "Dominic Davis",
+  "email": "dominic.davis@gmail.com",
+  "location": "Lake Johnville, Japan",
+  "years_of_experience": 3.9,
+  "seniority_level": "mid",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Dominic Davis",
+    "email": "dominic.davis@gmail.com",
+    "phone": "+1-866-334-3629x4897",
+    "location": "Lake Johnville, Japan",
+    "linkedin_url": "https://linkedin.com/in/dominic-davis",
+    "github_url": "https://github.com/dominicdavis",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level design (ui/ux) specialist with 4 years building production systems. Skilled in JavaScript, Python, HTML with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "UI Designer",
+      "title": "UI Designer",
+      "start_date": "2022-12",
+      "end_date": "Present",
+      "duration": "2022-12 – Present",
+      "duration_months": 39,
+      "description": "Conducted user research using Cloudflare, gathering insights from 100000+ users\nDesigned accessible interfaces using Firebase, achieving WCAG AA compliance\nDesigned user interfaces using Python, improving usability by 64%\nCreated motion design using Firebase, increasing engagement by 59%",
+      "technologies": [
+        "Cloudflare",
+        "Firebase",
+        "Accessibility (WCAG)",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2021-12",
+      "end_date": "2022-08",
+      "duration": "2021-12 – 2022-08",
+      "duration_months": 8,
+      "description": "Created design system using Miro, used across 10000+ products\nCreated motion design using After Effects, increasing engagement by 23%\nDesigned responsive layouts using Figma, serving 10000+ screen sizes",
+      "technologies": [
+        "Principle",
+        "Miro",
+        "Firebase",
+        "After Effects",
+        "Sketch",
+        "Information Architecture"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2022",
+      "gpa": "3.79",
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2020",
+      "gpa": "3.87",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Framer",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Information Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Arabic (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Python",
+    "HTML",
+    "CSS",
+    "Framer",
+    "Sketch",
+    "Figma",
+    "Miro",
+    "Figma",
+    "Hotjar",
+    "Adobe Creative Suite",
+    "Firebase",
+    "Cloudflare",
+    "Vercel",
+    "Netlify",
+    "User Research",
+    "Information Architecture"
+  ],
+  "companies": [
+    "PipelineIO",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "UI Designer",
+    "Design Lead"
+  ],
+  "universities": [
+    "Purdue University",
+    "Imperial College London"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 454,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:41:06.829089",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

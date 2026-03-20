@@ -1,0 +1,252 @@
+{
+  "full_name": "Tyler Daugherty",
+  "email": "tyler.daugherty@yahoo.com",
+  "location": "Thompsonland, Singapore",
+  "years_of_experience": 4.1,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Tyler Daugherty",
+    "email": "tyler.daugherty@yahoo.com",
+    "phone": "580-604-3973x59893",
+    "location": "Thompsonland, Singapore",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": "https://tylerdaugherty.dev"
+  },
+  "summary": "Mid-level frontend engineering specialist with 4 years building production systems. Skilled in Python, TypeScript, HTML with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2025-03",
+      "end_date": "Present",
+      "duration": "2025-03 – Present",
+      "duration_months": 12,
+      "description": "Created accessible UI components using ESLint, achieving WCAG AA compliance\nImproved website accessibility score to 27% using IndexedDB",
+      "technologies": [
+        "IndexedDB",
+        "Dart",
+        "ESLint"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2021-11",
+      "end_date": "2024-12",
+      "duration": "2021-11 – 2024-12",
+      "duration_months": 37,
+      "description": "Optimized frontend bundle size using Firebase, reducing load time by 18%\nImplemented state management solution using Cypress, reducing API calls by 28%\nBuilt real-time collaboration features using ESLint, serving 50000+ concurrent users",
+      "technologies": [
+        "PostgreSQL",
+        "Astro",
+        "Firebase",
+        "Cypress",
+        "Progressive Web Apps",
+        "ESLint"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Google Developer Group"
+    },
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2018",
+      "gpa": "2.93",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — MLH 2024",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Material UI",
+    "Astro",
+    "Angular",
+    "Figma",
+    "Jest",
+    "PostgreSQL",
+    "MongoDB",
+    "Netlify",
+    "AWS Amplify",
+    "Vercel",
+    "Cloudflare Pages",
+    "Render",
+    "Agile",
+    "Accessibility (WCAG)",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "Airbnb",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "Full-Stack Developer"
+  ],
+  "universities": [
+    "MIT",
+    "TU Delft"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 171,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:44.257582",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

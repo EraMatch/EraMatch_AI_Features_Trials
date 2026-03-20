@@ -1,0 +1,295 @@
+{
+  "full_name": "Amy Welch",
+  "email": "amy.welch@welch.dev",
+  "location": "Schneiderside, India",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Amy Welch",
+    "email": "amy.welch@welch.dev",
+    "phone": "001-484-866-8455x048",
+    "location": "Schneiderside, India",
+    "linkedin_url": null,
+    "github_url": "https://github.com/amywelch",
+    "portfolio_url": null
+  },
+  "summary": "Results-driven devops / sre / mlops professional with 4 years of experience designing and implementing scalable solutions using PowerShell, Rust, Pulumi. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2021-12",
+      "end_date": "Present",
+      "duration": "2021-12 – Present",
+      "duration_months": 51,
+      "description": "Built CI/CD pipelines using GitLab CI, reducing deployment time from 25s to 445ms\nBuilt disaster recovery solution using YAML, achieving RTO of 270ms\nCreated monitoring and alerting system using YAML, reducing MTTR by 45%\nBuilt automated backup solution using VictoriaMetrics, ensuring 5000% data protection",
+      "technologies": [
+        "VictoriaMetrics",
+        "GitLab CI",
+        "MLOps",
+        "YAML"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "B.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": "3.95",
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "Ph.D.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Parser",
+      "description": "Created Secrets Management leveraging MLOps for core functionality and PowerShell for optimization",
+      "technologies": [
+        "PowerShell",
+        "Rust",
+        "MLOps"
+      ],
+      "url": "https://github.com/amywelch/resume-parser",
+      "date": "2020"
+    },
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Built Secrets Management with PowerShell and Crossplane, serving 10,000+ daily active users",
+      "technologies": [
+        "PowerShell",
+        "Rust",
+        "Crossplane"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "English (Native)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PowerShell",
+    "Rust",
+    "Pulumi",
+    "CDK",
+    "Crossplane",
+    "Linkerd",
+    "Buildah",
+    "Argo Workflows",
+    "Tekton",
+    "CircleCI",
+    "GitHub Actions",
+    "Grafana",
+    "Opsgenie",
+    "VictoriaMetrics",
+    "Thanos",
+    "Hetzner",
+    "Linode",
+    "Alibaba Cloud",
+    "AWS",
+    "Kubeflow",
+    "TorchServe",
+    "MLflow",
+    "SRE Practices",
+    "Incident Management",
+    "MLOps",
+    "Infrastructure as Code"
+  ],
+  "companies": [
+    "Microsoft"
+  ],
+  "job_titles": [
+    "SRE"
+  ],
+  "universities": [
+    "TU Delft",
+    "UT Austin"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 329,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:03.447634",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

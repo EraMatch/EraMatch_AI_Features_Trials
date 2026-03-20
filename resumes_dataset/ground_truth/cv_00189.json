@@ -1,0 +1,274 @@
+{
+  "full_name": "Misty Arias",
+  "email": "misty.arias@protonmail.com",
+  "location": "New Gavin, Germany",
+  "years_of_experience": 3.4,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Misty Arias",
+    "email": "misty.arias@protonmail.com",
+    "phone": "(598)249-0277x0384",
+    "location": "New Gavin, Germany",
+    "linkedin_url": "https://linkedin.com/in/misty-arias",
+    "github_url": "https://github.com/mistyarias",
+    "portfolio_url": "https://mistyarias.dev"
+  },
+  "summary": "Results-driven devops / sre / mlops professional with 3 years of experience designing and implementing scalable solutions using Rust, YAML, Python. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2022-10",
+      "end_date": "Present",
+      "duration": "2022-10 – Present",
+      "duration_months": 41,
+      "description": "Built disaster recovery solution using AWS, achieving RTO of 355ms\nBuilt CI/CD pipelines using Terraform, reducing deployment time from 2s to 151ms",
+      "technologies": [
+        "Azure DevOps",
+        "AWS",
+        "Helm",
+        "Terraform"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2020",
+      "gpa": "3.81",
+      "activities": "Linux Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Config Manager",
+      "description": "Developed Monitoring System using Python, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "Rust",
+        "YAML"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Designed and implemented Observability Dashboard with Rust, integrating with Bash for seamless data flow",
+      "technologies": [
+        "HCL",
+        "Bash",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Company Internal 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "YAML",
+    "Python",
+    "HCL",
+    "Bash",
+    "Crossplane",
+    "Pulumi",
+    "CloudFormation",
+    "Podman",
+    "Buildah",
+    "Linkerd",
+    "Argo Workflows",
+    "Jenkins",
+    "ELK Stack",
+    "PagerDuty",
+    "Hetzner",
+    "AWS",
+    "GCP",
+    "Seldon",
+    " Triton Inference Server",
+    "TensorFlow Serving",
+    "Kubeflow",
+    "MLOps",
+    "Zero Trust",
+    "Incident Management",
+    "SRE Practices"
+  ],
+  "companies": [
+    "Block"
+  ],
+  "job_titles": [
+    "Infrastructure Engineer"
+  ],
+  "universities": [
+    "Stanford University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 189,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:53.083941",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

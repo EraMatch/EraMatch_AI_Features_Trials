@@ -1,0 +1,244 @@
+{
+  "full_name": "Benjamin Ayala",
+  "email": "benjamin.ayala@protonmail.com",
+  "location": "Jessicamouth, India",
+  "years_of_experience": 4.9,
+  "seniority_level": "mid",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Benjamin Ayala",
+    "email": "benjamin.ayala@protonmail.com",
+    "phone": "(386)885-0142x940",
+    "location": "Jessicamouth, India",
+    "linkedin_url": "https://linkedin.com/in/benjamin-ayala",
+    "github_url": "https://github.com/benjaminayala",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Java, TypeScript, and Kotlin. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2024-05",
+      "end_date": "Present",
+      "duration": "2024-05 – Present",
+      "duration_months": 22,
+      "description": "Built AR/VR features using Android Studio, increasing user retention by 61%\nBuilt widget functionality using Java, increasing daily active users by 47%\nCreated in-app purchase integration using Android Studio, generating 100000+ in revenue\nDeveloped cross-platform solution using CI/CD for Mobile, reducing development time by 22%",
+      "technologies": [
+        "Flutter",
+        "CI/CD for Mobile",
+        "Android Studio",
+        "Java"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2020-10",
+      "end_date": "2023-11",
+      "duration": "2020-10 – 2023-11",
+      "duration_months": 37,
+      "description": "Implemented deep linking using Java, improving conversion rates by 65%\nCreated app analytics tracking using Java, providing insights on 1000+ users",
+      "technologies": [
+        "App Center",
+        "Java",
+        "Swift",
+        "AWS Amplify"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Apple Certified iOS App Developer",
+      "issuer": "Apple",
+      "date": "2020",
+      "credential_id": "YK69MQ81"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "TypeScript",
+    "Kotlin",
+    "Dart",
+    "Flutter",
+    "Jetpack Compose",
+    "UIKit",
+    "React Native",
+    "SwiftUI",
+    "Fastlane",
+    "Gradle",
+    "Android Studio",
+    "SQLite",
+    "Realm",
+    "Hive",
+    "Firebase",
+    "AWS Amplify",
+    "Supabase",
+    "RevenueCat",
+    "MVVM",
+    "Offline-First"
+  ],
+  "companies": [
+    "Uber",
+    "DataPulse"
+  ],
+  "job_titles": [
+    "Android Developer",
+    "Android Developer"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 17,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:37:26.801295",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

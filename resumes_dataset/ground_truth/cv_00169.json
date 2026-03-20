@@ -1,0 +1,301 @@
+{
+  "full_name": "Miss Tina Gordon",
+  "email": "miss.tina.gordon@yahoo.com",
+  "location": "South Dustinton, Canada",
+  "years_of_experience": 13.0,
+  "seniority_level": "principal",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Miss Tina Gordon",
+    "email": "miss.tina.gordon@yahoo.com",
+    "phone": "001-251-358-7996x846",
+    "location": "South Dustinton, Canada",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Executive-level technology leader with extensive background in devops / sre / mlops. Expertise in Bash, PowerShell, YAML with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2021-11",
+      "end_date": "Present",
+      "duration": "2021-11 – Present",
+      "duration_months": 52,
+      "description": "Implemented log aggregation using Linode, processing 5000+ logs/day\nEstablished chaos engineering practices using Bash, improving system resilience",
+      "technologies": [
+        "Chaos Engineering",
+        "Linode",
+        "GCP",
+        "Bash",
+        "Helm",
+        "Hetzner"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2018-08",
+      "end_date": "2021-08",
+      "duration": "2018-08 – 2021-08",
+      "duration_months": 36,
+      "description": "Built disaster recovery solution using CloudFormation, achieving RTO of 188ms\nBuilt disaster recovery solution using CloudFormation, achieving RTO of 137ms",
+      "technologies": [
+        "SRE Practices",
+        "CloudFormation",
+        " Triton Inference Server",
+        "Docker",
+        "Infrastructure as Code"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2014-03",
+      "end_date": "2018-06",
+      "duration": "2014-03 – 2018-06",
+      "duration_months": 51,
+      "description": "Built CI/CD pipelines using Podman, reducing deployment time from 12s to 294ms\nBuilt disaster recovery solution using K3s, achieving RTO of 112ms",
+      "technologies": [
+        "CDK",
+        "K3s",
+        "SRE Practices",
+        "Podman",
+        "Zero Trust"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2012-06",
+      "end_date": "2013-11",
+      "duration": "2012-06 – 2013-11",
+      "duration_months": 17,
+      "description": "Implemented security scanning using AWS, identifying 100+ vulnerabilities\nEstablished GitOps workflows using Platform Engineering, improving deployment frequency by 26%\nBuilt automated backup solution using Azure, ensuring 1000% data protection",
+      "technologies": [
+        "Alibaba Cloud",
+        "CDK",
+        "Skopeo",
+        "Platform Engineering",
+        "Azure",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": "SRE Team"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Swedish (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "PowerShell",
+    "YAML",
+    "Go",
+    "HCL",
+    "Pulumi",
+    "CDK",
+    "Envoy",
+    "Linkerd",
+    "CircleCI",
+    "GitLab CI",
+    "Thanos",
+    "Prometheus",
+    "Alibaba Cloud",
+    "AWS",
+    "Azure",
+    "Linode",
+    "MLflow",
+    " Triton Inference Server",
+    "Zero Trust",
+    "Infrastructure as Code",
+    "SRE Practices"
+  ],
+  "companies": [
+    "Tesla",
+    "Apple",
+    "Block",
+    "Vercel"
+  ],
+  "job_titles": [
+    "Cloud Engineer",
+    "SRE",
+    "DevOps Engineer",
+    "Cloud Engineer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 169,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:43.296540",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "full_name": "Paula Gentry",
+  "email": "paula.gentry@protonmail.com",
+  "location": "East Jenny, India",
+  "years_of_experience": 7.6,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Paula Gentry",
+    "email": "paula.gentry@protonmail.com",
+    "phone": "480.378.2357x845",
+    "location": "East Jenny, India",
+    "linkedin_url": null,
+    "github_url": "https://github.com/paulagentry",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in devops / sre / mlops with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Rust, Go, Bash.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": "2023-07 – Present",
+      "duration_months": 32,
+      "description": "Built CI/CD pipelines using Kubernetes, reducing deployment time from 19s to 491ms\nEstablished chaos engineering practices using Kubernetes, improving system resilience\nEstablished GitOps workflows using Skopeo, improving deployment frequency by 58%",
+      "technologies": [
+        "Terraform",
+        "Podman",
+        "Kubernetes",
+        "Skopeo"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2020-01",
+      "end_date": "2023-06",
+      "duration": "2020-01 – 2023-06",
+      "duration_months": 41,
+      "description": "Built automated backup solution using Argo Workflows, ensuring 100000% data protection\nDesigned and implemented infrastructure as code using MLOps, managing 10000+ servers\nImplemented log aggregation using MLOps, processing 500+ logs/day\nImplemented container orchestration using Istio, managing 50000+ containers",
+      "technologies": [
+        "Podman",
+        "Istio",
+        "Ansible",
+        "Argo Workflows",
+        "MLOps"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2018-04",
+      "end_date": "2019-10",
+      "duration": "2018-04 – 2019-10",
+      "duration_months": 18,
+      "description": "Built disaster recovery solution using TorchServe, achieving RTO of 95ms\nEstablished GitOps workflows using Thanos, improving deployment frequency by 31%\nImplemented security scanning using Kale, identifying 50000+ vulnerabilities",
+      "technologies": [
+        "Go",
+        "Ansible",
+        "Grafana",
+        "Kale",
+        "TorchServe",
+        "Thanos"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.A.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2018",
+      "gpa": "2.99",
+      "activities": "SRE Team"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prompt Playground",
+      "description": "Designed and implemented Chaos Engineering Framework with Bash, integrating with Go for seamless data flow",
+      "technologies": [
+        "Bash",
+        "Go",
+        "Python"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Hughes-Hancock Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Go",
+    "Bash",
+    "Python",
+    "Crossplane",
+    "CloudFormation",
+    "ArgoCD",
+    "Docker",
+    "Istio",
+    "Kubernetes",
+    "Skopeo",
+    "Envoy",
+    "Tekton",
+    "Jenkins",
+    "Prometheus",
+    "Opsgenie",
+    "PagerDuty",
+    "Thanos",
+    "Hetzner",
+    "AWS",
+    "TorchServe",
+    "MLflow",
+    "Kale",
+    " Triton Inference Server",
+    "Infrastructure as Code",
+    "GitOps",
+    "Incident Management",
+    "MLOps"
+  ],
+  "companies": [
+    "HashiCorp",
+    "Salesforce",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "Release Engineer",
+    "DevOps Engineer",
+    "SRE"
+  ],
+  "universities": [
+    "University of Toronto"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 240,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:18.531036",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

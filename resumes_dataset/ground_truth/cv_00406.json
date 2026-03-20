@@ -1,0 +1,270 @@
+{
+  "full_name": "Steve Lopez",
+  "email": "steve.lopez@gmail.com",
+  "location": "Port Diane, UK",
+  "years_of_experience": 8.5,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Steve Lopez",
+    "email": "steve.lopez@gmail.com",
+    "phone": "(901)267-3188x261",
+    "location": "Port Diane, UK",
+    "linkedin_url": "https://linkedin.com/in/steve-lopez",
+    "github_url": null,
+    "portfolio_url": "https://stevelopez.dev"
+  },
+  "summary": "Senior technical leader specializing in mobile development with expertise in Objective-C, Java, Kotlin. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2023-05",
+      "end_date": "Present",
+      "duration": "2023-05 – Present",
+      "duration_months": 34,
+      "description": "Built widget functionality using Firebase, increasing daily active users by 65%\nOptimized app performance using RevenueCat, reducing battery consumption by 34%\nImplemented app streaming using Xcode, reducing download size by 15%",
+      "technologies": [
+        "Xcode",
+        "Firebase",
+        "RevenueCat",
+        "Clean Architecture",
+        "Flutter"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2022-02",
+      "end_date": "2023-05",
+      "duration": "2022-02 – 2023-05",
+      "duration_months": 15,
+      "description": "Created app analytics tracking using UIKit, providing insights on 100000+ users\nDeveloped cross-platform solution using Fastlane, reducing development time by 65%\nOptimized app performance using Xcode, reducing battery consumption by 16%",
+      "technologies": [
+        "C++",
+        "Fastlane",
+        "Firebase Firestore",
+        "Xcode",
+        "UIKit"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2017-03",
+      "end_date": "2021-08",
+      "duration": "2017-03 – 2021-08",
+      "duration_months": 53,
+      "description": "Built AR/VR features using SwiftUI, increasing user retention by 30%\nCreated in-app purchase integration using AWS Amplify, generating 100000+ in revenue\nBuilt widget functionality using SwiftUI, increasing daily active users by 62%\nCreated app analytics tracking using TestFlight, providing insights on 10000+ users",
+      "technologies": [
+        "SwiftUI",
+        "AWS Amplify",
+        "MVVM",
+        "TestFlight",
+        "RevenueCat"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "B.A.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": "2.88",
+      "activities": "Mobile Development Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Designed and implemented Mobile Backend API with KMP, integrating with Java for seamless data flow",
+      "technologies": [
+        "KMP",
+        "Java",
+        "Objective-C"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "ChatBot Framework",
+      "description": "Built Mobile Backend API using Java and Kotlin, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Java",
+        "Kotlin",
+        "KMP"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Feature Store",
+      "description": "Built iOS Application using Jetpack Compose and Kotlin, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Jetpack Compose",
+        "Kotlin",
+        "Objective-C"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Likely hear hair throughout movie especially writer\" — ICML 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Objective-C",
+    "Java",
+    "Kotlin",
+    "KMP",
+    "Jetpack Compose",
+    "Xcode",
+    "Firebase",
+    "Hive",
+    "Firebase Firestore",
+    "Supabase",
+    "RevenueCat",
+    "Offline-First",
+    "MVVM",
+    "App Store Optimization",
+    "Clean Architecture",
+    "CI/CD for Mobile"
+  ],
+  "companies": [
+    "Shopify",
+    "HashiCorp",
+    "DataPulse"
+  ],
+  "job_titles": [
+    "Android Developer",
+    "Android Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "Stanford University"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 406,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:40:42.827839",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

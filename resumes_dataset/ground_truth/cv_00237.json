@@ -1,0 +1,283 @@
+{
+  "full_name": "Jennifer Williams",
+  "email": "jennifer.williams@outlook.com",
+  "location": "Lake Mathewfurt, Germany",
+  "years_of_experience": 6.7,
+  "seniority_level": "senior",
+  "primary_domain": "QA / Testing",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jennifer Williams",
+    "email": "jennifer.williams@outlook.com",
+    "phone": "(783)203-4414x488",
+    "location": "Lake Mathewfurt, Germany",
+    "linkedin_url": "https://linkedin.com/in/jennifer-williams",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Python, Ruby, and C#. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "SDET",
+      "title": "SDET",
+      "start_date": "2023-03",
+      "end_date": "Present",
+      "duration": "2023-03 – Present",
+      "duration_months": 36,
+      "description": "Created test data management using Appium, generating 100+ test records\nDeveloped test automation framework using Test Planning, achieving 54% automation coverage\nDeveloped API testing framework using JavaScript, testing 1000+ endpoints\nDeveloped BDD framework using Test Planning, writing 10000+ scenarios",
+      "technologies": [
+        "Test Planning",
+        "SoapUI",
+        "JavaScript",
+        "PostgreSQL",
+        "C#",
+        "Appium"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Test Automation Engineer",
+      "title": "Test Automation Engineer",
+      "start_date": "2019-05",
+      "end_date": "2023-01",
+      "duration": "2019-05 – 2023-01",
+      "duration_months": 44,
+      "description": "Developed BDD framework using Python, writing 100000+ scenarios\nCreated test reporting dashboard using Postman, tracking 10000+ test metrics",
+      "technologies": [
+        "Python",
+        "Test Planning",
+        "Postman"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": "3.23",
+      "activities": "QA Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Selenium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JUnit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestNG",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Appium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sauce Labs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JMeter",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BrowserStack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Postman",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SoapUI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Certified ScrumMaster",
+      "issuer": "Scrum Alliance",
+      "date": "2022",
+      "credential_id": "MV99VR02"
+    },
+    {
+      "name": "AWS Certified DevOps Engineer",
+      "issuer": "Amazon Web Services",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Drone building",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Hendricks-Robles Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Company Internal 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Ruby",
+    "C#",
+    "Selenium",
+    "Cypress",
+    "JUnit",
+    "TestNG",
+    "Appium",
+    "Sauce Labs",
+    "JMeter",
+    "BrowserStack",
+    "Git",
+    "Jira",
+    "MongoDB",
+    "PostgreSQL",
+    "Redis",
+    "MySQL",
+    "Azure",
+    "GCP",
+    "AWS",
+    "TDD",
+    "Agile Testing",
+    "Test Planning"
+  ],
+  "companies": [
+    "CloudNova",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "SDET",
+    "Test Automation Engineer"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 237,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:39:16.961206",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

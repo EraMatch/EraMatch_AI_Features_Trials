@@ -1,0 +1,260 @@
+{
+  "full_name": "Karen Williams",
+  "email": "karen.williams@outlook.com",
+  "location": "West Franciscobury, Australia",
+  "years_of_experience": 5.2,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Karen Williams",
+    "email": "karen.williams@outlook.com",
+    "phone": "448-890-2503",
+    "location": "West Franciscobury, Australia",
+    "linkedin_url": "https://linkedin.com/in/karen-williams",
+    "github_url": "https://github.com/karenwilliams",
+    "portfolio_url": null
+  },
+  "summary": "Senior data science / ml / ai engineer with 5 years of experience architecting and delivering enterprise solutions. Expert in Go, R, LightGBM with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2025-09",
+      "end_date": "Present",
+      "duration": "2025-09 – Present",
+      "duration_months": 6,
+      "description": "Implemented A/B testing framework using Scala, running 10000+ experiments\nDeveloped ML models using Redshift, improving prediction accuracy by 23%\nCreated recommendation system using Scala, increasing user engagement by 55%\nDeveloped data visualization tools using R, used by 100000+ analysts",
+      "technologies": [
+        "Scala",
+        "Lambda Labs",
+        "Redshift",
+        "OpenCV",
+        "R",
+        "TensorFlow"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2021-06",
+      "end_date": "2025-04",
+      "duration": "2021-06 – 2025-04",
+      "duration_months": 46,
+      "description": "Designed data warehousing solution using Lambda Labs, enabling analytics on 500+ records\nCreated feature engineering pipeline using Pandas, reducing preprocessing time by 68%\nBuilt ML model serving infrastructure using LightGBM, handling 50000+ predictions/day\nDeveloped ML models using LightGBM, improving prediction accuracy by 33%",
+      "technologies": [
+        "Pandas",
+        "LightGBM",
+        "Lambda Labs"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2020-06",
+      "end_date": "2021-04",
+      "duration": "2020-06 – 2021-04",
+      "duration_months": 10,
+      "description": "Built end-to-end ML pipeline using Qdrant, processing 1000+ samples daily\nBuilt ML model serving infrastructure using Qdrant, handling 10000+ predictions/day\nBuilt real-time analytics dashboard using Vector Databases, used by 50000+ stakeholders",
+      "technologies": [
+        "AWS SageMaker",
+        "Databricks",
+        "Qdrant",
+        "Vector Databases"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.95",
+      "activities": "Analytics Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "AWS Certified Machine Learning",
+      "issuer": "Amazon Web Services",
+      "date": "2025",
+      "credential_id": null
+    },
+    {
+      "name": "Databricks Certified Data Engineer",
+      "issuer": "Databricks",
+      "date": "2020",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "R",
+    "LightGBM",
+    "OpenCV",
+    "Claude API",
+    "Neptune",
+    "NumPy",
+    "DVC",
+    "Spark",
+    "Dask",
+    "Weaviate",
+    "Snowflake",
+    "GCP Vertex AI",
+    "AWS SageMaker",
+    "Lambda Labs",
+    "RAG",
+    "Fine-tuning",
+    "Computer Vision",
+    "Prompt Engineering"
+  ],
+  "companies": [
+    "Amazon",
+    "Uber",
+    "TechFlow AI"
+  ],
+  "job_titles": [
+    "Research Scientist",
+    "Research Scientist",
+    "AI Product Engineer"
+  ],
+  "universities": [
+    "University of Washington"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 104,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:11.314129",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

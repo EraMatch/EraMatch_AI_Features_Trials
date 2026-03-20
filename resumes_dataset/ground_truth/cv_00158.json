@@ -1,0 +1,262 @@
+{
+  "full_name": "Steven Howard",
+  "email": "steven.howard@howard.dev",
+  "location": "Jenniferton, UK",
+  "years_of_experience": 3.1,
+  "seniority_level": "mid",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Steven Howard",
+    "email": "steven.howard@howard.dev",
+    "phone": "426.303.3230",
+    "location": "Jenniferton, UK",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": "https://stevenhoward.dev"
+  },
+  "summary": "Mid-level mobile development specialist with 3 years building production systems. Skilled in Dart, Kotlin, Flutter with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2025-08",
+      "end_date": "Present",
+      "duration": "2025-08 – Present",
+      "duration_months": 7,
+      "description": "Created in-app purchase integration using UIKit, generating 100000+ in revenue\nBuilt AR/VR features using UIKit, increasing user retention by 45%",
+      "technologies": [
+        "UIKit",
+        "Java",
+        "CI/CD for Mobile"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2023-02",
+      "end_date": "2025-08",
+      "duration": "2023-02 – 2025-08",
+      "duration_months": 30,
+      "description": "Optimized app performance using Jetpack Compose, reducing battery consumption by 59%\nCreated in-app purchase integration using Jetpack Compose, generating 100+ in revenue\nOptimized app performance using Jetpack Compose, reducing battery consumption by 62%",
+      "technologies": [
+        "Jetpack Compose",
+        "UIKit",
+        "App Store Optimization",
+        "MVVM",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Java",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Schema Validator",
+      "description": "Built Push Notification Service with Dart and React Native, serving 10,000+ daily active users",
+      "technologies": [
+        "Dart",
+        "React Native",
+        "Kotlin"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — ACM 2025",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Mcdowell-Scott Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "Kotlin",
+    "Flutter",
+    "React Native",
+    "Jetpack Compose",
+    "Gradle",
+    "CocoaPods",
+    "SQLite",
+    "Hive",
+    "Core Data",
+    "AWS Amplify",
+    "Supabase",
+    "Firebase",
+    "RevenueCat",
+    "Clean Architecture",
+    "CI/CD for Mobile",
+    "App Store Optimization",
+    "Offline-First"
+  ],
+  "companies": [
+    "Tesla",
+    "CodeReview.io"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "Georgia Tech",
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 158,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:38:38.101481",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

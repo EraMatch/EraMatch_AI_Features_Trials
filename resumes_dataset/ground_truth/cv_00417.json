@@ -1,0 +1,285 @@
+{
+  "full_name": "Matthew Berg",
+  "email": "matthew.berg@gmail.com",
+  "location": "Eddiefort, UK",
+  "years_of_experience": 7.2,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Matthew Berg",
+    "email": "matthew.berg@gmail.com",
+    "phone": "+1-598-837-3543x9627",
+    "location": "Eddiefort, UK",
+    "linkedin_url": "https://linkedin.com/in/matthew-berg",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Kotlin, Swift, and UIKit. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2024-08",
+      "end_date": "Present",
+      "duration": "2024-08 – Present",
+      "duration_months": 19,
+      "description": "Implemented app streaming using KMP, reducing download size by 41%\nCreated in-app purchase integration using KMP, generating 5000+ in revenue",
+      "technologies": [
+        "MVVM",
+        "Objective-C",
+        "CocoaPods",
+        "TestFlight",
+        "Clean Architecture",
+        "KMP"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2021-01",
+      "end_date": "2024-08",
+      "duration": "2021-01 – 2024-08",
+      "duration_months": 43,
+      "description": "Created app analytics tracking using Core Data, providing insights on 100000+ users\nImplemented deep linking using Flutter, improving conversion rates by 22%\nBuilt offline-first architecture using Clean Architecture, improving app responsiveness by 39%\nBuilt widget functionality using Realm, increasing daily active users by 63%",
+      "technologies": [
+        "Core Data",
+        "Swift",
+        "Flutter",
+        "Realm",
+        "Clean Architecture",
+        "SQLite"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2018-10",
+      "end_date": "2020-11",
+      "duration": "2018-10 – 2020-11",
+      "duration_months": 25,
+      "description": "Implemented app streaming using Gradle, reducing download size by 58%\nImplemented deep linking using CocoaPods, improving conversion rates by 31%",
+      "technologies": [
+        "Supabase",
+        "Hive",
+        "CocoaPods",
+        "Gradle",
+        "C++"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Google Associate Android Developer",
+      "issuer": "Google",
+      "date": "2022",
+      "credential_id": "LL17MK27"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Harding-White Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "Swift",
+    "UIKit",
+    "KMP",
+    "React Native",
+    "Xcode",
+    "CocoaPods",
+    "Firebase",
+    "Realm",
+    "Core Data",
+    "SQLite",
+    "Hive",
+    "Firebase Firestore",
+    "AWS Amplify",
+    "Firebase",
+    "RevenueCat",
+    "Supabase",
+    "Clean Architecture",
+    "MVVM",
+    "App Store Optimization",
+    "Offline-First"
+  ],
+  "companies": [
+    "OpenAI",
+    "ResumeAI",
+    "CloudNova"
+  ],
+  "job_titles": [
+    "Android Developer",
+    "iOS Developer",
+    "Flutter Developer"
+  ],
+  "universities": [
+    "University of Washington"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 417,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:40:48.274844",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

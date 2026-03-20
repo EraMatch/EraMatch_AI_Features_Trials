@@ -1,0 +1,321 @@
+{
+  "full_name": "Travis Thomas",
+  "email": "travis.thomas@protonmail.com",
+  "location": "Murrayburgh, Brazil",
+  "years_of_experience": 10.8,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Travis Thomas",
+    "email": "travis.thomas@protonmail.com",
+    "phone": "+1-345-762-5577x017",
+    "location": "Murrayburgh, Brazil",
+    "linkedin_url": "https://linkedin.com/in/travis-thomas",
+    "github_url": "https://github.com/travisthomas",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in backend engineering with expertise in C#, PHP, Go. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 – Present",
+      "duration_months": 30,
+      "description": "Implemented caching layer with Azure, reducing database load by 20%\nCreated authentication and authorization system using GCP, securing 5000+ user accounts",
+      "technologies": [
+        "Spring Boot",
+        "Fly.io",
+        "Ansible",
+        "Azure",
+        "GCP"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2019-11",
+      "end_date": "2023-03",
+      "duration": "2019-11 – 2023-03",
+      "duration_months": 40,
+      "description": "Led migration from monolithic to microservices using Hugging Face, improving system scalability by 52%\nReduced infrastructure costs by 67% through optimization using MySQL",
+      "technologies": [
+        "Kotlin",
+        "Hugging Face",
+        "Railway",
+        "Agile",
+        "MySQL",
+        "Java"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2018-06",
+      "end_date": "2019-06",
+      "duration": "2018-06 – 2019-06",
+      "duration_months": 12,
+      "description": "Implemented caching layer with Railway, reducing database load by 46%\nBuilt automated CI/CD pipelines with Railway, reducing deployment time by 69%",
+      "technologies": [
+        "Kafka",
+        "Railway",
+        "RabbitMQ"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2014-01",
+      "end_date": "2018-01",
+      "duration": "2014-01 – 2018-01",
+      "duration_months": 48,
+      "description": "Mentored team of 8 junior developers on PostgreSQL best practices\nMentored team of 8 junior developers on PostgreSQL best practices\nBuilt event-driven architecture using Ansible, processing 100+ events daily\nArchitected and built RESTful APIs serving 100+ requests/day using OpenAI API, reducing response time by 51%",
+      "technologies": [
+        "OpenAI API",
+        "Ansible",
+        "PostgreSQL"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Dean's List"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2012",
+      "gpa": "3.37",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2024",
+      "credential_id": null
+    },
+    {
+      "name": "Oracle Certified Professional Java SE",
+      "issuer": "Oracle",
+      "date": "2022",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — IEEE 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "PHP",
+    "Go",
+    "Rails",
+    "FastAPI",
+    "Spring Boot",
+    "Redis",
+    "Supabase",
+    "PostgreSQL",
+    "CockroachDB",
+    "Neon",
+    "Terraform",
+    "Ansible",
+    "GitHub Actions",
+    "Fly.io",
+    "Render",
+    "DigitalOcean",
+    "Cloudflare",
+    "Anthropic",
+    "Hugging Face",
+    "OpenAI API",
+    "RAG Architecture",
+    "REST API Design"
+  ],
+  "companies": [
+    "Block",
+    "Uber",
+    "Shopify",
+    "OpenAI"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Backend Developer",
+    "API Developer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "McGill University",
+    "TU Munich"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 244,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:20.664476",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

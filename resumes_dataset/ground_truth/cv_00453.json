@@ -1,0 +1,268 @@
+{
+  "full_name": "Marc Harris",
+  "email": "marc.harris@outlook.com",
+  "location": "Lopeztown, Brazil",
+  "years_of_experience": 2.5,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Marc Harris",
+    "email": "marc.harris@outlook.com",
+    "phone": "(531)246-2491x2711",
+    "location": "Lopeztown, Brazil",
+    "linkedin_url": "https://linkedin.com/in/marc-harris",
+    "github_url": "https://github.com/marcharris",
+    "portfolio_url": "https://marcharris.dev"
+  },
+  "summary": "Results-driven devops / sre / mlops professional with 2 years of experience designing and implementing scalable solutions using HCL, YAML, PowerShell. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 – Present",
+      "duration_months": 30,
+      "description": "Established chaos engineering practices using  Triton Inference Server, improving system resilience\nOptimized cloud infrastructure using TensorFlow Serving, reducing costs by 68%\nEstablished GitOps workflows using TensorFlow Serving, improving deployment frequency by 43%",
+      "technologies": [
+        "HCL",
+        "TensorFlow Serving",
+        "GCP",
+        " Triton Inference Server"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "B.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2024",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Designed and implemented Infrastructure as Code with HCL, integrating with PowerShell for seamless data flow",
+      "technologies": [
+        "HCL",
+        "YAML",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Created Monitoring System leveraging YAML for core functionality and PowerShell for optimization",
+      "technologies": [
+        "HCL",
+        "YAML",
+        "PowerShell"
+      ],
+      "url": "https://github.com/marcharris/autoscale-monitor",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Product laugh enter until base issue character maybe meet\" — CVPR 2023",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HCL",
+    "YAML",
+    "PowerShell",
+    "ArgoCD",
+    "Helm",
+    "Podman",
+    "K3s",
+    "Istio",
+    "Jenkins",
+    "Argo Workflows",
+    "CircleCI",
+    "Datadog",
+    "PagerDuty",
+    "Thanos",
+    "DigitalOcean",
+    "Azure",
+    "AWS",
+    "Hetzner",
+    " Triton Inference Server",
+    "TorchServe",
+    "Kale",
+    "Zero Trust",
+    "MLOps",
+    "Platform Engineering",
+    "Incident Management"
+  ],
+  "companies": [
+    "CloudNova"
+  ],
+  "job_titles": [
+    "Infrastructure Engineer"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 453,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:41:06.405618",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

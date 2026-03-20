@@ -1,0 +1,262 @@
+{
+  "full_name": "Marco Davis",
+  "email": "marco.davis@outlook.com",
+  "location": "Port Anthonychester, Brazil",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "General IT",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Marco Davis",
+    "email": "marco.davis@outlook.com",
+    "phone": "687-773-4778",
+    "location": "Port Anthonychester, Brazil",
+    "linkedin_url": "https://linkedin.com/in/marco-davis",
+    "github_url": "https://github.com/marcodavis",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level general it specialist with 4 years building production systems. Skilled in SQL, Bash, PowerShell with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Help Desk Analyst",
+      "title": "Help Desk Analyst",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 – Present",
+      "duration_months": 33,
+      "description": "Created network monitoring using Azure, detecting 10000+ incidents\nImplemented backup and recovery using SQL, achieving 50000% data protection\nCreated network monitoring using SQL, detecting 100+ incidents\nCreated IT documentation using Incident Management, serving 10000+ employees",
+      "technologies": [
+        "Intune",
+        "Azure",
+        "Bash",
+        "SQL",
+        "Incident Management"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "IT Support Engineer",
+      "title": "IT Support Engineer",
+      "start_date": "2021-10",
+      "end_date": "2023-04",
+      "duration": "2021-10 – 2023-04",
+      "duration_months": 18,
+      "description": "Provided tier-2/3 support using Ansible, resolving 100000+ complex issues\nImplemented patch management using Bash, patching 1000+ systems\nProvided tier-2/3 support using Ansible, resolving 500+ complex issues\nImplemented identity management using VMware, securing 500+ accounts",
+      "technologies": [
+        "Bash",
+        "Intune",
+        "Ansible",
+        "Incident Management",
+        "VMware"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "M.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2021",
+      "gpa": "2.94",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Office 365",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nagios",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zabbix",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Intune",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "System Administration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ITIL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Network Security",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VMware",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Microsoft 365 Certified: Modern Desktop Administrator",
+      "issuer": "Microsoft",
+      "date": "2021",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2022",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Arabic (Native)",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — MLH 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Bash",
+    "PowerShell",
+    "Python",
+    "Office 365",
+    "Exchange",
+    "Nagios",
+    "Zabbix",
+    "Intune",
+    "Ansible",
+    "SQL Server",
+    "PostgreSQL",
+    "MySQL",
+    "Google Workspace",
+    "Azure",
+    "AWS",
+    "System Administration",
+    "ITIL",
+    "Network Security",
+    "Incident Management"
+  ],
+  "companies": [
+    "Meta",
+    "Shopify"
+  ],
+  "job_titles": [
+    "Help Desk Analyst",
+    "IT Support Engineer"
+  ],
+  "universities": [
+    "University of Toronto",
+    "KAIST"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 293,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:39:45.075012",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

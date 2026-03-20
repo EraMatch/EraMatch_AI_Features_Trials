@@ -1,0 +1,288 @@
+{
+  "full_name": "Justin Wells Jr.",
+  "email": "justin.wells.jr.@jr..dev",
+  "location": "Hernandezbury, Netherlands",
+  "years_of_experience": 11.9,
+  "seniority_level": "lead",
+  "primary_domain": "General IT",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Justin Wells Jr.",
+    "email": "justin.wells.jr.@jr..dev",
+    "phone": "916-494-0974x99309",
+    "location": "Hernandezbury, Netherlands",
+    "linkedin_url": null,
+    "github_url": "https://github.com/justinwellsjr",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, Bash, and PowerShell. 12 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Network Administrator",
+      "title": "Network Administrator",
+      "start_date": "2022-08",
+      "end_date": "Present",
+      "duration": "2022-08 – Present",
+      "duration_months": 43,
+      "description": "Implemented identity management using ITIL, securing 1000+ accounts\nImplemented backup and recovery using ITIL, achieving 10000% data protection\nCreated network monitoring using ITIL, detecting 100000+ incidents",
+      "technologies": [
+        "System Administration",
+        "ITIL",
+        "AWS",
+        "MySQL"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Help Desk Analyst",
+      "title": "Help Desk Analyst",
+      "start_date": "2019-05",
+      "end_date": "2022-08",
+      "duration": "2019-05 – 2022-08",
+      "duration_months": 39,
+      "description": "Implemented patch management using PowerShell, patching 5000+ systems\nCreated user training materials using Hyper-V, training 1000+ employees\nImplemented backup and recovery using Bash, achieving 100000% data protection\nImplemented backup and recovery using SQL, achieving 5000% data protection",
+      "technologies": [
+        "SolarWinds",
+        "Hyper-V",
+        "SQL",
+        "Bash",
+        "PowerShell",
+        "Docker"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "IT Specialist",
+      "title": "IT Specialist",
+      "start_date": "2016-11",
+      "end_date": "2018-12",
+      "duration": "2016-11 – 2018-12",
+      "duration_months": 25,
+      "description": "Implemented backup and recovery using AWS, achieving 1000% data protection\nCreated IT documentation using Change Management, serving 1000+ employees",
+      "technologies": [
+        "AWS",
+        "Change Management",
+        "System Administration"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Network Administrator",
+      "title": "Network Administrator",
+      "start_date": "2013-07",
+      "end_date": "2016-07",
+      "duration": "2013-07 – 2016-07",
+      "duration_months": 36,
+      "description": "Created network monitoring using Python, detecting 100+ incidents\nImplemented identity management using Change Management, securing 10000+ accounts\nImplemented identity management using Python, securing 1000+ accounts",
+      "technologies": [
+        "Incident Management",
+        "MySQL",
+        "Python",
+        "VMware",
+        "PowerShell",
+        "Change Management"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VBA",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Active Directory",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Office 365",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SharePoint",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SolarWinds",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VMware",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure AD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ITIL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "System Administration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Game development as hobby",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Bash",
+    "PowerShell",
+    "VBA",
+    "SQL",
+    "Active Directory",
+    "Exchange",
+    "Office 365",
+    "SharePoint",
+    "SolarWinds",
+    "VMware",
+    "Azure AD",
+    "Ansible",
+    "PostgreSQL",
+    "MySQL",
+    "SQL Server",
+    "Azure",
+    "AWS",
+    "Google Workspace",
+    "ITIL",
+    "System Administration",
+    "Incident Management"
+  ],
+  "companies": [
+    "Notion",
+    "Salesforce",
+    "Block",
+    "Cloudflare"
+  ],
+  "job_titles": [
+    "Network Administrator",
+    "Help Desk Analyst",
+    "IT Specialist",
+    "Network Administrator"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 82,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:37:59.738780",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

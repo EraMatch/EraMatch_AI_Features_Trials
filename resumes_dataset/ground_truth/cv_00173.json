@@ -1,0 +1,277 @@
+{
+  "full_name": "Stephen Alvarado",
+  "email": "stephen.alvarado@alvarado.dev",
+  "location": "Patrickville, India",
+  "years_of_experience": 4.8,
+  "seniority_level": "mid",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Stephen Alvarado",
+    "email": "stephen.alvarado@alvarado.dev",
+    "phone": "554-239-8780x15739",
+    "location": "Patrickville, India",
+    "linkedin_url": "https://linkedin.com/in/stephen-alvarado",
+    "github_url": "https://github.com/stephenalvarado",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in R, MATLAB, and SQL. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2022-08",
+      "end_date": "Present",
+      "duration": "2022-08 – Present",
+      "duration_months": 43,
+      "description": "Established MLOps practices using Pinecone, reducing model deployment time by 16%\nDeveloped data visualization tools using AWS SageMaker, used by 50000+ analysts",
+      "technologies": [
+        "Python",
+        "LlamaIndex",
+        "AWS SageMaker",
+        "Neptune",
+        "Pinecone"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2021-02",
+      "end_date": "2022-04",
+      "duration": "2021-02 – 2022-04",
+      "duration_months": 14,
+      "description": "Created feature engineering pipeline using Deep Learning, reducing preprocessing time by 66%\nImplemented A/B testing framework using Pinecone, running 10000+ experiments",
+      "technologies": [
+        "Scikit-learn",
+        "LightGBM",
+        "Deep Learning",
+        "Pinecone",
+        "Statistical Modeling"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Photography",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Either rich agency might side method meet main\" — ICML 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "MATLAB",
+    "SQL",
+    "Scala",
+    "Claude API",
+    "OpenAI API",
+    "LightGBM",
+    "TensorFlow",
+    "Hugging Face",
+    "Dagster",
+    "Weights & Biases",
+    "Neptune",
+    "Pandas",
+    "DVC",
+    "MongoDB",
+    "ChromaDB",
+    "Hugging Face Endpoints",
+    "Databricks",
+    "Bedrock",
+    "GCP Vertex AI",
+    "Computer Vision",
+    "Prompt Engineering",
+    "MLOps"
+  ],
+  "companies": [
+    "InfraCore",
+    "Meta"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 173,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:45.114625",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

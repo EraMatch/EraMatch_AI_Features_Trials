@@ -1,0 +1,370 @@
+{
+  "full_name": "Mary Durham",
+  "email": "mary.durham@yahoo.com",
+  "location": "New Tammy, Singapore",
+  "years_of_experience": 4.9,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Mary Durham",
+    "email": "mary.durham@yahoo.com",
+    "phone": "(310)446-3681x579",
+    "location": "New Tammy, Singapore",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in PHP, Java, and Go. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 – Present",
+      "duration_months": 24,
+      "description": "Architected and built RESTful APIs serving 100000+ requests/day using MongoDB, reducing response time by 35%\nMentored team of 4 junior developers on Express.js best practices\nReduced infrastructure costs by 65% through optimization using Fly.io\nDeveloped real-time data processing pipeline using Fly.io, handling 100+ transactions/second",
+      "technologies": [
+        "Express.js",
+        "Cassandra",
+        "MongoDB",
+        "LLM Integration",
+        "Fly.io"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2022-07",
+      "end_date": "2023-10",
+      "duration": "2022-07 – 2023-10",
+      "duration_months": 15,
+      "description": "Created authentication and authorization system using Actix, securing 1000+ user accounts\nMentored team of 4 junior developers on Railway best practices\nDesigned and implemented message queue system using Railway, processing 10000+ messages/hour",
+      "technologies": [
+        "Vercel",
+        "Actix",
+        "Railway"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2020-08",
+      "end_date": "2022-04",
+      "duration": "2020-08 – 2022-04",
+      "duration_months": 20,
+      "description": "Designed and implemented microservices architecture using gRPC, handling 1000+ concurrent users\nDesigned and implemented message queue system using gRPC, processing 5000+ messages/hour\nImplemented caching layer with SQLite, reducing database load by 58%\nDesigned and implemented microservices architecture using AWS, handling 50000+ concurrent users",
+      "technologies": [
+        "TypeScript",
+        "Kotlin",
+        "AWS",
+        "SQLite",
+        "MongoDB",
+        "gRPC"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2020",
+      "gpa": "3.34",
+      "activities": "Open Source Contributor"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Developed GraphQL Server using Actix, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Rails",
+        "ASP.NET",
+        "Actix"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built Data Sync Platform using Go and Java, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Java",
+        "Go",
+        "ASP.NET"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PHP",
+    "Java",
+    "Go",
+    "Rust",
+    "C#",
+    "ASP.NET",
+    "Django",
+    "Rails",
+    "Actix",
+    "Redis",
+    "MySQL",
+    "MongoDB",
+    "PlanetScale",
+    "GitHub Actions",
+    "Kafka",
+    "gRPC",
+    "Terraform",
+    "Docker",
+    "Cloudflare",
+    "Railway",
+    "Azure",
+    "DigitalOcean",
+    "Heroku",
+    "Anthropic",
+    "Hugging Face",
+    "OpenAI API",
+    "Replicate",
+    "Azure OpenAI",
+    "CI/CD",
+    "TDD",
+    "Scrum",
+    "Microservices",
+    "Agile"
+  ],
+  "companies": [
+    "Confluent",
+    "Uber",
+    "SkillBridge"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "API Developer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 224,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:10.200796",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

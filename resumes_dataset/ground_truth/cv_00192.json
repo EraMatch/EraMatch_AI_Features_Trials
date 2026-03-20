@@ -1,0 +1,282 @@
+{
+  "full_name": "Danielle Davis",
+  "email": "danielle.davis@protonmail.com",
+  "location": "Port Joseph, Brazil",
+  "years_of_experience": 10.5,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Danielle Davis",
+    "email": "danielle.davis@protonmail.com",
+    "phone": "+1-551-582-7553x94237",
+    "location": "Port Joseph, Brazil",
+    "linkedin_url": "https://linkedin.com/in/danielle-davis",
+    "github_url": "https://github.com/danielledavis",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Bash, C, and OWASP ZAP. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2024-06",
+      "end_date": "Present",
+      "duration": "2024-06 – Present",
+      "duration_months": 21,
+      "description": "Implemented identity management using Python, securing 5000+ user identities\nBuilt secure CI/CD pipeline using Sigma, preventing 5000+ security issues\nDesigned zero-trust architecture using Elasticsearch, securing 5000+ endpoints\nImplemented identity management using Sigma, securing 10000+ user identities",
+      "technologies": [
+        "Sigma",
+        "Python",
+        "Elasticsearch",
+        "Bash",
+        "Nmap"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2022-02",
+      "end_date": "2024-06",
+      "duration": "2022-02 – 2024-06",
+      "duration_months": 28,
+      "description": "Conducted penetration testing using Go, identifying 500+ vulnerabilities\nImplemented SIEM solution using PowerShell, processing 10000+ logs/day\nCreated security awareness training using SonarQube, reducing phishing clicks by 31%\nCreated security awareness training using SonarQube, reducing phishing clicks by 20%",
+      "technologies": [
+        "Go",
+        "Threat Modeling",
+        "SonarQube",
+        "CrowdStrike",
+        "PowerShell",
+        "Metasploit"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2019-12",
+      "end_date": "2021-12",
+      "duration": "2019-12 – 2021-12",
+      "duration_months": 24,
+      "description": "Built secure CI/CD pipeline using Redis, preventing 5000+ security issues\nImplemented identity management using Redis, securing 10000+ user identities\nCreated security awareness training using Redis, reducing phishing clicks by 70%",
+      "technologies": [
+        "Threat Modeling",
+        "Redis",
+        "Trivy",
+        "Suricata"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2017-03",
+      "end_date": "2019-12",
+      "duration": "2017-03 – 2019-12",
+      "duration_months": 33,
+      "description": "Built secure CI/CD pipeline using SOC2 Compliance, preventing 100+ security issues\nImplemented identity management using SAST/DAST, securing 10000+ user identities\nBuilt security automation using Threat Modeling, reducing incident response time by 65%\nDesigned zero-trust architecture using Threat Modeling, securing 100+ endpoints",
+      "technologies": [
+        "SOC2 Compliance",
+        "SAST/DAST",
+        "Threat Modeling",
+        "CrowdStrike"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2015-04",
+      "end_date": "2016-12",
+      "duration": "2015-04 – 2016-12",
+      "duration_months": 20,
+      "description": "Implemented security monitoring using PowerShell, detecting 100+ threats\nImplemented encryption solution using Angular, protecting 100000+ records",
+      "technologies": [
+        "C",
+        "PowerShell",
+        "Incident Response"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — IEEE 2025",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Japanese (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "C",
+    "OWASP ZAP",
+    "Burp Suite",
+    "Wireshark",
+    "Trivy",
+    "Nessus",
+    "Splunk",
+    "PostgreSQL",
+    "Redis",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "OWASP Top 10",
+    "SOC2 Compliance",
+    "Incident Response",
+    "Threat Modeling"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "Twilio",
+    "Nvidia",
+    "PromptStack",
+    "DataPulse"
+  ],
+  "job_titles": [
+    "SOC Analyst",
+    "Security Architect",
+    "Penetration Tester",
+    "Security Architect",
+    "Security Architect"
+  ],
+  "universities": [
+    "University of Toronto"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 192,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:38:54.299250",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

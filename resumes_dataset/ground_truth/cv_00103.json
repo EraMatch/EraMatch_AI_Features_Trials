@@ -1,0 +1,302 @@
+{
+  "full_name": "Michael Abbott",
+  "email": "michael.abbott@outlook.com",
+  "location": "New Samanthabury, Germany",
+  "years_of_experience": 13.6,
+  "seniority_level": "principal",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michael Abbott",
+    "email": "michael.abbott@outlook.com",
+    "phone": "+1-801-766-6870x0217",
+    "location": "New Samanthabury, Germany",
+    "linkedin_url": "https://linkedin.com/in/michael-abbott",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Executive-level technology leader with extensive background in data science / ml / ai. Expertise in R, Python, SQL with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2022-08",
+      "end_date": "Present",
+      "duration": "2022-08 – Present",
+      "duration_months": 43,
+      "description": "Created feature engineering pipeline using Lambda Labs, reducing preprocessing time by 43%\nBuilt ML model serving infrastructure using Hugging Face Endpoints, handling 500+ predictions/day\nDesigned data warehousing solution using Pandas, enabling analytics on 500+ records",
+      "technologies": [
+        "Pandas",
+        "Hugging Face Endpoints",
+        "Databricks",
+        "Lambda Labs"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2020-05",
+      "end_date": "2022-07",
+      "duration": "2020-05 – 2022-07",
+      "duration_months": 26,
+      "description": "Developed computer vision models using MongoDB, achieving 62% accuracy\nImplemented NLP solution using TensorFlow, processing 5000+ text documents daily\nCreated feature engineering pipeline using SQL, reducing preprocessing time by 20%\nImplemented A/B testing framework using SQL, running 100000+ experiments",
+      "technologies": [
+        "TensorFlow",
+        "SQL",
+        "MongoDB",
+        "Pinecone",
+        "Redshift",
+        "MLflow"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2017-07",
+      "end_date": "2020-02",
+      "duration": "2017-07 – 2020-02",
+      "duration_months": 31,
+      "description": "Implemented A/B testing framework using Neptune, running 5000+ experiments\nImplemented A/B testing framework using Julia, running 50000+ experiments",
+      "technologies": [
+        "Julia",
+        "Neptune",
+        "LlamaIndex"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2014-08",
+      "end_date": "2017-04",
+      "duration": "2014-08 – 2017-04",
+      "duration_months": 32,
+      "description": "Implemented A/B testing framework using Feature Engineering, running 100000+ experiments\nBuilt end-to-end ML pipeline using Prompt Engineering, processing 500+ samples daily\nDeveloped data visualization tools using Pandas, used by 5000+ analysts\nImplemented A/B testing framework using Pandas, running 100+ experiments",
+      "technologies": [
+        "Pandas",
+        "Scala",
+        "Prompt Engineering",
+        "Feature Engineering"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2012-01",
+      "end_date": "2014-08",
+      "duration": "2012-01 – 2014-08",
+      "duration_months": 31,
+      "description": "Created feature engineering pipeline using BigQuery, reducing preprocessing time by 55%\nDesigned data warehousing solution using Dask, enabling analytics on 10000+ records\nDesigned data warehousing solution using BigQuery, enabling analytics on 10000+ records\nBuilt ML model serving infrastructure using Dask, handling 10000+ predictions/day",
+      "technologies": [
+        "JAX",
+        "BigQuery",
+        "Dask"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": "Research Assistant - ML Lab"
+    },
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2010",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Portuguese (Professional)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Valenzuela Ltd Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "Python",
+    "SQL",
+    "Keras",
+    "Claude API",
+    "XGBoost",
+    "MLflow",
+    "Neptune",
+    "MongoDB",
+    "PostgreSQL",
+    "ChromaDB",
+    "Pinecone",
+    "Bedrock",
+    "Lambda Labs",
+    "Vector Databases",
+    "Computer Vision",
+    "A/B Testing"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "Supabase",
+    "InfraCore",
+    "AgentForge",
+    "VectorDB Inc"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "Research Scientist",
+    "ML Engineer",
+    "Research Scientist",
+    "Research Scientist"
+  ],
+  "universities": [
+    "IIT Bombay",
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 103,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:10.619706",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

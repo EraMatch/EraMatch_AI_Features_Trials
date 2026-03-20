@@ -1,0 +1,342 @@
+{
+  "full_name": "Emily Myers",
+  "email": "emily.myers@myers.dev",
+  "location": "Evanmouth, UK",
+  "years_of_experience": 8.0,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Emily Myers",
+    "email": "emily.myers@myers.dev",
+    "phone": "(921)256-8182x096",
+    "location": "Evanmouth, UK",
+    "linkedin_url": "https://linkedin.com/in/emily-myers",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, Node.js, and Java. 8 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "duration": "2023-12 – Present",
+      "duration_months": 27,
+      "description": "Led migration from monolithic to microservices using REST API Design, improving system scalability by 58%\nBuilt event-driven architecture using Redis, processing 50000+ events daily",
+      "technologies": [
+        "Azure OpenAI",
+        "REST API Design",
+        "Redis",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2021-10",
+      "end_date": "2023-12",
+      "duration": "2021-10 – 2023-12",
+      "duration_months": 26,
+      "description": "Led migration from monolithic to microservices using PHP, improving system scalability by 23%\nLed migration from monolithic to microservices using Git, improving system scalability by 65%\nBuilt automated CI/CD pipelines with PHP, reducing deployment time by 29%",
+      "technologies": [
+        "Rails",
+        "PHP",
+        "Git"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2020-03",
+      "end_date": "2021-10",
+      "duration": "2020-03 – 2021-10",
+      "duration_months": 19,
+      "description": "Created authentication and authorization system using Heroku, securing 100+ user accounts\nImplemented caching layer with Python, reducing database load by 17%\nDeveloped real-time data processing pipeline using FastAPI, handling 1000+ messages/second\nArchitected and built RESTful APIs serving 500+ requests/day using FastAPI, reducing response time by 40%",
+      "technologies": [
+        "Python",
+        "Heroku",
+        "RAG Architecture",
+        "Cloudflare",
+        "FastAPI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2017-10",
+      "end_date": "2019-10",
+      "duration": "2017-10 – 2019-10",
+      "duration_months": 24,
+      "description": "Optimized database queries using Git, improving query performance by 42%\nDesigned and implemented message queue system using Git, processing 50000+ messages/hour",
+      "technologies": [
+        "PostgreSQL",
+        "Git",
+        "Java",
+        "Agile"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Git",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Mcclure Inc Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Arduino/IoT projects",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Node.js",
+    "Java",
+    "TypeScript",
+    "LlamaIndex",
+    "NestJS",
+    "Rails",
+    "LangChain",
+    "SQLite",
+    "MySQL",
+    "PostgreSQL",
+    "CockroachDB",
+    "MongoDB",
+    "Terraform",
+    "Nginx",
+    "gRPC",
+    "Cloudflare",
+    "AWS",
+    "Azure OpenAI",
+    "Anthropic",
+    "Hugging Face",
+    "Replicate",
+    "Google Gemini",
+    "TDD",
+    "REST API Design",
+    "CI/CD"
+  ],
+  "companies": [
+    "Twilio",
+    "DataPulse",
+    "Shopify",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Server-Side Developer",
+    "Platform Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "Imperial College London",
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 427,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:53.524423",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

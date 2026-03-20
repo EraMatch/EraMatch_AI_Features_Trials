@@ -1,0 +1,319 @@
+{
+  "full_name": "Taylor Mercer",
+  "email": "taylor.mercer@protonmail.com",
+  "location": "Jonesshire, France",
+  "years_of_experience": 14.4,
+  "seniority_level": "principal",
+  "primary_domain": "General IT",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Taylor Mercer",
+    "email": "taylor.mercer@protonmail.com",
+    "phone": "+1-200-556-4350x2385",
+    "location": "Jonesshire, France",
+    "linkedin_url": "https://linkedin.com/in/taylor-mercer",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 14 years shaping general it practice. Deep expertise in VBA, Bash, SQL and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Network Administrator",
+      "title": "Network Administrator",
+      "start_date": "2022-10",
+      "end_date": "Present",
+      "duration": "2022-10 – Present",
+      "duration_months": 41,
+      "description": "Built monitoring dashboards using Help Desk, tracking 50000+ metrics\nImplemented IT service management using SQL, handling 100+ tickets/month",
+      "technologies": [
+        "Incident Management",
+        "SQL",
+        "Help Desk",
+        "Exchange",
+        "Docker",
+        "System Administration"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Help Desk Analyst",
+      "title": "Help Desk Analyst",
+      "start_date": "2018-06",
+      "end_date": "2022-10",
+      "duration": "2018-06 – 2022-10",
+      "duration_months": 52,
+      "description": "Implemented identity management using Exchange, securing 5000+ accounts\nImplemented IT service management using Change Management, handling 500+ tickets/month\nProvided tier-2/3 support using Help Desk, resolving 100+ complex issues\nImplemented identity management using Change Management, securing 50000+ accounts",
+      "technologies": [
+        "Exchange",
+        "Help Desk",
+        "Change Management",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "IT Support Engineer",
+      "title": "IT Support Engineer",
+      "start_date": "2014-08",
+      "end_date": "2018-06",
+      "duration": "2014-08 – 2018-06",
+      "duration_months": 46,
+      "description": "Built monitoring dashboards using AWS, tracking 500+ metrics\nCreated IT documentation using Python, serving 100000+ employees\nCreated IT documentation using AWS, serving 100+ employees",
+      "technologies": [
+        "VBA",
+        "AWS",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "System Administrator",
+      "title": "System Administrator",
+      "start_date": "2011-07",
+      "end_date": "2014-05",
+      "duration": "2011-07 – 2014-05",
+      "duration_months": 34,
+      "description": "Created IT documentation using Azure AD, serving 5000+ employees\nImplemented IT service management using Python, handling 1000+ tickets/month",
+      "technologies": [
+        "Azure AD",
+        "PostgreSQL",
+        "Network Security",
+        "Bash",
+        "Python",
+        "Active Directory"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2012",
+      "gpa": "3.19",
+      "activities": "IT Society"
+    },
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "M.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2011",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "VBA",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Office 365",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SharePoint",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Active Directory",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hyper-V",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nagios",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Intune",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Change Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Help Desk",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Azure AD",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Implemented Backup Solution using SharePoint, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Office 365",
+        "SharePoint",
+        "SQL"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Designed Network Monitoring leveraging Exchange microservices architecture with Office 365 for caching",
+      "technologies": [
+        "VBA",
+        "Office 365",
+        "Exchange"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "ML Model Registry",
+      "description": "Designed Help Desk System leveraging SQL microservices architecture with Active Directory for caching",
+      "technologies": [
+        "VBA",
+        "SQL",
+        "Active Directory"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Warner, Cannon and Johnson Youth Program, 2022-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Turkish (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "VBA",
+    "Bash",
+    "SQL",
+    "Office 365",
+    "SharePoint",
+    "Active Directory",
+    "Exchange",
+    "Hyper-V",
+    "Nagios",
+    "Intune",
+    "MySQL",
+    "SQL Server",
+    "PostgreSQL",
+    "Azure",
+    "Google Workspace",
+    "Incident Management",
+    "Change Management",
+    "Help Desk"
+  ],
+  "companies": [
+    "Spotify",
+    "ParseLab",
+    "Datadog",
+    "ScaleGrid"
+  ],
+  "job_titles": [
+    "Network Administrator",
+    "Help Desk Analyst",
+    "IT Support Engineer",
+    "System Administrator"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 476,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:41:17.291949",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

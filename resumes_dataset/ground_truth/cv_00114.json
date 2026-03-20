@@ -1,0 +1,260 @@
+{
+  "full_name": "Donald Padilla",
+  "email": "donald.padilla@protonmail.com",
+  "location": "Rosemouth, Australia",
+  "years_of_experience": 8.1,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Donald Padilla",
+    "email": "donald.padilla@protonmail.com",
+    "phone": "391-682-5537",
+    "location": "Rosemouth, Australia",
+    "linkedin_url": "https://linkedin.com/in/donald-padilla",
+    "github_url": "https://github.com/donaldpadilla",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, Go, and MATLAB. 8 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2022-11",
+      "end_date": "Present",
+      "duration": "2022-11 – Present",
+      "duration_months": 40,
+      "description": "Created feature engineering pipeline using Databricks, reducing preprocessing time by 65%\nImplemented NLP solution using RAG, processing 100+ text documents daily",
+      "technologies": [
+        "RAG",
+        "Databricks",
+        "Computer Vision",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2020-04",
+      "end_date": "2022-08",
+      "duration": "2020-04 – 2022-08",
+      "duration_months": 28,
+      "description": "Built end-to-end ML pipeline using Statistical Modeling, processing 50000+ samples daily\nDesigned data warehousing solution using Weights & Biases, enabling analytics on 50000+ records\nDesigned data warehousing solution using Go, enabling analytics on 50000+ records",
+      "technologies": [
+        "Weights & Biases",
+        "Go",
+        "Hugging Face Endpoints",
+        "Pinecone",
+        "Computer Vision",
+        "Statistical Modeling"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2017-06",
+      "end_date": "2019-11",
+      "duration": "2017-06 – 2019-11",
+      "duration_months": 29,
+      "description": "Built ML model serving infrastructure using Weaviate, handling 100+ predictions/day\nCreated recommendation system using Julia, increasing user engagement by 50%\nBuilt real-time analytics dashboard using Julia, used by 500+ stakeholders\nEstablished MLOps practices using Julia, reducing model deployment time by 58%",
+      "technologies": [
+        "Weaviate",
+        "JAX",
+        "Airflow",
+        "Julia",
+        "Hugging Face Endpoints",
+        "PyTorch"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.A.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Data Science Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Home hotel box goal leader common purpose song try opportunity\" — ACM 2021",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Anderson, Wilson and Torres Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Go",
+    "MATLAB",
+    "R",
+    "JAX",
+    "OpenAI API",
+    "NumPy",
+    "Spark",
+    "BigQuery",
+    "MongoDB",
+    "Snowflake",
+    "Weaviate",
+    "PostgreSQL",
+    "Azure ML",
+    "GCP Vertex AI",
+    "Hugging Face Endpoints",
+    "Databricks",
+    "RAG",
+    "Vector Databases"
+  ],
+  "companies": [
+    "Google",
+    "Datadog",
+    "Google"
+  ],
+  "job_titles": [
+    "AI Product Engineer",
+    "AI Product Engineer",
+    "Data Analyst"
+  ],
+  "universities": [
+    "UT Austin"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 114,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:16.392925",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "full_name": "Cheryl Gray",
+  "email": "cheryl.gray@yahoo.com",
+  "location": "Lake Lauraberg, Brazil",
+  "years_of_experience": 5.7,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Cheryl Gray",
+    "email": "cheryl.gray@yahoo.com",
+    "phone": "(759)563-0993x842",
+    "location": "Lake Lauraberg, Brazil",
+    "linkedin_url": "https://linkedin.com/in/cheryl-gray",
+    "github_url": "https://github.com/cherylgray",
+    "portfolio_url": "https://cherylgray.dev"
+  },
+  "summary": "Seasoned software professional with deep expertise in Dart, Swift, and TypeScript. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": "2023-08 – Present",
+      "duration_months": 31,
+      "description": "Built widget functionality using Swift, increasing daily active users by 21%\nDeveloped mobile application using Swift, achieving 50000+ downloads\nImplemented deep linking using Swift, improving conversion rates by 20%",
+      "technologies": [
+        "SQLite",
+        "Realm",
+        "Swift"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2020-07",
+      "end_date": "2023-08",
+      "duration": "2020-07 – 2023-08",
+      "duration_months": 37,
+      "description": "Optimized app performance using Offline-First, reducing battery consumption by 64%\nImplemented app streaming using MVVM, reducing download size by 32%\nImplemented push notification system using KMP, increasing user engagement by 37%\nImplemented deep linking using Offline-First, improving conversion rates by 29%",
+      "technologies": [
+        "Offline-First",
+        "MVVM",
+        "SQLite",
+        "KMP"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2019",
+      "gpa": "3.86",
+      "activities": "Flutter Community"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built Flutter App using KMP and Swift, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "KMP",
+        "Swift",
+        "TypeScript"
+      ],
+      "url": "https://github.com/cherylgray/autoscale-monitor",
+      "date": "2019"
+    },
+    {
+      "name": "Graph Query Builder",
+      "description": "Developed App Analytics using Swift, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "KMP",
+        "Swift",
+        "Expo"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Implemented Push Notification Service using KMP, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "KMP",
+        "TypeScript",
+        "Swift"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — MLH 2019",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "Swift",
+    "TypeScript",
+    "KMP",
+    "Expo",
+    "Fastlane",
+    "Xcode",
+    "CocoaPods",
+    "Hive",
+    "Realm",
+    "Core Data",
+    "Firebase Firestore",
+    "SQLite",
+    "RevenueCat",
+    "Supabase",
+    "Firebase",
+    "AWS Amplify",
+    "App Store Optimization",
+    "Clean Architecture",
+    "CI/CD for Mobile",
+    "MVVM",
+    "Offline-First"
+  ],
+  "companies": [
+    "Supabase",
+    "Spotify"
+  ],
+  "job_titles": [
+    "React Native Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "MIT"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 356,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:40:17.657630",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

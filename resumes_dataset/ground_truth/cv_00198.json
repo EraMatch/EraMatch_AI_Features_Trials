@@ -1,0 +1,303 @@
+{
+  "full_name": "Justin Patrick",
+  "email": "justin.patrick@outlook.com",
+  "location": "Hamptonmouth, Japan",
+  "years_of_experience": 7.0,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Justin Patrick",
+    "email": "justin.patrick@outlook.com",
+    "phone": "(706)715-9399x824",
+    "location": "Hamptonmouth, Japan",
+    "linkedin_url": "https://linkedin.com/in/justin-patrick",
+    "github_url": "https://github.com/justinpatrick",
+    "portfolio_url": "https://justinpatrick.dev"
+  },
+  "summary": "Technical leader in data science / ml / ai with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Python, Scala, Julia.",
+  "work_experience": [
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2022-11",
+      "end_date": "Present",
+      "duration": "2022-11 – Present",
+      "duration_months": 40,
+      "description": "Built end-to-end ML pipeline using Statistical Modeling, processing 500+ samples daily\nBuilt ML model serving infrastructure using PyTorch, handling 5000+ predictions/day",
+      "technologies": [
+        "MATLAB",
+        "ChromaDB",
+        "LLM Evaluation",
+        "PyTorch",
+        "Statistical Modeling"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2019-09",
+      "end_date": "2022-08",
+      "duration": "2019-09 – 2022-08",
+      "duration_months": 35,
+      "description": "Built real-time analytics dashboard using Deep Learning, used by 500+ stakeholders\nDeveloped data visualization tools using Dask, used by 100+ analysts\nBuilt real-time analytics dashboard using Dask, used by 100000+ stakeholders",
+      "technologies": [
+        "Kubeflow",
+        "Dask",
+        "Airflow",
+        "Deep Learning",
+        "ChromaDB"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2018-06",
+      "end_date": "2019-03",
+      "duration": "2018-06 – 2019-03",
+      "duration_months": 9,
+      "description": "Developed computer vision models using MLOps, achieving 40% accuracy\nBuilt end-to-end ML pipeline using MLOps, processing 100000+ samples daily",
+      "technologies": [
+        "Polars",
+        "MLOps",
+        "Julia"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "M.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Parser",
+      "description": "Designed ML Model Training Pipeline leveraging Scala microservices architecture with Python for caching",
+      "technologies": [
+        "Scala",
+        "Julia",
+        "Python"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Developed Recommendation Engine using Python, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Scala",
+        "Python",
+        "Julia"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Volunteering at local shelters",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Swedish (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Scala",
+    "Julia",
+    "LightGBM",
+    "Claude API",
+    "OpenCV",
+    "Keras",
+    "Spark",
+    "Dask",
+    "MLflow",
+    "ChromaDB",
+    "Neo4j",
+    "Qdrant",
+    "Weaviate",
+    "GCP Vertex AI",
+    "Databricks",
+    "Azure ML",
+    "Bedrock",
+    "Lambda Labs",
+    "Statistical Modeling",
+    "Feature Engineering",
+    "Prompt Engineering"
+  ],
+  "companies": [
+    "Cloudflare",
+    "InfraCore",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "Research Scientist",
+    "LLM Engineer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "Stanford University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 198,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:57.288859",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

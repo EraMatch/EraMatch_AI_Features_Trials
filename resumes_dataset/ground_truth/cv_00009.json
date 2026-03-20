@@ -1,0 +1,242 @@
+{
+  "full_name": "James Morgan",
+  "email": "james.morgan@morgan.dev",
+  "location": "Port Sandra, Brazil",
+  "years_of_experience": 5.9,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "James Morgan",
+    "email": "james.morgan@morgan.dev",
+    "phone": "633-938-7262",
+    "location": "Port Sandra, Brazil",
+    "linkedin_url": "https://linkedin.com/in/james-morgan",
+    "github_url": "https://github.com/jamesmorgan",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Python, Julia, and LangChain. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2024-12",
+      "end_date": "Present",
+      "duration": "2024-12 – Present",
+      "duration_months": 15,
+      "description": "Established MLOps practices using Feature Engineering, reducing model deployment time by 28%\nEstablished MLOps practices using Azure ML, reducing model deployment time by 55%\nDeveloped computer vision models using Azure ML, achieving 45% accuracy",
+      "technologies": [
+        "LightGBM",
+        "Feature Engineering",
+        "Azure ML"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2024-03",
+      "end_date": "2024-11",
+      "duration": "2024-03 – 2024-11",
+      "duration_months": 8,
+      "description": "Built ML model serving infrastructure using LightGBM, handling 1000+ predictions/day\nEstablished MLOps practices using Lambda Labs, reducing model deployment time by 15%\nBuilt end-to-end ML pipeline using MLOps, processing 500+ samples daily",
+      "technologies": [
+        "LangChain",
+        "Prompt Engineering",
+        "Lambda Labs",
+        "MLOps",
+        "LightGBM",
+        "RAG"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2020-01",
+      "end_date": "2024-01",
+      "duration": "2020-01 – 2024-01",
+      "duration_months": 48,
+      "description": "Developed data visualization tools using OpenCV, used by 10000+ analysts\nImplemented NLP solution using RAG, processing 100000+ text documents daily\nCreated recommendation system using Dagster, increasing user engagement by 43%",
+      "technologies": [
+        "OpenCV",
+        "Hugging Face",
+        "Dagster",
+        "AWS SageMaker",
+        "BigQuery",
+        "RAG"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "B.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Julia",
+    "LangChain",
+    "OpenAI API",
+    "Polars",
+    "Weights & Biases",
+    "Airflow",
+    "Neo4j",
+    "Pinecone",
+    "Weaviate",
+    "Qdrant",
+    "Hugging Face Endpoints",
+    "Bedrock",
+    "Vector Databases",
+    "MLOps",
+    "A/B Testing"
+  ],
+  "companies": [
+    "ParseLab",
+    "Confluent",
+    "CloudNova"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "LLM Engineer",
+    "ML Engineer"
+  ],
+  "universities": [
+    "TU Delft",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 9,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:23.129809",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

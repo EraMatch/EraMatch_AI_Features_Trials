@@ -1,0 +1,345 @@
+{
+  "full_name": "Sherri Glover",
+  "email": "sherri.glover@gmail.com",
+  "location": "East George, Australia",
+  "years_of_experience": 14.4,
+  "seniority_level": "principal",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sherri Glover",
+    "email": "sherri.glover@gmail.com",
+    "phone": "001-980-527-1487x271",
+    "location": "East George, Australia",
+    "linkedin_url": "https://linkedin.com/in/sherri-glover",
+    "github_url": null,
+    "portfolio_url": "https://sherriglover.dev"
+  },
+  "summary": "Executive-level technology leader with extensive background in frontend engineering. Expertise in JavaScript, HTML, Angular with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2022-10",
+      "end_date": "Present",
+      "duration": "2022-10 – Present",
+      "duration_months": 41,
+      "description": "Developed responsive web applications using TypeScript, improving page load time by 30%\nImproved website accessibility score to 30% using Svelte\nIntegrated third-party APIs using Svelte, reducing integration time by 67%",
+      "technologies": [
+        "TypeScript",
+        "Svelte",
+        "Next.js"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2019-06",
+      "end_date": "2022-10",
+      "duration": "2019-06 – 2022-10",
+      "duration_months": 40,
+      "description": "Implemented state management solution using Netlify, reducing API calls by 41%\nBuilt interactive data visualizations using Netlify, serving 1000+ daily users\nCreated progressive web app using Component-Driven Development, increasing user engagement by 50%",
+      "technologies": [
+        "Component-Driven Development",
+        "Accessibility (WCAG)",
+        "Netlify"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2017-01",
+      "end_date": "2019-06",
+      "duration": "2017-01 – 2019-06",
+      "duration_months": 29,
+      "description": "Improved website accessibility score to 60% using HTML\nImplemented state management solution using Cloudflare Pages, reducing API calls by 47%",
+      "technologies": [
+        "Accessibility (WCAG)",
+        "HTML",
+        "Cloudflare Pages"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2013-03",
+      "end_date": "2017-01",
+      "duration": "2013-03 – 2017-01",
+      "duration_months": 46,
+      "description": "Developed design system using Angular, standardizing UI across 100+ applications\nImplemented state management solution using JavaScript, reducing API calls by 52%\nImproved website accessibility score to 57% using HTML\nBuilt real-time collaboration features using Cloudflare Pages, serving 500+ concurrent users",
+      "technologies": [
+        "Angular",
+        "Cloudflare Pages",
+        "JavaScript",
+        "Vercel",
+        "HTML"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2011-10",
+      "end_date": "2013-03",
+      "duration": "2011-10 – 2013-03",
+      "duration_months": 17,
+      "description": "Created accessible UI components using Accessibility (WCAG), achieving WCAG AA compliance\nDeveloped responsive web applications using IndexedDB, improving page load time by 35%\nIntegrated third-party APIs using Vue.js, reducing integration time by 61%",
+      "technologies": [
+        "Figma",
+        "Storybook",
+        "IndexedDB",
+        "Vue.js",
+        "Accessibility (WCAG)",
+        "Agile"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "Ph.D.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2012",
+      "gpa": "2.94",
+      "activities": "Dean's List"
+    },
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2010",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Task Scheduler",
+      "description": "Built React Component Library using JavaScript and Next.js, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Next.js",
+        "JavaScript",
+        "React"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Implemented Dashboard Application using Angular, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Angular",
+        "Next.js",
+        "HTML"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Black year ahead upon force\" — IEEE 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "HTML",
+    "Angular",
+    "React",
+    "Svelte",
+    "Vue.js",
+    "Next.js",
+    "Vite",
+    "Prettier",
+    "Storybook",
+    "Supabase",
+    "PostgreSQL",
+    "IndexedDB",
+    "MongoDB",
+    "Cloudflare Pages",
+    "Render",
+    "Netlify",
+    "AWS Amplify",
+    "Agile",
+    "Accessibility (WCAG)",
+    "Responsive Design",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "Twilio",
+    "Shopify",
+    "Block",
+    "Notion",
+    "Vercel"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "Frontend Developer",
+    "Full-Stack Developer",
+    "Web Developer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "KAIST",
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 387,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:33.432902",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "full_name": "Mark Guzman",
+  "email": "mark.guzman@gmail.com",
+  "location": "Mayoborough, UAE",
+  "years_of_experience": 15.0,
+  "seniority_level": "principal",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mark Guzman",
+    "email": "mark.guzman@gmail.com",
+    "phone": "7936371189",
+    "location": "Mayoborough, UAE",
+    "linkedin_url": "https://linkedin.com/in/mark-guzman",
+    "github_url": "https://github.com/markguzman",
+    "portfolio_url": null
+  },
+  "summary": "Principal cybersecurity architect with 15+ years defining technical strategy for enterprise transformations. Subject matter expert in Go, Bash, Rust.",
+  "work_experience": [
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Implemented identity management using CrowdStrike, securing 1000+ user identities\nConducted penetration testing using OWASP Top 10, identifying 10000+ vulnerabilities\nImplemented SIEM solution using SonarQube, processing 500+ logs/day\nDesigned zero-trust architecture using OWASP Top 10, securing 50000+ endpoints",
+      "technologies": [
+        "Azure Sentinel",
+        "OWASP Top 10",
+        "Rust",
+        "SonarQube",
+        "CrowdStrike",
+        "C"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2019-01",
+      "end_date": "2022-04",
+      "duration": "2019-01 – 2022-04",
+      "duration_months": 39,
+      "description": "Implemented security monitoring using Python, detecting 1000+ threats\nBuilt security automation using Nmap, reducing incident response time by 55%",
+      "technologies": [
+        "Python",
+        "Burp Suite",
+        "Suricata",
+        "Bash",
+        "Nmap"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2015-04",
+      "end_date": "2019-01",
+      "duration": "2015-04 – 2019-01",
+      "duration_months": 45,
+      "description": "Developed threat intelligence platform using GCP Security Command Center, tracking 1000+ threats\nImplemented security monitoring using GCP Security Command Center, detecting 1000+ threats\nDesigned zero-trust architecture using GCP Security Command Center, securing 10000+ endpoints\nDeveloped threat intelligence platform using GCP Security Command Center, tracking 100000+ threats",
+      "technologies": [
+        "Elasticsearch",
+        "GCP Security Command Center",
+        "Threat Modeling"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2010-10",
+      "end_date": "2015-02",
+      "duration": "2010-10 – 2015-02",
+      "duration_months": 52,
+      "description": "Conducted penetration testing using Rust, identifying 100000+ vulnerabilities\nImplemented security monitoring using Hashicorp Vault, detecting 100000+ threats\nBuilt secure CI/CD pipeline using Rust, preventing 1000+ security issues",
+      "technologies": [
+        "Burp Suite",
+        "Hashicorp Vault",
+        "Rust"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2008",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2007",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Mandarin (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Bash",
+    "Rust",
+    "PowerShell",
+    "Metasploit",
+    "OWASP ZAP",
+    "Suricata",
+    "Trivy",
+    "Hashicorp Vault",
+    "CrowdStrike",
+    "Splunk",
+    "SonarQube",
+    "Redis",
+    "Elasticsearch",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "OWASP Top 10",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "AgentForge",
+    "Spotify",
+    "Google",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "SOC Analyst",
+    "Security Engineer",
+    "SOC Analyst",
+    "Security Engineer"
+  ],
+  "universities": [
+    "Stanford University",
+    "NUS"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 412,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:40:45.832019",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

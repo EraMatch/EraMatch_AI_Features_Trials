@@ -1,0 +1,250 @@
+{
+  "full_name": "Dwayne Carlson",
+  "email": "dwayne.carlson@carlson.dev",
+  "location": "Thomastown, Australia",
+  "years_of_experience": 2.8,
+  "seniority_level": "mid",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Dwayne Carlson",
+    "email": "dwayne.carlson@carlson.dev",
+    "phone": "001-401-728-9743x2512",
+    "location": "Thomastown, Australia",
+    "linkedin_url": "https://linkedin.com/in/dwayne-carlson",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Results-driven mobile development professional with 3 years of experience designing and implementing scalable solutions using Dart, Objective-C, KMP. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2023-05",
+      "end_date": "Present",
+      "duration": "2023-05 – Present",
+      "duration_months": 34,
+      "description": "Created in-app purchase integration using Kotlin, generating 1000+ in revenue\nDeveloped cross-platform solution using Swift, reducing development time by 15%\nCreated in-app purchase integration using Swift, generating 50000+ in revenue",
+      "technologies": [
+        "Kotlin",
+        "C++",
+        "Swift"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2023",
+      "gpa": "3.50",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Task Scheduler",
+      "description": "Designed Android Application leveraging Expo microservices architecture with Dart for caching",
+      "technologies": [
+        "Expo",
+        "Dart",
+        "UIKit"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Into again window thing color set act goal listen\" — ArXiv 2021",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Major easy body standard\" — CVPR 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "Objective-C",
+    "KMP",
+    "UIKit",
+    "Expo",
+    "SwiftUI",
+    "Flutter",
+    "App Center",
+    "Android Studio",
+    "CocoaPods",
+    "TestFlight",
+    "Core Data",
+    "SQLite",
+    "Realm",
+    "Firebase Firestore",
+    "Hive",
+    "Firebase",
+    "RevenueCat",
+    "Supabase",
+    "AWS Amplify",
+    "Offline-First",
+    "Clean Architecture",
+    "CI/CD for Mobile",
+    "MVVM"
+  ],
+  "companies": [
+    "ParseLab"
+  ],
+  "job_titles": [
+    "React Native Developer"
+  ],
+  "universities": [
+    "MIT"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 456,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:41:07.804185",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "full_name": "Fernando Lynn",
+  "email": "fernando.lynn@lynn.dev",
+  "location": "Dunlapburgh, India",
+  "years_of_experience": 8.3,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Fernando Lynn",
+    "email": "fernando.lynn@lynn.dev",
+    "phone": "952-262-1815",
+    "location": "Dunlapburgh, India",
+    "linkedin_url": null,
+    "github_url": "https://github.com/fernandolynn",
+    "portfolio_url": null
+  },
+  "summary": "Lead frontend engineering professional with 8 years driving technical strategy and team excellence. Expert in Dart, TypeScript, HTML with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Created progressive web app using Material UI, increasing user engagement by 70%\nBuilt reusable component library using Progressive Web Apps, used by 500+ developers\nBuilt reusable component library using Material UI, used by 1000+ developers\nBuilt real-time collaboration features using Progressive Web Apps, serving 100000+ concurrent users",
+      "technologies": [
+        "Cloudflare Pages",
+        "Bootstrap",
+        "Progressive Web Apps",
+        "Material UI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2020-10",
+      "end_date": "2023-09",
+      "duration": "2020-10 – 2023-09",
+      "duration_months": 35,
+      "description": "Created accessible UI components using IndexedDB, achieving WCAG AA compliance\nImproved website accessibility score to 61% using Render\nImplemented automated testing framework using Render, achieving 63% code coverage",
+      "technologies": [
+        "IndexedDB",
+        "Render",
+        "Next.js"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2017-01",
+      "end_date": "2020-04",
+      "duration": "2017-01 – 2020-04",
+      "duration_months": 39,
+      "description": "Developed responsive web applications using HTML, improving page load time by 30%\nIntegrated third-party APIs using Svelte, reducing integration time by 18%\nBuilt real-time collaboration features using Vercel, serving 100000+ concurrent users\nCreated accessible UI components using Remix, achieving WCAG AA compliance",
+      "technologies": [
+        "Supabase",
+        "Accessibility (WCAG)",
+        "Remix",
+        "Svelte",
+        "HTML",
+        "Vercel"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "M.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "UI/UX Club"
+    },
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2016",
+      "gpa": "3.32",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Designed Content Management UI leveraging Material UI microservices architecture with HTML for caching",
+      "technologies": [
+        "HTML",
+        "Material UI",
+        "Next.js"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Feature Store",
+      "description": "Designed and implemented Data Visualization Tool with React, integrating with Next.js for seamless data flow",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "React"
+      ],
+      "url": "https://github.com/fernandolynn/feature-store",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Preston, Moore and Garcia Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Volunteering at local shelters",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Window important never understand music produce\" — ArXiv 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "TypeScript",
+    "HTML",
+    "Bootstrap",
+    "Material UI",
+    "Tailwind CSS",
+    "React",
+    "Next.js",
+    "ESLint",
+    "Storybook",
+    "Git",
+    "Playwright",
+    "Firebase",
+    "MongoDB",
+    "Cloudflare Pages",
+    "Render",
+    "AWS Amplify",
+    "Accessibility (WCAG)",
+    "Progressive Web Apps",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "PipelineIO",
+    "CodeReview.io",
+    "Datadog"
+  ],
+  "job_titles": [
+    "React Developer",
+    "Frontend Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "ETH Zurich",
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 143,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:30.449242",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

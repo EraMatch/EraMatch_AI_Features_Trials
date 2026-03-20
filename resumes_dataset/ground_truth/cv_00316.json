@@ -1,0 +1,310 @@
+{
+  "full_name": "Sharon Davis",
+  "email": "sharon.davis@outlook.com",
+  "location": "West Elizabeth, Australia",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sharon Davis",
+    "email": "sharon.davis@outlook.com",
+    "phone": "826.664.2147",
+    "location": "West Elizabeth, Australia",
+    "linkedin_url": "https://linkedin.com/in/sharon-davis",
+    "github_url": "https://github.com/sharondavis",
+    "portfolio_url": null
+  },
+  "summary": "Senior mobile development engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in TypeScript, C++, Java with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2023-01",
+      "end_date": "Present",
+      "duration": "2023-01 – Present",
+      "duration_months": 38,
+      "description": "Created app analytics tracking using Kotlin, providing insights on 50000+ users\nImplemented biometric authentication using Objective-C, securing 10000+ user accounts",
+      "technologies": [
+        "Kotlin",
+        "SwiftUI",
+        "SQLite",
+        "Flutter",
+        "Objective-C"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2018-08",
+      "end_date": "2022-07",
+      "duration": "2018-08 – 2022-07",
+      "duration_months": 47,
+      "description": "Built widget functionality using Xcode, increasing daily active users by 55%\nDeveloped mobile application using Dart, achieving 50000+ downloads",
+      "technologies": [
+        "Dart",
+        "Supabase",
+        "Android Studio",
+        "CocoaPods",
+        "Xcode"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2017-05",
+      "end_date": "2018-02",
+      "duration": "2017-05 – 2018-02",
+      "duration_months": 9,
+      "description": "Optimized app performance using Offline-First, reducing battery consumption by 60%\nBuilt widget functionality using CI/CD for Mobile, increasing daily active users by 19%\nBuilt AR/VR features using Offline-First, increasing user retention by 41%",
+      "technologies": [
+        "Hive",
+        "Offline-First",
+        "CI/CD for Mobile",
+        "Java"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2017",
+      "gpa": "3.61",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Schema Validator",
+      "description": "Created Push Notification Service leveraging C++ for core functionality and UIKit for optimization",
+      "technologies": [
+        "UIKit",
+        "Dart",
+        "C++"
+      ],
+      "url": "https://github.com/sharondavis/schema-validator",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — IEEE 2024",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Hunt-Burns Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "3D printing",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "C++",
+    "Java",
+    "Dart",
+    "React Native",
+    "UIKit",
+    "Expo",
+    "SwiftUI",
+    "KMP",
+    "Xcode",
+    "TestFlight",
+    "Firebase",
+    "Core Data",
+    "Hive",
+    "Realm",
+    "SQLite",
+    "Firebase Firestore",
+    "Firebase",
+    "AWS Amplify",
+    "Supabase",
+    "RevenueCat",
+    "Offline-First",
+    "App Store Optimization",
+    "MVVM"
+  ],
+  "companies": [
+    "Microsoft",
+    "ParseLab",
+    "CloudNova"
+  ],
+  "job_titles": [
+    "iOS Developer",
+    "React Native Developer",
+    "Android Developer"
+  ],
+  "universities": [
+    "University of Michigan"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 316,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:56.934610",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

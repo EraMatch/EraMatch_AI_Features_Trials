@@ -1,0 +1,312 @@
+{
+  "full_name": "Mr. Daniel Brown",
+  "email": "mr..daniel.brown@outlook.com",
+  "location": "New Carlosbury, Japan",
+  "years_of_experience": 9.8,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mr. Daniel Brown",
+    "email": "mr..daniel.brown@outlook.com",
+    "phone": "001-380-450-0978x8208",
+    "location": "New Carlosbury, Japan",
+    "linkedin_url": "https://linkedin.com/in/mr.-daniel-brown",
+    "github_url": "https://github.com/mrdanielbrown",
+    "portfolio_url": "https://mrdanielbrown.dev"
+  },
+  "summary": "Lead data science / ml / ai professional with 10 years driving technical strategy and team excellence. Expert in SQL, Go, Scala with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2022-03",
+      "end_date": "Present",
+      "duration": "2022-03 – Present",
+      "duration_months": 48,
+      "description": "Created feature engineering pipeline using Databricks, reducing preprocessing time by 49%\nDeveloped computer vision models using Python, achieving 40% accuracy",
+      "technologies": [
+        "Python",
+        "Redshift",
+        "Databricks"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2017-10",
+      "end_date": "2021-12",
+      "duration": "2017-10 – 2021-12",
+      "duration_months": 50,
+      "description": "Built ML model serving infrastructure using Neptune, handling 500+ predictions/day\nDeveloped ML models using Neptune, improving prediction accuracy by 24%\nDeveloped data visualization tools using MLflow, used by 50000+ analysts",
+      "technologies": [
+        "Neptune",
+        "Deep Learning",
+        "MLflow"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2015-08",
+      "end_date": "2017-04",
+      "duration": "2015-08 – 2017-04",
+      "duration_months": 20,
+      "description": "Designed data warehousing solution using LangChain, enabling analytics on 1000+ records\nBuilt real-time analytics dashboard using AWS SageMaker, used by 100+ stakeholders\nBuilt ML model serving infrastructure using Weaviate, handling 5000+ predictions/day\nCreated recommendation system using AWS SageMaker, increasing user engagement by 32%",
+      "technologies": [
+        "MLflow",
+        "LangChain",
+        "AWS SageMaker",
+        "MongoDB",
+        "Weaviate",
+        "Spark"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "M.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2016",
+      "gpa": "3.94",
+      "activities": "AI Research"
+    },
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.A.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2014",
+      "gpa": "3.79",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartCache",
+      "description": "Created Data Quality Monitor leveraging Scala for core functionality and Go for optimization",
+      "technologies": [
+        "Go",
+        "Scala",
+        "SQL"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Built A/B Testing Framework with SQL and Scala, serving 10,000+ daily active users",
+      "technologies": [
+        "Go",
+        "SQL",
+        "Scala"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Drone building",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Build three east organization people information on mission\" — CVPR 2024",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — IEEE 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Go",
+    "Scala",
+    "Claude API",
+    "LlamaIndex",
+    "Scikit-learn",
+    "Dagster",
+    "Spark",
+    "MLflow",
+    "Dask",
+    "Neptune",
+    "PostgreSQL",
+    "Neo4j",
+    "MongoDB",
+    "Snowflake",
+    "Weaviate",
+    "Lambda Labs",
+    "Bedrock",
+    "GCP Vertex AI",
+    "Feature Engineering",
+    "Fine-tuning"
+  ],
+  "companies": [
+    "Supabase",
+    "Google",
+    "CodeReview.io"
+  ],
+  "job_titles": [
+    "AI Product Engineer",
+    "Research Scientist",
+    "NLP Engineer"
+  ],
+  "universities": [
+    "University of Toronto",
+    "UT Austin"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 11,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:23.924503",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

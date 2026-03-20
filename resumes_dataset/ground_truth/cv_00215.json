@@ -1,0 +1,239 @@
+{
+  "full_name": "Carol White",
+  "email": "carol.white@outlook.com",
+  "location": "New Amy, Netherlands",
+  "years_of_experience": 2.2,
+  "seniority_level": "mid",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Carol White",
+    "email": "carol.white@outlook.com",
+    "phone": "(885)728-9755x8556",
+    "location": "New Amy, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/carol-white",
+    "github_url": "https://github.com/carolwhite",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level product management specialist with 2 years building production systems. Skilled in Python, SQL, JavaScript with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2024-10",
+      "end_date": "Present",
+      "duration": "2024-10 – Present",
+      "duration_months": 17,
+      "description": "Conducted user research using Miro, interviewing 50000+ users\nImplemented user onboarding using Miro, improving retention by 27%\nLed agile product development using Miro, delivering 5000+ sprints",
+      "technologies": [
+        "Miro",
+        "Google Analytics",
+        "GCP"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2023-08",
+      "end_date": "2024-06",
+      "duration": "2023-08 – 2024-06",
+      "duration_months": 10,
+      "description": "Led product launches using SQL, achieving 100000+ signups\nCreated product backlog using SQL, managing 1000+ user stories\nLed agile product development using SQL, delivering 500+ sprints\nCreated product backlog using Zoom, managing 50000+ user stories",
+      "technologies": [
+        "Zoom",
+        "R",
+        "SQL"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "M.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2024",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2021",
+      "gpa": "3.63",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmap Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OKRs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zoom",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — IEEE 2019",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "SQL",
+    "JavaScript",
+    "Jira",
+    "Productboard",
+    "Confluence",
+    "Miro",
+    "Google Analytics",
+    "Tableau",
+    "MySQL",
+    "PostgreSQL",
+    "BigQuery",
+    "Snowflake",
+    "Azure",
+    "GCP",
+    "AWS",
+    "Roadmap Planning",
+    "User Research",
+    "OKRs"
+  ],
+  "companies": [
+    "ModelShip",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "Product Owner",
+    "VP of Product"
+  ],
+  "universities": [
+    "Columbia University",
+    "Imperial College London"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 215,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:39:05.598726",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "full_name": "Karen Burton",
+  "email": "karen.burton@gmail.com",
+  "location": "Laurenstad, Singapore",
+  "years_of_experience": 14.1,
+  "seniority_level": "principal",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Karen Burton",
+    "email": "karen.burton@gmail.com",
+    "phone": "+1-257-560-8495",
+    "location": "Laurenstad, Singapore",
+    "linkedin_url": "https://linkedin.com/in/karen-burton",
+    "github_url": "https://github.com/karenburton",
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 14 years shaping design (ui/ux) practice. Deep expertise in Python, JavaScript, HTML and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "UI Designer",
+      "title": "UI Designer",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "duration": "2023-12 – Present",
+      "duration_months": 27,
+      "description": "Designed user interfaces using Adobe Creative Suite, improving usability by 16%\nDesigned data visualizations using After Effects, improving comprehension by 34%\nCreated motion design using Miro, increasing engagement by 66%",
+      "technologies": [
+        "After Effects",
+        "Vercel",
+        "Adobe Creative Suite",
+        "Information Architecture",
+        "Miro",
+        "CSS"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2023-01",
+      "end_date": "2023-11",
+      "duration": "2023-01 – 2023-11",
+      "duration_months": 10,
+      "description": "Conducted user research using Figma, gathering insights from 500+ users\nCreated information architecture using Figma, improving navigation by 46%\nCreated information architecture using Miro, improving navigation by 40%\nCreated brand identity using Vercel, applied across 100000+ touchpoints",
+      "technologies": [
+        "Figma",
+        "Miro",
+        "Vercel"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Visual Designer",
+      "title": "Visual Designer",
+      "start_date": "2020-01",
+      "end_date": "2023-01",
+      "duration": "2020-01 – 2023-01",
+      "duration_months": 36,
+      "description": "Created design system using Python, used across 1000+ products\nDesigned user interfaces using Usability Testing, improving usability by 41%\nDesigned responsive layouts using React, serving 5000+ screen sizes\nDesigned accessible interfaces using Design Thinking, achieving WCAG AA compliance",
+      "technologies": [
+        "Cloudflare",
+        "Design Thinking",
+        "Python",
+        "Usability Testing",
+        "Principle"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Product Designer",
+      "title": "Product Designer",
+      "start_date": "2015-08",
+      "end_date": "2019-08",
+      "duration": "2015-08 – 2019-08",
+      "duration_months": 48,
+      "description": "Created design system using JavaScript, used across 100+ products\nDesigned data visualizations using JavaScript, improving comprehension by 25%",
+      "technologies": [
+        "Adobe XD",
+        "JavaScript",
+        "Netlify",
+        "Adobe Creative Suite"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2011-07",
+      "end_date": "2015-07",
+      "duration": "2011-07 – 2015-07",
+      "duration_months": 48,
+      "description": "Built design collaboration workflow using Vercel, reducing review time by 15%\nCreated design system using Vercel, used across 1000+ products\nConducted user research using Python, gathering insights from 10000+ users\nDesigned responsive layouts using Angular, serving 100+ screen sizes",
+      "technologies": [
+        "Netlify",
+        "Adobe XD",
+        "Python",
+        "Vercel",
+        "User Research"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": "UX Design Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "InVision",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Maze",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Usability Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Implemented UX Research using Python, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Principle",
+        "Python",
+        "Figma"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "ML Model Registry",
+      "description": "Created UI Component Library leveraging Principle for core functionality and HTML for optimization",
+      "technologies": [
+        "Figma",
+        "Principle",
+        "HTML"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Designed Design Tokens leveraging JavaScript microservices architecture with Principle for caching",
+      "technologies": [
+        "Principle",
+        "InVision",
+        "JavaScript"
+      ],
+      "url": "https://github.com/karenburton/event-sourcing-engine",
+      "date": "2023"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Interaction Design Certificate",
+      "issuer": "Interaction Design Foundation",
+      "date": "2021",
+      "credential_id": "VY12OI40"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Google DevFest 2025",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — MLH 2020",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Figma",
+    "Adobe XD",
+    "InVision",
+    "Principle",
+    "Maze",
+    "Miro",
+    "Storybook",
+    "Firebase",
+    "Cloudflare",
+    "Vercel",
+    "Accessibility (WCAG)",
+    "Usability Testing"
+  ],
+  "companies": [
+    "PipelineIO",
+    "Meta",
+    "Datadog",
+    "Datadog",
+    "Spotify"
+  ],
+  "job_titles": [
+    "UI Designer",
+    "Design Lead",
+    "Visual Designer",
+    "Product Designer",
+    "Design Lead"
+  ],
+  "universities": [
+    "UIUC"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 238,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:39:17.358166",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

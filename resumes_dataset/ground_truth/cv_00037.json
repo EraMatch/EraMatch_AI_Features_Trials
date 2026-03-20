@@ -1,0 +1,320 @@
+{
+  "full_name": "Amanda Miller",
+  "email": "amanda.miller@protonmail.com",
+  "location": "Wolfborough, UK",
+  "years_of_experience": 9.8,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Amanda Miller",
+    "email": "amanda.miller@protonmail.com",
+    "phone": "751-968-0876x038",
+    "location": "Wolfborough, UK",
+    "linkedin_url": "https://linkedin.com/in/amanda-miller",
+    "github_url": "https://github.com/amandamiller",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Julia, Go, and MATLAB. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2024-05",
+      "end_date": "Present",
+      "duration": "2024-05 – Present",
+      "duration_months": 22,
+      "description": "Built real-time analytics dashboard using Feature Engineering, used by 100000+ stakeholders\nDeveloped ML models using JAX, improving prediction accuracy by 34%",
+      "technologies": [
+        "Weights & Biases",
+        "JAX",
+        "Feature Engineering"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2021-02",
+      "end_date": "2024-01",
+      "duration": "2021-02 – 2024-01",
+      "duration_months": 35,
+      "description": "Developed ML models using Pinecone, improving prediction accuracy by 36%\nBuilt real-time analytics dashboard using Pinecone, used by 10000+ stakeholders\nDesigned data warehousing solution using LLM Evaluation, enabling analytics on 500+ records\nCreated feature engineering pipeline using LLM Evaluation, reducing preprocessing time by 42%",
+      "technologies": [
+        "Statistical Modeling",
+        "MLflow",
+        "RAG",
+        "Pinecone",
+        "LLM Evaluation",
+        "Go"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2018-02",
+      "end_date": "2020-10",
+      "duration": "2018-02 – 2020-10",
+      "duration_months": 32,
+      "description": "Implemented NLP solution using Go, processing 500+ text documents daily\nDeveloped ML models using RAG, improving prediction accuracy by 19%\nCreated recommendation system using Kubeflow, increasing user engagement by 61%",
+      "technologies": [
+        "Go",
+        "Kubeflow",
+        "RAG",
+        "Statistical Modeling"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2015-08",
+      "end_date": "2018-01",
+      "duration": "2015-08 – 2018-01",
+      "duration_months": 29,
+      "description": "Built end-to-end ML pipeline using Vector Databases, processing 100000+ samples daily\nCreated feature engineering pipeline using A/B Testing, reducing preprocessing time by 35%\nCreated recommendation system using Pinecone, increasing user engagement by 38%\nEstablished MLOps practices using Vector Databases, reducing model deployment time by 29%",
+      "technologies": [
+        "Vector Databases",
+        "Snowflake",
+        "A/B Testing",
+        "Pinecone"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.A.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — IEEE 2025",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Julia",
+    "Go",
+    "MATLAB",
+    "SQL",
+    "R",
+    "LangChain",
+    "OpenAI API",
+    "PyTorch",
+    "Scikit-learn",
+    "Dask",
+    "Spark",
+    "NumPy",
+    "Dagster",
+    "Kubeflow",
+    "Qdrant",
+    "Weaviate",
+    "ChromaDB",
+    "Snowflake",
+    "GCP Vertex AI",
+    "AWS SageMaker",
+    "Hugging Face Endpoints",
+    "Lambda Labs",
+    "Statistical Modeling",
+    "LLM Evaluation",
+    "Computer Vision",
+    "MLOps"
+  ],
+  "companies": [
+    "Spotify",
+    "TechFlow AI",
+    "SkillBridge",
+    "Palantir"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "LLM Engineer",
+    "NLP Engineer",
+    "NLP Engineer"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 37,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:37.122993",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

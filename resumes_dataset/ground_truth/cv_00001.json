@@ -1,0 +1,305 @@
+{
+  "full_name": "Michelle Miles",
+  "email": "michelle.miles@yahoo.com",
+  "location": "West Melanieview, Australia",
+  "years_of_experience": 9.2,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michelle Miles",
+    "email": "michelle.miles@yahoo.com",
+    "phone": "(337)894-0265x42351",
+    "location": "West Melanieview, Australia",
+    "linkedin_url": "https://linkedin.com/in/michelle-miles",
+    "github_url": "https://github.com/michellemiles",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in frontend engineering with expertise in JavaScript, CSS, TypeScript. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2022-02",
+      "end_date": "Present",
+      "duration": "2022-02 – Present",
+      "duration_months": 49,
+      "description": "Created progressive web app using Cypress, increasing user engagement by 42%\nImplemented state management solution using Cypress, reducing API calls by 45%",
+      "technologies": [
+        "Prettier",
+        "Cypress",
+        "React"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2018-05",
+      "end_date": "2021-12",
+      "duration": "2018-05 – 2021-12",
+      "duration_months": 43,
+      "description": "Implemented state management solution using Jest, reducing API calls by 20%\nIntegrated third-party APIs using Jest, reducing integration time by 57%\nDeveloped design system using CSS, standardizing UI across 5000+ applications\nImplemented state management solution using CSS, reducing API calls by 60%",
+      "technologies": [
+        "Jest",
+        "CSS",
+        "Accessibility (WCAG)"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2016-06",
+      "end_date": "2018-01",
+      "duration": "2016-06 – 2018-01",
+      "duration_months": 19,
+      "description": "Improved website accessibility score to 62% using Dart\nImplemented automated testing framework using CSS, achieving 34% code coverage",
+      "technologies": [
+        "Webpack",
+        "CSS",
+        "Dart",
+        "Supabase",
+        "Vite",
+        "HTML"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2017",
+      "gpa": "3.91",
+      "activities": null
+    },
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deployment Dashboard",
+      "description": "Built UI Design System using Angular and CSS, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Angular",
+        "CSS",
+        "Dart"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Built Real-time Chat with React and Dart, serving 10,000+ daily active users",
+      "technologies": [
+        "React",
+        "Dart",
+        "TypeScript"
+      ],
+      "url": "https://github.com/michellemiles/token-bucket-limiter",
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Blair PLC Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "CSS",
+    "TypeScript",
+    "Dart",
+    "Python",
+    "Svelte",
+    "Angular",
+    "Remix",
+    "React",
+    "Playwright",
+    "Cypress",
+    "Jest",
+    "MongoDB",
+    "IndexedDB",
+    "Render",
+    "AWS Amplify",
+    "Vercel",
+    "Cloudflare Pages",
+    "Netlify",
+    "Progressive Web Apps",
+    "Agile",
+    "Responsive Design"
+  ],
+  "companies": [
+    "Datadog",
+    "Datadog",
+    "Spotify"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "Web Developer",
+    "React Developer"
+  ],
+  "universities": [
+    "McGill University",
+    "McGill University"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 1,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:37:19.001297",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

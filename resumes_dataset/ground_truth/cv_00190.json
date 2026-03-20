@@ -1,0 +1,275 @@
+{
+  "full_name": "David Smith",
+  "email": "david.smith@smith.dev",
+  "location": "New Justinside, Germany",
+  "years_of_experience": 7.5,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "David Smith",
+    "email": "david.smith@smith.dev",
+    "phone": "(214)365-6693",
+    "location": "New Justinside, Germany",
+    "linkedin_url": "https://linkedin.com/in/david-smith",
+    "github_url": "https://github.com/davidsmith",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Python, Node.js, Django.",
+  "work_experience": [
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 – Present",
+      "duration_months": 37,
+      "description": "Mentored team of 4 junior developers on Claude API best practices\nDesigned and implemented microservices architecture using Java, handling 1000+ concurrent users\nArchitected and built RESTful APIs serving 500+ requests/day using Java, reducing response time by 68%\nReduced infrastructure costs by 50% through optimization using Java",
+      "technologies": [
+        "Claude API",
+        "Java",
+        "DynamoDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2018-06",
+      "end_date": "2022-11",
+      "duration": "2018-06 – 2022-11",
+      "duration_months": 53,
+      "description": "Implemented caching layer with PlanetScale, reducing database load by 55%\nDesigned and implemented message queue system using PlanetScale, processing 1000+ messages/hour",
+      "technologies": [
+        "Cloudflare",
+        "PlanetScale",
+        "Kubernetes"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2016",
+      "gpa": "3.42",
+      "activities": "ACM Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Bailey, Richmond and Hill Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"White lawyer identify above company media next me future bring\" — IEEE 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Node.js",
+    "Django",
+    "Flask",
+    "DynamoDB",
+    "Cassandra",
+    "Supabase",
+    "Elasticsearch",
+    "SQLite",
+    "Terraform",
+    "ArgoCD",
+    "Kafka",
+    "Vercel",
+    "Azure",
+    "Cloudflare",
+    "Heroku",
+    "AWS",
+    "Anthropic",
+    "Hugging Face",
+    "Replicate",
+    "Google Gemini",
+    "CI/CD",
+    "REST API Design",
+    "Event-Driven Architecture",
+    "TDD",
+    "Agile"
+  ],
+  "companies": [
+    "OpenAI",
+    "Vercel"
+  ],
+  "job_titles": [
+    "Server-Side Developer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 190,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:53.466586",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

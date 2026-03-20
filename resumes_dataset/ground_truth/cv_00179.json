@@ -1,0 +1,261 @@
+{
+  "full_name": "Mr. Matthew Miller",
+  "email": "mr..matthew.miller@protonmail.com",
+  "location": "New Jorgeside, UAE",
+  "years_of_experience": 8.2,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mr. Matthew Miller",
+    "email": "mr..matthew.miller@protonmail.com",
+    "phone": "828-534-1108x099",
+    "location": "New Jorgeside, UAE",
+    "linkedin_url": "https://linkedin.com/in/mr.-matthew-miller",
+    "github_url": "https://github.com/mrmatthewmiller",
+    "portfolio_url": null
+  },
+  "summary": "Lead data science / ml / ai professional with 8 years driving technical strategy and team excellence. Expert in Python, MATLAB, Go with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Built real-time analytics dashboard using R, used by 100000+ stakeholders\nDeveloped data visualization tools using Dagster, used by 5000+ analysts",
+      "technologies": [
+        "MLflow",
+        "Pinecone",
+        "R",
+        "Dagster"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2020-05",
+      "end_date": "2022-01",
+      "duration": "2020-05 – 2022-01",
+      "duration_months": 20,
+      "description": "Built end-to-end ML pipeline using Feature Engineering, processing 100+ samples daily\nImplemented A/B testing framework using Feature Engineering, running 1000+ experiments\nDeveloped ML models using Vector Databases, improving prediction accuracy by 54%",
+      "technologies": [
+        "GCP Vertex AI",
+        "Hugging Face",
+        "Vector Databases",
+        "Feature Engineering"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2017-08",
+      "end_date": "2020-03",
+      "duration": "2017-08 – 2020-03",
+      "duration_months": 31,
+      "description": "Built real-time analytics dashboard using MLflow, used by 5000+ stakeholders\nCreated recommendation system using Spark, increasing user engagement by 32%\nImplemented NLP solution using SQL, processing 100+ text documents daily\nCreated recommendation system using SQL, increasing user engagement by 17%",
+      "technologies": [
+        "MLflow",
+        "R",
+        "SQL",
+        "Spark",
+        "ChromaDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "B.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Google Cloud Professional Data Engineer",
+      "issuer": "Google",
+      "date": "2024",
+      "credential_id": "OX72LU56"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — MLH 2023",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Game development as hobby",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Spanish (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "MATLAB",
+    "Go",
+    "LlamaIndex",
+    "JAX",
+    "Dagster",
+    "Weights & Biases",
+    "Qdrant",
+    "Snowflake",
+    "AWS SageMaker",
+    "GCP Vertex AI",
+    "Hugging Face Endpoints",
+    "Azure ML",
+    "MLOps",
+    "Statistical Modeling"
+  ],
+  "companies": [
+    "Confluent",
+    "DeployFast",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "Data Scientist",
+    "NLP Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "Tsinghua University",
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 179,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:47.927602",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

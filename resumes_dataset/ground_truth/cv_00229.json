@@ -1,0 +1,215 @@
+{
+  "full_name": "Christopher Perez",
+  "email": "christopher.perez@perez.dev",
+  "location": "Parsonsfurt, France",
+  "years_of_experience": 1.2,
+  "seniority_level": "junior",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Christopher Perez",
+    "email": "christopher.perez@perez.dev",
+    "phone": "(504)863-3312x79757",
+    "location": "Parsonsfurt, France",
+    "linkedin_url": "https://linkedin.com/in/christopher-perez",
+    "github_url": "https://github.com/christopherperez",
+    "portfolio_url": "https://christopherperez.dev"
+  },
+  "summary": "Junior engineer with 1 years working with HTML. Demonstrated ability to learn quickly and contribute to team projects.",
+  "work_experience": [
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "UI Designer",
+      "title": "UI Designer",
+      "start_date": "2024-12",
+      "end_date": "Present",
+      "duration": "2024-12 – Present",
+      "duration_months": 15,
+      "description": "Designed data visualizations using Prototyping, improving comprehension by 31%\nConducted user research using InVision, gathering insights from 1000+ users\nDesigned responsive layouts using Vue, serving 5000+ screen sizes\nDesigned responsive layouts using Vue, serving 500+ screen sizes",
+      "technologies": [
+        "Cloudflare",
+        "Python",
+        "InVision",
+        "Prototyping"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2025",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Framer",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zeplin",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Thinking",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Information Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "InVision",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Built Icon Library using Figma and Framer, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Figma",
+        "Framer",
+        "Python"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Designed Brand Identity leveraging Principle microservices architecture with Python for caching",
+      "technologies": [
+        "Principle",
+        "Python",
+        "Figma"
+      ],
+      "url": "https://github.com/christopherperez/pdf-parser-toolkit",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "Python",
+    "Sketch",
+    "Framer",
+    "Figma",
+    "Principle",
+    "Storybook",
+    "Adobe Creative Suite",
+    "Zeplin",
+    "Firebase",
+    "Cloudflare",
+    "Netlify",
+    "Vercel",
+    "Design Thinking",
+    "Prototyping",
+    "Information Architecture",
+    "Design Systems"
+  ],
+  "companies": [
+    "SkillBridge"
+  ],
+  "job_titles": [
+    "UI Designer"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 229,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:39:12.710385",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

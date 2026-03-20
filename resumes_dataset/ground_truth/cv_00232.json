@@ -1,0 +1,288 @@
+{
+  "full_name": "Stephanie Khan",
+  "email": "stephanie.khan@yahoo.com",
+  "location": "South Andrea, USA",
+  "years_of_experience": 9.0,
+  "seniority_level": "lead",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Stephanie Khan",
+    "email": "stephanie.khan@yahoo.com",
+    "phone": "345-821-1175",
+    "location": "South Andrea, USA",
+    "linkedin_url": "https://linkedin.com/in/stephanie-khan",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in design (ui/ux) with expertise in HTML, JavaScript, CSS. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Product Designer",
+      "title": "Product Designer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Created motion design using Sketch, increasing engagement by 57%\nDesigned user interfaces using Sketch, improving usability by 24%",
+      "technologies": [
+        "Sketch",
+        "User Research",
+        "Framer"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "UI Designer",
+      "title": "UI Designer",
+      "start_date": "2022-10",
+      "end_date": "2024-01",
+      "duration": "2022-10 – 2024-01",
+      "duration_months": 15,
+      "description": "Conducted user research using HTML, gathering insights from 100000+ users\nCreated brand identity using HTML, applied across 10000+ touchpoints\nConducted usability testing using User Research, identifying 5000+ UX issues\nCreated motion design using User Research, increasing engagement by 41%",
+      "technologies": [
+        "HTML",
+        "After Effects",
+        "JavaScript",
+        "User Research"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Product Designer",
+      "title": "Product Designer",
+      "start_date": "2021-09",
+      "end_date": "2022-10",
+      "duration": "2021-09 – 2022-10",
+      "duration_months": 13,
+      "description": "Built design collaboration workflow using Sketch, reducing review time by 69%\nConducted user research using Hotjar, gathering insights from 10000+ users",
+      "technologies": [
+        "Framer",
+        "Sketch",
+        "Storybook",
+        "Hotjar"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2017-02",
+      "end_date": "2021-08",
+      "duration": "2017-02 – 2021-08",
+      "duration_months": 54,
+      "description": "Conducted user research using Information Architecture, gathering insights from 1000+ users\nBuilt design collaboration workflow using Adobe XD, reducing review time by 53%",
+      "technologies": [
+        "Adobe Creative Suite",
+        "Information Architecture",
+        "Adobe XD",
+        "Maze",
+        "Sketch"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": "3.17",
+      "activities": "UX Design Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zeplin",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Thinking",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Usability Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Maze",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Drone building",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Technical blogging",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "Python",
+    "Figma",
+    "Adobe XD",
+    "Sketch",
+    "After Effects",
+    "Storybook",
+    "Figma",
+    "Zeplin",
+    "Firebase",
+    "Vercel",
+    "Cloudflare",
+    "Netlify",
+    "Design Thinking",
+    "Design Systems",
+    "Usability Testing",
+    "Prototyping",
+    "User Research"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "Quantum Edge",
+    "Vercel",
+    "Spotify"
+  ],
+  "job_titles": [
+    "Product Designer",
+    "UI Designer",
+    "Product Designer",
+    "Design Lead"
+  ],
+  "universities": [
+    "UIUC"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 232,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:39:14.176452",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

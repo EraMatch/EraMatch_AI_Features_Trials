@@ -1,0 +1,275 @@
+{
+  "full_name": "Jill Jackson",
+  "email": "jill.jackson@outlook.com",
+  "location": "Dunnville, UAE",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jill Jackson",
+    "email": "jill.jackson@outlook.com",
+    "phone": "001-403-940-4384",
+    "location": "Dunnville, UAE",
+    "linkedin_url": "https://linkedin.com/in/jill-jackson",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in MATLAB, Go, and SQL. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": "2022-01 – Present",
+      "duration_months": 50,
+      "description": "Established MLOps practices using Weaviate, reducing model deployment time by 18%\nDesigned data warehousing solution using Weaviate, enabling analytics on 10000+ records\nEstablished MLOps practices using Vector Databases, reducing model deployment time by 42%",
+      "technologies": [
+        "OpenCV",
+        "Dagster",
+        "Vector Databases",
+        "Weaviate",
+        "Feature Engineering"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2020",
+      "gpa": "3.73",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Designed and implemented Feature Store with SQL, integrating with MATLAB for seamless data flow",
+      "technologies": [
+        "SQL",
+        "MATLAB",
+        "Go"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Designed and implemented Data Quality Monitor with MATLAB, integrating with Go for seamless data flow",
+      "technologies": [
+        "Go",
+        "SQL",
+        "MATLAB"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built Data Warehouse using SQL and Go, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "MATLAB",
+        "Go",
+        "SQL"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "date": "2021",
+      "credential_id": "XI91WC48"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Company Internal 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "MATLAB",
+    "Go",
+    "SQL",
+    "Hugging Face",
+    "LightGBM",
+    "OpenAI API",
+    "Keras",
+    "DVC",
+    "Pandas",
+    "Dagster",
+    "Weights & Biases",
+    "MongoDB",
+    "BigQuery",
+    "Weaviate",
+    "ChromaDB",
+    "Lambda Labs",
+    "Azure ML",
+    "Databricks",
+    "NLP",
+    "Statistical Modeling",
+    "Vector Databases",
+    "Fine-tuning",
+    "Computer Vision"
+  ],
+  "companies": [
+    "CodeReview.io"
+  ],
+  "job_titles": [
+    "ML Engineer"
+  ],
+  "universities": [
+    "UIUC"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 116,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:17.369685",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

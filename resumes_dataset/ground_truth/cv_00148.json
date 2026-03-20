@@ -1,0 +1,266 @@
+{
+  "full_name": "Kristine Garcia",
+  "email": "kristine.garcia@gmail.com",
+  "location": "Williamsmouth, Netherlands",
+  "years_of_experience": 4.8,
+  "seniority_level": "mid",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kristine Garcia",
+    "email": "kristine.garcia@gmail.com",
+    "phone": "885-464-6799x7024",
+    "location": "Williamsmouth, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/kristine-garcia",
+    "github_url": "https://github.com/kristinegarcia",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Rust, PowerShell, and Bash. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2023-05",
+      "end_date": "Present",
+      "duration": "2023-05 – Present",
+      "duration_months": 34,
+      "description": "Built incident response automation using Nmap, reducing recovery time by 38%\nImplemented SIEM solution using Go, processing 1000+ logs/day",
+      "technologies": [
+        "Go",
+        "Threat Modeling",
+        "PostgreSQL",
+        "Nmap"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2021-04",
+      "end_date": "2023-03",
+      "duration": "2021-04 – 2023-03",
+      "duration_months": 23,
+      "description": "Designed zero-trust architecture using Threat Modeling, securing 100000+ endpoints\nImplemented encryption solution using Figma, protecting 1000+ records\nConducted penetration testing using Threat Modeling, identifying 10000+ vulnerabilities",
+      "technologies": [
+        "PowerShell",
+        "Threat Modeling",
+        "Metasploit",
+        "Burp Suite"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "M.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2021",
+      "gpa": "3.07",
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2021",
+      "gpa": "3.05",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "PowerShell",
+    "Bash",
+    "Go",
+    "OWASP ZAP",
+    "Snort",
+    "Suricata",
+    "Sigma",
+    "Burp Suite",
+    "Wireshark",
+    "Splunk",
+    "SonarQube",
+    "Nmap",
+    "MongoDB",
+    "Elasticsearch",
+    "Redis",
+    "PostgreSQL",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "SOC2 Compliance",
+    "Zero Trust Architecture",
+    "SAST/DAST",
+    "Incident Response",
+    "OWASP Top 10"
+  ],
+  "companies": [
+    "PromptStack",
+    "SkillBridge"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "University of Toronto",
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 148,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:38:33.055931",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

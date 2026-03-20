@@ -1,0 +1,264 @@
+{
+  "full_name": "Brandon Moore",
+  "email": "brandon.moore@moore.dev",
+  "location": "West Tina, Canada",
+  "years_of_experience": 0.6,
+  "seniority_level": "intern",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Brandon Moore",
+    "email": "brandon.moore@moore.dev",
+    "phone": "495-900-5281",
+    "location": "West Tina, Canada",
+    "linkedin_url": "https://linkedin.com/in/brandon-moore",
+    "github_url": "https://github.com/brandonmoore",
+    "portfolio_url": "https://brandonmoore.dev"
+  },
+  "summary": "Detail-oriented intern with experience in Bash through academic projects. Eager to develop professional skills in DevOps / SRE / MLOps.",
+  "work_experience": [
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2025-08",
+      "end_date": "Present",
+      "duration": "2025-08 – Present",
+      "duration_months": 7,
+      "description": "Built automated backup solution using Azure DevOps, ensuring 100% data protection\nOptimized cloud infrastructure using  Triton Inference Server, reducing costs by 29%",
+      "technologies": [
+        "Azure DevOps",
+        "AWS",
+        "TensorFlow Serving",
+        "Platform Engineering",
+        " Triton Inference Server"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2025",
+      "gpa": "2.85",
+      "activities": "DevOps Bootcamp"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartCache",
+      "description": "Designed and implemented Observability Dashboard with Bash, integrating with Rust for seamless data flow",
+      "technologies": [
+        "Bash",
+        "Go",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Implemented Kubernetes Cluster using Rust, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Bash",
+        "Rust",
+        "Go"
+      ],
+      "url": "https://github.com/brandonmoore/token-bucket-limiter",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "Go",
+    "Rust",
+    "ArgoCD",
+    "CloudFormation",
+    "Docker",
+    "Linkerd",
+    "Istio",
+    "Jenkins",
+    "Azure DevOps",
+    "Thanos",
+    "VictoriaMetrics",
+    "Datadog",
+    "Hetzner",
+    "Azure",
+    "DigitalOcean",
+    "Oracle Cloud",
+    " Triton Inference Server",
+    "TorchServe",
+    "TensorFlow Serving",
+    "GitOps",
+    "Platform Engineering",
+    "Zero Trust",
+    "Infrastructure as Code",
+    "Chaos Engineering"
+  ],
+  "companies": [
+    "Nvidia"
+  ],
+  "job_titles": [
+    "Platform Engineer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 208,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:02.325261",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

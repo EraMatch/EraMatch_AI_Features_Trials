@@ -1,0 +1,267 @@
+{
+  "full_name": "Willie Long",
+  "email": "willie.long@yahoo.com",
+  "location": "South Michael, Germany",
+  "years_of_experience": 9.4,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Willie Long",
+    "email": "willie.long@yahoo.com",
+    "phone": "(830)504-7868",
+    "location": "South Michael, Germany",
+    "linkedin_url": "https://linkedin.com/in/willie-long",
+    "github_url": "https://github.com/willielong",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Node.js, PHP, and TypeScript. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2024-12",
+      "end_date": "Present",
+      "duration": "2024-12 – Present",
+      "duration_months": 15,
+      "description": "Designed and implemented message queue system using Node.js, processing 1000+ messages/hour\nDesigned and implemented microservices architecture using RabbitMQ, handling 1000+ concurrent users\nDesigned and implemented microservices architecture using Node.js, handling 100000+ concurrent users",
+      "technologies": [
+        "Node.js",
+        "RabbitMQ",
+        "Elasticsearch"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2020-05",
+      "end_date": "2024-10",
+      "duration": "2020-05 – 2024-10",
+      "duration_months": 53,
+      "description": "Created authentication and authorization system using Azure OpenAI, securing 1000+ user accounts\nDesigned and implemented microservices architecture using GraphQL, handling 500+ concurrent users",
+      "technologies": [
+        "Azure OpenAI",
+        "Flask",
+        "GraphQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2016-05",
+      "end_date": "2020-02",
+      "duration": "2016-05 – 2020-02",
+      "duration_months": 45,
+      "description": "Created authentication and authorization system using Ansible, securing 5000+ user accounts\nArchitected and built RESTful APIs serving 10000+ requests/day using Vercel, reducing response time by 21%",
+      "technologies": [
+        "PostgreSQL",
+        "Vercel",
+        "Helm",
+        "Ansible"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2019",
+      "credential_id": null
+    },
+    {
+      "name": "Oracle Certified Professional Java SE",
+      "issuer": "Oracle",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "PHP",
+    "TypeScript",
+    "Python",
+    "ASP.NET",
+    "FastAPI",
+    "Gin",
+    "Neon",
+    "MySQL",
+    "RabbitMQ",
+    "Terraform",
+    "GCP",
+    "Fly.io",
+    "DigitalOcean",
+    "OpenAI API",
+    "Google Gemini",
+    "GraphQL",
+    "CI/CD",
+    "TDD"
+  ],
+  "companies": [
+    "CloudNova",
+    "Uber",
+    "VectorDB Inc"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Platform Engineer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 94,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:06.067409",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

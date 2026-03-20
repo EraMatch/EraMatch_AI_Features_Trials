@@ -1,0 +1,299 @@
+{
+  "full_name": "Dr. Randy Williams",
+  "email": "dr..randy.williams@gmail.com",
+  "location": "West Autumnmouth, USA",
+  "years_of_experience": 9.8,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Dr. Randy Williams",
+    "email": "dr..randy.williams@gmail.com",
+    "phone": "(547)329-2842x222",
+    "location": "West Autumnmouth, USA",
+    "linkedin_url": "https://linkedin.com/in/dr.-randy-williams",
+    "github_url": "https://github.com/drrandywilliams",
+    "portfolio_url": null
+  },
+  "summary": "Lead frontend engineering professional with 10 years driving technical strategy and team excellence. Expert in JavaScript, Python, CSS with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2024-11",
+      "end_date": "Present",
+      "duration": "2024-11 – Present",
+      "duration_months": 16,
+      "description": "Implemented automated testing framework using Accessibility (WCAG), achieving 51% code coverage\nBuilt reusable component library using TypeScript, used by 10000+ developers\nImplemented state management solution using Vite, reducing API calls by 39%",
+      "technologies": [
+        "Accessibility (WCAG)",
+        "Tailwind CSS",
+        "Vite",
+        "Webpack",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2021-08",
+      "end_date": "2024-11",
+      "duration": "2021-08 – 2024-11",
+      "duration_months": 39,
+      "description": "Created accessible UI components using Component-Driven Development, achieving WCAG AA compliance\nBuilt interactive data visualizations using Webpack, serving 10000+ daily users\nBuilt interactive data visualizations using Component-Driven Development, serving 5000+ daily users\nImplemented state management solution using Component-Driven Development, reducing API calls by 21%",
+      "technologies": [
+        "Bootstrap",
+        "Angular",
+        "Webpack",
+        "Component-Driven Development",
+        "CSS",
+        "Playwright"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2020-04",
+      "end_date": "2021-02",
+      "duration": "2020-04 – 2021-02",
+      "duration_months": 10,
+      "description": "Developed design system using Python, standardizing UI across 10000+ applications\nBuilt interactive data visualizations using Dart, serving 100000+ daily users",
+      "technologies": [
+        "Dart",
+        "Python",
+        "AWS Amplify",
+        "Agile"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2015-06",
+      "end_date": "2019-11",
+      "duration": "2015-06 – 2019-11",
+      "duration_months": 53,
+      "description": "Built real-time collaboration features using Angular, serving 100+ concurrent users\nImplemented state management solution using Python, reducing API calls by 28%\nImproved website accessibility score to 21% using AWS Amplify\nBuilt interactive data visualizations using AWS Amplify, serving 5000+ daily users",
+      "technologies": [
+        "AWS Amplify",
+        "Git",
+        "Angular",
+        "Component-Driven Development",
+        "Astro",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "M.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2017",
+      "gpa": "3.90",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Hard day religious program within challenge large\" — ICML 2020",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Python",
+    "CSS",
+    "Svelte",
+    "Bootstrap",
+    "Angular",
+    "React",
+    "ESLint",
+    "Vite",
+    "Cypress",
+    "Git",
+    "Playwright",
+    "PostgreSQL",
+    "MongoDB",
+    "Render",
+    "Vercel",
+    "Responsive Design",
+    "Agile",
+    "Accessibility (WCAG)",
+    "Component-Driven Development",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "CodeCraft Studios",
+    "Amazon",
+    "Uber",
+    "Vercel"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "React Developer",
+    "React Developer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "Imperial College London"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 276,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:39:36.861042",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "full_name": "Michelle Simpson",
+  "email": "michelle.simpson@yahoo.com",
+  "location": "Ochoaberg, India",
+  "years_of_experience": 6.4,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Michelle Simpson",
+    "email": "michelle.simpson@yahoo.com",
+    "phone": "+1-937-712-4065x965",
+    "location": "Ochoaberg, India",
+    "linkedin_url": null,
+    "github_url": "https://github.com/michellesimpson",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in devops / sre / mlops with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Bash, PowerShell, Rust.",
+  "work_experience": [
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 – Present",
+      "duration_months": 24,
+      "description": "Established chaos engineering practices using Zero Trust, improving system resilience\nBuilt disaster recovery solution using Bash, achieving RTO of 192ms\nImplemented log aggregation using Crossplane, processing 50000+ logs/day",
+      "technologies": [
+        "Crossplane",
+        "Kale",
+        "Zero Trust",
+        "Bash"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2022-02",
+      "end_date": "2024-01",
+      "duration": "2022-02 – 2024-01",
+      "duration_months": 23,
+      "description": "Built CI/CD pipelines using Bash, reducing deployment time from 6s to 494ms\nCreated monitoring and alerting system using Bash, reducing MTTR by 39%\nEstablished chaos engineering practices using Bash, improving system resilience",
+      "technologies": [
+        "Terraform",
+        "K3s",
+        "Podman",
+        "Bash",
+        "AWS",
+        "Helm"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2020-01",
+      "end_date": "2022-01",
+      "duration": "2020-01 – 2022-01",
+      "duration_months": 24,
+      "description": "Created monitoring and alerting system using Pulumi, reducing MTTR by 34%\nImplemented log aggregation using PagerDuty, processing 100+ logs/day\nBuilt automated backup solution using Incident Management, ensuring 10000% data protection\nCreated self-service provisioning portal using Incident Management, serving 50000+ engineers",
+      "technologies": [
+        "Incident Management",
+        "PagerDuty",
+        "GitHub Actions",
+        "Azure DevOps",
+        "Pulumi"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2019-03",
+      "end_date": "2019-09",
+      "duration": "2019-03 – 2019-09",
+      "duration_months": 6,
+      "description": "Built disaster recovery solution using Rust, achieving RTO of 282ms\nImplemented log aggregation using Rust, processing 100000+ logs/day\nCreated monitoring and alerting system using PagerDuty, reducing MTTR by 47%\nImplemented container orchestration using PagerDuty, managing 5000+ containers",
+      "technologies": [
+        "PagerDuty",
+        "Argo Workflows",
+        "Rust"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2018",
+      "gpa": "3.99",
+      "activities": "SRE Team"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Graph Query Builder",
+      "description": "Designed and implemented Observability Dashboard with Rust, integrating with Bash for seamless data flow",
+      "technologies": [
+        "PowerShell",
+        "Rust",
+        "Bash"
+      ],
+      "url": "https://github.com/michellesimpson/graph-query-builder",
+      "date": "2020"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Designed Container Registry leveraging Rust microservices architecture with Bash for caching",
+      "technologies": [
+        "PowerShell",
+        "Rust",
+        "Bash"
+      ],
+      "url": "https://github.com/michellesimpson/token-bucket-limiter",
+      "date": "2021"
+    },
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Implemented Monitoring System using PowerShell, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Rust",
+        "PowerShell",
+        "Bash"
+      ],
+      "url": "https://github.com/michellesimpson/pdf-parser-toolkit",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Hindi (Native)",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "PowerShell",
+    "Rust",
+    "Crossplane",
+    "Helm",
+    "Docker",
+    "Kubernetes",
+    "Skopeo",
+    "Azure DevOps",
+    "Jenkins",
+    "Datadog",
+    "ELK Stack",
+    "DigitalOcean",
+    "GCP",
+    "Linode",
+    "AWS",
+    "Kubeflow",
+    "TorchServe",
+    " Triton Inference Server",
+    "Incident Management",
+    "GitOps",
+    "Chaos Engineering",
+    "Infrastructure as Code"
+  ],
+  "companies": [
+    "Stripe",
+    "Microsoft",
+    "DeployFast",
+    "Cloudflare"
+  ],
+  "job_titles": [
+    "Release Engineer",
+    "MLOps Engineer",
+    "Release Engineer",
+    "Infrastructure Engineer"
+  ],
+  "universities": [
+    "University of Michigan"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 108,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:13.256895",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

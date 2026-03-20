@@ -1,0 +1,309 @@
+{
+  "full_name": "Jessica Robinson",
+  "email": "jessica.robinson@gmail.com",
+  "location": "New Donald, Canada",
+  "years_of_experience": 8.8,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jessica Robinson",
+    "email": "jessica.robinson@gmail.com",
+    "phone": "(713)840-7451x71339",
+    "location": "New Donald, Canada",
+    "linkedin_url": "https://linkedin.com/in/jessica-robinson",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in TypeScript, Dart, and JavaScript. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2021-09",
+      "end_date": "Present",
+      "duration": "2021-09 – Present",
+      "duration_months": 54,
+      "description": "Integrated third-party APIs using Bootstrap, reducing integration time by 70%\nImproved website accessibility score to 59% using React\nImproved website accessibility score to 66% using Next.js",
+      "technologies": [
+        "Bootstrap",
+        "Dart",
+        "React",
+        "Next.js",
+        "Angular"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2019-10",
+      "end_date": "2021-03",
+      "duration": "2019-10 – 2021-03",
+      "duration_months": 17,
+      "description": "Implemented automated testing framework using Firebase, achieving 69% code coverage\nImplemented automated testing framework using Firebase, achieving 31% code coverage\nCreated accessible UI components using Firebase, achieving WCAG AA compliance",
+      "technologies": [
+        "Firebase",
+        "PostgreSQL",
+        "Bootstrap"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2016-11",
+      "end_date": "2019-09",
+      "duration": "2016-11 – 2019-09",
+      "duration_months": 34,
+      "description": "Created progressive web app using Vite, increasing user engagement by 34%\nBuilt real-time collaboration features using Tailwind CSS, serving 500+ concurrent users\nImplemented state management solution using Vite, reducing API calls by 19%\nImplemented automated testing framework using Vite, achieving 29% code coverage",
+      "technologies": [
+        "Tailwind CSS",
+        "Material UI",
+        "Vite"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Schema Validator",
+      "description": "Created Admin Panel leveraging JavaScript for core functionality and TypeScript for optimization",
+      "technologies": [
+        "TypeScript",
+        "Python",
+        "JavaScript"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Designed Admin Panel leveraging TypeScript microservices architecture with React for caching",
+      "technologies": [
+        "TypeScript",
+        "JavaScript",
+        "React"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Meta Front-End Developer Certificate",
+      "issuer": "Meta",
+      "date": "2023",
+      "credential_id": "WI33RM09"
+    },
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Portuguese (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Dart",
+    "JavaScript",
+    "Python",
+    "CSS",
+    "React",
+    "Remix",
+    "Storybook",
+    "Figma",
+    "ESLint",
+    "Webpack",
+    "Jest",
+    "PostgreSQL",
+    "Firebase",
+    "Supabase",
+    "Netlify",
+    "Cloudflare Pages",
+    "Render",
+    "AWS Amplify",
+    "Vercel",
+    "Agile",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "PipelineIO",
+    "Supabase",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "Web Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 117,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:17.791028",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

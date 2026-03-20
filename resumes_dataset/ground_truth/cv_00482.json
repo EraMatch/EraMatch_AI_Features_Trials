@@ -1,0 +1,290 @@
+{
+  "full_name": "Rachel Johnson",
+  "email": "rachel.johnson@gmail.com",
+  "location": "North Joshuafurt, Singapore",
+  "years_of_experience": 8.0,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Rachel Johnson",
+    "email": "rachel.johnson@gmail.com",
+    "phone": "877.610.7044",
+    "location": "North Joshuafurt, Singapore",
+    "linkedin_url": "https://linkedin.com/in/rachel-johnson",
+    "github_url": "https://github.com/racheljohnson",
+    "portfolio_url": null
+  },
+  "summary": "Lead data science / ml / ai professional with 8 years driving technical strategy and team excellence. Expert in Julia, Go, SQL with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2022-03",
+      "end_date": "Present",
+      "duration": "2022-03 – Present",
+      "duration_months": 48,
+      "description": "Built end-to-end ML pipeline using Scala, processing 100+ samples daily\nCreated recommendation system using Hugging Face Endpoints, increasing user engagement by 56%\nBuilt end-to-end ML pipeline using Scala, processing 50000+ samples daily\nBuilt end-to-end ML pipeline using Hugging Face Endpoints, processing 10000+ samples daily",
+      "technologies": [
+        "Scala",
+        "MongoDB",
+        "Hugging Face Endpoints"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2018-06",
+      "end_date": "2021-12",
+      "duration": "2018-06 – 2021-12",
+      "duration_months": 42,
+      "description": "Developed computer vision models using Neo4j, achieving 48% accuracy\nBuilt end-to-end ML pipeline using Neptune, processing 5000+ samples daily\nImplemented NLP solution using Neo4j, processing 1000+ text documents daily\nDeveloped computer vision models using Hugging Face, achieving 69% accuracy",
+      "technologies": [
+        "Hugging Face",
+        "Neptune",
+        "Prompt Engineering",
+        "Neo4j"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2017-11",
+      "end_date": "2018-05",
+      "duration": "2017-11 – 2018-05",
+      "duration_months": 6,
+      "description": "Built ML model serving infrastructure using Bedrock, handling 500+ predictions/day\nDeveloped computer vision models using JAX, achieving 20% accuracy\nBuilt ML model serving infrastructure using Weaviate, handling 500+ predictions/day\nImplemented A/B testing framework using Bedrock, running 500+ experiments",
+      "technologies": [
+        "JAX",
+        "Bedrock",
+        "Weaviate"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "B.A.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": "3.35",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Smith-Reyes Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Williams-Harris Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Julia",
+    "Go",
+    "SQL",
+    "Scala",
+    "R",
+    "XGBoost",
+    "JAX",
+    "Keras",
+    "OpenCV",
+    "Pandas",
+    "Dask",
+    "Weights & Biases",
+    "Dagster",
+    "Airflow",
+    "PostgreSQL",
+    "Qdrant",
+    "Databricks",
+    "Bedrock",
+    "Lambda Labs",
+    "Azure ML",
+    "GCP Vertex AI",
+    "AWS SageMaker",
+    "RAG",
+    "Prompt Engineering",
+    "Vector Databases"
+  ],
+  "companies": [
+    "Airbnb",
+    "Tesla",
+    "ResumeAI"
+  ],
+  "job_titles": [
+    "AI Product Engineer",
+    "Data Scientist",
+    "ML Engineer"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 482,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:41:20.130299",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

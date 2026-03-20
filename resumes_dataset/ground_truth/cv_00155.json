@@ -1,0 +1,214 @@
+{
+  "full_name": "Courtney Walker",
+  "email": "courtney.walker@yahoo.com",
+  "location": "New David, USA",
+  "years_of_experience": 2.8,
+  "seniority_level": "mid",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Courtney Walker",
+    "email": "courtney.walker@yahoo.com",
+    "phone": "365-954-9471x7099",
+    "location": "New David, USA",
+    "linkedin_url": "https://linkedin.com/in/courtney-walker",
+    "github_url": "https://github.com/courtneywalker",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level data science / ml / ai specialist with 3 years building production systems. Skilled in Scala, MATLAB, SQL with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2023-05",
+      "end_date": "Present",
+      "duration": "2023-05 – Present",
+      "duration_months": 34,
+      "description": "Created recommendation system using NumPy, increasing user engagement by 70%\nBuilt ML model serving infrastructure using LangChain, handling 1000+ predictions/day\nBuilt ML model serving infrastructure using NLP, handling 100000+ predictions/day\nDeveloped ML models using NumPy, improving prediction accuracy by 60%",
+      "technologies": [
+        "NLP",
+        "LangChain",
+        "NumPy"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2022",
+      "gpa": "3.11",
+      "activities": "Research Assistant - ML Lab"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — MLH 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Scala",
+    "MATLAB",
+    "SQL",
+    "Julia",
+    "Python",
+    "Claude API",
+    "TensorFlow",
+    "Keras",
+    "Airflow",
+    "Pandas",
+    "Polars",
+    "Snowflake",
+    "Weaviate",
+    "Qdrant",
+    "Neo4j",
+    "PostgreSQL",
+    "Hugging Face Endpoints",
+    "AWS SageMaker",
+    "Prompt Engineering",
+    "Computer Vision"
+  ],
+  "companies": [
+    "DeployFast"
+  ],
+  "job_titles": [
+    "Data Scientist"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 155,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:36.527032",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

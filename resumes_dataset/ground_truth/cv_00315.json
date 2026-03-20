@@ -1,0 +1,318 @@
+{
+  "full_name": "Nicholas Navarro",
+  "email": "nicholas.navarro@navarro.dev",
+  "location": "Scottbury, Japan",
+  "years_of_experience": 16.4,
+  "seniority_level": "principal",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Nicholas Navarro",
+    "email": "nicholas.navarro@navarro.dev",
+    "phone": "001-823-304-5018",
+    "location": "Scottbury, Japan",
+    "linkedin_url": null,
+    "github_url": "https://github.com/nicholasnavarro",
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 16 years shaping cybersecurity practice. Deep expertise in PowerShell, Python, Bash and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": "2022-01 – Present",
+      "duration_months": 50,
+      "description": "Built incident response automation using SOC2 Compliance, reducing recovery time by 69%\nDeveloped threat intelligence platform using Python, tracking 5000+ threats\nCreated security awareness training using Incident Response, reducing phishing clicks by 42%\nCreated security awareness training using Incident Response, reducing phishing clicks by 56%",
+      "technologies": [
+        "Incident Response",
+        "PowerShell",
+        "SOC2 Compliance",
+        "Python",
+        "AWS Security Hub"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2018-11",
+      "end_date": "2021-09",
+      "duration": "2018-11 – 2021-09",
+      "duration_months": 34,
+      "description": "Conducted penetration testing using Burp Suite, identifying 1000+ vulnerabilities\nDeveloped threat intelligence platform using Go, tracking 500+ threats",
+      "technologies": [
+        "SAST/DAST",
+        "Go",
+        "CrowdStrike",
+        "Burp Suite",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2014-04",
+      "end_date": "2018-08",
+      "duration": "2014-04 – 2018-08",
+      "duration_months": 52,
+      "description": "Implemented encryption solution using React, protecting 500+ records\nImplemented security monitoring using Snort, detecting 500+ threats\nBuilt secure CI/CD pipeline using Azure Sentinel, preventing 10000+ security issues\nImplemented encryption solution using Figma, protecting 50000+ records",
+      "technologies": [
+        "Azure Sentinel",
+        "Metasploit",
+        "Snort",
+        "Redis",
+        "SAST/DAST"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2013-04",
+      "end_date": "2013-11",
+      "duration": "2013-04 – 2013-11",
+      "duration_months": 7,
+      "description": "Conducted penetration testing using Go, identifying 1000+ vulnerabilities\nImplemented SIEM solution using Redis, processing 500+ logs/day\nBuilt secure CI/CD pipeline using Snort, preventing 100000+ security issues",
+      "technologies": [
+        "Snort",
+        "PowerShell",
+        "Redis",
+        "OWASP ZAP",
+        "Zero Trust Architecture",
+        "Go"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2008-09",
+      "end_date": "2013-03",
+      "duration": "2008-09 – 2013-03",
+      "duration_months": 54,
+      "description": "Designed zero-trust architecture using GCP Security Command Center, securing 50000+ endpoints\nCreated vulnerability management program using GCP Security Command Center, reducing CVEs by 23%\nImplemented security monitoring using SonarQube, detecting 1000+ threats",
+      "technologies": [
+        "Zero Trust Architecture",
+        "SOC2 Compliance",
+        "GCP Security Command Center",
+        "Python",
+        "SonarQube",
+        "Hashicorp Vault"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2007",
+      "gpa": "3.30",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Code Review Bot",
+      "description": "Designed and implemented Security Compliance Tool with Rust, integrating with Go for seamless data flow",
+      "technologies": [
+        "Rust",
+        "Burp Suite",
+        "Go"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Created Security Dashboard leveraging Python for core functionality and Rust for optimization",
+      "technologies": [
+        "Rust",
+        "Go",
+        "Python"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — ACM 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PowerShell",
+    "Python",
+    "Bash",
+    "Go",
+    "Rust",
+    "Snort",
+    "Burp Suite",
+    "CrowdStrike",
+    "SonarQube",
+    "Nmap",
+    "Redis",
+    "Elasticsearch",
+    "MongoDB",
+    "PostgreSQL",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Threat Modeling",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "Google",
+    "Amazon",
+    "ScaleGrid",
+    "Vercel",
+    "Confluent"
+  ],
+  "job_titles": [
+    "AppSec Engineer",
+    "Penetration Tester",
+    "AppSec Engineer",
+    "Security Architect",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 315,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:39:56.285588",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

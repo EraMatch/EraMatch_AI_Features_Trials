@@ -1,0 +1,325 @@
+{
+  "full_name": "Jose Russell",
+  "email": "jose.russell@russell.dev",
+  "location": "Campbellport, Singapore",
+  "years_of_experience": 9.0,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Jose Russell",
+    "email": "jose.russell@russell.dev",
+    "phone": "001-951-371-8275x48015",
+    "location": "Campbellport, Singapore",
+    "linkedin_url": null,
+    "github_url": "https://github.com/joserussell",
+    "portfolio_url": null
+  },
+  "summary": "Lead cybersecurity professional with 9 years driving technical strategy and team excellence. Expert in C, Bash, Python with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2022-05",
+      "end_date": "Present",
+      "duration": "2022-05 – Present",
+      "duration_months": 46,
+      "description": "Built security automation using SOC2 Compliance, reducing incident response time by 36%\nCreated security awareness training using Python, reducing phishing clicks by 59%\nImplemented SIEM solution using Zero Trust Architecture, processing 1000+ logs/day",
+      "technologies": [
+        "SOC2 Compliance",
+        "Python",
+        "Zero Trust Architecture"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2019-05",
+      "end_date": "2022-05",
+      "duration": "2019-05 – 2022-05",
+      "duration_months": 36,
+      "description": "Conducted penetration testing using SOC2 Compliance, identifying 10000+ vulnerabilities\nDesigned zero-trust architecture using OWASP Top 10, securing 500+ endpoints",
+      "technologies": [
+        "SOC2 Compliance",
+        "Splunk",
+        "OWASP Top 10",
+        "Redis",
+        "Incident Response",
+        "MongoDB"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2018-06",
+      "end_date": "2018-12",
+      "duration": "2018-06 – 2018-12",
+      "duration_months": 6,
+      "description": "Implemented SIEM solution using AWS Security Hub, processing 100+ logs/day\nDeveloped threat intelligence platform using Suricata, tracking 500+ threats",
+      "technologies": [
+        "SAST/DAST",
+        "AWS Security Hub",
+        "Suricata"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2016-06",
+      "end_date": "2018-02",
+      "duration": "2016-06 – 2018-02",
+      "duration_months": 20,
+      "description": "Implemented encryption solution using Vue, protecting 10000+ records\nDesigned zero-trust architecture using Elasticsearch, securing 100+ endpoints",
+      "technologies": [
+        "Wireshark",
+        "AWS Security Hub",
+        "PowerShell",
+        "Sigma",
+        "Elasticsearch"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "InfoSec Society"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Parser",
+      "description": "Created Access Control System leveraging Bash for core functionality and Sigma for optimization",
+      "technologies": [
+        "Sigma",
+        "Bash",
+        "Suricata"
+      ],
+      "url": "https://github.com/joserussell/resume-parser",
+      "date": "2020"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Designed Incident Response Platform leveraging Bash microservices architecture with Sigma for caching",
+      "technologies": [
+        "Suricata",
+        "Bash",
+        "Sigma"
+      ],
+      "url": "https://github.com/joserussell/real-time-analytics-engine",
+      "date": "2020"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Designed Incident Response Platform leveraging Bash microservices architecture with Suricata for caching",
+      "technologies": [
+        "Suricata",
+        "Bash",
+        "C"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CompTIA Security+",
+      "issuer": "CompTIA",
+      "date": "2020",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Cherry, Wallace and Spencer Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Yoga",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C",
+    "Bash",
+    "Python",
+    "PowerShell",
+    "OWASP ZAP",
+    "Suricata",
+    "Sigma",
+    "Splunk",
+    "SonarQube",
+    "Redis",
+    "MongoDB",
+    "Elasticsearch",
+    "PostgreSQL",
+    "AWS Security Hub",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "Incident Response",
+    "Zero Trust Architecture",
+    "SAST/DAST",
+    "Threat Modeling"
+  ],
+  "companies": [
+    "NeuroLink Labs",
+    "Notion",
+    "PipelineIO",
+    "Datadog"
+  ],
+  "job_titles": [
+    "Security Architect",
+    "Security Engineer",
+    "SOC Analyst",
+    "Security Architect"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 289,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:39:43.047671",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

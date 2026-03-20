@@ -1,0 +1,301 @@
+{
+  "full_name": "Kristina Pena",
+  "email": "kristina.pena@pena.dev",
+  "location": "Port Donnatown, Australia",
+  "years_of_experience": 9.2,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kristina Pena",
+    "email": "kristina.pena@pena.dev",
+    "phone": "955.303.7589x975",
+    "location": "Port Donnatown, Australia",
+    "linkedin_url": "https://linkedin.com/in/kristina-pena",
+    "github_url": "https://github.com/kristinapena",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in PowerShell, Go, and C. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2025-07",
+      "end_date": "Present",
+      "duration": "2025-07 – Present",
+      "duration_months": 8,
+      "description": "Implemented SIEM solution using CrowdStrike, processing 50000+ logs/day\nCreated security awareness training using OWASP ZAP, reducing phishing clicks by 42%\nBuilt incident response automation using CrowdStrike, reducing recovery time by 68%\nBuilt incident response automation using OWASP ZAP, reducing recovery time by 67%",
+      "technologies": [
+        "OWASP Top 10",
+        "OWASP ZAP",
+        "CrowdStrike"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2023-02",
+      "end_date": "2025-02",
+      "duration": "2023-02 – 2025-02",
+      "duration_months": 24,
+      "description": "Implemented SIEM solution using AWS Security Hub, processing 50000+ logs/day\nImplemented SIEM solution using PostgreSQL, processing 1000+ logs/day",
+      "technologies": [
+        "AWS Security Hub",
+        "OWASP ZAP",
+        "PostgreSQL",
+        "Splunk"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2022-02",
+      "end_date": "2022-09",
+      "duration": "2022-02 – 2022-09",
+      "duration_months": 7,
+      "description": "Conducted penetration testing using Wireshark, identifying 50000+ vulnerabilities\nBuilt secure CI/CD pipeline using SonarQube, preventing 5000+ security issues\nImplemented SIEM solution using Wireshark, processing 5000+ logs/day\nBuilt security automation using Wireshark, reducing incident response time by 68%",
+      "technologies": [
+        "Hashicorp Vault",
+        "Python",
+        "SonarQube",
+        "Wireshark",
+        "Rust"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2018-09",
+      "end_date": "2021-11",
+      "duration": "2018-09 – 2021-11",
+      "duration_months": 38,
+      "description": "Created security awareness training using Zero Trust Architecture, reducing phishing clicks by 43%\nImplemented security monitoring using Zero Trust Architecture, detecting 500+ threats\nImplemented SIEM solution using Threat Modeling, processing 500+ logs/day\nImplemented SIEM solution using Threat Modeling, processing 100000+ logs/day",
+      "technologies": [
+        "Zero Trust Architecture",
+        "Threat Modeling",
+        "Wireshark",
+        "Nmap",
+        "PowerShell"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2015-11",
+      "end_date": "2018-09",
+      "duration": "2015-11 – 2018-09",
+      "duration_months": 34,
+      "description": "Designed zero-trust architecture using Threat Modeling, securing 10000+ endpoints\nImplemented SIEM solution using Nmap, processing 5000+ logs/day\nBuilt secure CI/CD pipeline using Metasploit, preventing 50000+ security issues",
+      "technologies": [
+        "Threat Modeling",
+        "Metasploit",
+        "Go",
+        "Nmap",
+        "Wireshark"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Cyber Defense Club"
+    },
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.A.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2013",
+      "gpa": "3.61",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deployment Dashboard",
+      "description": "Designed Incident Response Platform leveraging C microservices architecture with Metasploit for caching",
+      "technologies": [
+        "PowerShell",
+        "C",
+        "Metasploit"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Kelly-Schultz Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PowerShell",
+    "Go",
+    "C",
+    "Bash",
+    "Metasploit",
+    "Burp Suite",
+    "SonarQube",
+    "Hashicorp Vault",
+    "Nessus",
+    "Elasticsearch",
+    "Redis",
+    "MongoDB",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "AWS Security Hub",
+    "OWASP Top 10",
+    "SAST/DAST"
+  ],
+  "companies": [
+    "Figma",
+    "HashiCorp",
+    "ResumeAI",
+    "Spotify",
+    "PromptStack"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "Penetration Tester",
+    "Penetration Tester",
+    "Penetration Tester",
+    "AppSec Engineer"
+  ],
+  "universities": [
+    "University of Washington",
+    "NUS"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 165,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:38:41.418999",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

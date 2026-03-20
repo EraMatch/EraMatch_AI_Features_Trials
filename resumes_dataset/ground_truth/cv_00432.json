@@ -1,0 +1,334 @@
+{
+  "full_name": "Erica Johnson",
+  "email": "erica.johnson@yahoo.com",
+  "location": "East Chadfurt, France",
+  "years_of_experience": 9.7,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Erica Johnson",
+    "email": "erica.johnson@yahoo.com",
+    "phone": "+1-660-456-7303x064",
+    "location": "East Chadfurt, France",
+    "linkedin_url": "https://linkedin.com/in/erica-johnson",
+    "github_url": "https://github.com/ericajohnson",
+    "portfolio_url": "https://ericajohnson.dev"
+  },
+  "summary": "Senior technical leader specializing in backend engineering with expertise in Java, Node.js, Express.js. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2025-09",
+      "end_date": "Present",
+      "duration": "2025-09 – Present",
+      "duration_months": 6,
+      "description": "Architected and built RESTful APIs serving 500+ requests/day using Agile, reducing response time by 25%\nCreated authentication and authorization system using CockroachDB, securing 10000+ user accounts",
+      "technologies": [
+        "Heroku",
+        "Cloudflare",
+        "Ansible",
+        "Kafka",
+        "Agile",
+        "CockroachDB"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2024-05",
+      "end_date": "2025-08",
+      "duration": "2024-05 – 2025-08",
+      "duration_months": 15,
+      "description": "Created authentication and authorization system using MySQL, securing 50000+ user accounts\nDesigned and implemented message queue system using Kafka, processing 100+ messages/hour\nBuilt automated CI/CD pipelines with MySQL, reducing deployment time by 42%",
+      "technologies": [
+        "Django",
+        "MySQL",
+        "Kafka",
+        "Java"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2022-04",
+      "end_date": "2024-03",
+      "duration": "2022-04 – 2024-03",
+      "duration_months": 23,
+      "description": "Developed real-time data processing pipeline using GraphQL, handling 5000+ records/second\nBuilt automated CI/CD pipelines with Java, reducing deployment time by 19%",
+      "technologies": [
+        "MySQL",
+        "CockroachDB",
+        "GraphQL",
+        "LLM Integration",
+        "Java"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2018-07",
+      "end_date": "2022-04",
+      "duration": "2018-07 – 2022-04",
+      "duration_months": 45,
+      "description": "Reduced infrastructure costs by 46% through optimization using Git\nBuilt event-driven architecture using Anthropic, processing 5000+ events daily\nBuilt event-driven architecture using Kubernetes, processing 50000+ events daily\nCreated authentication and authorization system using Kubernetes, securing 50000+ user accounts",
+      "technologies": [
+        "Kubernetes",
+        "Anthropic",
+        "Actix",
+        "GitHub Actions",
+        "Railway",
+        "Git"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2016-01",
+      "end_date": "2018-04",
+      "duration": "2016-01 – 2018-04",
+      "duration_months": 27,
+      "description": "Built event-driven architecture using CI/CD, processing 500+ events daily\nLed migration from monolithic to microservices using CI/CD, improving system scalability by 15%",
+      "technologies": [
+        "Cassandra",
+        "Kotlin",
+        "MongoDB",
+        "CI/CD"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.A.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Hackathon Winner"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Oracle Certified Professional Java SE",
+      "issuer": "Oracle",
+      "date": "2020",
+      "credential_id": null
+    },
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Fear Republican the modern prove\" — CVPR 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "Node.js",
+    "Express.js",
+    "LlamaIndex",
+    "Elasticsearch",
+    "SQLite",
+    "Neon",
+    "MySQL",
+    "MongoDB",
+    "Ansible",
+    "Helm",
+    "RabbitMQ",
+    "AWS",
+    "Cloudflare",
+    "Google Gemini",
+    "OpenAI API",
+    "Replicate",
+    "REST API Design",
+    "Agile",
+    "GraphQL",
+    "Scrum",
+    "LLM Integration"
+  ],
+  "companies": [
+    "Meta",
+    "VectorDB Inc",
+    "Palantir",
+    "Quantum Edge",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "AI Engineer",
+    "Backend Developer",
+    "LLM Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "University of Toronto"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 432,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:56.088025",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

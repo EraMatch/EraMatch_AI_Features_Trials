@@ -1,0 +1,252 @@
+{
+  "full_name": "Erica Padilla",
+  "email": "erica.padilla@yahoo.com",
+  "location": "Burnsshire, UAE",
+  "years_of_experience": 1.6,
+  "seniority_level": "junior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Erica Padilla",
+    "email": "erica.padilla@yahoo.com",
+    "phone": "794-581-2604x2232",
+    "location": "Burnsshire, UAE",
+    "linkedin_url": "https://linkedin.com/in/erica-padilla",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Software developer specializing in YAML with hands-on experience in Bash. Looking to grow in DevOps / SRE / MLOps.",
+  "work_experience": [
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2024-08",
+      "end_date": "Present",
+      "duration": "2024-08 – Present",
+      "duration_months": 19,
+      "description": "Built automated backup solution using Buildah, ensuring 100000% data protection\nBuilt CI/CD pipelines using Hetzner, reducing deployment time from 11s to 131ms\nImplemented container orchestration using Linode, managing 500+ containers\nEstablished chaos engineering practices using Buildah, improving system resilience",
+      "technologies": [
+        "Linode",
+        "Hetzner",
+        "Argo Workflows",
+        "MLOps",
+        "Linkerd",
+        "Buildah"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2025",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Adams, Perry and Hayes Youth Program, 2023-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Board games",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "YAML",
+    "Bash",
+    "Crossplane",
+    "CDK",
+    "Terraform",
+    "ArgoCD",
+    "Kubernetes",
+    "K3s",
+    "Envoy",
+    "Podman",
+    "Tekton",
+    "GitLab CI",
+    "Grafana",
+    "Thanos",
+    "Linode",
+    "Oracle Cloud",
+    "Kale",
+    " Triton Inference Server",
+    "TorchServe",
+    "Seldon",
+    "Incident Management",
+    "GitOps",
+    "Chaos Engineering",
+    "MLOps",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "Salesforce"
+  ],
+  "job_titles": [
+    "Cloud Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 118,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:18.265818",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

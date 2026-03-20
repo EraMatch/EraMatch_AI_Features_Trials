@@ -1,0 +1,315 @@
+{
+  "full_name": "David Delgado",
+  "email": "david.delgado@yahoo.com",
+  "location": "Timothyside, Australia",
+  "years_of_experience": 10.3,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "David Delgado",
+    "email": "david.delgado@yahoo.com",
+    "phone": "001-990-214-9542x77070",
+    "location": "Timothyside, Australia",
+    "linkedin_url": "https://linkedin.com/in/david-delgado",
+    "github_url": "https://github.com/daviddelgado",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in devops / sre / mlops with expertise in Python, HCL, Bash. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Built CI/CD pipelines using Kubernetes, reducing deployment time from 2s to 362ms\nBuilt CI/CD pipelines using Terraform, reducing deployment time from 4s to 269ms\nEstablished GitOps workflows using Oracle Cloud, improving deployment frequency by 33%\nBuilt automated backup solution using Crossplane, ensuring 500% data protection",
+      "technologies": [
+        "Terraform",
+        "Oracle Cloud",
+        "Alibaba Cloud",
+        "Kubernetes",
+        "Crossplane"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2020-04",
+      "end_date": "2022-06",
+      "duration": "2020-04 – 2022-06",
+      "duration_months": 26,
+      "description": "Implemented security scanning using Envoy, identifying 100000+ vulnerabilities\nBuilt disaster recovery solution using Envoy, achieving RTO of 226ms",
+      "technologies": [
+        "Python",
+        "Envoy",
+        "Kubernetes",
+        "YAML",
+        "Kale",
+        "PowerShell"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2015-06",
+      "end_date": "2019-12",
+      "duration": "2015-06 – 2019-12",
+      "duration_months": 54,
+      "description": "Built disaster recovery solution using Pulumi, achieving RTO of 486ms\nCreated monitoring and alerting system using Tekton, reducing MTTR by 48%\nImplemented security scanning using Rust, identifying 50000+ vulnerabilities",
+      "technologies": [
+        "Tekton",
+        "CircleCI",
+        "Pulumi",
+        "Rust",
+        "Helm"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2014",
+      "gpa": "3.03",
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "B.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Hiking",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "HCL",
+    "Bash",
+    "Go",
+    "CDK",
+    "ArgoCD",
+    "Pulumi",
+    "Terraform",
+    "Crossplane",
+    "Envoy",
+    "Buildah",
+    "Azure DevOps",
+    "CircleCI",
+    "Jenkins",
+    "PagerDuty",
+    "Grafana",
+    "VictoriaMetrics",
+    "Prometheus",
+    "Thanos",
+    "Alibaba Cloud",
+    "Azure",
+    "GCP",
+    "MLflow",
+    "TensorFlow Serving",
+    "Kubeflow",
+    "Kale",
+    "Infrastructure as Code",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "Vercel",
+    "Snowflake",
+    "Block"
+  ],
+  "job_titles": [
+    "DevOps Engineer",
+    "Infrastructure Engineer",
+    "DevOps Engineer"
+  ],
+  "universities": [
+    "Tsinghua University",
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 485,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:41:21.519863",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

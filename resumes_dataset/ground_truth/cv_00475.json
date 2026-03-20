@@ -1,0 +1,302 @@
+{
+  "full_name": "Erin Walker",
+  "email": "erin.walker@gmail.com",
+  "location": "New Heidiville, Canada",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Erin Walker",
+    "email": "erin.walker@gmail.com",
+    "phone": "646-851-2418x9389",
+    "location": "New Heidiville, Canada",
+    "linkedin_url": "https://linkedin.com/in/erin-walker",
+    "github_url": null,
+    "portfolio_url": "https://erinwalker.dev"
+  },
+  "summary": "Mid-level backend engineering specialist with 4 years building production systems. Skilled in Ruby, Java, LlamaIndex with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": "2022-01 – Present",
+      "duration_months": 50,
+      "description": "Led migration from monolithic to microservices using Express.js, improving system scalability by 55%\nMentored team of 3 junior developers on Rails best practices\nOptimized database queries using Cloudflare, improving query performance by 49%\nBuilt event-driven architecture using Hugging Face, processing 5000+ events daily",
+      "technologies": [
+        "Hugging Face",
+        "Express.js",
+        "Rails",
+        "Cloudflare"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "Teaching Assistant - Data Structures"
+    },
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "B.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Created Payment Processing System leveraging NestJS for core functionality and Java for optimization",
+      "technologies": [
+        "NestJS",
+        "Flask",
+        "Java"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "ChatBot Framework",
+      "description": "Created User Management API leveraging Express.js for core functionality and Ruby for optimization",
+      "technologies": [
+        "Express.js",
+        "Flask",
+        "Ruby"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Designed and implemented Payment Processing System with Flask, integrating with Java for seamless data flow",
+      "technologies": [
+        "Ruby",
+        "Flask",
+        "Java"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Google DevFest 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Ruby",
+    "Java",
+    "LlamaIndex",
+    "Express.js",
+    "Flask",
+    "NestJS",
+    "Elasticsearch",
+    "Neon",
+    "gRPC",
+    "Nginx",
+    "Kafka",
+    "Railway",
+    "Azure",
+    "GCP",
+    "DigitalOcean",
+    "Vercel",
+    "AWS Bedrock",
+    "Claude API",
+    "Google Gemini",
+    "Azure OpenAI",
+    "CI/CD",
+    "Event-Driven Architecture",
+    "LLM Integration",
+    "Scrum",
+    "Microservices"
+  ],
+  "companies": [
+    "Notion"
+  ],
+  "job_titles": [
+    "Software Engineer"
+  ],
+  "universities": [
+    "University of Washington",
+    "TU Delft"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 475,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:41:16.777044",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

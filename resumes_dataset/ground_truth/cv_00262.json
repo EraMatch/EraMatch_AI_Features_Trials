@@ -1,0 +1,295 @@
+{
+  "full_name": "Maria Porter",
+  "email": "maria.porter@outlook.com",
+  "location": "North Jillfort, Germany",
+  "years_of_experience": 3.2,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Maria Porter",
+    "email": "maria.porter@outlook.com",
+    "phone": "400.550.5061x387",
+    "location": "North Jillfort, Germany",
+    "linkedin_url": null,
+    "github_url": "https://github.com/mariaporter",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in C#, Node.js, and Go. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2024-10",
+      "end_date": "Present",
+      "duration": "2024-10 – Present",
+      "duration_months": 17,
+      "description": "Developed real-time data processing pipeline using Rust, handling 50000+ records/second\nCreated authentication and authorization system using Cloudflare, securing 500+ user accounts",
+      "technologies": [
+        "Git",
+        "TypeScript",
+        "Rust",
+        "Cassandra",
+        "Cloudflare",
+        "gRPC"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2022-07",
+      "end_date": "2024-05",
+      "duration": "2022-07 – 2024-05",
+      "duration_months": 22,
+      "description": "Designed and implemented microservices architecture using Event-Driven Architecture, handling 1000+ concurrent users\nOptimized database queries using Rails, improving query performance by 23%",
+      "technologies": [
+        "Rails",
+        "Nginx",
+        "MySQL",
+        "Kafka",
+        "Event-Driven Architecture"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Git",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Smith, Meadows and Montgomery Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "Node.js",
+    "Go",
+    "PHP",
+    "TypeScript",
+    "LangChain",
+    "Rails",
+    "Gin",
+    "LlamaIndex",
+    "MongoDB",
+    "Supabase",
+    "Neon",
+    "ArgoCD",
+    "Helm",
+    "DigitalOcean",
+    "Cloudflare",
+    "GCP",
+    "Heroku",
+    "OpenAI API",
+    "Anthropic",
+    "Event-Driven Architecture",
+    "TDD",
+    "CI/CD",
+    "Microservices",
+    "Scrum"
+  ],
+  "companies": [
+    "Figma",
+    "Twilio"
+  ],
+  "job_titles": [
+    "Backend Developer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "MIT",
+    "University of Michigan"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 262,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:29.318542",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

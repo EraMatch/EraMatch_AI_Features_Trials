@@ -1,0 +1,300 @@
+{
+  "full_name": "Wendy Edwards",
+  "email": "wendy.edwards@outlook.com",
+  "location": "Johnathanton, UK",
+  "years_of_experience": 7.6,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Wendy Edwards",
+    "email": "wendy.edwards@outlook.com",
+    "phone": "7015061817",
+    "location": "Johnathanton, UK",
+    "linkedin_url": null,
+    "github_url": "https://github.com/wendyedwards",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in frontend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in CSS, Python, HTML.",
+  "work_experience": [
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Built real-time collaboration features using Figma, serving 5000+ concurrent users\nBuilt interactive data visualizations using Figma, serving 50000+ daily users",
+      "technologies": [
+        "JavaScript",
+        "Angular",
+        "ESLint",
+        "Agile",
+        "Figma"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2021-09",
+      "end_date": "2023-11",
+      "duration": "2021-09 – 2023-11",
+      "duration_months": 26,
+      "description": "Developed design system using React, standardizing UI across 50000+ applications\nIntegrated third-party APIs using React, reducing integration time by 43%",
+      "technologies": [
+        "Supabase",
+        "React",
+        "Webpack",
+        "Remix"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2017-12",
+      "end_date": "2021-03",
+      "duration": "2017-12 – 2021-03",
+      "duration_months": 39,
+      "description": "Developed responsive web applications using Vercel, improving page load time by 70%\nImplemented state management solution using Vercel, reducing API calls by 56%\nBuilt interactive data visualizations using Storybook, serving 100000+ daily users",
+      "technologies": [
+        "Storybook",
+        "React",
+        "Vercel"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2016",
+      "gpa": "3.73",
+      "activities": "Accessibility Initiative"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Meta Front-End Developer Certificate",
+      "issuer": "Meta",
+      "date": "2019",
+      "credential_id": "MQ09NM10"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Marathon running",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "Python",
+    "HTML",
+    "TypeScript",
+    "JavaScript",
+    "Next.js",
+    "Bootstrap",
+    "Svelte",
+    "Astro",
+    "Angular",
+    "Vite",
+    "Prettier",
+    "IndexedDB",
+    "MongoDB",
+    "PostgreSQL",
+    "Supabase",
+    "Firebase",
+    "Vercel",
+    "Cloudflare Pages",
+    "Render",
+    "Netlify",
+    "Agile",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Responsive Design",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "AgentForge",
+    "CloudNova",
+    "Vercel"
+  ],
+  "job_titles": [
+    "React Developer",
+    "UI Engineer",
+    "React Developer"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 256,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:39:26.533937",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

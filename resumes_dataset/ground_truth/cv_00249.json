@@ -1,0 +1,278 @@
+{
+  "full_name": "Meagan Taylor MD",
+  "email": "meagan.taylor.md@md.dev",
+  "location": "Hicksside, Australia",
+  "years_of_experience": 11.2,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Meagan Taylor MD",
+    "email": "meagan.taylor.md@md.dev",
+    "phone": "8274621267",
+    "location": "Hicksside, Australia",
+    "linkedin_url": null,
+    "github_url": "https://github.com/meagantaylormd",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Go, MATLAB, and OpenAI API. 11 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2022-03",
+      "end_date": "Present",
+      "duration": "2022-03 – Present",
+      "duration_months": 48,
+      "description": "Established MLOps practices using Airflow, reducing model deployment time by 64%\nEstablished MLOps practices using Airflow, reducing model deployment time by 62%\nImplemented A/B testing framework using Airflow, running 100000+ experiments\nDeveloped computer vision models using NLP, achieving 46% accuracy",
+      "technologies": [
+        "R",
+        "Airflow",
+        "A/B Testing",
+        "NLP"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2021-01",
+      "end_date": "2022-01",
+      "duration": "2021-01 – 2022-01",
+      "duration_months": 12,
+      "description": "Developed ML models using BigQuery, improving prediction accuracy by 67%\nDesigned data warehousing solution using BigQuery, enabling analytics on 50000+ records",
+      "technologies": [
+        "BigQuery",
+        "XGBoost",
+        "Qdrant"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2018-12",
+      "end_date": "2020-12",
+      "duration": "2018-12 – 2020-12",
+      "duration_months": 24,
+      "description": "Created feature engineering pipeline using Lambda Labs, reducing preprocessing time by 38%\nDesigned data warehousing solution using Lambda Labs, enabling analytics on 50000+ records\nDeveloped computer vision models using Scala, achieving 45% accuracy",
+      "technologies": [
+        "Scala",
+        "Snowflake",
+        "Databricks",
+        "LLM Evaluation",
+        "Lambda Labs",
+        "RAG"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2014-05",
+      "end_date": "2018-07",
+      "duration": "2014-05 – 2018-07",
+      "duration_months": 50,
+      "description": "Developed computer vision models using Fine-tuning, achieving 43% accuracy\nCreated feature engineering pipeline using LLM Evaluation, reducing preprocessing time by 56%\nDeveloped computer vision models using Statistical Modeling, achieving 47% accuracy\nBuilt end-to-end ML pipeline using Statistical Modeling, processing 100+ samples daily",
+      "technologies": [
+        "Kubeflow",
+        "LLM Evaluation",
+        "Fine-tuning",
+        "Statistical Modeling",
+        "LightGBM"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "B.A.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2012",
+      "gpa": "3.71",
+      "activities": "AI Research"
+    },
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2014",
+      "gpa": "3.68",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"His difficult interesting account marriage room Republican especially unit\" — ICML 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "MATLAB",
+    "OpenAI API",
+    "Scikit-learn",
+    "Weights & Biases",
+    "Neptune",
+    "NumPy",
+    "PostgreSQL",
+    "Databricks",
+    "Weaviate",
+    "Qdrant",
+    "Lambda Labs",
+    "Databricks",
+    "Fine-tuning",
+    "Statistical Modeling",
+    "LLM Evaluation",
+    "Deep Learning"
+  ],
+  "companies": [
+    "DeployFast",
+    "Uber",
+    "Notion",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "Research Scientist",
+    "AI Product Engineer",
+    "NLP Engineer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "Georgia Tech",
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.A.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 249,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:39:22.993524",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

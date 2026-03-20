@@ -1,0 +1,309 @@
+{
+  "full_name": "Jennifer Parker",
+  "email": "jennifer.parker@outlook.com",
+  "location": "West Jacob, France",
+  "years_of_experience": 10.0,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Jennifer Parker",
+    "email": "jennifer.parker@outlook.com",
+    "phone": "(870)411-6864",
+    "location": "West Jacob, France",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": "https://jenniferparker.dev"
+  },
+  "summary": "Senior technical leader specializing in backend engineering with expertise in Kotlin, Java, PHP. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Optimized database queries using ASP.NET, improving query performance by 31%\nLed migration from monolithic to microservices using Django, improving system scalability by 56%\nDesigned and implemented message queue system using DynamoDB, processing 1000+ messages/hour\nReduced infrastructure costs by 33% through optimization using Gin",
+      "technologies": [
+        "Express.js",
+        "Gin",
+        "Django",
+        "Flask",
+        "ASP.NET",
+        "DynamoDB"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2018-04",
+      "end_date": "2022-04",
+      "duration": "2018-04 – 2022-04",
+      "duration_months": 48,
+      "description": "Built automated CI/CD pipelines with Express.js, reducing deployment time by 38%\nArchitected and built RESTful APIs serving 500+ requests/day using Django, reducing response time by 63%",
+      "technologies": [
+        "Cassandra",
+        "Django",
+        "Go",
+        "Express.js",
+        "C#",
+        "OpenAI API"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2016-02",
+      "end_date": "2018-03",
+      "duration": "2016-02 – 2018-03",
+      "duration_months": 25,
+      "description": "Developed real-time data processing pipeline using Vercel, handling 100000+ transactions/second\nBuilt automated CI/CD pipelines with Rails, reducing deployment time by 40%\nMentored team of 6 junior developers on Vercel best practices\nImplemented caching layer with GCP, reducing database load by 28%",
+      "technologies": [
+        "Supabase",
+        "NestJS",
+        "Rails",
+        "GCP",
+        "Vercel",
+        "CockroachDB"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2013",
+      "gpa": "3.18",
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Gonzalez and Sons Youth Program, 2023-Present",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "Java",
+    "PHP",
+    "Node.js",
+    "Go",
+    "Express.js",
+    "Spring Boot",
+    "FastAPI",
+    "Actix",
+    "NestJS",
+    "DynamoDB",
+    "PlanetScale",
+    "RabbitMQ",
+    "Terraform",
+    "GitHub Actions",
+    "Docker",
+    "Kubernetes",
+    "Railway",
+    "Vercel",
+    "Fly.io",
+    "OpenAI API",
+    "Anthropic",
+    "Microservices",
+    "RAG Architecture",
+    "GraphQL"
+  ],
+  "companies": [
+    "PipelineIO",
+    "HashiCorp",
+    "Figma"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Software Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "Imperial College London",
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "B.A.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 382,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:30.947689",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

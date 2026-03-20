@@ -1,0 +1,324 @@
+{
+  "full_name": "Xavier Wilson",
+  "email": "xavier.wilson@yahoo.com",
+  "location": "Lake Jason, Netherlands",
+  "years_of_experience": 8.2,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Xavier Wilson",
+    "email": "xavier.wilson@yahoo.com",
+    "phone": "001-269-399-3867x74964",
+    "location": "Lake Jason, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/xavier-wilson",
+    "github_url": "https://github.com/xavierwilson",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in devops / sre / mlops with expertise in Rust, Go, Bash. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 – Present",
+      "duration_months": 33,
+      "description": "Created self-service provisioning portal using Argo Workflows, serving 500+ engineers\nOptimized cloud infrastructure using MLOps, reducing costs by 47%",
+      "technologies": [
+        "Tekton",
+        "Skopeo",
+        "Infrastructure as Code",
+        "Jenkins",
+        "MLOps",
+        "Argo Workflows"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2018-12",
+      "end_date": "2023-05",
+      "duration": "2018-12 – 2023-05",
+      "duration_months": 53,
+      "description": "Built disaster recovery solution using Chaos Engineering, achieving RTO of 381ms\nImplemented container orchestration using Kubeflow, managing 100+ containers",
+      "technologies": [
+        "Kubeflow",
+        "Chaos Engineering",
+        "GCP"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2017-10",
+      "end_date": "2018-10",
+      "duration": "2017-10 – 2018-10",
+      "duration_months": 12,
+      "description": "Implemented container orchestration using Grafana, managing 500+ containers\nBuilt automated backup solution using Istio, ensuring 1000% data protection\nCreated monitoring and alerting system using TensorFlow Serving, reducing MTTR by 31%",
+      "technologies": [
+        "Istio",
+        "Prometheus",
+        "Grafana",
+        "TensorFlow Serving"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": "2.98",
+      "activities": "DevOps Bootcamp"
+    },
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Spanish (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Go",
+    "Bash",
+    "PowerShell",
+    "CDK",
+    "Ansible",
+    "Terraform",
+    "Podman",
+    "Docker",
+    "Kubernetes",
+    "CircleCI",
+    "Azure DevOps",
+    "Tekton",
+    "Argo Workflows",
+    "Prometheus",
+    "Grafana",
+    "Thanos",
+    "ELK Stack",
+    "Opsgenie",
+    "Linode",
+    "Oracle Cloud",
+    "TorchServe",
+    "TensorFlow Serving",
+    "Kubeflow",
+    "MLflow",
+    "Infrastructure as Code",
+    "MLOps",
+    "Platform Engineering",
+    "Incident Management",
+    "GitOps"
+  ],
+  "companies": [
+    "CloudNova",
+    "ParseLab",
+    "Supabase"
+  ],
+  "job_titles": [
+    "DevOps Engineer",
+    "Platform Engineer",
+    "Release Engineer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 32,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:37:34.506775",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

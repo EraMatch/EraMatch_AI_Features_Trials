@@ -1,0 +1,309 @@
+{
+  "full_name": "Kristen Williams",
+  "email": "kristen.williams@yahoo.com",
+  "location": "East Jocelynshire, Brazil",
+  "years_of_experience": 1.8,
+  "seniority_level": "junior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kristen Williams",
+    "email": "kristen.williams@yahoo.com",
+    "phone": "594.620.0749x465",
+    "location": "East Jocelynshire, Brazil",
+    "linkedin_url": "https://linkedin.com/in/kristen-williams",
+    "github_url": "https://github.com/kristenwilliams",
+    "portfolio_url": null
+  },
+  "summary": "Software developer specializing in Go with hands-on experience in Python. Looking to grow in DevOps / SRE / MLOps.",
+  "work_experience": [
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2025-08",
+      "end_date": "Present",
+      "duration": "2025-08 – Present",
+      "duration_months": 7,
+      "description": "Implemented security scanning using SRE Practices, identifying 10000+ vulnerabilities\nEstablished chaos engineering practices using Zero Trust, improving system resilience\nImplemented security scanning using CircleCI, identifying 100000+ vulnerabilities",
+      "technologies": [
+        "Zero Trust",
+        "CircleCI",
+        "GCP",
+        "SRE Practices"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2023-12",
+      "end_date": "2025-03",
+      "duration": "2023-12 – 2025-03",
+      "duration_months": 15,
+      "description": "Built CI/CD pipelines using Incident Management, reducing deployment time from 8s to 307ms\nEstablished GitOps workflows using DigitalOcean, improving deployment frequency by 38%\nBuilt automated backup solution using Incident Management, ensuring 10000% data protection",
+      "technologies": [
+        "Kubeflow",
+        "DigitalOcean",
+        "Incident Management"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "B.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2025",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed and implemented CI/CD Pipeline with Python, integrating with Rust for seamless data flow",
+      "technologies": [
+        "HCL",
+        "Rust",
+        "Python"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Schema Validator",
+      "description": "Built Secrets Management with Go and HCL, serving 10,000+ daily active users",
+      "technologies": [
+        "Go",
+        "HCL",
+        "Python"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Developed Kubernetes Cluster using Rust, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "Rust",
+        "Go"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "French (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Python",
+    "Rust",
+    "HCL",
+    "Terraform",
+    "CloudFormation",
+    "ArgoCD",
+    "Ansible",
+    "Kubernetes",
+    "Docker",
+    "Jenkins",
+    "GitHub Actions",
+    "Datadog",
+    "Thanos",
+    "PagerDuty",
+    "Prometheus",
+    "Opsgenie",
+    "AWS",
+    "DigitalOcean",
+    "TensorFlow Serving",
+    "Kale",
+    " Triton Inference Server",
+    "GitOps",
+    "Infrastructure as Code",
+    "SRE Practices"
+  ],
+  "companies": [
+    "ModelShip",
+    "Vercel"
+  ],
+  "job_titles": [
+    "DevOps Engineer",
+    "SRE"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 342,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:10.499425",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

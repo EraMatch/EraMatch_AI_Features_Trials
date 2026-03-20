@@ -1,0 +1,343 @@
+{
+  "full_name": "Candace Soto",
+  "email": "candace.soto@soto.dev",
+  "location": "East Shanefort, UAE",
+  "years_of_experience": 15.2,
+  "seniority_level": "principal",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Candace Soto",
+    "email": "candace.soto@soto.dev",
+    "phone": "2926024286",
+    "location": "East Shanefort, UAE",
+    "linkedin_url": "https://linkedin.com/in/candace-soto",
+    "github_url": "https://github.com/candacesoto",
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 15 years shaping frontend engineering practice. Deep expertise in TypeScript, HTML, Python and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Integrated third-party APIs using Cloudflare Pages, reducing integration time by 42%\nBuilt reusable component library using Astro, used by 1000+ developers\nBuilt real-time collaboration features using Progressive Web Apps, serving 100000+ concurrent users\nBuilt real-time collaboration features using Progressive Web Apps, serving 100+ concurrent users",
+      "technologies": [
+        "Next.js",
+        "Astro",
+        "Progressive Web Apps",
+        "Cloudflare Pages",
+        "Webpack",
+        "Responsive Design"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2018-03",
+      "end_date": "2022-03",
+      "duration": "2018-03 – 2022-03",
+      "duration_months": 48,
+      "description": "Implemented automated testing framework using Bootstrap, achieving 27% code coverage\nBuilt interactive data visualizations using Component-Driven Development, serving 5000+ daily users",
+      "technologies": [
+        "Vue.js",
+        "Bootstrap",
+        "Component-Driven Development"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2015-01",
+      "end_date": "2017-12",
+      "duration": "2015-01 – 2017-12",
+      "duration_months": 35,
+      "description": "Integrated third-party APIs using TypeScript, reducing integration time by 66%\nImplemented state management solution using Supabase, reducing API calls by 16%\nCreated accessible UI components using Supabase, achieving WCAG AA compliance\nImplemented state management solution using Firebase, reducing API calls by 50%",
+      "technologies": [
+        "Supabase",
+        "ESLint",
+        "Firebase",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2010-02",
+      "end_date": "2014-07",
+      "duration": "2010-02 – 2014-07",
+      "duration_months": 53,
+      "description": "Built real-time collaboration features using Component-Driven Development, serving 50000+ concurrent users\nBuilt reusable component library using Progressive Web Apps, used by 1000+ developers\nIntegrated third-party APIs using Supabase, reducing integration time by 22%\nCreated progressive web app using IndexedDB, increasing user engagement by 28%",
+      "technologies": [
+        "Component-Driven Development",
+        "Progressive Web Apps",
+        "IndexedDB",
+        "Angular",
+        "Supabase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "M.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2009",
+      "gpa": null,
+      "activities": "UI/UX Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Created React Component Library leveraging CSS for core functionality and Python for optimization",
+      "technologies": [
+        "Python",
+        "CSS",
+        "TypeScript"
+      ],
+      "url": "https://github.com/candacesoto/autoscale-monitor",
+      "date": "2022"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Developed Real-time Chat using JavaScript, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "Remix"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "ML Model Registry",
+      "description": "Developed Admin Panel using Vue.js, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "HTML",
+        "Material UI",
+        "Vue.js"
+      ],
+      "url": "https://github.com/candacesoto/ml-model-registry",
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — IEEE 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "HTML",
+    "Python",
+    "JavaScript",
+    "CSS",
+    "Material UI",
+    "Astro",
+    "Vue.js",
+    "Remix",
+    "Jest",
+    "Webpack",
+    "MongoDB",
+    "Firebase",
+    "PostgreSQL",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Vercel",
+    "Render",
+    "Component-Driven Development",
+    "Agile",
+    "Accessibility (WCAG)",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "Block",
+    "HashiCorp",
+    "Supabase",
+    "Amazon"
+  ],
+  "job_titles": [
+    "React Developer",
+    "Full-Stack Developer",
+    "UI Engineer",
+    "Full-Stack Developer"
+  ],
+  "universities": [
+    "UT Austin"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 183,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:50.018412",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

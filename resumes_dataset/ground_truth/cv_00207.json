@@ -1,0 +1,255 @@
+{
+  "full_name": "Stephen Boyer",
+  "email": "stephen.boyer@protonmail.com",
+  "location": "North Tanya, India",
+  "years_of_experience": 7.9,
+  "seniority_level": "senior",
+  "primary_domain": "Product Management",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Stephen Boyer",
+    "email": "stephen.boyer@protonmail.com",
+    "phone": "313.865.0249",
+    "location": "North Tanya, India",
+    "linkedin_url": "https://linkedin.com/in/stephen-boyer",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in product management with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in R, SQL, Roadmunk.",
+  "work_experience": [
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2025-06",
+      "end_date": "Present",
+      "duration": "2025-06 – Present",
+      "duration_months": 9,
+      "description": "Built customer feedback system using Notion, collecting 1000+ insights\nLed product development using AWS, launching features used by 50000+ users\nImplemented user onboarding using R, improving retention by 59%\nBuilt customer feedback system using R, collecting 100000+ insights",
+      "technologies": [
+        "Google Analytics",
+        "Notion",
+        "AWS",
+        "R"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2021-04",
+      "end_date": "2025-02",
+      "duration": "2021-04 – 2025-02",
+      "duration_months": 46,
+      "description": "Led product launches using OKRs, achieving 5000+ signups\nCreated product documentation using Snowflake, serving 500+ stakeholders",
+      "technologies": [
+        "Agile",
+        "SQL",
+        "OKRs",
+        "PostgreSQL",
+        "Snowflake"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Technical PM",
+      "title": "Technical PM",
+      "start_date": "2017-12",
+      "end_date": "2021-04",
+      "duration": "2017-12 – 2021-04",
+      "duration_months": 40,
+      "description": "Led agile product development using Roadmap Planning, delivering 50000+ sprints\nImplemented A/B testing using Confluence, running 50000+ experiments\nLed agile product development using Confluence, delivering 5000+ sprints",
+      "technologies": [
+        "Roadmap Planning",
+        "Amplitude",
+        "MySQL",
+        "Confluence",
+        "SQL",
+        "Jira"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2018",
+      "gpa": "2.99",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmunk",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Aha!",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mixpanel",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zoom",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OKRs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "CSPO - Certified Scrum Product Owner",
+      "issuer": "Scrum Alliance",
+      "date": "2019",
+      "credential_id": null
+    },
+    {
+      "name": "Product Management Certificate",
+      "issuer": "Product School",
+      "date": "2022",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Logan, Alvarez and Carlson Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "SQL",
+    "Roadmunk",
+    "Aha!",
+    "Hotjar",
+    "Mixpanel",
+    "Tableau",
+    "Zoom",
+    "Google Analytics",
+    "BigQuery",
+    "PostgreSQL",
+    "AWS",
+    "GCP",
+    "Azure",
+    "OKRs",
+    "Scrum",
+    "Kanban"
+  ],
+  "companies": [
+    "Shopify",
+    "Block",
+    "Uber"
+  ],
+  "job_titles": [
+    "VP of Product",
+    "VP of Product",
+    "Technical PM"
+  ],
+  "universities": [
+    "UT Austin"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 207,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:39:01.907003",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

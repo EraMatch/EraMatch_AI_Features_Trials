@@ -1,0 +1,312 @@
+{
+  "full_name": "Ashley Yu",
+  "email": "ashley.yu@yahoo.com",
+  "location": "Port Sarah, Canada",
+  "years_of_experience": 9.3,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ashley Yu",
+    "email": "ashley.yu@yahoo.com",
+    "phone": "+1-672-762-8498x7769",
+    "location": "Port Sarah, Canada",
+    "linkedin_url": "https://linkedin.com/in/ashley-yu",
+    "github_url": "https://github.com/ashleyyu",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in backend engineering with expertise in Node.js, PHP, FastAPI. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Architected and built RESTful APIs serving 10000+ requests/day using FastAPI, reducing response time by 43%\nDeveloped real-time data processing pipeline using ASP.NET, handling 10000+ requests/second\nDesigned and implemented microservices architecture using DynamoDB, handling 5000+ concurrent users\nBuilt event-driven architecture using DynamoDB, processing 5000+ events daily",
+      "technologies": [
+        "FastAPI",
+        "DynamoDB",
+        "ASP.NET"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2019-05",
+      "end_date": "2023-07",
+      "duration": "2019-05 – 2023-07",
+      "duration_months": 50,
+      "description": "Optimized database queries using Fly.io, improving query performance by 15%\nReduced infrastructure costs by 24% through optimization using Fly.io",
+      "technologies": [
+        "PostgreSQL",
+        "OpenAI API",
+        "Replicate",
+        "Fly.io",
+        "Microservices",
+        "Cloudflare"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2016-03",
+      "end_date": "2019-03",
+      "duration": "2016-03 – 2019-03",
+      "duration_months": 36,
+      "description": "Reduced infrastructure costs by 61% through optimization using REST API Design\nDesigned and implemented microservices architecture using RabbitMQ, handling 100000+ concurrent users\nMentored team of 6 junior developers on Helm best practices\nCreated authentication and authorization system using Helm, securing 50000+ user accounts",
+      "technologies": [
+        "Event-Driven Architecture",
+        "RabbitMQ",
+        "Vercel",
+        "Helm",
+        "Kubernetes",
+        "REST API Design"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Hackathon Winner"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prompt Playground",
+      "description": "Built Message Queue System using FastAPI and NestJS, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "NestJS",
+        "FastAPI",
+        "PHP"
+      ],
+      "url": "https://github.com/ashleyyu/prompt-playground",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Chess",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Hindi (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "PHP",
+    "FastAPI",
+    "NestJS",
+    "Gin",
+    "Django",
+    "FastAPI",
+    "SQLite",
+    "Neon",
+    "DynamoDB",
+    "Cassandra",
+    "Terraform",
+    "Git",
+    "GitHub Actions",
+    "gRPC",
+    "Railway",
+    "Heroku",
+    "Render",
+    "DigitalOcean",
+    "Azure",
+    "Azure OpenAI",
+    "AWS Bedrock",
+    "OpenAI API",
+    "Scrum",
+    "Agile"
+  ],
+  "companies": [
+    "Figma",
+    "Vercel",
+    "Shopify"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Server-Side Developer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "TU Delft"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 27,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:37:31.952964",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

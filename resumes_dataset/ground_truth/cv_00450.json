@@ -1,0 +1,274 @@
+{
+  "full_name": "Kimberly Smith",
+  "email": "kimberly.smith@yahoo.com",
+  "location": "New Steven, Canada",
+  "years_of_experience": 2.8,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kimberly Smith",
+    "email": "kimberly.smith@yahoo.com",
+    "phone": "001-604-401-0414x596",
+    "location": "New Steven, Canada",
+    "linkedin_url": "https://linkedin.com/in/kimberly-smith",
+    "github_url": "https://github.com/kimberlysmith",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level backend engineering specialist with 3 years building production systems. Skilled in Python, TypeScript, Node.js with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 – Present",
+      "duration_months": 33,
+      "description": "Mentored team of 5 junior developers on Cassandra best practices\nArchitected and built RESTful APIs serving 5000+ requests/day using Kafka, reducing response time by 29%\nCreated authentication and authorization system using Jenkins, securing 1000+ user accounts",
+      "technologies": [
+        "DynamoDB",
+        "Jenkins",
+        "Cassandra",
+        "PostgreSQL",
+        "Kafka"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "B.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Designed and implemented gRPC Services with Gin, integrating with C# for seamless data flow",
+      "technologies": [
+        "Python",
+        "C#",
+        "Gin"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Designed and implemented Message Queue System with Flask, integrating with FastAPI for seamless data flow",
+      "technologies": [
+        "Flask",
+        "TypeScript",
+        "FastAPI"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "C#",
+    "Flask",
+    "FastAPI",
+    "Gin",
+    "LangChain",
+    "SQLite",
+    "Neon",
+    "Redis",
+    "Cassandra",
+    "PostgreSQL",
+    "ArgoCD",
+    "RabbitMQ",
+    "Helm",
+    "AWS",
+    "Fly.io",
+    "Hugging Face",
+    "Azure OpenAI",
+    "AWS Bedrock",
+    "Replicate",
+    "TDD",
+    "RAG Architecture",
+    "Event-Driven Architecture"
+  ],
+  "companies": [
+    "Meta"
+  ],
+  "job_titles": [
+    "Platform Engineer"
+  ],
+  "universities": [
+    "TU Delft"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 450,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:41:05.039145",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

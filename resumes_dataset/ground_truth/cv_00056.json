@@ -1,0 +1,295 @@
+{
+  "full_name": "Joe Miller",
+  "email": "joe.miller@outlook.com",
+  "location": "Richardbury, Germany",
+  "years_of_experience": 4.5,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Joe Miller",
+    "email": "joe.miller@outlook.com",
+    "phone": "796-396-6416x05297",
+    "location": "Richardbury, Germany",
+    "linkedin_url": "https://linkedin.com/in/joe-miller",
+    "github_url": "https://github.com/joemiller",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level frontend engineering specialist with 4 years building production systems. Skilled in JavaScript, TypeScript, CSS with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2023-04",
+      "end_date": "Present",
+      "duration": "2023-04 – Present",
+      "duration_months": 35,
+      "description": "Implemented automated testing framework using Bootstrap, achieving 36% code coverage\nCreated accessible UI components using Remix, achieving WCAG AA compliance",
+      "technologies": [
+        "AWS Amplify",
+        "Remix",
+        "Bootstrap"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2021-08",
+      "end_date": "2023-03",
+      "duration": "2021-08 – 2023-03",
+      "duration_months": 19,
+      "description": "Built real-time collaboration features using Accessibility (WCAG), serving 100+ concurrent users\nIntegrated third-party APIs using React, reducing integration time by 61%",
+      "technologies": [
+        "Accessibility (WCAG)",
+        "IndexedDB",
+        "PostgreSQL",
+        "React"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "M.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Log Aggregator",
+      "description": "Designed Form Builder leveraging Angular microservices architecture with Material UI for caching",
+      "technologies": [
+        "CSS",
+        "Angular",
+        "Material UI"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Resume Parser",
+      "description": "Implemented E-commerce Platform using Python, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Remix",
+        "Python",
+        "Material UI"
+      ],
+      "url": "https://github.com/joemiller/resume-parser",
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "React Certified Developer",
+      "issuer": "React",
+      "date": "2022",
+      "credential_id": "FZ69TV68"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Walker-Maxwell Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "TypeScript",
+    "CSS",
+    "Dart",
+    "Python",
+    "Material UI",
+    "Vue.js",
+    "Remix",
+    "React",
+    "Angular",
+    "Vite",
+    "Git",
+    "Cypress",
+    "ESLint",
+    "Supabase",
+    "Firebase",
+    "PostgreSQL",
+    "AWS Amplify",
+    "Render",
+    "Netlify",
+    "Responsive Design",
+    "Agile",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "OpenAI",
+    "Datadog"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 56,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:37:46.972181",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

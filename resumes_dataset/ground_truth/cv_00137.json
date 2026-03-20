@@ -1,0 +1,290 @@
+{
+  "full_name": "Dr. Jonathan Price",
+  "email": "dr..jonathan.price@protonmail.com",
+  "location": "North John, UAE",
+  "years_of_experience": 2.3,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Dr. Jonathan Price",
+    "email": "dr..jonathan.price@protonmail.com",
+    "phone": "(705)593-0407",
+    "location": "North John, UAE",
+    "linkedin_url": "https://linkedin.com/in/dr.-jonathan-price",
+    "github_url": "https://github.com/drjonathanprice",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in CSS, HTML, and JavaScript. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2025-09",
+      "end_date": "Present",
+      "duration": "2025-09 – Present",
+      "duration_months": 6,
+      "description": "Developed design system using Agile, standardizing UI across 500+ applications\nImplemented automated testing framework using Firebase, achieving 60% code coverage\nDeveloped responsive web applications using Vite, improving page load time by 61%",
+      "technologies": [
+        "Agile",
+        "Vite",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2024-07",
+      "end_date": "2025-08",
+      "duration": "2024-07 – 2025-08",
+      "duration_months": 13,
+      "description": "Developed responsive web applications using Vue.js, improving page load time by 53%\nDeveloped design system using Vue.js, standardizing UI across 100+ applications\nCreated progressive web app using Vite, increasing user engagement by 61%",
+      "technologies": [
+        "Vue.js",
+        "Render",
+        "Git",
+        "Astro",
+        "Vite"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2023-04",
+      "end_date": "2024-01",
+      "duration": "2023-04 – 2024-01",
+      "duration_months": 9,
+      "description": "Built interactive data visualizations using React, serving 100+ daily users\nDeveloped responsive web applications using Render, improving page load time by 54%",
+      "technologies": [
+        "React",
+        "Vercel",
+        "Render"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "B.A.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "M.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2021",
+      "gpa": "3.14",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "Next.js",
+    "Angular",
+    "Remix",
+    "Material UI",
+    "Git",
+    "Playwright",
+    "ESLint",
+    "PostgreSQL",
+    "Firebase",
+    "MongoDB",
+    "Supabase",
+    "IndexedDB",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Vercel",
+    "Netlify",
+    "Progressive Web Apps",
+    "Responsive Design",
+    "Accessibility (WCAG)",
+    "Agile"
+  ],
+  "companies": [
+    "Uber",
+    "Snowflake",
+    "Shopify"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "UI Engineer",
+    "Full-Stack Developer"
+  ],
+  "universities": [
+    "Georgia Tech",
+    "Imperial College London"
+  ],
+  "degrees": [
+    "B.A.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 137,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:27.558729",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

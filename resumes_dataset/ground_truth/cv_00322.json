@@ -1,0 +1,279 @@
+{
+  "full_name": "Sarah Mclaughlin",
+  "email": "sarah.mclaughlin@gmail.com",
+  "location": "Rayside, Germany",
+  "years_of_experience": 8.5,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Sarah Mclaughlin",
+    "email": "sarah.mclaughlin@gmail.com",
+    "phone": "+1-284-207-6789x973",
+    "location": "Rayside, Germany",
+    "linkedin_url": null,
+    "github_url": "https://github.com/sarahmclaughlin",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in cybersecurity with expertise in Bash, PowerShell, Go. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2022-08",
+      "end_date": "Present",
+      "duration": "2022-08 – Present",
+      "duration_months": 43,
+      "description": "Created security awareness training using Metasploit, reducing phishing clicks by 36%\nConducted penetration testing using Metasploit, identifying 10000+ vulnerabilities",
+      "technologies": [
+        "Metasploit",
+        "Splunk",
+        "SonarQube",
+        "Azure Sentinel"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2018-06",
+      "end_date": "2022-05",
+      "duration": "2018-06 – 2022-05",
+      "duration_months": 47,
+      "description": "Implemented security monitoring using Bash, detecting 500+ threats\nImplemented identity management using AWS Security Hub, securing 5000+ user identities",
+      "technologies": [
+        "GCP Security Command Center",
+        "C",
+        "AWS Security Hub",
+        "Bash",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2017-02",
+      "end_date": "2018-02",
+      "duration": "2017-02 – 2018-02",
+      "duration_months": 12,
+      "description": "Built security automation using Wireshark, reducing incident response time by 41%\nBuilt security automation using Wireshark, reducing incident response time by 30%\nConducted penetration testing using Wireshark, identifying 50000+ vulnerabilities",
+      "technologies": [
+        "Wireshark",
+        "SAST/DAST",
+        "MongoDB",
+        "Splunk"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Designed and implemented Threat Intelligence Feed with PowerShell, integrating with Bash for seamless data flow",
+      "technologies": [
+        "PowerShell",
+        "Snort",
+        "Bash"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Built Malware Detection with Go and Sigma, serving 10,000+ daily active users",
+      "technologies": [
+        "OWASP ZAP",
+        "Sigma",
+        "Go"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Korean (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — MLH 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "PowerShell",
+    "Go",
+    "Burp Suite",
+    "OWASP ZAP",
+    "Snort",
+    "Sigma",
+    "Hashicorp Vault",
+    "CrowdStrike",
+    "Trivy",
+    "Redis",
+    "MongoDB",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "SAST/DAST",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "TechFlow AI",
+    "Twilio",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "Penetration Tester",
+    "Security Architect"
+  ],
+  "universities": [
+    "UIUC",
+    "University of Washington"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 322,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:39:59.979589",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

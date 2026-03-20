@@ -1,0 +1,277 @@
+{
+  "full_name": "Kaylee Hays",
+  "email": "kaylee.hays@outlook.com",
+  "location": "Samuelfurt, UAE",
+  "years_of_experience": 3.2,
+  "seniority_level": "mid",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Kaylee Hays",
+    "email": "kaylee.hays@outlook.com",
+    "phone": "+1-674-303-4505",
+    "location": "Samuelfurt, UAE",
+    "linkedin_url": null,
+    "github_url": "https://github.com/kayleehays",
+    "portfolio_url": "https://kayleehays.dev"
+  },
+  "summary": "Results-driven design (ui/ux) professional with 3 years of experience designing and implementing scalable solutions using JavaScript, CSS, Python. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Product Designer",
+      "title": "Product Designer",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 – Present",
+      "duration_months": 24,
+      "description": "Created design system using After Effects, used across 100000+ products\nDesigned user interfaces using Adobe Creative Suite, improving usability by 62%\nCreated information architecture using After Effects, improving navigation by 33%",
+      "technologies": [
+        "Adobe Creative Suite",
+        "Storybook",
+        "After Effects"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "UX Designer",
+      "title": "UX Designer",
+      "start_date": "2022-07",
+      "end_date": "2023-10",
+      "duration": "2022-07 – 2023-10",
+      "duration_months": 15,
+      "description": "Designed user interfaces using After Effects, improving usability by 23%\nCreated design system using Cloudflare, used across 50000+ products",
+      "technologies": [
+        "JavaScript",
+        "Cloudflare",
+        "After Effects",
+        "Framer"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.A.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Framer",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Usability Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prompt Playground",
+      "description": "Designed and implemented Design Tokens with Framer, integrating with JavaScript for seamless data flow",
+      "technologies": [
+        "CSS",
+        "Framer",
+        "JavaScript"
+      ],
+      "url": "https://github.com/kayleehays/prompt-playground",
+      "date": "2019"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Developed Prototyping Tool using CSS, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Framer",
+        "CSS",
+        "Python"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Adobe Certified Expert",
+      "issuer": "Adobe",
+      "date": "2025",
+      "credential_id": "FS76FX52"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — MLH 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "CSS",
+    "Python",
+    "HTML",
+    "Figma",
+    "Framer",
+    "Adobe XD",
+    "Sketch",
+    "Principle",
+    "Miro",
+    "Hotjar",
+    "Adobe Creative Suite",
+    "Firebase",
+    "Cloudflare",
+    "Vercel",
+    "Netlify",
+    "Usability Testing",
+    "Design Systems",
+    "Prototyping",
+    "Accessibility (WCAG)",
+    "User Research"
+  ],
+  "companies": [
+    "Cloudflare",
+    "Uber"
+  ],
+  "job_titles": [
+    "Product Designer",
+    "UX Designer"
+  ],
+  "universities": [
+    "IIT Bombay",
+    "NUS"
+  ],
+  "degrees": [
+    "B.A.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 69,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:37:53.169535",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

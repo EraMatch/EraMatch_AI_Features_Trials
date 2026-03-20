@@ -1,0 +1,296 @@
+{
+  "full_name": "Diana Hanson",
+  "email": "diana.hanson@yahoo.com",
+  "location": "New Markfurt, Germany",
+  "years_of_experience": 5.8,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Diana Hanson",
+    "email": "diana.hanson@yahoo.com",
+    "phone": "4136649718",
+    "location": "New Markfurt, Germany",
+    "linkedin_url": "https://linkedin.com/in/diana-hanson",
+    "github_url": "https://github.com/dianahanson",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Kotlin, Go, C#.",
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2024-11",
+      "end_date": "Present",
+      "duration": "2024-11 – Present",
+      "duration_months": 16,
+      "description": "Optimized database queries using FastAPI, improving query performance by 23%\nOptimized database queries using Cassandra, improving query performance by 16%\nLed migration from monolithic to microservices using Agile, improving system scalability by 18%",
+      "technologies": [
+        "ASP.NET",
+        "FastAPI",
+        "Agile",
+        "Event-Driven Architecture",
+        "Rails",
+        "Cassandra"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2020-02",
+      "end_date": "2024-08",
+      "duration": "2020-02 – 2024-08",
+      "duration_months": 54,
+      "description": "Built automated CI/CD pipelines with SQLite, reducing deployment time by 20%\nDesigned and implemented message queue system using Terraform, processing 5000+ messages/hour",
+      "technologies": [
+        "Terraform",
+        "SQLite",
+        "Ruby",
+        "Event-Driven Architecture",
+        "GraphQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "Ph.D.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2021",
+      "gpa": "3.02",
+      "activities": null
+    },
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "M.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Middleton, Wise and Anderson Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "Go",
+    "C#",
+    "Express.js",
+    "Rails",
+    "FastAPI",
+    "LlamaIndex",
+    "Cassandra",
+    "Elasticsearch",
+    "RabbitMQ",
+    "Docker",
+    "Jenkins",
+    "Railway",
+    "Cloudflare",
+    "Azure",
+    "Vercel",
+    "OpenAI API",
+    "Hugging Face",
+    "Claude API",
+    "Azure OpenAI",
+    "AWS Bedrock",
+    "Agile",
+    "GraphQL",
+    "TDD",
+    "CI/CD",
+    "Microservices"
+  ],
+  "companies": [
+    "Microsoft",
+    "InfraCore"
+  ],
+  "job_titles": [
+    "Backend Developer",
+    "Software Engineer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "Imperial College London"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 372,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:25.775810",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "full_name": "Susan Stevenson",
+  "email": "susan.stevenson@yahoo.com",
+  "location": "Townsendbury, Netherlands",
+  "years_of_experience": 8.2,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Susan Stevenson",
+    "email": "susan.stevenson@yahoo.com",
+    "phone": "+1-475-924-3728x05129",
+    "location": "Townsendbury, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/susan-stevenson",
+    "github_url": "https://github.com/susanstevenson",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in devops / sre / mlops with expertise in Go, PowerShell, Rust. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 – Present",
+      "duration_months": 24,
+      "description": "Created monitoring and alerting system using PagerDuty, reducing MTTR by 53%\nBuilt disaster recovery solution using PagerDuty, achieving RTO of 147ms\nEstablished GitOps workflows using GitHub Actions, improving deployment frequency by 60%\nDesigned and implemented infrastructure as code using Chaos Engineering, managing 100+ servers",
+      "technologies": [
+        "GitHub Actions",
+        "Thanos",
+        "PagerDuty",
+        "Chaos Engineering"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2021-06",
+      "end_date": "2023-10",
+      "duration": "2021-06 – 2023-10",
+      "duration_months": 28,
+      "description": "Built disaster recovery solution using VictoriaMetrics, achieving RTO of 104ms\nEstablished chaos engineering practices using PowerShell, improving system resilience\nOptimized cloud infrastructure using VictoriaMetrics, reducing costs by 30%\nOptimized cloud infrastructure using VictoriaMetrics, reducing costs by 38%",
+      "technologies": [
+        "Oracle Cloud",
+        "Datadog",
+        "Crossplane",
+        "VictoriaMetrics",
+        "PowerShell"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2019-02",
+      "end_date": "2020-12",
+      "duration": "2019-02 – 2020-12",
+      "duration_months": 22,
+      "description": "Optimized cloud infrastructure using TensorFlow Serving, reducing costs by 36%\nImplemented log aggregation using TensorFlow Serving, processing 50000+ logs/day\nImplemented container orchestration using TensorFlow Serving, managing 500+ containers",
+      "technologies": [
+        "TensorFlow Serving",
+        "Linkerd",
+        "VictoriaMetrics",
+        "Tekton"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2017-08",
+      "end_date": "2019-01",
+      "duration": "2017-08 – 2019-01",
+      "duration_months": 17,
+      "description": "Optimized cloud infrastructure using Rust, reducing costs by 37%\nBuilt disaster recovery solution using  Triton Inference Server, achieving RTO of 121ms\nImplemented log aggregation using  Triton Inference Server, processing 5000+ logs/day\nBuilt disaster recovery solution using Rust, achieving RTO of 52ms",
+      "technologies": [
+        "Rust",
+        " Triton Inference Server",
+        "Kale",
+        "Skopeo"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2016-06",
+      "end_date": "2017-02",
+      "duration": "2016-06 – 2017-02",
+      "duration_months": 8,
+      "description": "Implemented security scanning using Alibaba Cloud, identifying 100000+ vulnerabilities\nImplemented security scanning using Alibaba Cloud, identifying 10000+ vulnerabilities\nEstablished GitOps workflows using Buildah, improving deployment frequency by 44%\nBuilt CI/CD pipelines using Bash, reducing deployment time from 2s to 98ms",
+      "technologies": [
+        "Azure DevOps",
+        "Alibaba Cloud",
+        "Buildah",
+        "Bash",
+        "Kale",
+        "Argo Workflows"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2018",
+      "gpa": "3.45",
+      "activities": "Infrastructure Club"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Designed and implemented Auto-scaling Solution with HCL, integrating with Go for seamless data flow",
+      "technologies": [
+        "PowerShell",
+        "HCL",
+        "Go"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Playing guitar",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — Google DevFest 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "PowerShell",
+    "Rust",
+    "HCL",
+    "CDK",
+    "Crossplane",
+    "Helm",
+    "ArgoCD",
+    "CloudFormation",
+    "Skopeo",
+    "Podman",
+    "Linkerd",
+    "Azure DevOps",
+    "Jenkins",
+    "Argo Workflows",
+    "CircleCI",
+    "Tekton",
+    "Prometheus",
+    "Grafana",
+    "ELK Stack",
+    "Alibaba Cloud",
+    "Hetzner",
+    "Azure",
+    "AWS",
+    "Kale",
+    "Seldon",
+    " Triton Inference Server",
+    "Kubeflow",
+    "MLflow",
+    "Infrastructure as Code",
+    "SRE Practices"
+  ],
+  "companies": [
+    "Block",
+    "Uber",
+    "CloudNova",
+    "SkillBridge",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "MLOps Engineer",
+    "Release Engineer",
+    "MLOps Engineer",
+    "DevOps Engineer",
+    "Cloud Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University",
+    "TU Munich"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 253,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:24.887971",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

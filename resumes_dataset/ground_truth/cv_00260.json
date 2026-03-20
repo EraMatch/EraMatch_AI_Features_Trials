@@ -1,0 +1,267 @@
+{
+  "full_name": "Laura Robertson",
+  "email": "laura.robertson@outlook.com",
+  "location": "Richardland, USA",
+  "years_of_experience": 9.8,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Laura Robertson",
+    "email": "laura.robertson@outlook.com",
+    "phone": "001-777-766-1830x67198",
+    "location": "Richardland, USA",
+    "linkedin_url": "https://linkedin.com/in/laura-robertson",
+    "github_url": "https://github.com/laurarobertson",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in mobile development with expertise in Java, Dart, Swift. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2023-01",
+      "end_date": "Present",
+      "duration": "2023-01 – Present",
+      "duration_months": 38,
+      "description": "Created app analytics tracking using TypeScript, providing insights on 5000+ users\nCreated in-app purchase integration using Firebase Firestore, generating 100000+ in revenue\nDeveloped mobile application using TypeScript, achieving 50000+ downloads\nImplemented push notification system using Firebase Firestore, increasing user engagement by 54%",
+      "technologies": [
+        "TypeScript",
+        "React Native",
+        "Firebase Firestore",
+        "KMP"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2020-05",
+      "end_date": "2022-09",
+      "duration": "2020-05 – 2022-09",
+      "duration_months": 28,
+      "description": "Implemented app streaming using MVVM, reducing download size by 62%\nImplemented deep linking using Firebase, improving conversion rates by 30%\nImplemented app streaming using App Store Optimization, reducing download size by 21%",
+      "technologies": [
+        "MVVM",
+        "Hive",
+        "App Store Optimization",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2016-01",
+      "end_date": "2020-04",
+      "duration": "2016-01 – 2020-04",
+      "duration_months": 51,
+      "description": "Built widget functionality using React Native, increasing daily active users by 55%\nImplemented push notification system using RevenueCat, increasing user engagement by 39%\nImplemented push notification system using Realm, increasing user engagement by 54%",
+      "technologies": [
+        "Expo",
+        "RevenueCat",
+        "React Native",
+        "Realm"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2015",
+      "gpa": "3.61",
+      "activities": "Mobile Development Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Google DevFest 2019",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Nichols-Woodward Youth Program, 2020-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "Dart",
+    "Swift",
+    "TypeScript",
+    "Expo",
+    "Flutter",
+    "SwiftUI",
+    "UIKit",
+    "Firebase",
+    "CocoaPods",
+    "Android Studio",
+    "Firebase Firestore",
+    "SQLite",
+    "Core Data",
+    "Hive",
+    "AWS Amplify",
+    "RevenueCat",
+    "Firebase",
+    "App Store Optimization",
+    "CI/CD for Mobile"
+  ],
+  "companies": [
+    "Confluent",
+    "Supabase",
+    "Palantir"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "Mobile Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 260,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:28.420194",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

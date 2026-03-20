@@ -1,0 +1,344 @@
+{
+  "full_name": "Kimberly Martinez",
+  "email": "kimberly.martinez@yahoo.com",
+  "location": "Kempshire, Japan",
+  "years_of_experience": 11.5,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kimberly Martinez",
+    "email": "kimberly.martinez@yahoo.com",
+    "phone": "7676275208",
+    "location": "Kempshire, Japan",
+    "linkedin_url": "https://linkedin.com/in/kimberly-martinez",
+    "github_url": "https://github.com/kimberlymartinez",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in backend engineering with expertise in PHP, C#, Java. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Netflix",
+      "organization": "Netflix",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2024-11",
+      "end_date": "Present",
+      "duration": "2024-11 – Present",
+      "duration_months": 16,
+      "description": "Built automated CI/CD pipelines with Kubernetes, reducing deployment time by 16%\nDesigned and implemented microservices architecture using NestJS, handling 100+ concurrent users\nDesigned and implemented microservices architecture using PHP, handling 10000+ concurrent users",
+      "technologies": [
+        "Claude API",
+        "NestJS",
+        "DynamoDB",
+        "PHP",
+        "AWS",
+        "Kubernetes"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2021-06",
+      "end_date": "2024-08",
+      "duration": "2021-06 – 2024-08",
+      "duration_months": 38,
+      "description": "Implemented caching layer with Flask, reducing database load by 65%\nDesigned and implemented message queue system using Flask, processing 5000+ messages/hour\nDesigned and implemented microservices architecture using Gin, handling 500+ concurrent users",
+      "technologies": [
+        "Gin",
+        "Claude API",
+        "Flask",
+        "AWS",
+        "Fly.io"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2017-04",
+      "end_date": "2021-04",
+      "duration": "2017-04 – 2021-04",
+      "duration_months": 48,
+      "description": "Built automated CI/CD pipelines with Fly.io, reducing deployment time by 58%\nMentored team of 6 junior developers on TypeScript best practices",
+      "technologies": [
+        "NestJS",
+        "DigitalOcean",
+        "Ruby",
+        "TypeScript",
+        "TDD",
+        "Fly.io"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2014-11",
+      "end_date": "2017-03",
+      "duration": "2014-11 – 2017-03",
+      "duration_months": 28,
+      "description": "Built automated CI/CD pipelines with DigitalOcean, reducing deployment time by 70%\nBuilt automated CI/CD pipelines with SQLite, reducing deployment time by 19%",
+      "technologies": [
+        "SQLite",
+        "Fly.io",
+        "DigitalOcean",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2014-02",
+      "end_date": "2014-10",
+      "duration": "2014-02 – 2014-10",
+      "duration_months": 8,
+      "description": "Led migration from monolithic to microservices using Event-Driven Architecture, improving system scalability by 65%\nBuilt automated CI/CD pipelines with Event-Driven Architecture, reducing deployment time by 17%\nImplemented caching layer with Event-Driven Architecture, reducing database load by 22%\nOptimized database queries using OpenAI API, improving query performance by 57%",
+      "technologies": [
+        "OpenAI API",
+        "Event-Driven Architecture",
+        "Cloudflare",
+        "Heroku",
+        "Replicate"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": "Hackathon Winner"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Graph Query Builder",
+      "description": "Created Auth Service leveraging Java for core functionality and C# for optimization",
+      "technologies": [
+        "C#",
+        "Java",
+        "NestJS"
+      ],
+      "url": "https://github.com/kimberlymartinez/graph-query-builder",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Technical blogging",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PHP",
+    "C#",
+    "Java",
+    "Express.js",
+    "NestJS",
+    "LlamaIndex",
+    "LangChain",
+    "Supabase",
+    "DynamoDB",
+    "SQLite",
+    "MongoDB",
+    "Kubernetes",
+    "Helm",
+    "Kafka",
+    "Railway",
+    "Fly.io",
+    "Render",
+    "AWS",
+    "Replicate",
+    "Anthropic",
+    "RAG Architecture",
+    "Scrum"
+  ],
+  "companies": [
+    "Netflix",
+    "PromptStack",
+    "Confluent",
+    "InfraCore",
+    "Quantum Edge"
+  ],
+  "job_titles": [
+    "API Developer",
+    "Server-Side Developer",
+    "Software Engineer",
+    "Platform Engineer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "Stanford University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 277,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:37.369953",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

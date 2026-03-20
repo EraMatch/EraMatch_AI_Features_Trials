@@ -1,0 +1,359 @@
+{
+  "full_name": "Crystal Lewis",
+  "email": "crystal.lewis@gmail.com",
+  "location": "Allenland, Germany",
+  "years_of_experience": 2.4,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Crystal Lewis",
+    "email": "crystal.lewis@gmail.com",
+    "phone": "+1-822-288-9857x25459",
+    "location": "Allenland, Germany",
+    "linkedin_url": null,
+    "github_url": "https://github.com/crystallewis",
+    "portfolio_url": "https://crystallewis.dev"
+  },
+  "summary": "Experienced software engineer with expertise in Go, Python, and Rust. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2024-07",
+      "end_date": "Present",
+      "duration": "2024-07 – Present",
+      "duration_months": 20,
+      "description": "Implemented container orchestration using Azure DevOps, managing 50000+ containers\nCreated self-service provisioning portal using GitOps, serving 50000+ engineers\nEstablished chaos engineering practices using GitOps, improving system resilience",
+      "technologies": [
+        "Azure DevOps",
+        "Crossplane",
+        "DigitalOcean",
+        "GitOps"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2023-08",
+      "end_date": "2024-05",
+      "duration": "2023-08 – 2024-05",
+      "duration_months": 9,
+      "description": "Designed and implemented infrastructure as code using Helm, managing 500+ servers\nCreated self-service provisioning portal using  Triton Inference Server, serving 50000+ engineers",
+      "technologies": [
+        "Helm",
+        "Kale",
+        "Chaos Engineering",
+        "GCP",
+        " Triton Inference Server"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Dean's List"
+    },
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2021",
+      "gpa": "3.38",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Graph Query Builder",
+      "description": "Developed Container Registry using Go, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Rust",
+        "Go",
+        "Python"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Implemented Observability Dashboard using YAML, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "YAML",
+        "Go"
+      ],
+      "url": "https://github.com/crystallewis/vector-search-api",
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Note yes best address short finally\" — IEEE 2023",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Dutch (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Python",
+    "Rust",
+    "YAML",
+    "Crossplane",
+    "Ansible",
+    "CloudFormation",
+    "Linkerd",
+    "Istio",
+    "Kubernetes",
+    "Envoy",
+    "GitHub Actions",
+    "Azure DevOps",
+    "Tekton",
+    "Argo Workflows",
+    "GitLab CI",
+    "Prometheus",
+    "Datadog",
+    "VictoriaMetrics",
+    "Grafana",
+    "ELK Stack",
+    "Oracle Cloud",
+    "DigitalOcean",
+    "Linode",
+    "Hetzner",
+    "Azure",
+    "Kale",
+    "Seldon",
+    "TensorFlow Serving",
+    "SRE Practices",
+    "Platform Engineering",
+    "MLOps",
+    "GitOps"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "PromptStack"
+  ],
+  "job_titles": [
+    "Cloud Engineer",
+    "MLOps Engineer"
+  ],
+  "universities": [
+    "University of Michigan",
+    "Imperial College London"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 428,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:54.273897",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

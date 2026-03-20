@@ -1,0 +1,307 @@
+{
+  "full_name": "Melinda Schmitt",
+  "email": "melinda.schmitt@schmitt.dev",
+  "location": "Lake Brianside, UAE",
+  "years_of_experience": 10.0,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Melinda Schmitt",
+    "email": "melinda.schmitt@schmitt.dev",
+    "phone": "972.220.0543x6459",
+    "location": "Lake Brianside, UAE",
+    "linkedin_url": "https://linkedin.com/in/melinda-schmitt",
+    "github_url": null,
+    "portfolio_url": "https://melindaschmitt.dev"
+  },
+  "summary": "Lead frontend engineering professional with 10 years driving technical strategy and team excellence. Expert in JavaScript, CSS, TypeScript with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2025-08",
+      "end_date": "Present",
+      "duration": "2025-08 – Present",
+      "duration_months": 7,
+      "description": "Built reusable component library using Angular, used by 500+ developers\nBuilt reusable component library using Jest, used by 10000+ developers",
+      "technologies": [
+        "Angular",
+        "Playwright",
+        "HTML",
+        "Jest",
+        "Agile"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2024-10",
+      "end_date": "2025-08",
+      "duration": "2024-10 – 2025-08",
+      "duration_months": 10,
+      "description": "Implemented state management solution using AWS Amplify, reducing API calls by 39%\nDeveloped responsive web applications using Angular, improving page load time by 41%\nBuilt interactive data visualizations using AWS Amplify, serving 100000+ daily users\nImplemented automated testing framework using AWS Amplify, achieving 25% code coverage",
+      "technologies": [
+        "AWS Amplify",
+        "Angular",
+        "Playwright"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2023-12",
+      "end_date": "2024-07",
+      "duration": "2023-12 – 2024-07",
+      "duration_months": 7,
+      "description": "Implemented automated testing framework using Jest, achieving 34% code coverage\nBuilt reusable component library using Vue.js, used by 500+ developers",
+      "technologies": [
+        "Material UI",
+        "Jest",
+        "Cloudflare Pages",
+        "Vue.js"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2019-11",
+      "end_date": "2023-09",
+      "duration": "2019-11 – 2023-09",
+      "duration_months": 46,
+      "description": "Developed responsive web applications using CSS, improving page load time by 64%\nBuilt real-time collaboration features using Bootstrap, serving 10000+ concurrent users",
+      "technologies": [
+        "Bootstrap",
+        "Remix",
+        "CSS",
+        "Vite"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2015-08",
+      "end_date": "2019-10",
+      "duration": "2015-08 – 2019-10",
+      "duration_months": 50,
+      "description": "Developed responsive web applications using CSS, improving page load time by 16%\nImplemented state management solution using CSS, reducing API calls by 40%",
+      "technologies": [
+        "Playwright",
+        "Cypress",
+        "Prettier",
+        "Render",
+        "Component-Driven Development",
+        "CSS"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2016",
+      "gpa": "3.79",
+      "activities": null
+    },
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Google UX Design Certificate",
+      "issuer": "Google",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "CSS",
+    "TypeScript",
+    "Astro",
+    "Bootstrap",
+    "Angular",
+    "Next.js",
+    "Cypress",
+    "Prettier",
+    "Supabase",
+    "PostgreSQL",
+    "IndexedDB",
+    "Vercel",
+    "Cloudflare Pages",
+    "Netlify",
+    "Progressive Web Apps",
+    "Component-Driven Development",
+    "Responsive Design"
+  ],
+  "companies": [
+    "DataPulse",
+    "SkillBridge",
+    "TechFlow AI",
+    "ModelShip",
+    "Quantum Edge"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "Frontend Developer",
+    "UI Engineer",
+    "React Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "KAIST",
+    "EPFL"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 267,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:39:32.053077",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

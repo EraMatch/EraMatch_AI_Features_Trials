@@ -1,0 +1,350 @@
+{
+  "full_name": "Derek Zuniga",
+  "email": "derek.zuniga@gmail.com",
+  "location": "Port Leslieview, India",
+  "years_of_experience": 15.7,
+  "seniority_level": "principal",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Derek Zuniga",
+    "email": "derek.zuniga@gmail.com",
+    "phone": "+1-219-528-3276x4835",
+    "location": "Port Leslieview, India",
+    "linkedin_url": null,
+    "github_url": "https://github.com/derekzuniga",
+    "portfolio_url": null
+  },
+  "summary": "Principal devops / sre / mlops architect with 16+ years defining technical strategy for enterprise transformations. Subject matter expert in Bash, YAML, Python.",
+  "work_experience": [
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": "2022-01 – Present",
+      "duration_months": 50,
+      "description": "Built CI/CD pipelines using Rust, reducing deployment time from 22s to 224ms\nEstablished chaos engineering practices using Buildah, improving system resilience\nBuilt CI/CD pipelines using Kale, reducing deployment time from 2s to 303ms\nImplemented security scanning using Kale, identifying 1000+ vulnerabilities",
+      "technologies": [
+        "Rust",
+        "Hetzner",
+        "Kale",
+        "Buildah"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2019-06",
+      "end_date": "2022-01",
+      "duration": "2019-06 – 2022-01",
+      "duration_months": 31,
+      "description": "Implemented security scanning using Envoy, identifying 1000+ vulnerabilities\nBuilt automated backup solution using Envoy, ensuring 10000% data protection\nEstablished GitOps workflows using Buildah, improving deployment frequency by 50%\nDesigned and implemented infrastructure as code using Thanos, managing 100000+ servers",
+      "technologies": [
+        "Buildah",
+        "DigitalOcean",
+        "Thanos",
+        "Envoy"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2015-09",
+      "end_date": "2018-12",
+      "duration": "2015-09 – 2018-12",
+      "duration_months": 39,
+      "description": "Designed and implemented infrastructure as code using Thanos, managing 500+ servers\nEstablished GitOps workflows using GitOps, improving deployment frequency by 33%\nImplemented container orchestration using GitOps, managing 100000+ containers\nOptimized cloud infrastructure using GitOps, reducing costs by 17%",
+      "technologies": [
+        "GitOps",
+        "Tekton",
+        "Buildah",
+        "SRE Practices",
+        "Thanos",
+        "CircleCI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2011-11",
+      "end_date": "2015-06",
+      "duration": "2011-11 – 2015-06",
+      "duration_months": 43,
+      "description": "Implemented security scanning using GitLab CI, identifying 50000+ vulnerabilities\nBuilt disaster recovery solution using PowerShell, achieving RTO of 186ms",
+      "technologies": [
+        "PowerShell",
+        "Azure DevOps",
+        "Linkerd",
+        "GitLab CI",
+        "Istio",
+        "Skopeo"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2009-06",
+      "end_date": "2011-07",
+      "duration": "2009-06 – 2011-07",
+      "duration_months": 25,
+      "description": "Optimized cloud infrastructure using PagerDuty, reducing costs by 46%\nImplemented log aggregation using PowerShell, processing 100+ logs/day",
+      "technologies": [
+        "PagerDuty",
+        "GitLab CI",
+        "PowerShell"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2009",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Decision wall then fire pretty\" — IEEE 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "YAML",
+    "Python",
+    "Go",
+    "PowerShell",
+    "CDK",
+    "Helm",
+    "Crossplane",
+    "Ansible",
+    "CloudFormation",
+    "K3s",
+    "Skopeo",
+    "Azure DevOps",
+    "CircleCI",
+    "VictoriaMetrics",
+    "Prometheus",
+    "Oracle Cloud",
+    "Alibaba Cloud",
+    "Hetzner",
+    "MLflow",
+    "Seldon",
+    "Kale",
+    "Platform Engineering",
+    "Zero Trust",
+    "Infrastructure as Code",
+    "Incident Management"
+  ],
+  "companies": [
+    "Nvidia",
+    "Amazon",
+    "Palantir",
+    "CodeCraft Studios",
+    "CodeCraft Studios"
+  ],
+  "job_titles": [
+    "MLOps Engineer",
+    "Release Engineer",
+    "Infrastructure Engineer",
+    "Infrastructure Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 3,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:37:20.187558",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

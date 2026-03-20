@@ -1,0 +1,371 @@
+{
+  "full_name": "Tracy Blackwell",
+  "email": "tracy.blackwell@blackwell.dev",
+  "location": "Whitestad, USA",
+  "years_of_experience": 9.6,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Tracy Blackwell",
+    "email": "tracy.blackwell@blackwell.dev",
+    "phone": "717.991.2868",
+    "location": "Whitestad, USA",
+    "linkedin_url": "https://linkedin.com/in/tracy-blackwell",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Rust, PowerShell, and YAML. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 – Present",
+      "duration_months": 42,
+      "description": "Built CI/CD pipelines using Zero Trust, reducing deployment time from 14s to 351ms\nEstablished chaos engineering practices using Infrastructure as Code, improving system resilience",
+      "technologies": [
+        "Zero Trust",
+        "HCL",
+        "Thanos",
+        "Incident Management",
+        "Infrastructure as Code",
+        "PowerShell"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2018-05",
+      "end_date": "2022-03",
+      "duration": "2018-05 – 2022-03",
+      "duration_months": 46,
+      "description": "Established GitOps workflows using Linkerd, improving deployment frequency by 33%\nBuilt disaster recovery solution using Podman, achieving RTO of 299ms",
+      "technologies": [
+        "Linkerd",
+        "MLflow",
+        "Podman"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2016-01",
+      "end_date": "2018-04",
+      "duration": "2016-01 – 2018-04",
+      "duration_months": 27,
+      "description": "Implemented security scanning using Ansible, identifying 10000+ vulnerabilities\nOptimized cloud infrastructure using Terraform, reducing costs by 23%",
+      "technologies": [
+        "Azure DevOps",
+        "Ansible",
+        "Opsgenie",
+        "Terraform",
+        " Triton Inference Server"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2013",
+      "gpa": "3.90",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Developed Chaos Engineering Framework using YAML, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "YAML",
+        "PowerShell",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "PowerShell",
+    "YAML",
+    "ArgoCD",
+    "Terraform",
+    "CloudFormation",
+    "Helm",
+    "Pulumi",
+    "Docker",
+    "Envoy",
+    "Istio",
+    "Kubernetes",
+    "Skopeo",
+    "Azure DevOps",
+    "Argo Workflows",
+    "CircleCI",
+    "Jenkins",
+    "PagerDuty",
+    "VictoriaMetrics",
+    "Grafana",
+    "Hetzner",
+    "GCP",
+    "Azure",
+    "AWS",
+    "Seldon",
+    "MLflow",
+    " Triton Inference Server",
+    "TensorFlow Serving",
+    "Kubeflow",
+    "Chaos Engineering",
+    "MLOps",
+    "Zero Trust",
+    "GitOps",
+    "Infrastructure as Code"
+  ],
+  "companies": [
+    "Block",
+    "Datadog",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "Infrastructure Engineer",
+    "Release Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "EPFL",
+    "NUS"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 357,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:18.159474",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

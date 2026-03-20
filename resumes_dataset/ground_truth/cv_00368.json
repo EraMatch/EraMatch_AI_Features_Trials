@@ -1,0 +1,311 @@
+{
+  "full_name": "Kimberly Estrada",
+  "email": "kimberly.estrada@yahoo.com",
+  "location": "Martinborough, Australia",
+  "years_of_experience": 16.0,
+  "seniority_level": "principal",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kimberly Estrada",
+    "email": "kimberly.estrada@yahoo.com",
+    "phone": "737-868-1511",
+    "location": "Martinborough, Australia",
+    "linkedin_url": "https://linkedin.com/in/kimberly-estrada",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 16 years shaping frontend engineering practice. Deep expertise in TypeScript, JavaScript, HTML and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2024-06",
+      "end_date": "Present",
+      "duration": "2024-06 – Present",
+      "duration_months": 21,
+      "description": "Built reusable component library using Agile, used by 10000+ developers\nBuilt real-time collaboration features using Storybook, serving 5000+ concurrent users\nDeveloped responsive web applications using Accessibility (WCAG), improving page load time by 50%",
+      "technologies": [
+        "Accessibility (WCAG)",
+        "Vercel",
+        "Cypress",
+        "Vue.js",
+        "Agile",
+        "Storybook"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2020-03",
+      "end_date": "2024-05",
+      "duration": "2020-03 – 2024-05",
+      "duration_months": 50,
+      "description": "Developed responsive web applications using Git, improving page load time by 32%\nBuilt real-time collaboration features using Accessibility (WCAG), serving 50000+ concurrent users\nImplemented automated testing framework using Accessibility (WCAG), achieving 30% code coverage\nBuilt reusable component library using Git, used by 500+ developers",
+      "technologies": [
+        "Accessibility (WCAG)",
+        "Git",
+        "Netlify",
+        "Python",
+        "AWS Amplify",
+        "Bootstrap"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2016-08",
+      "end_date": "2019-12",
+      "duration": "2016-08 – 2019-12",
+      "duration_months": 40,
+      "description": "Built interactive data visualizations using Webpack, serving 500+ daily users\nDeveloped responsive web applications using Dart, improving page load time by 57%\nImplemented state management solution using Webpack, reducing API calls by 70%",
+      "technologies": [
+        "HTML",
+        "Webpack",
+        "Figma",
+        "Responsive Design",
+        "Dart",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2013-02",
+      "end_date": "2016-08",
+      "duration": "2013-02 – 2016-08",
+      "duration_months": 42,
+      "description": "Created progressive web app using Dart, increasing user engagement by 49%\nBuilt real-time collaboration features using Dart, serving 1000+ concurrent users\nCreated accessible UI components using Responsive Design, achieving WCAG AA compliance\nBuilt reusable component library using Progressive Web Apps, used by 100+ developers",
+      "technologies": [
+        "Responsive Design",
+        "Prettier",
+        "Dart",
+        "MongoDB",
+        "Progressive Web Apps"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2009-06",
+      "end_date": "2012-09",
+      "duration": "2009-06 – 2012-09",
+      "duration_months": 39,
+      "description": "Integrated third-party APIs using Vite, reducing integration time by 38%\nCreated accessible UI components using Vercel, achieving WCAG AA compliance\nIntegrated third-party APIs using Vite, reducing integration time by 48%",
+      "technologies": [
+        "Vercel",
+        "Vue.js",
+        "Vite",
+        "Storybook"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2008",
+      "gpa": "3.01",
+      "activities": "UI/UX Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"And ago police put left gas human create also\" — ICML 2021",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Boy true force security machine attention nature\" — IEEE 2022",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — MLH 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Dart",
+    "Next.js",
+    "Remix",
+    "React",
+    "Astro",
+    "Svelte",
+    "Storybook",
+    "ESLint",
+    "Jest",
+    "PostgreSQL",
+    "IndexedDB",
+    "Firebase",
+    "Vercel",
+    "Netlify",
+    "Progressive Web Apps",
+    "Agile"
+  ],
+  "companies": [
+    "Microsoft",
+    "Figma",
+    "CloudNova",
+    "ScaleGrid",
+    "CodeReview.io"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "Full-Stack Developer",
+    "Web Developer",
+    "Web Developer",
+    "React Developer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 368,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:23.781843",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

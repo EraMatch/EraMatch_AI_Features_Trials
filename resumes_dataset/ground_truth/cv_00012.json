@@ -1,0 +1,262 @@
+{
+  "full_name": "Christina Moran",
+  "email": "christina.moran@protonmail.com",
+  "location": "New Jasonview, Canada",
+  "years_of_experience": 10.4,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Christina Moran",
+    "email": "christina.moran@protonmail.com",
+    "phone": "946.324.7510",
+    "location": "New Jasonview, Canada",
+    "linkedin_url": "https://linkedin.com/in/christina-moran",
+    "github_url": "https://github.com/christinamoran",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Objective-C, Kotlin, and TypeScript. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 – Present",
+      "duration_months": 33,
+      "description": "Created app analytics tracking using Xcode, providing insights on 5000+ users\nBuilt AR/VR features using C++, increasing user retention by 68%\nDeveloped cross-platform solution using Xcode, reducing development time by 35%\nCreated app analytics tracking using C++, providing insights on 5000+ users",
+      "technologies": [
+        "C++",
+        "Firebase",
+        "Xcode"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2018-07",
+      "end_date": "2023-01",
+      "duration": "2018-07 – 2023-01",
+      "duration_months": 54,
+      "description": "Built offline-first architecture using Expo, improving app responsiveness by 48%\nBuilt widget functionality using App Store Optimization, increasing daily active users by 22%\nBuilt AR/VR features using App Store Optimization, increasing user retention by 55%",
+      "technologies": [
+        "App Store Optimization",
+        "Expo",
+        "Realm"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2015-04",
+      "end_date": "2018-06",
+      "duration": "2015-04 – 2018-06",
+      "duration_months": 38,
+      "description": "Optimized app performance using MVVM, reducing battery consumption by 29%\nOptimized app performance using React Native, reducing battery consumption by 49%",
+      "technologies": [
+        "MVVM",
+        "Hive",
+        "AWS Amplify",
+        "Offline-First",
+        "React Native",
+        "Dart"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "M.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Apple Certified iOS App Developer",
+      "issuer": "Apple",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Mahoney Inc Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Hard citizen street region particularly would pressure\" — CVPR 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Objective-C",
+    "Kotlin",
+    "TypeScript",
+    "KMP",
+    "SwiftUI",
+    "Expo",
+    "CocoaPods",
+    "TestFlight",
+    "App Center",
+    "Android Studio",
+    "Core Data",
+    "Hive",
+    "Firebase Firestore",
+    "Realm",
+    "AWS Amplify",
+    "RevenueCat",
+    "CI/CD for Mobile",
+    "Clean Architecture"
+  ],
+  "companies": [
+    "Spotify",
+    "Uber",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "Mobile Developer",
+    "Flutter Developer"
+  ],
+  "universities": [
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 12,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:37:24.394389",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

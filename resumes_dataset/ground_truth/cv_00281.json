@@ -1,0 +1,274 @@
+{
+  "full_name": "Amanda Mckenzie",
+  "email": "amanda.mckenzie@mckenzie.dev",
+  "location": "Martinezport, Australia",
+  "years_of_experience": 2.1,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Amanda Mckenzie",
+    "email": "amanda.mckenzie@mckenzie.dev",
+    "phone": "001-647-687-3002",
+    "location": "Martinezport, Australia",
+    "linkedin_url": "https://linkedin.com/in/amanda-mckenzie",
+    "github_url": "https://github.com/amandamckenzie",
+    "portfolio_url": "https://amandamckenzie.dev"
+  },
+  "summary": "Experienced software engineer with expertise in Ruby, PHP, and Rails. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2024-02",
+      "end_date": "Present",
+      "duration": "2024-02 – Present",
+      "duration_months": 25,
+      "description": "Reduced infrastructure costs by 20% through optimization using RabbitMQ\nDesigned and implemented message queue system using Rails, processing 100000+ messages/hour",
+      "technologies": [
+        "LlamaIndex",
+        "Rails",
+        "Git",
+        "RabbitMQ"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2024",
+      "gpa": "3.86",
+      "activities": "Teaching Assistant - Data Structures"
+    },
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Rock climbing",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — IEEE 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Ruby",
+    "PHP",
+    "Rails",
+    "NestJS",
+    "Elasticsearch",
+    "PostgreSQL",
+    "Neon",
+    "CockroachDB",
+    "SQLite",
+    "RabbitMQ",
+    "Kafka",
+    "ArgoCD",
+    "Ansible",
+    "Git",
+    "Render",
+    "Azure",
+    "AWS",
+    "GCP",
+    "DigitalOcean",
+    "Anthropic",
+    "Azure OpenAI",
+    "AWS Bedrock",
+    "Replicate",
+    "RAG Architecture",
+    "Microservices",
+    "Agile",
+    "Event-Driven Architecture",
+    "CI/CD"
+  ],
+  "companies": [
+    "Meta"
+  ],
+  "job_titles": [
+    "Platform Engineer"
+  ],
+  "universities": [
+    "University of Washington",
+    "Columbia University"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 281,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:39.357751",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

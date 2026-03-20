@@ -1,0 +1,258 @@
+{
+  "full_name": "Erin Singh",
+  "email": "erin.singh@outlook.com",
+  "location": "Scottshire, Brazil",
+  "years_of_experience": 8.8,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Erin Singh",
+    "email": "erin.singh@outlook.com",
+    "phone": "362.405.0150",
+    "location": "Scottshire, Brazil",
+    "linkedin_url": "https://linkedin.com/in/erin-singh",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in cybersecurity with expertise in Bash, Rust, C. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2025-03",
+      "end_date": "Present",
+      "duration": "2025-03 – Present",
+      "duration_months": 12,
+      "description": "Conducted penetration testing using Rust, identifying 100000+ vulnerabilities\nDeveloped threat intelligence platform using Python, tracking 500+ threats\nImplemented security monitoring using SOC2 Compliance, detecting 100000+ threats\nCreated security awareness training using Splunk, reducing phishing clicks by 38%",
+      "technologies": [
+        "Python",
+        "PostgreSQL",
+        "Splunk",
+        "SOC2 Compliance",
+        "Redis",
+        "Rust"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2020-07",
+      "end_date": "2024-10",
+      "duration": "2020-07 – 2024-10",
+      "duration_months": 51,
+      "description": "Built secure CI/CD pipeline using PowerShell, preventing 100000+ security issues\nBuilt security automation using PowerShell, reducing incident response time by 68%\nBuilt incident response automation using Threat Modeling, reducing recovery time by 44%\nCreated vulnerability management program using MongoDB, reducing CVEs by 28%",
+      "technologies": [
+        "Threat Modeling",
+        "PowerShell",
+        "MongoDB",
+        "Elasticsearch"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2016-08",
+      "end_date": "2020-02",
+      "duration": "2016-08 – 2020-02",
+      "duration_months": 42,
+      "description": "Built incident response automation using Incident Response, reducing recovery time by 51%\nBuilt secure CI/CD pipeline using PostgreSQL, preventing 5000+ security issues\nBuilt incident response automation using Incident Response, reducing recovery time by 51%\nImplemented encryption solution using Figma, protecting 500+ records",
+      "technologies": [
+        "PostgreSQL",
+        "Nessus",
+        "Incident Response"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": "2.85",
+      "activities": "Ethical Hacking Club"
+    },
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "B.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "Rust",
+    "C",
+    "OWASP ZAP",
+    "Suricata",
+    "Metasploit",
+    "Trivy",
+    "Hashicorp Vault",
+    "Nmap",
+    "Nessus",
+    "Redis",
+    "MongoDB",
+    "Elasticsearch",
+    "AWS Security Hub",
+    "GCP Security Command Center",
+    "Zero Trust Architecture",
+    "SAST/DAST",
+    "Incident Response",
+    "OWASP Top 10"
+  ],
+  "companies": [
+    "Block",
+    "Apple",
+    "Palantir"
+  ],
+  "job_titles": [
+    "Penetration Tester",
+    "AppSec Engineer",
+    "AppSec Engineer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "Technion"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 353,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:40:16.182042",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

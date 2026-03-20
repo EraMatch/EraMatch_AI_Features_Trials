@@ -1,0 +1,258 @@
+{
+  "full_name": "Jeffrey Williams",
+  "email": "jeffrey.williams@yahoo.com",
+  "location": "Port Danielfurt, France",
+  "years_of_experience": 5.6,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Jeffrey Williams",
+    "email": "jeffrey.williams@yahoo.com",
+    "phone": "808-850-9549x3059",
+    "location": "Port Danielfurt, France",
+    "linkedin_url": null,
+    "github_url": "https://github.com/jeffreywilliams",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Python, Julia, and Go. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "duration": "2023-12 – Present",
+      "duration_months": 27,
+      "description": "Established MLOps practices using Polars, reducing model deployment time by 38%\nDeveloped computer vision models using MongoDB, achieving 27% accuracy",
+      "technologies": [
+        "Polars",
+        "Neo4j",
+        "MongoDB"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2020-02",
+      "end_date": "2023-06",
+      "duration": "2020-02 – 2023-06",
+      "duration_months": 40,
+      "description": "Created recommendation system using LLM Evaluation, increasing user engagement by 32%\nDeveloped computer vision models using LLM Evaluation, achieving 60% accuracy\nBuilt real-time analytics dashboard using Python, used by 1000+ stakeholders",
+      "technologies": [
+        "LLM Evaluation",
+        "Python",
+        "A/B Testing"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2021",
+      "gpa": "2.96",
+      "activities": "Kaggle Competition"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Marathon running",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Julia",
+    "Go",
+    "Scala",
+    "Keras",
+    "XGBoost",
+    "Hugging Face",
+    "TensorFlow",
+    "Spark",
+    "Kubeflow",
+    "Dask",
+    "MLflow",
+    "Pandas",
+    "BigQuery",
+    "Pinecone",
+    "Weaviate",
+    "Qdrant",
+    "Hugging Face Endpoints",
+    "AWS SageMaker",
+    "Azure ML",
+    "Databricks",
+    "NLP",
+    "A/B Testing",
+    "Prompt Engineering"
+  ],
+  "companies": [
+    "CloudNova",
+    "Tesla"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Data Analyst"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 483,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:41:20.610366",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

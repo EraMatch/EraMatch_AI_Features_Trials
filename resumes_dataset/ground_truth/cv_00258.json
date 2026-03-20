@@ -1,0 +1,221 @@
+{
+  "full_name": "Antonio Price",
+  "email": "antonio.price@outlook.com",
+  "location": "Rodriguezside, Japan",
+  "years_of_experience": 3.9,
+  "seniority_level": "mid",
+  "primary_domain": "QA / Testing",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Antonio Price",
+    "email": "antonio.price@outlook.com",
+    "phone": "8444271739",
+    "location": "Rodriguezside, Japan",
+    "linkedin_url": "https://linkedin.com/in/antonio-price",
+    "github_url": "https://github.com/antonioprice",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Java, Python, and JUnit. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "QA Engineer",
+      "title": "QA Engineer",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Created test data management using Test Automation, generating 100+ test records\nBuilt mobile testing automation using Test Automation, testing on 100000+ devices",
+      "technologies": [
+        "Test Automation",
+        "Sauce Labs",
+        "JMeter",
+        "JUnit"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Quality Assurance"
+    },
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JUnit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestNG",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Appium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTest",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sauce Labs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Postman",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Security Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Automation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JMeter",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Rock climbing",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "Python",
+    "JUnit",
+    "TestNG",
+    "Appium",
+    "Playwright",
+    "PyTest",
+    "Sauce Labs",
+    "Postman",
+    "MongoDB",
+    "Redis",
+    "PostgreSQL",
+    "Azure",
+    "GCP",
+    "AWS",
+    "Security Testing",
+    "TDD",
+    "Test Automation",
+    "Test Planning",
+    "CI/CD Testing"
+  ],
+  "companies": [
+    "Block"
+  ],
+  "job_titles": [
+    "QA Engineer"
+  ],
+  "universities": [
+    "TU Munich",
+    "UT Austin"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 258,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:39:27.402261",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

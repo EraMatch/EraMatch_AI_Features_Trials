@@ -1,0 +1,243 @@
+{
+  "full_name": "Ashley Bradley",
+  "email": "ashley.bradley@protonmail.com",
+  "location": "West Christopherville, Netherlands",
+  "years_of_experience": 5.5,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ashley Bradley",
+    "email": "ashley.bradley@protonmail.com",
+    "phone": "323.402.3467",
+    "location": "West Christopherville, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/ashley-bradley",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in data science / ml / ai with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Scala, SQL, Julia.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2024-05",
+      "end_date": "Present",
+      "duration": "2024-05 – Present",
+      "duration_months": 22,
+      "description": "Built end-to-end ML pipeline using LLM Evaluation, processing 10000+ samples daily\nEstablished MLOps practices using TensorFlow, reducing model deployment time by 41%",
+      "technologies": [
+        "BigQuery",
+        "TensorFlow",
+        "LLM Evaluation"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2021-06",
+      "end_date": "2024-04",
+      "duration": "2021-06 – 2024-04",
+      "duration_months": 34,
+      "description": "Established MLOps practices using Azure ML, reducing model deployment time by 37%\nImplemented NLP solution using Fine-tuning, processing 100+ text documents daily\nDesigned data warehousing solution using Fine-tuning, enabling analytics on 1000+ records\nBuilt real-time analytics dashboard using NLP, used by 5000+ stakeholders",
+      "technologies": [
+        "Azure ML",
+        "Pinecone",
+        "NLP",
+        "Fine-tuning"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2020-03",
+      "end_date": "2021-01",
+      "duration": "2020-03 – 2021-01",
+      "duration_months": 10,
+      "description": "Created recommendation system using Python, increasing user engagement by 18%\nBuilt end-to-end ML pipeline using Python, processing 1000+ samples daily\nCreated feature engineering pipeline using Vector Databases, reducing preprocessing time by 19%",
+      "technologies": [
+        "Neptune",
+        "Python",
+        "Vector Databases"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Analytics Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — MLH 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Scala",
+    "SQL",
+    "Julia",
+    "Go",
+    "Claude API",
+    "LightGBM",
+    "OpenAI API",
+    "DVC",
+    "MLflow",
+    "Spark",
+    "Weaviate",
+    "MongoDB",
+    "PostgreSQL",
+    "Databricks",
+    "GCP Vertex AI",
+    "Azure ML",
+    "LLM Evaluation",
+    "A/B Testing"
+  ],
+  "companies": [
+    "Datadog",
+    "DataPulse",
+    "Supabase"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "Research Scientist",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 383,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:40:31.372428",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

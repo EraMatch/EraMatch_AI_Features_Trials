@@ -1,0 +1,325 @@
+{
+  "full_name": "Rebecca Allen",
+  "email": "rebecca.allen@yahoo.com",
+  "location": "Port Thomas, Singapore",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Rebecca Allen",
+    "email": "rebecca.allen@yahoo.com",
+    "phone": "(813)779-1805x5269",
+    "location": "Port Thomas, Singapore",
+    "linkedin_url": "https://linkedin.com/in/rebecca-allen",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Swift, TypeScript, and C++. 8 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2024-12",
+      "end_date": "Present",
+      "duration": "2024-12 – Present",
+      "duration_months": 15,
+      "description": "Created in-app purchase integration using MVVM, generating 500+ in revenue\nImplemented deep linking using Swift, improving conversion rates by 31%\nBuilt widget functionality using Fastlane, increasing daily active users by 55%\nImplemented biometric authentication using TypeScript, securing 5000+ user accounts",
+      "technologies": [
+        "Fastlane",
+        "MVVM",
+        "TypeScript",
+        "Swift"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2022-04",
+      "end_date": "2024-10",
+      "duration": "2022-04 – 2024-10",
+      "duration_months": 30,
+      "description": "Created app analytics tracking using Clean Architecture, providing insights on 5000+ users\nBuilt offline-first architecture using Firebase, improving app responsiveness by 50%\nCreated in-app purchase integration using Xcode, generating 50000+ in revenue\nImplemented deep linking using Firebase, improving conversion rates by 29%",
+      "technologies": [
+        "Firebase",
+        "Jetpack Compose",
+        "Xcode",
+        "Clean Architecture",
+        "Offline-First"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2018-02",
+      "end_date": "2022-02",
+      "duration": "2018-02 – 2022-02",
+      "duration_months": 48,
+      "description": "Implemented app streaming using MVVM, reducing download size by 52%\nImplemented biometric authentication using Firebase, securing 10000+ user accounts\nImplemented deep linking using Firebase Firestore, improving conversion rates by 35%",
+      "technologies": [
+        "Swift",
+        "Firebase",
+        "Clean Architecture",
+        "Firebase Firestore",
+        "Hive",
+        "MVVM"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "M.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built Cross-platform SDK using C++ and Swift, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Swift",
+        "Dart",
+        "C++"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Apple Certified iOS App Developer",
+      "issuer": "Apple",
+      "date": "2024",
+      "credential_id": "AQ10NC91"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"We huge expert Republican short\" — EMNLP 2021",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Swedish (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Swift",
+    "TypeScript",
+    "C++",
+    "Dart",
+    "UIKit",
+    "Jetpack Compose",
+    "React Native",
+    "Expo",
+    "KMP",
+    "Android Studio",
+    "App Center",
+    "Firebase Firestore",
+    "Core Data",
+    "Realm",
+    "SQLite",
+    "Hive",
+    "Supabase",
+    "AWS Amplify",
+    "Firebase",
+    "RevenueCat",
+    "CI/CD for Mobile",
+    "MVVM",
+    "Offline-First",
+    "Clean Architecture",
+    "App Store Optimization"
+  ],
+  "companies": [
+    "Figma",
+    "Cloudflare",
+    "ScaleGrid"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "Android Developer",
+    "Flutter Developer"
+  ],
+  "universities": [
+    "Carnegie Mellon University",
+    "EPFL"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 124,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:38:21.178490",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

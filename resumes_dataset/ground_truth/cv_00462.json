@@ -1,0 +1,225 @@
+{
+  "full_name": "John Gomez",
+  "email": "john.gomez@gmail.com",
+  "location": "Derekside, USA",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "John Gomez",
+    "email": "john.gomez@gmail.com",
+    "phone": "+1-466-561-4494x29659",
+    "location": "Derekside, USA",
+    "linkedin_url": "https://linkedin.com/in/john-gomez",
+    "github_url": "https://github.com/johngomez",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Scala, R, and SQL. 8 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2022-08",
+      "end_date": "Present",
+      "duration": "2022-08 – Present",
+      "duration_months": 43,
+      "description": "Built end-to-end ML pipeline using Weaviate, processing 10000+ samples daily\nBuilt end-to-end ML pipeline using Snowflake, processing 10000+ samples daily\nBuilt ML model serving infrastructure using Scala, handling 100+ predictions/day",
+      "technologies": [
+        "Snowflake",
+        "Scala",
+        "Weaviate",
+        "Azure ML",
+        "RAG"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2018-04",
+      "end_date": "2022-06",
+      "duration": "2018-04 – 2022-06",
+      "duration_months": 50,
+      "description": "Developed computer vision models using Statistical Modeling, achieving 46% accuracy\nBuilt ML model serving infrastructure using BigQuery, handling 500+ predictions/day\nImplemented NLP solution using Statistical Modeling, processing 100000+ text documents daily",
+      "technologies": [
+        "LLM Evaluation",
+        "Statistical Modeling",
+        "XGBoost",
+        "BigQuery"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Analytics Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Scala",
+    "R",
+    "SQL",
+    "Keras",
+    "OpenCV",
+    "LightGBM",
+    "Airflow",
+    "Dask",
+    "Pinecone",
+    "Weaviate",
+    "Databricks",
+    "Redshift",
+    "Neo4j",
+    "Hugging Face Endpoints",
+    "GCP Vertex AI",
+    "Azure ML",
+    "A/B Testing",
+    "NLP"
+  ],
+  "companies": [
+    "Vercel",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "ML Engineer",
+    "Data Scientist"
+  ],
+  "universities": [
+    "EPFL"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 462,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:41:10.436244",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "full_name": "Franklin Thompson",
+  "email": "franklin.thompson@thompson.dev",
+  "location": "New Bradley, Singapore",
+  "years_of_experience": 8.4,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Franklin Thompson",
+    "email": "franklin.thompson@thompson.dev",
+    "phone": "3269811775",
+    "location": "New Bradley, Singapore",
+    "linkedin_url": null,
+    "github_url": "https://github.com/franklinthompson",
+    "portfolio_url": "https://franklinthompson.dev"
+  },
+  "summary": "Senior technical leader specializing in data science / ml / ai with expertise in SQL, Python, MATLAB. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2025-05",
+      "end_date": "Present",
+      "duration": "2025-05 – Present",
+      "duration_months": 10,
+      "description": "Established MLOps practices using LangChain, reducing model deployment time by 23%\nEstablished MLOps practices using Feature Engineering, reducing model deployment time by 58%\nBuilt end-to-end ML pipeline using Feature Engineering, processing 100000+ samples daily\nImplemented A/B testing framework using Weaviate, running 500+ experiments",
+      "technologies": [
+        "Feature Engineering",
+        "Weights & Biases",
+        "Neo4j",
+        "Weaviate",
+        "LangChain",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2021-11",
+      "end_date": "2025-05",
+      "duration": "2021-11 – 2025-05",
+      "duration_months": 42,
+      "description": "Implemented A/B testing framework using AWS SageMaker, running 100000+ experiments\nBuilt end-to-end ML pipeline using LLM Evaluation, processing 100000+ samples daily\nDesigned data warehousing solution using Databricks, enabling analytics on 1000+ records\nCreated feature engineering pipeline using LangChain, reducing preprocessing time by 45%",
+      "technologies": [
+        "LangChain",
+        "AWS SageMaker",
+        "Databricks",
+        "Feature Engineering",
+        "LLM Evaluation"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2019-09",
+      "end_date": "2021-06",
+      "duration": "2019-09 – 2021-06",
+      "duration_months": 21,
+      "description": "Developed ML models using Vector Databases, improving prediction accuracy by 41%\nImplemented A/B testing framework using Vector Databases, running 100+ experiments\nDeveloped data visualization tools using A/B Testing, used by 5000+ analysts\nImplemented NLP solution using A/B Testing, processing 100+ text documents daily",
+      "technologies": [
+        "A/B Testing",
+        "Vector Databases",
+        "PostgreSQL"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2017-04",
+      "end_date": "2019-08",
+      "duration": "2017-04 – 2019-08",
+      "duration_months": 28,
+      "description": "Built end-to-end ML pipeline using Dagster, processing 5000+ samples daily\nDeveloped ML models using Dagster, improving prediction accuracy by 60%",
+      "technologies": [
+        "TensorFlow",
+        "Neo4j",
+        "Dagster",
+        "Weights & Biases",
+        "Weaviate"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "M.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2018",
+      "gpa": "3.80",
+      "activities": "AI Research"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Python",
+    "MATLAB",
+    "Go",
+    "Julia",
+    "Claude API",
+    "PyTorch",
+    "OpenAI API",
+    "XGBoost",
+    "OpenCV",
+    "Dask",
+    "Neptune",
+    "Redshift",
+    "Neo4j",
+    "Qdrant",
+    "BigQuery",
+    "MongoDB",
+    "AWS SageMaker",
+    "Lambda Labs",
+    "Azure ML",
+    "Bedrock",
+    "Deep Learning",
+    "Prompt Engineering",
+    "Computer Vision",
+    "Statistical Modeling"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "Notion",
+    "CloudNova",
+    "Spotify"
+  ],
+  "job_titles": [
+    "AI Product Engineer",
+    "ML Engineer",
+    "AI Product Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 49,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:43.422118",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

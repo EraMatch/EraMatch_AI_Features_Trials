@@ -1,0 +1,280 @@
+{
+  "full_name": "Dr. Morgan Payne PhD",
+  "email": "dr..morgan.payne.phd@gmail.com",
+  "location": "Daltonhaven, India",
+  "years_of_experience": 6.8,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Dr. Morgan Payne PhD",
+    "email": "dr..morgan.payne.phd@gmail.com",
+    "phone": "(206)803-8505",
+    "location": "Daltonhaven, India",
+    "linkedin_url": null,
+    "github_url": "https://github.com/drmorganpaynephd",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Python, C, and PowerShell. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2024-02",
+      "end_date": "Present",
+      "duration": "2024-02 – Present",
+      "duration_months": 25,
+      "description": "Developed threat intelligence platform using Suricata, tracking 10000+ threats\nImplemented security monitoring using Rust, detecting 1000+ threats",
+      "technologies": [
+        "Suricata",
+        "MongoDB",
+        "Rust"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2022-10",
+      "end_date": "2023-11",
+      "duration": "2022-10 – 2023-11",
+      "duration_months": 13,
+      "description": "Conducted penetration testing using Splunk, identifying 1000+ vulnerabilities\nImplemented identity management using PowerShell, securing 50000+ user identities",
+      "technologies": [
+        "PowerShell",
+        "MongoDB",
+        "OWASP Top 10",
+        "Splunk"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2018-08",
+      "end_date": "2022-04",
+      "duration": "2018-08 – 2022-04",
+      "duration_months": 44,
+      "description": "Implemented encryption solution using React, protecting 10000+ records\nCreated vulnerability management program using Bash, reducing CVEs by 57%\nConducted penetration testing using SonarQube, identifying 5000+ vulnerabilities",
+      "technologies": [
+        "SOC2 Compliance",
+        "Metasploit",
+        "Hashicorp Vault",
+        "SonarQube",
+        "SAST/DAST",
+        "Bash"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "M.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019",
+      "gpa": "3.28",
+      "activities": "InfoSec Society"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Task Scheduler",
+      "description": "Designed and implemented Threat Intelligence Feed with Sigma, integrating with Snort for seamless data flow",
+      "technologies": [
+        "Sigma",
+        "Snort",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Information which win central evidence analysis discuss\" — ICML 2021",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — IEEE 2024",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Photography",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "C",
+    "PowerShell",
+    "Bash",
+    "Snort",
+    "Sigma",
+    "Metasploit",
+    "Trivy",
+    "Splunk",
+    "Nessus",
+    "CrowdStrike",
+    "MongoDB",
+    "Elasticsearch",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Threat Modeling",
+    "OWASP Top 10",
+    "SAST/DAST",
+    "Zero Trust Architecture"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "Notion",
+    "Amazon"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "Security Architect",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 130,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:38:24.378906",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

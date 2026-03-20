@@ -1,0 +1,260 @@
+{
+  "full_name": "Daniel Ray",
+  "email": "daniel.ray@ray.dev",
+  "location": "Lake Aprilmouth, USA",
+  "years_of_experience": 9.2,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Daniel Ray",
+    "email": "daniel.ray@ray.dev",
+    "phone": "4869780856",
+    "location": "Lake Aprilmouth, USA",
+    "linkedin_url": "https://linkedin.com/in/daniel-ray",
+    "github_url": "https://github.com/danielray",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Go, Rust, and Flask. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Architected and built RESTful APIs serving 10000+ requests/day using Git, reducing response time by 35%\nBuilt automated CI/CD pipelines with PHP, reducing deployment time by 68%\nCreated authentication and authorization system using MongoDB, securing 100+ user accounts\nCreated authentication and authorization system using Spring Boot, securing 50000+ user accounts",
+      "technologies": [
+        "Spring Boot",
+        "CI/CD",
+        "MongoDB",
+        "Git",
+        "NestJS",
+        "PHP"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2018-02",
+      "end_date": "2021-11",
+      "duration": "2018-02 – 2021-11",
+      "duration_months": 45,
+      "description": "Architected and built RESTful APIs serving 5000+ requests/day using Redis, reducing response time by 26%\nImplemented caching layer with RabbitMQ, reducing database load by 15%\nCreated authentication and authorization system using AWS Bedrock, securing 5000+ user accounts\nDesigned and implemented microservices architecture using Redis, handling 50000+ concurrent users",
+      "technologies": [
+        "AWS Bedrock",
+        "RabbitMQ",
+        "Jenkins",
+        "Google Gemini",
+        "Redis"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2016-04",
+      "end_date": "2017-11",
+      "duration": "2016-04 – 2017-11",
+      "duration_months": 19,
+      "description": "Led migration from monolithic to microservices using AWS, improving system scalability by 47%\nImplemented caching layer with AWS, reducing database load by 41%\nReduced infrastructure costs by 56% through optimization using Anthropic\nDeveloped real-time data processing pipeline using Gin, handling 50000+ documents/second",
+      "technologies": [
+        "Anthropic",
+        "DigitalOcean",
+        "Gin",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "B.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Smith, Craig and Gray Youth Program, 2023-Present",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Google DevFest 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Rust",
+    "Flask",
+    "Spring Boot",
+    "Redis",
+    "Supabase",
+    "CockroachDB",
+    "Git",
+    "Helm",
+    "gRPC",
+    "AWS",
+    "Azure",
+    "Vercel",
+    "Cloudflare",
+    "DigitalOcean",
+    "Replicate",
+    "OpenAI API",
+    "Anthropic",
+    "Agile",
+    "Microservices"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "NeuroLink Labs",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Server-Side Developer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 194,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:55.418572",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

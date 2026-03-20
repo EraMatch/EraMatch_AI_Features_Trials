@@ -1,0 +1,302 @@
+{
+  "full_name": "Misty Garcia",
+  "email": "misty.garcia@protonmail.com",
+  "location": "North Melissaton, France",
+  "years_of_experience": 5.9,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Misty Garcia",
+    "email": "misty.garcia@protonmail.com",
+    "phone": "737-844-7012x045",
+    "location": "North Melissaton, France",
+    "linkedin_url": "https://linkedin.com/in/misty-garcia",
+    "github_url": "https://github.com/mistygarcia",
+    "portfolio_url": "https://mistygarcia.dev"
+  },
+  "summary": "Seasoned software professional with deep expertise in SQL, Scala, and R. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2024-04",
+      "end_date": "Present",
+      "duration": "2024-04 – Present",
+      "duration_months": 23,
+      "description": "Developed ML models using Spark, improving prediction accuracy by 39%\nEstablished MLOps practices using RAG, reducing model deployment time by 39%\nBuilt end-to-end ML pipeline using Spark, processing 50000+ samples daily",
+      "technologies": [
+        "Polars",
+        "RAG",
+        "Spark",
+        "A/B Testing"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2019-10",
+      "end_date": "2023-10",
+      "duration": "2019-10 – 2023-10",
+      "duration_months": 48,
+      "description": "Built real-time analytics dashboard using Airflow, used by 100000+ stakeholders\nDeveloped ML models using Scikit-learn, improving prediction accuracy by 23%\nBuilt real-time analytics dashboard using Lambda Labs, used by 100+ stakeholders",
+      "technologies": [
+        "Lambda Labs",
+        "Scikit-learn",
+        "Airflow",
+        "Statistical Modeling",
+        "GCP Vertex AI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "M.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Kaggle Competition"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "AWS Certified Machine Learning",
+      "issuer": "Amazon Web Services",
+      "date": "2025",
+      "credential_id": "WC02NR25"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Dutch (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Scala",
+    "R",
+    "Python",
+    "MATLAB",
+    "LangChain",
+    "PyTorch",
+    "LightGBM",
+    "OpenAI API",
+    "XGBoost",
+    "Kubeflow",
+    "DVC",
+    "Weights & Biases",
+    "Polars",
+    "Airflow",
+    "Qdrant",
+    "Neo4j",
+    "Redshift",
+    "Pinecone",
+    "Bedrock",
+    "Azure ML",
+    "GCP Vertex AI",
+    "Databricks",
+    "Prompt Engineering",
+    "Computer Vision",
+    "LLM Evaluation",
+    "MLOps",
+    "Deep Learning"
+  ],
+  "companies": [
+    "Vercel",
+    "Spotify"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "Data Analyst"
+  ],
+  "universities": [
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 161,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:39.417165",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

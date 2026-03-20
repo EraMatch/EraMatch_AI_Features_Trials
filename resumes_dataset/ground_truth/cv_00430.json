@@ -1,0 +1,334 @@
+{
+  "full_name": "Jason Harvey",
+  "email": "jason.harvey@harvey.dev",
+  "location": "East Melissaport, UAE",
+  "years_of_experience": 12.7,
+  "seniority_level": "principal",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jason Harvey",
+    "email": "jason.harvey@harvey.dev",
+    "phone": "+1-227-558-9551x68740",
+    "location": "East Melissaport, UAE",
+    "linkedin_url": "https://linkedin.com/in/jason-harvey",
+    "github_url": "https://github.com/jasonharvey",
+    "portfolio_url": "https://jasonharvey.dev"
+  },
+  "summary": "Distinguished technologist with 13 years shaping cybersecurity practice. Deep expertise in Python, Bash, Rust and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Netflix",
+      "organization": "Netflix",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2023-10",
+      "end_date": "Present",
+      "duration": "2023-10 – Present",
+      "duration_months": 29,
+      "description": "Implemented encryption solution using Angular, protecting 100+ records\nCreated security awareness training using Redis, reducing phishing clicks by 50%\nImplemented encryption solution using React, protecting 500+ records\nImplemented SIEM solution using Rust, processing 1000+ logs/day",
+      "technologies": [
+        "Rust",
+        "Redis",
+        "Threat Modeling",
+        "Zero Trust Architecture",
+        "Suricata"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2020-12",
+      "end_date": "2023-07",
+      "duration": "2020-12 – 2023-07",
+      "duration_months": 31,
+      "description": "Implemented encryption solution using Angular, protecting 100+ records\nConducted penetration testing using Rust, identifying 50000+ vulnerabilities\nImplemented security monitoring using Burp Suite, detecting 50000+ threats",
+      "technologies": [
+        "Burp Suite",
+        "OWASP ZAP",
+        "Rust"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2017-07",
+      "end_date": "2020-09",
+      "duration": "2017-07 – 2020-09",
+      "duration_months": 38,
+      "description": "Implemented encryption solution using Angular, protecting 10000+ records\nDesigned zero-trust architecture using Go, securing 10000+ endpoints",
+      "technologies": [
+        "Incident Response",
+        "GCP Security Command Center",
+        "Redis",
+        "Threat Modeling",
+        "Go",
+        "OWASP Top 10"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2015-04",
+      "end_date": "2017-06",
+      "duration": "2015-04 – 2017-06",
+      "duration_months": 26,
+      "description": "Created security awareness training using Bash, reducing phishing clicks by 41%\nConducted penetration testing using Incident Response, identifying 5000+ vulnerabilities\nImplemented identity management using C, securing 50000+ user identities\nDesigned zero-trust architecture using C, securing 100000+ endpoints",
+      "technologies": [
+        "C",
+        "Bash",
+        "Incident Response",
+        "OWASP ZAP"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2012-09",
+      "end_date": "2015-01",
+      "duration": "2012-09 – 2015-01",
+      "duration_months": 28,
+      "description": "Conducted penetration testing using Zero Trust Architecture, identifying 1000+ vulnerabilities\nImplemented SIEM solution using Rust, processing 100+ logs/day\nConducted penetration testing using Zero Trust Architecture, identifying 5000+ vulnerabilities",
+      "technologies": [
+        "Rust",
+        "SOC2 Compliance",
+        "Zero Trust Architecture"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "B.A.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": "InfoSec Society"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "C",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Music production",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Citizen human authority hold left behavior letter politics\" — ICML 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Bash",
+    "Rust",
+    "Go",
+    "Burp Suite",
+    "Snort",
+    "OWASP ZAP",
+    "Metasploit",
+    "Suricata",
+    "Hashicorp Vault",
+    "Splunk",
+    "Nessus",
+    "Nmap",
+    "Trivy",
+    "Elasticsearch",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "Zero Trust Architecture",
+    "Incident Response",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "Netflix",
+    "Nvidia",
+    "HashiCorp",
+    "DataPulse",
+    "Notion"
+  ],
+  "job_titles": [
+    "Penetration Tester",
+    "Penetration Tester",
+    "Penetration Tester",
+    "SOC Analyst",
+    "Security Architect"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 430,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:40:55.240520",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

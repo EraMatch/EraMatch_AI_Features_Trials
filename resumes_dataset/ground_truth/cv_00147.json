@@ -1,0 +1,212 @@
+{
+  "full_name": "Beth Henderson",
+  "email": "beth.henderson@protonmail.com",
+  "location": "Port Isabellashire, UAE",
+  "years_of_experience": 2.0,
+  "seniority_level": "mid",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Beth Henderson",
+    "email": "beth.henderson@protonmail.com",
+    "phone": "+1-663-929-4511x68685",
+    "location": "Port Isabellashire, UAE",
+    "linkedin_url": "https://linkedin.com/in/beth-henderson",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in CSS, JavaScript, and Python. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "Product Designer",
+      "title": "Product Designer",
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": "2024-09 – Present",
+      "duration_months": 18,
+      "description": "Created brand identity using Design Thinking, applied across 10000+ touchpoints\nBuilt design collaboration workflow using Design Thinking, reducing review time by 36%",
+      "technologies": [
+        "Figma",
+        "Design Systems",
+        "Design Thinking",
+        "After Effects"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2024-02",
+      "end_date": "2024-08",
+      "duration": "2024-02 – 2024-08",
+      "duration_months": 6,
+      "description": "Created motion design using Information Architecture, increasing engagement by 65%\nConducted usability testing using Firebase, identifying 50000+ UX issues\nCreated brand identity using Information Architecture, applied across 100000+ touchpoints",
+      "technologies": [
+        "Information Architecture",
+        "Figma",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.A.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2021",
+      "gpa": "3.64",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Framer",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zeplin",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Maze",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Thinking",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Interaction Design Certificate",
+      "issuer": "Interaction Design Foundation",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Harrington, Rodriguez and Hernandez Youth Program, 2023-Present",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Matthews, Chang and Ayers Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "JavaScript",
+    "Python",
+    "Adobe XD",
+    "Principle",
+    "Framer",
+    "After Effects",
+    "Zeplin",
+    "Maze",
+    "Firebase",
+    "Cloudflare",
+    "Vercel",
+    "Design Systems",
+    "User Research",
+    "Prototyping"
+  ],
+  "companies": [
+    "Apple",
+    "NeuroLink Labs"
+  ],
+  "job_titles": [
+    "Product Designer",
+    "Design Lead"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 147,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:38:32.672151",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

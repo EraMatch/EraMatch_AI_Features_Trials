@@ -1,0 +1,327 @@
+{
+  "full_name": "Lindsey Clarke",
+  "email": "lindsey.clarke@clarke.dev",
+  "location": "Lake Ronniebury, UAE",
+  "years_of_experience": 7.2,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Lindsey Clarke",
+    "email": "lindsey.clarke@clarke.dev",
+    "phone": "+1-992-698-3168x7397",
+    "location": "Lake Ronniebury, UAE",
+    "linkedin_url": "https://linkedin.com/in/lindsey-clarke",
+    "github_url": "https://github.com/lindseyclarke",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in SQL, Go, and Python. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2025-07",
+      "end_date": "Present",
+      "duration": "2025-07 – Present",
+      "duration_months": 8,
+      "description": "Created recommendation system using Hugging Face Endpoints, increasing user engagement by 69%\nBuilt ML model serving infrastructure using AWS SageMaker, handling 10000+ predictions/day\nDeveloped computer vision models using AWS SageMaker, achieving 23% accuracy\nEstablished MLOps practices using Hugging Face Endpoints, reducing model deployment time by 22%",
+      "technologies": [
+        "Pinecone",
+        "AWS SageMaker",
+        "Keras",
+        "Kubeflow",
+        "Hugging Face Endpoints",
+        "Weaviate"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2022-01",
+      "end_date": "2025-02",
+      "duration": "2022-01 – 2025-02",
+      "duration_months": 37,
+      "description": "Developed computer vision models using Snowflake, achieving 25% accuracy\nBuilt end-to-end ML pipeline using Airflow, processing 100+ samples daily\nDesigned data warehousing solution using LLM Evaluation, enabling analytics on 10000+ records",
+      "technologies": [
+        "PyTorch",
+        "LLM Evaluation",
+        "Snowflake",
+        "LangChain",
+        "Dask",
+        "Airflow"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2018-07",
+      "end_date": "2022-01",
+      "duration": "2018-07 – 2022-01",
+      "duration_months": 42,
+      "description": "Created feature engineering pipeline using LightGBM, reducing preprocessing time by 58%\nDeveloped computer vision models using OpenAI API, achieving 66% accuracy\nCreated feature engineering pipeline using DVC, reducing preprocessing time by 29%\nCreated recommendation system using RAG, increasing user engagement by 16%",
+      "technologies": [
+        "DVC",
+        "RAG",
+        "LightGBM",
+        "Hugging Face",
+        "Feature Engineering",
+        "OpenAI API"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2016",
+      "gpa": "3.55",
+      "activities": "Research Assistant - ML Lab"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Schema Validator",
+      "description": "Implemented ML Model Training Pipeline using SQL, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Go",
+        "Python",
+        "SQL"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Built Predictive Analytics Platform with SQL and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "SQL",
+        "Go",
+        "Python"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Developed ML Model Training Pipeline using SQL, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "Go",
+        "SQL"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — ACM 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Go",
+    "Python",
+    "TensorFlow",
+    "OpenCV",
+    "Hugging Face",
+    "Keras",
+    "Dagster",
+    "Spark",
+    "Neptune",
+    "Polars",
+    "Kubeflow",
+    "Snowflake",
+    "Pinecone",
+    "Neo4j",
+    "MongoDB",
+    "Hugging Face Endpoints",
+    "Lambda Labs",
+    "Bedrock",
+    "GCP Vertex AI",
+    "Databricks",
+    "Prompt Engineering",
+    "MLOps",
+    "Statistical Modeling",
+    "NLP"
+  ],
+  "companies": [
+    "TechFlow AI",
+    "Shopify",
+    "Uber"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "AI Product Engineer",
+    "NLP Engineer"
+  ],
+  "universities": [
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 270,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:39:33.419965",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

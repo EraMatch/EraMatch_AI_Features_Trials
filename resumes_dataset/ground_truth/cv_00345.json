@@ -1,0 +1,392 @@
+{
+  "full_name": "Roberto Foster",
+  "email": "roberto.foster@foster.dev",
+  "location": "West Sarah, Brazil",
+  "years_of_experience": 6.3,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Roberto Foster",
+    "email": "roberto.foster@foster.dev",
+    "phone": "498-372-8399x921",
+    "location": "West Sarah, Brazil",
+    "linkedin_url": "https://linkedin.com/in/roberto-foster",
+    "github_url": "https://github.com/robertofoster",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Python, YAML, and ArgoCD. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2023-04",
+      "end_date": "Present",
+      "duration": "2023-04 – Present",
+      "duration_months": 35,
+      "description": "Built CI/CD pipelines using Zero Trust, reducing deployment time from 27s to 161ms\nBuilt CI/CD pipelines using CDK, reducing deployment time from 16s to 191ms\nBuilt CI/CD pipelines using GitHub Actions, reducing deployment time from 2s to 252ms",
+      "technologies": [
+        "Zero Trust",
+        "Kubeflow",
+        "CDK",
+        "GitHub Actions"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2020-06",
+      "end_date": "2022-12",
+      "duration": "2020-06 – 2022-12",
+      "duration_months": 30,
+      "description": "Built CI/CD pipelines using Linode, reducing deployment time from 11s to 117ms\nImplemented log aggregation using Linode, processing 1000+ logs/day\nImplemented container orchestration using GitOps, managing 100+ containers",
+      "technologies": [
+        "Linode",
+        "GitOps",
+        "Seldon",
+        "CloudFormation"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2019-06",
+      "end_date": "2020-05",
+      "duration": "2019-06 – 2020-05",
+      "duration_months": 11,
+      "description": "Built automated backup solution using Datadog, ensuring 1000% data protection\nDesigned and implemented infrastructure as code using Datadog, managing 50000+ servers",
+      "technologies": [
+        "HCL",
+        "Rust",
+        "Go",
+        "PagerDuty",
+        "Datadog"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.A.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2019",
+      "gpa": "3.92",
+      "activities": "SRE Team"
+    },
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vector Search API",
+      "description": "Developed CI/CD Pipeline using Python, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "YAML",
+        "AWS"
+      ],
+      "url": "https://github.com/robertofoster/vector-search-api",
+      "date": "2023"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Implemented Auto-scaling Solution using Python, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "YAML",
+        "Pulumi"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Task Scheduler",
+      "description": "Implemented Infrastructure as Code using YAML, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "YAML",
+        "Buildah"
+      ],
+      "url": "https://github.com/robertofoster/task-scheduler",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — ACM 2024",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Learning new languages",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Ibarra Ltd Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "YAML",
+    "ArgoCD",
+    "Terraform",
+    "Crossplane",
+    "Helm",
+    "Pulumi",
+    "Docker",
+    "Kubernetes",
+    "K3s",
+    "Linkerd",
+    "Buildah",
+    "Jenkins",
+    "CircleCI",
+    "GitHub Actions",
+    "GitLab CI",
+    "Grafana",
+    "Opsgenie",
+    "Thanos",
+    "Datadog",
+    "Hetzner",
+    "GCP",
+    "AWS",
+    "Azure",
+    "Linode",
+    "Seldon",
+    " Triton Inference Server",
+    "Kale",
+    "MLflow",
+    "Chaos Engineering",
+    "Platform Engineering",
+    "SRE Practices",
+    "Incident Management",
+    "Zero Trust"
+  ],
+  "companies": [
+    "Tesla",
+    "CodeCraft Studios",
+    "Apple"
+  ],
+  "job_titles": [
+    "SRE",
+    "MLOps Engineer",
+    "MLOps Engineer"
+  ],
+  "universities": [
+    "Imperial College London",
+    "EPFL"
+  ],
+  "degrees": [
+    "B.A.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 345,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:12.043160",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

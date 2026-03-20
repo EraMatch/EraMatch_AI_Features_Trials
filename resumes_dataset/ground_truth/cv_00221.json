@@ -1,0 +1,359 @@
+{
+  "full_name": "Mr. James Duncan",
+  "email": "mr..james.duncan@protonmail.com",
+  "location": "Hendersonstad, Germany",
+  "years_of_experience": 9.4,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mr. James Duncan",
+    "email": "mr..james.duncan@protonmail.com",
+    "phone": "+1-398-333-1465",
+    "location": "Hendersonstad, Germany",
+    "linkedin_url": "https://linkedin.com/in/mr.-james-duncan",
+    "github_url": "https://github.com/mrjamesduncan",
+    "portfolio_url": "https://mrjamesduncan.dev"
+  },
+  "summary": "Engineering leader with deep technical background in Kotlin, Node.js, and Go. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2024-05",
+      "end_date": "Present",
+      "duration": "2024-05 – Present",
+      "duration_months": 22,
+      "description": "Reduced infrastructure costs by 36% through optimization using Replicate\nDeveloped real-time data processing pipeline using Ansible, handling 5000+ transactions/second\nReduced infrastructure costs by 62% through optimization using Ansible\nLed migration from monolithic to microservices using Ansible, improving system scalability by 23%",
+      "technologies": [
+        "Ansible",
+        "MongoDB",
+        "Replicate"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2020-06",
+      "end_date": "2024-05",
+      "duration": "2020-06 – 2024-05",
+      "duration_months": 47,
+      "description": "Architected and built RESTful APIs serving 5000+ requests/day using Express.js, reducing response time by 68%\nArchitected and built RESTful APIs serving 100+ requests/day using Ansible, reducing response time by 69%",
+      "technologies": [
+        "GCP",
+        "Ansible",
+        "Express.js",
+        "CockroachDB"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2017-03",
+      "end_date": "2020-05",
+      "duration": "2017-03 – 2020-05",
+      "duration_months": 38,
+      "description": "Created authentication and authorization system using GitHub Actions, securing 100+ user accounts\nMentored team of 8 junior developers on RabbitMQ best practices\nDesigned and implemented message queue system using RabbitMQ, processing 500+ messages/hour",
+      "technologies": [
+        "GitHub Actions",
+        "RabbitMQ",
+        "ASP.NET"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2016-09",
+      "end_date": "2017-03",
+      "duration": "2016-09 – 2017-03",
+      "duration_months": 6,
+      "description": "Optimized database queries using Rails, improving query performance by 20%\nDeveloped real-time data processing pipeline using Cassandra, handling 5000+ users/second\nBuilt event-driven architecture using GraphQL, processing 10000+ events daily\nLed migration from monolithic to microservices using Rails, improving system scalability by 40%",
+      "technologies": [
+        "Gin",
+        "Rails",
+        "GitHub Actions",
+        "GraphQL",
+        "Cassandra"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "B.A.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": "3.63",
+      "activities": "Dean's List"
+    },
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2014",
+      "gpa": "2.99",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Implemented Payment Processing System using Go, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Express.js",
+        "Go",
+        "ASP.NET"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Developed Auth Service using ASP.NET, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Node.js",
+        "ASP.NET",
+        "Express.js"
+      ],
+      "url": "https://github.com/mrjamesduncan/vector-search-api",
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Fly order agency fight write pattern\" — ICML 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "Node.js",
+    "Go",
+    "PHP",
+    "Express.js",
+    "ASP.NET",
+    "Actix",
+    "LlamaIndex",
+    "SQLite",
+    "Supabase",
+    "PostgreSQL",
+    "DynamoDB",
+    "CockroachDB",
+    "GitHub Actions",
+    "ArgoCD",
+    "RabbitMQ",
+    "Git",
+    "gRPC",
+    "Fly.io",
+    "GCP",
+    "Replicate",
+    "Azure OpenAI",
+    "Google Gemini",
+    "Microservices",
+    "Event-Driven Architecture",
+    "LLM Integration"
+  ],
+  "companies": [
+    "OpenAI",
+    "DataPulse",
+    "Supabase",
+    "OpenAI"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "Platform Engineer",
+    "AI Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "University of Waterloo",
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "B.A.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 221,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:08.515067",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

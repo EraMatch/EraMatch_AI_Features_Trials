@@ -1,0 +1,284 @@
+{
+  "full_name": "Danielle Barnes",
+  "email": "danielle.barnes@protonmail.com",
+  "location": "West Aaron, Japan",
+  "years_of_experience": 4.4,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Danielle Barnes",
+    "email": "danielle.barnes@protonmail.com",
+    "phone": "588.378.8361x9689",
+    "location": "West Aaron, Japan",
+    "linkedin_url": "https://linkedin.com/in/danielle-barnes",
+    "github_url": "https://github.com/daniellebarnes",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in TypeScript, Python, and Ruby. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2025-08",
+      "end_date": "Present",
+      "duration": "2025-08 – Present",
+      "duration_months": 7,
+      "description": "Developed real-time data processing pipeline using Express.js, handling 1000+ transactions/second\nArchitected and built RESTful APIs serving 50000+ requests/day using PlanetScale, reducing response time by 34%\nOptimized database queries using Hugging Face, improving query performance by 40%\nReduced infrastructure costs by 21% through optimization using PlanetScale",
+      "technologies": [
+        "PHP",
+        "Hugging Face",
+        "Express.js",
+        "PlanetScale"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2023-10",
+      "end_date": "2025-08",
+      "duration": "2023-10 – 2025-08",
+      "duration_months": 22,
+      "description": "Built event-driven architecture using ASP.NET, processing 50000+ events daily\nLed migration from monolithic to microservices using FastAPI, improving system scalability by 20%\nArchitected and built RESTful APIs serving 50000+ requests/day using FastAPI, reducing response time by 16%\nBuilt automated CI/CD pipelines with ASP.NET, reducing deployment time by 41%",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "ASP.NET"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2021-09",
+      "end_date": "2023-09",
+      "duration": "2021-09 – 2023-09",
+      "duration_months": 24,
+      "description": "Architected and built RESTful APIs serving 50000+ requests/day using Google Gemini, reducing response time by 56%\nDeveloped real-time data processing pipeline using Google Gemini, handling 1000+ users/second",
+      "technologies": [
+        "LlamaIndex",
+        "Helm",
+        "Google Gemini"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "M.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "API Design Competition"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Spanish (Professional)",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Gun listen card body\" — IEEE 2023",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Guess support single cause leave structure necessary use\" — NeurIPS 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Python",
+    "Ruby",
+    "Java",
+    "C#",
+    "Flask",
+    "Gin",
+    "FastAPI",
+    "Neon",
+    "PlanetScale",
+    "MongoDB",
+    "Kubernetes",
+    "ArgoCD",
+    "Kafka",
+    "RabbitMQ",
+    "Railway",
+    "Fly.io",
+    "Vercel",
+    "Claude API",
+    "Azure OpenAI",
+    "Agile",
+    "CI/CD",
+    "RAG Architecture",
+    "GraphQL"
+  ],
+  "companies": [
+    "CloudNova",
+    "CodeCraft Studios",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "LLM Engineer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "UT Austin"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 422,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:51.025324",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

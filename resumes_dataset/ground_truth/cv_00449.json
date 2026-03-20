@@ -1,0 +1,296 @@
+{
+  "full_name": "Michael Gibson",
+  "email": "michael.gibson@protonmail.com",
+  "location": "East Jenniferstad, Japan",
+  "years_of_experience": 9.0,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michael Gibson",
+    "email": "michael.gibson@protonmail.com",
+    "phone": "+1-515-491-0300x2156",
+    "location": "East Jenniferstad, Japan",
+    "linkedin_url": "https://linkedin.com/in/michael-gibson",
+    "github_url": "https://github.com/michaelgibson",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in devops / sre / mlops with expertise in YAML, Go, Ansible. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 – Present",
+      "duration_months": 24,
+      "description": "Built disaster recovery solution using Azure DevOps, achieving RTO of 64ms\nCreated monitoring and alerting system using Envoy, reducing MTTR by 56%",
+      "technologies": [
+        "HCL",
+        "Tekton",
+        "Azure DevOps",
+        "Envoy",
+        "Datadog"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2021-04",
+      "end_date": "2024-01",
+      "duration": "2021-04 – 2024-01",
+      "duration_months": 33,
+      "description": "Built automated backup solution using MLflow, ensuring 1000% data protection\nBuilt automated backup solution using MLflow, ensuring 100000% data protection",
+      "technologies": [
+        "Argo Workflows",
+        "Helm",
+        "Envoy",
+        "CDK",
+        "MLflow",
+        "VictoriaMetrics"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2016-07",
+      "end_date": "2020-10",
+      "duration": "2016-07 – 2020-10",
+      "duration_months": 51,
+      "description": "Created monitoring and alerting system using TorchServe, reducing MTTR by 70%\nDesigned and implemented infrastructure as code using MLOps, managing 10000+ servers\nImplemented log aggregation using CloudFormation, processing 50000+ logs/day",
+      "technologies": [
+        "TorchServe",
+        "MLOps",
+        "CloudFormation"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "B.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2016",
+      "gpa": "3.06",
+      "activities": "SRE Team"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — ACM 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "YAML",
+    "Go",
+    "Ansible",
+    "ArgoCD",
+    "CDK",
+    "Terraform",
+    "Pulumi",
+    "Linkerd",
+    "Envoy",
+    "K3s",
+    "Istio",
+    "CircleCI",
+    "Argo Workflows",
+    "Tekton",
+    "Azure DevOps",
+    "Jenkins",
+    "Grafana",
+    "Datadog",
+    "GCP",
+    "AWS",
+    "Linode",
+    "TorchServe",
+    "MLflow",
+    "TensorFlow Serving",
+    "GitOps",
+    "Platform Engineering",
+    "Incident Management"
+  ],
+  "companies": [
+    "Block",
+    "Anthropic",
+    "Uber"
+  ],
+  "job_titles": [
+    "Release Engineer",
+    "SRE",
+    "DevOps Engineer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 449,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:41:04.591148",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "full_name": "Lisa Ramos",
+  "email": "lisa.ramos@outlook.com",
+  "location": "New Andreahaven, India",
+  "years_of_experience": 13.3,
+  "seniority_level": "principal",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Lisa Ramos",
+    "email": "lisa.ramos@outlook.com",
+    "phone": "(663)541-0856x288",
+    "location": "New Andreahaven, India",
+    "linkedin_url": "https://linkedin.com/in/lisa-ramos",
+    "github_url": "https://github.com/lisaramos",
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 13 years shaping backend engineering practice. Deep expertise in C#, Kotlin, Go and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2021-12",
+      "end_date": "Present",
+      "duration": "2021-12 – Present",
+      "duration_months": 51,
+      "description": "Created authentication and authorization system using Git, securing 5000+ user accounts\nCreated authentication and authorization system using Git, securing 100000+ user accounts",
+      "technologies": [
+        "Git",
+        "LLM Integration",
+        "Actix",
+        "Agile"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2019-10",
+      "end_date": "2021-12",
+      "duration": "2019-10 – 2021-12",
+      "duration_months": 26,
+      "description": "Reduced infrastructure costs by 33% through optimization using NestJS\nReduced infrastructure costs by 22% through optimization using Anthropic",
+      "technologies": [
+        "Java",
+        "Rust",
+        "Spring Boot",
+        "FastAPI",
+        "Anthropic",
+        "NestJS"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2015-06",
+      "end_date": "2019-05",
+      "duration": "2015-06 – 2019-05",
+      "duration_months": 47,
+      "description": "Optimized database queries using Python, improving query performance by 29%\nDesigned and implemented message queue system using GCP, processing 100000+ messages/hour\nDesigned and implemented message queue system using Event-Driven Architecture, processing 5000+ messages/hour",
+      "technologies": [
+        "Nginx",
+        "AWS",
+        "Event-Driven Architecture",
+        "GCP",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2012-06",
+      "end_date": "2015-06",
+      "duration": "2012-06 – 2015-06",
+      "duration_months": 36,
+      "description": "Optimized database queries using Replicate, improving query performance by 40%\nDeveloped real-time data processing pipeline using Replicate, handling 100+ records/second",
+      "technologies": [
+        "Heroku",
+        "TypeScript",
+        "Replicate"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.A.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2010",
+      "gpa": "3.16",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built API Gateway using FastAPI and NestJS, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Go",
+        "FastAPI",
+        "NestJS"
+      ],
+      "url": "https://github.com/lisaramos/autoscale-monitor",
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2024",
+      "credential_id": null
+    },
+    {
+      "name": "Oracle Certified Professional Java SE",
+      "issuer": "Oracle",
+      "date": "2025",
+      "credential_id": "YI52LQ00"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — IEEE 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "Kotlin",
+    "Go",
+    "LlamaIndex",
+    "FastAPI",
+    "NestJS",
+    "MongoDB",
+    "SQLite",
+    "Redis",
+    "Elasticsearch",
+    "Jenkins",
+    "Kafka",
+    "Docker",
+    "GCP",
+    "Railway",
+    "Render",
+    "DigitalOcean",
+    "Fly.io",
+    "AWS Bedrock",
+    "Hugging Face",
+    "LLM Integration",
+    "Scrum",
+    "Agile"
+  ],
+  "companies": [
+    "HashiCorp",
+    "Airbnb",
+    "Spotify",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "Server-Side Developer",
+    "LLM Engineer",
+    "Backend Developer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 330,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:03.874473",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

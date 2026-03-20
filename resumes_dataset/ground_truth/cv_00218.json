@@ -1,0 +1,259 @@
+{
+  "full_name": "Robert Davis",
+  "email": "robert.davis@yahoo.com",
+  "location": "Port Matthewchester, Japan",
+  "years_of_experience": 2.6,
+  "seniority_level": "mid",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Robert Davis",
+    "email": "robert.davis@yahoo.com",
+    "phone": "(893)315-7279x1940",
+    "location": "Port Matthewchester, Japan",
+    "linkedin_url": "https://linkedin.com/in/robert-davis",
+    "github_url": "https://github.com/robertdavis",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in SQL, Julia, and Hugging Face. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2025-01",
+      "end_date": "Present",
+      "duration": "2025-01 – Present",
+      "duration_months": 14,
+      "description": "Developed computer vision models using Feature Engineering, achieving 15% accuracy\nCreated recommendation system using A/B Testing, increasing user engagement by 67%\nBuilt real-time analytics dashboard using Feature Engineering, used by 100000+ stakeholders",
+      "technologies": [
+        "Qdrant",
+        "A/B Testing",
+        "Feature Engineering",
+        "Databricks"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2023-05",
+      "end_date": "2024-10",
+      "duration": "2023-05 – 2024-10",
+      "duration_months": 17,
+      "description": "Built real-time analytics dashboard using RAG, used by 50000+ stakeholders\nDesigned data warehousing solution using SQL, enabling analytics on 1000+ records\nBuilt ML model serving infrastructure using RAG, handling 500+ predictions/day",
+      "technologies": [
+        "DVC",
+        "SQL",
+        "NumPy",
+        "Keras",
+        "RAG"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2024",
+      "gpa": null,
+      "activities": "Data Science Club"
+    },
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "M.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2022",
+      "gpa": "3.77",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Conrad-Martinez Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Julia",
+    "Hugging Face",
+    "Claude API",
+    "JAX",
+    "TensorFlow",
+    "LlamaIndex",
+    "NumPy",
+    "Airflow",
+    "Polars",
+    "Neptune",
+    "MLflow",
+    "Neo4j",
+    "Pinecone",
+    "Snowflake",
+    "Hugging Face Endpoints",
+    "Lambda Labs",
+    "Databricks",
+    "A/B Testing",
+    "Deep Learning",
+    "Statistical Modeling"
+  ],
+  "companies": [
+    "Notion",
+    "CodeCraft Studios"
+  ],
+  "job_titles": [
+    "AI Product Engineer",
+    "Data Scientist"
+  ],
+  "universities": [
+    "TU Munich",
+    "Imperial College London"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 218,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:39:07.170696",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

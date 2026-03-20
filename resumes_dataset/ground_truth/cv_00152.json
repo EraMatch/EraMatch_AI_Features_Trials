@@ -1,0 +1,335 @@
+{
+  "full_name": "Steven York",
+  "email": "steven.york@yahoo.com",
+  "location": "Gabriellefort, USA",
+  "years_of_experience": 6.5,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Steven York",
+    "email": "steven.york@yahoo.com",
+    "phone": "743.674.8969x108",
+    "location": "Gabriellefort, USA",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Node.js, TypeScript, and Python. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 – Present",
+      "duration_months": 42,
+      "description": "Implemented caching layer with Railway, reducing database load by 22%\nReduced infrastructure costs by 39% through optimization using Rails\nImplemented caching layer with Claude API, reducing database load by 32%\nReduced infrastructure costs by 42% through optimization using Express.js",
+      "technologies": [
+        "Claude API",
+        "PlanetScale",
+        "Express.js",
+        "Railway",
+        "Fly.io",
+        "Rails"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2020-02",
+      "end_date": "2022-03",
+      "duration": "2020-02 – 2022-03",
+      "duration_months": 25,
+      "description": "Led migration from monolithic to microservices using Rust, improving system scalability by 45%\nBuilt automated CI/CD pipelines with Hugging Face, reducing deployment time by 39%",
+      "technologies": [
+        "Rust",
+        "Hugging Face",
+        "Vercel"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2018-09",
+      "end_date": "2019-08",
+      "duration": "2018-09 – 2019-08",
+      "duration_months": 11,
+      "description": "Reduced infrastructure costs by 60% through optimization using LlamaIndex\nMentored team of 2 junior developers on Redis best practices",
+      "technologies": [
+        "Redis",
+        "LlamaIndex",
+        "C#",
+        "FastAPI",
+        "Heroku"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019",
+      "gpa": "3.64",
+      "activities": "Open Source Contributor"
+    },
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Spanish (Professional)",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "TypeScript",
+    "Python",
+    "Go",
+    "Rust",
+    "LlamaIndex",
+    "FastAPI",
+    "Spring Boot",
+    "Neon",
+    "SQLite",
+    "PlanetScale",
+    "Redis",
+    "Elasticsearch",
+    "Kafka",
+    "Git",
+    "Helm",
+    "GitHub Actions",
+    "Railway",
+    "DigitalOcean",
+    "Render",
+    "Cloudflare",
+    "Fly.io",
+    "AWS Bedrock",
+    "Google Gemini",
+    "Replicate",
+    "Scrum",
+    "Microservices",
+    "LLM Integration",
+    "TDD",
+    "Event-Driven Architecture"
+  ],
+  "companies": [
+    "Airbnb",
+    "Shopify",
+    "Twilio"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "LLM Engineer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "McGill University",
+    "TU Delft"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 152,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:35.168842",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "full_name": "Michelle Evans",
+  "email": "michelle.evans@yahoo.com",
+  "location": "Port Eric, Brazil",
+  "years_of_experience": 10.8,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michelle Evans",
+    "email": "michelle.evans@yahoo.com",
+    "phone": "+1-826-232-9676x291",
+    "location": "Port Eric, Brazil",
+    "linkedin_url": "https://linkedin.com/in/michelle-evans",
+    "github_url": "https://github.com/michelleevans",
+    "portfolio_url": "https://michelleevans.dev"
+  },
+  "summary": "Lead data science / ml / ai professional with 11 years driving technical strategy and team excellence. Expert in Go, R, TensorFlow with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2021-09",
+      "end_date": "Present",
+      "duration": "2021-09 – Present",
+      "duration_months": 54,
+      "description": "Built ML model serving infrastructure using GCP Vertex AI, handling 5000+ predictions/day\nImplemented NLP solution using XGBoost, processing 10000+ text documents daily",
+      "technologies": [
+        "Claude API",
+        "XGBoost",
+        "TensorFlow",
+        "GCP Vertex AI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2019-04",
+      "end_date": "2021-05",
+      "duration": "2019-04 – 2021-05",
+      "duration_months": 25,
+      "description": "Built ML model serving infrastructure using BigQuery, handling 1000+ predictions/day\nBuilt ML model serving infrastructure using BigQuery, handling 500+ predictions/day",
+      "technologies": [
+        "Scikit-learn",
+        "Lambda Labs",
+        "BigQuery",
+        "SQL"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2014-08",
+      "end_date": "2018-11",
+      "duration": "2014-08 – 2018-11",
+      "duration_months": 51,
+      "description": "Implemented A/B testing framework using Airflow, running 10000+ experiments\nDeveloped ML models using LLM Evaluation, improving prediction accuracy by 15%\nCreated recommendation system using Dask, increasing user engagement by 22%",
+      "technologies": [
+        "Keras",
+        "Airflow",
+        "Dask",
+        "A/B Testing",
+        "TensorFlow",
+        "LLM Evaluation"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2015",
+      "gpa": "4.00",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Log Aggregator",
+      "description": "Developed Feature Store using Go, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Go",
+        "R",
+        "Statistical Modeling"
+      ],
+      "url": "https://github.com/michelleevans/log-aggregator",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — Google DevFest 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "R",
+    "TensorFlow",
+    "LangChain",
+    "Kubeflow",
+    "NumPy",
+    "MongoDB",
+    "Qdrant",
+    "Snowflake",
+    "Neo4j",
+    "GCP Vertex AI",
+    "Lambda Labs",
+    "Bedrock",
+    "Hugging Face Endpoints",
+    "Azure ML",
+    "Statistical Modeling",
+    "Deep Learning",
+    "Prompt Engineering",
+    "LLM Evaluation",
+    "Computer Vision"
+  ],
+  "companies": [
+    "Uber",
+    "Palantir",
+    "Anthropic"
+  ],
+  "job_titles": [
+    "Research Scientist",
+    "Data Analyst",
+    "NLP Engineer"
+  ],
+  "universities": [
+    "MIT"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 367,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:40:23.290075",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

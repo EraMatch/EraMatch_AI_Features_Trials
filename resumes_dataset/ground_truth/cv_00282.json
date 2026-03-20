@@ -1,0 +1,304 @@
+{
+  "full_name": "John Watts",
+  "email": "john.watts@yahoo.com",
+  "location": "Courtneyfort, Netherlands",
+  "years_of_experience": 9.5,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "John Watts",
+    "email": "john.watts@yahoo.com",
+    "phone": "901.847.1959",
+    "location": "Courtneyfort, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/john-watts",
+    "github_url": "https://github.com/johnwatts",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in C++, TypeScript, and Dart. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2022-06",
+      "end_date": "Present",
+      "duration": "2022-06 – Present",
+      "duration_months": 45,
+      "description": "Implemented push notification system using Realm, increasing user engagement by 65%\nCreated in-app purchase integration using CocoaPods, generating 1000+ in revenue",
+      "technologies": [
+        "AWS Amplify",
+        "Realm",
+        "Supabase",
+        "C++",
+        "Core Data",
+        "CocoaPods"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2017-12",
+      "end_date": "2022-06",
+      "duration": "2017-12 – 2022-06",
+      "duration_months": 54,
+      "description": "Developed cross-platform solution using SwiftUI, reducing development time by 32%\nBuilt AR/VR features using UIKit, increasing user retention by 69%\nDeveloped cross-platform solution using App Store Optimization, reducing development time by 52%\nImplemented biometric authentication using Dart, securing 50000+ user accounts",
+      "technologies": [
+        "Dart",
+        "UIKit",
+        "App Store Optimization",
+        "SwiftUI"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2016-05",
+      "end_date": "2017-08",
+      "duration": "2016-05 – 2017-08",
+      "duration_months": 15,
+      "description": "Developed cross-platform solution using Firebase, reducing development time by 64%\nDeveloped mobile application using Firebase, achieving 100+ downloads",
+      "technologies": [
+        "Jetpack Compose",
+        "AWS Amplify",
+        "TypeScript",
+        "Objective-C",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "M.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "Ph.D.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Cardenas, Brooks and Quinn Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — MLH 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C++",
+    "TypeScript",
+    "Dart",
+    "Kotlin",
+    "SwiftUI",
+    "Expo",
+    "UIKit",
+    "Jetpack Compose",
+    "KMP",
+    "Xcode",
+    "Android Studio",
+    "Realm",
+    "SQLite",
+    "Hive",
+    "Firebase Firestore",
+    "AWS Amplify",
+    "Firebase",
+    "RevenueCat",
+    "Supabase",
+    "MVVM",
+    "Clean Architecture",
+    "App Store Optimization",
+    "CI/CD for Mobile"
+  ],
+  "companies": [
+    "Uber",
+    "Anthropic",
+    "CodeReview.io"
+  ],
+  "job_titles": [
+    "Flutter Developer",
+    "Flutter Developer",
+    "React Native Developer"
+  ],
+  "universities": [
+    "University of Toronto",
+    "EPFL"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 282,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:39.731554",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

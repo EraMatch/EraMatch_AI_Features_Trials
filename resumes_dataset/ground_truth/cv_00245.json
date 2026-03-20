@@ -1,0 +1,373 @@
+{
+  "full_name": "Gregory Andrews",
+  "email": "gregory.andrews@andrews.dev",
+  "location": "Reyesmouth, Japan",
+  "years_of_experience": 10.2,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Gregory Andrews",
+    "email": "gregory.andrews@andrews.dev",
+    "phone": "516.415.8148x76963",
+    "location": "Reyesmouth, Japan",
+    "linkedin_url": "https://linkedin.com/in/gregory-andrews",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, HCL, and YAML. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": "2023-08 – Present",
+      "duration_months": 31,
+      "description": "Created monitoring and alerting system using Envoy, reducing MTTR by 40%\nImplemented security scanning using VictoriaMetrics, identifying 1000+ vulnerabilities",
+      "technologies": [
+        "HCL",
+        "Argo Workflows",
+        "Bash",
+        "VictoriaMetrics",
+        "Opsgenie",
+        "Envoy"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2022-06",
+      "end_date": "2023-02",
+      "duration": "2022-06 – 2023-02",
+      "duration_months": 8,
+      "description": "Designed and implemented infrastructure as code using Helm, managing 1000+ servers\nBuilt automated backup solution using Helm, ensuring 5000% data protection",
+      "technologies": [
+        "Chaos Engineering",
+        "Helm",
+        "Prometheus",
+        "Envoy",
+        "CircleCI",
+        "Pulumi"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2019-02",
+      "end_date": "2022-03",
+      "duration": "2019-02 – 2022-03",
+      "duration_months": 37,
+      "description": "Established GitOps workflows using Zero Trust, improving deployment frequency by 47%\nBuilt disaster recovery solution using SRE Practices, achieving RTO of 203ms",
+      "technologies": [
+        "Zero Trust",
+        "Jenkins",
+        "SRE Practices",
+        "Datadog",
+        "Skopeo"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2015-02",
+      "end_date": "2019-01",
+      "duration": "2015-02 – 2019-01",
+      "duration_months": 47,
+      "description": "Created monitoring and alerting system using Linkerd, reducing MTTR by 20%\nEstablished GitOps workflows using Pulumi, improving deployment frequency by 64%\nDesigned and implemented infrastructure as code using Pulumi, managing 100000+ servers",
+      "technologies": [
+        "PowerShell",
+        "GitHub Actions",
+        "Linkerd",
+        "Pulumi",
+        "ArgoCD"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "Ph.D.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2015",
+      "gpa": "2.88",
+      "activities": "Cloud Computing Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deployment Dashboard",
+      "description": "Built Kubernetes Cluster using Go and Python, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "YAML",
+        "Go",
+        "Python"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "ChatBot Framework",
+      "description": "Implemented Secrets Management using YAML, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "YAML",
+        "HCL",
+        "Go"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Designed and implemented CI/CD Pipeline with Python, integrating with Go for seamless data flow",
+      "technologies": [
+        "Go",
+        "Python",
+        "HCL"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Turkish (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "HCL",
+    "YAML",
+    "Go",
+    "Crossplane",
+    "Ansible",
+    "K3s",
+    "Kubernetes",
+    "Jenkins",
+    "Argo Workflows",
+    "GitHub Actions",
+    "Tekton",
+    "Prometheus",
+    "PagerDuty",
+    "Opsgenie",
+    "Datadog",
+    "Thanos",
+    "GCP",
+    "Hetzner",
+    "Azure",
+    "DigitalOcean",
+    " Triton Inference Server",
+    "MLflow",
+    "TorchServe",
+    "Seldon",
+    "TensorFlow Serving",
+    "Chaos Engineering",
+    "GitOps",
+    "MLOps",
+    "Zero Trust"
+  ],
+  "companies": [
+    "DeployFast",
+    "PipelineIO",
+    "ModelShip",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "Infrastructure Engineer",
+    "Cloud Engineer",
+    "Infrastructure Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 245,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:21.121852",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

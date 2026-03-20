@@ -1,0 +1,329 @@
+{
+  "full_name": "Laura Lee",
+  "email": "laura.lee@outlook.com",
+  "location": "Lake Rachel, Germany",
+  "years_of_experience": 6.4,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Laura Lee",
+    "email": "laura.lee@outlook.com",
+    "phone": "001-438-675-8428x2417",
+    "location": "Lake Rachel, Germany",
+    "linkedin_url": null,
+    "github_url": "https://github.com/lauralee",
+    "portfolio_url": null
+  },
+  "summary": "Senior backend engineering engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in TypeScript, C#, Java with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2024-10",
+      "end_date": "Present",
+      "duration": "2024-10 – Present",
+      "duration_months": 17,
+      "description": "Optimized database queries using Fly.io, improving query performance by 59%\nDesigned and implemented message queue system using Fly.io, processing 1000+ messages/hour",
+      "technologies": [
+        "GraphQL",
+        "Hugging Face",
+        "Anthropic",
+        "Fly.io"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2022-05",
+      "end_date": "2024-09",
+      "duration": "2022-05 – 2024-09",
+      "duration_months": 28,
+      "description": "Led migration from monolithic to microservices using Spring Boot, improving system scalability by 45%\nBuilt event-driven architecture using Ansible, processing 1000+ events daily",
+      "technologies": [
+        "Spring Boot",
+        "Flask",
+        "Kubernetes",
+        "DynamoDB",
+        "Ansible",
+        "Hugging Face"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2019-08",
+      "end_date": "2022-04",
+      "duration": "2019-08 – 2022-04",
+      "duration_months": 32,
+      "description": "Implemented caching layer with C#, reducing database load by 16%\nDeveloped real-time data processing pipeline using MongoDB, handling 100+ transactions/second\nReduced infrastructure costs by 44% through optimization using gRPC",
+      "technologies": [
+        "gRPC",
+        "Azure",
+        "C#",
+        "LlamaIndex",
+        "Cassandra",
+        "MongoDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Teaching Assistant - Data Structures"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartCache",
+      "description": "Built Microservices Platform using NestJS and ASP.NET, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "ASP.NET",
+        "NestJS",
+        "LangChain"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Designed and implemented Search Engine with Django, integrating with ASP.NET for seamless data flow",
+      "technologies": [
+        "Django",
+        "ASP.NET",
+        "LangChain"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Implemented Message Queue System using LangChain, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "LangChain",
+        "ASP.NET",
+        "Flask"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "3D printing",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "C#",
+    "Java",
+    "Ruby",
+    "NestJS",
+    "ASP.NET",
+    "Django",
+    "LangChain",
+    "Flask",
+    "MongoDB",
+    "MySQL",
+    "CockroachDB",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Fly.io",
+    "DigitalOcean",
+    "Cloudflare",
+    "Azure OpenAI",
+    "Replicate",
+    "OpenAI API",
+    "AWS Bedrock",
+    "CI/CD",
+    "Agile"
+  ],
+  "companies": [
+    "Snowflake",
+    "Confluent",
+    "CodeCraft Studios"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Server-Side Developer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 154,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:36.009933",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "full_name": "Angel Thompson",
+  "email": "angel.thompson@thompson.dev",
+  "location": "East Craigfurt, Japan",
+  "years_of_experience": 9.7,
+  "seniority_level": "lead",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Angel Thompson",
+    "email": "angel.thompson@thompson.dev",
+    "phone": "914-526-2582",
+    "location": "East Craigfurt, Japan",
+    "linkedin_url": "https://linkedin.com/in/angel-thompson",
+    "github_url": "https://github.com/angelthompson",
+    "portfolio_url": null
+  },
+  "summary": "Lead product management professional with 10 years driving technical strategy and team excellence. Expert in R, Python, SQL with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Technical PM",
+      "title": "Technical PM",
+      "start_date": "2025-04",
+      "end_date": "Present",
+      "duration": "2025-04 – Present",
+      "duration_months": 11,
+      "description": "Created product documentation using Roadmap Planning, serving 100+ stakeholders\nLed product development using Roadmap Planning, launching features used by 50000+ users",
+      "technologies": [
+        "Jira",
+        "Roadmap Planning",
+        "A/B Testing"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2024-01",
+      "end_date": "2025-03",
+      "duration": "2024-01 – 2025-03",
+      "duration_months": 14,
+      "description": "Conducted user research using OKRs, interviewing 500+ users\nLed agile product development using Figma, delivering 100000+ sprints\nLed product launches using Python, achieving 100000+ signups\nDeveloped OKR tracking using Confluence, achieving 16% of quarterly goals",
+      "technologies": [
+        "OKRs",
+        "Confluence",
+        "Python",
+        "Productboard",
+        "Figma"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2020-03",
+      "end_date": "2023-10",
+      "duration": "2020-03 – 2023-10",
+      "duration_months": 43,
+      "description": "Created product backlog using Figma, managing 100000+ user stories\nDeveloped OKR tracking using Miro, achieving 20% of quarterly goals",
+      "technologies": [
+        "Miro",
+        "Notion",
+        "Figma",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2015-09",
+      "end_date": "2019-09",
+      "duration": "2015-09 – 2019-09",
+      "duration_months": 48,
+      "description": "Built customer feedback system using Mixpanel, collecting 100+ insights\nImplemented user onboarding using R, improving retention by 32%\nDeveloped product roadmap using R, prioritizing 100000+ features\nImplemented product analytics using MySQL, tracking 1000+ metrics",
+      "technologies": [
+        "Snowflake",
+        "MySQL",
+        "R",
+        "Mixpanel",
+        "Productboard"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2017",
+      "gpa": "3.97",
+      "activities": "Entrepreneurship Club"
+    },
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2015",
+      "gpa": "3.11",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmunk",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Aha!",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Notion",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mixpanel",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Product Discovery",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Schema Validator",
+      "description": "Designed Customer Feedback System leveraging Roadmunk microservices architecture with Aha! for caching",
+      "technologies": [
+        "Roadmunk",
+        "Aha!",
+        "SQL"
+      ],
+      "url": "https://github.com/angelthompson/schema-validator",
+      "date": "2019"
+    },
+    {
+      "name": "ChatBot Framework",
+      "description": "Built Stakeholder Reporting with SQL and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "Python",
+        "SQL",
+        "Notion"
+      ],
+      "url": "https://github.com/angelthompson/chatbot-framework",
+      "date": "2022"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Implemented Product Backlog using Notion, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Aha!",
+        "Notion",
+        "Python"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — MLH 2024",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "Python",
+    "SQL",
+    "Roadmunk",
+    "Aha!",
+    "Notion",
+    "Jira",
+    "Productboard",
+    "Mixpanel",
+    "Miro",
+    "Figma",
+    "PostgreSQL",
+    "Snowflake",
+    "MySQL",
+    "Azure",
+    "AWS",
+    "Product Discovery",
+    "Scrum",
+    "Agile"
+  ],
+  "companies": [
+    "NeuroLink Labs",
+    "AgentForge",
+    "Nvidia",
+    "Block"
+  ],
+  "job_titles": [
+    "Technical PM",
+    "Product Manager",
+    "Product Owner",
+    "VP of Product"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "Imperial College London"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 264,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:39:30.154545",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

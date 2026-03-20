@@ -1,0 +1,263 @@
+{
+  "full_name": "Brenda Mitchell",
+  "email": "brenda.mitchell@gmail.com",
+  "location": "Johnville, USA",
+  "years_of_experience": 1.2,
+  "seniority_level": "junior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Brenda Mitchell",
+    "email": "brenda.mitchell@gmail.com",
+    "phone": "827.379.0104x3289",
+    "location": "Johnville, USA",
+    "linkedin_url": "https://linkedin.com/in/brenda-mitchell",
+    "github_url": "https://github.com/brendamitchell",
+    "portfolio_url": null
+  },
+  "summary": "Junior devops / sre / mlops developer with 1 years of experience building applications using PowerShell, YAML, Go. Committed to writing clean, maintainable code.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2025-01",
+      "end_date": "Present",
+      "duration": "2025-01 – Present",
+      "duration_months": 14,
+      "description": "Established GitOps workflows using GCP, improving deployment frequency by 57%\nBuilt automated backup solution using Skopeo, ensuring 10000% data protection\nImplemented container orchestration using Jenkins, managing 1000+ containers\nCreated monitoring and alerting system using Jenkins, reducing MTTR by 17%",
+      "technologies": [
+        "Skopeo",
+        "Jenkins",
+        "Kubeflow",
+        "GCP",
+        "DigitalOcean"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "M.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2023",
+      "gpa": "3.80",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Mandarin (Native)",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Allen Ltd Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PowerShell",
+    "YAML",
+    "Go",
+    "Rust",
+    "Bash",
+    "CloudFormation",
+    "Helm",
+    "ArgoCD",
+    "Podman",
+    "Kubernetes",
+    "Buildah",
+    "Docker",
+    "Azure DevOps",
+    "Jenkins",
+    "Prometheus",
+    "ELK Stack",
+    "Linode",
+    "DigitalOcean",
+    "TorchServe",
+    "TensorFlow Serving",
+    "Kubeflow",
+    "MLflow",
+    "Seldon",
+    "Chaos Engineering",
+    "Zero Trust",
+    "SRE Practices",
+    "MLOps"
+  ],
+  "companies": [
+    "ScaleGrid"
+  ],
+  "job_titles": [
+    "Platform Engineer"
+  ],
+  "universities": [
+    "Imperial College London"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 65,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:37:51.232705",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

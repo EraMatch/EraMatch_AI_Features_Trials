@@ -1,0 +1,241 @@
+{
+  "full_name": "Joshua Mata",
+  "email": "joshua.mata@protonmail.com",
+  "location": "Smithside, Canada",
+  "years_of_experience": 1.8,
+  "seniority_level": "junior",
+  "primary_domain": "QA / Testing",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Joshua Mata",
+    "email": "joshua.mata@protonmail.com",
+    "phone": "784.324.7451x71236",
+    "location": "Smithside, Canada",
+    "linkedin_url": "https://linkedin.com/in/joshua-mata",
+    "github_url": "https://github.com/joshuamata",
+    "portfolio_url": null
+  },
+  "summary": "Junior engineer with 2 years working with JavaScript. Demonstrated ability to learn quickly and contribute to team projects.",
+  "work_experience": [
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "SDET",
+      "title": "SDET",
+      "start_date": "2024-05",
+      "end_date": "Present",
+      "duration": "2024-05 – Present",
+      "duration_months": 22,
+      "description": "Created test data management using CI/CD Testing, generating 500+ test records\nCreated test reporting dashboard using Test Automation, tracking 100000+ test metrics\nCreated test data management using CI/CD Testing, generating 5000+ test records",
+      "technologies": [
+        "Test Automation",
+        "Appium",
+        "Cypress",
+        "CI/CD Testing",
+        "JavaScript"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2025",
+      "gpa": "2.85",
+      "activities": "Quality Assurance"
+    },
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2024",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Selenium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTest",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestNG",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BrowserStack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JMeter",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sauce Labs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Postman",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Security Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Performance Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Automation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Appium",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "ISTQB Certified Tester",
+      "issuer": "ISTQB",
+      "date": "2022",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Lawyer pull public once state wait\" — ICML 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "C#",
+    "Playwright",
+    "Selenium",
+    "PyTest",
+    "TestNG",
+    "Cypress",
+    "BrowserStack",
+    "JMeter",
+    "Sauce Labs",
+    "Postman",
+    "Jira",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Azure",
+    "GCP",
+    "Security Testing",
+    "Agile Testing",
+    "Performance Testing",
+    "Test Automation",
+    "Test Planning"
+  ],
+  "companies": [
+    "ResumeAI"
+  ],
+  "job_titles": [
+    "SDET"
+  ],
+  "universities": [
+    "University of Waterloo",
+    "University of Michigan"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 45,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:37:41.522043",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

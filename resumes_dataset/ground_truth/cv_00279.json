@@ -1,0 +1,253 @@
+{
+  "full_name": "Cheyenne Stewart",
+  "email": "cheyenne.stewart@outlook.com",
+  "location": "Tiffanyside, Germany",
+  "years_of_experience": 7.2,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Cheyenne Stewart",
+    "email": "cheyenne.stewart@outlook.com",
+    "phone": "+1-780-756-2656x504",
+    "location": "Tiffanyside, Germany",
+    "linkedin_url": null,
+    "github_url": "https://github.com/cheyennestewart",
+    "portfolio_url": null
+  },
+  "summary": "Senior frontend engineering engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in JavaScript, Dart, React with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2021-12",
+      "end_date": "Present",
+      "duration": "2021-12 – Present",
+      "duration_months": 51,
+      "description": "Created accessible UI components using Material UI, achieving WCAG AA compliance\nDeveloped responsive web applications using Material UI, improving page load time by 70%\nImproved website accessibility score to 23% using Next.js",
+      "technologies": [
+        "Next.js",
+        "HTML",
+        "Material UI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2018-08",
+      "end_date": "2021-08",
+      "duration": "2018-08 – 2021-08",
+      "duration_months": 36,
+      "description": "Built interactive data visualizations using Vercel, serving 100000+ daily users\nCreated accessible UI components using Astro, achieving WCAG AA compliance\nBuilt real-time collaboration features using Jest, serving 100+ concurrent users",
+      "technologies": [
+        "Astro",
+        "Accessibility (WCAG)",
+        "Jest",
+        "Material UI",
+        "Vercel"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "React Certified Developer",
+      "issuer": "React",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Swedish (Basic)",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Japanese (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Dart",
+    "React",
+    "Vue.js",
+    "Jest",
+    "Vite",
+    "Storybook",
+    "Figma",
+    "Cypress",
+    "MongoDB",
+    "IndexedDB",
+    "Supabase",
+    "PostgreSQL",
+    "Firebase",
+    "Netlify",
+    "Cloudflare Pages",
+    "Render",
+    "Vercel",
+    "Component-Driven Development",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "DataPulse",
+    "Uber"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 279,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:39:38.559734",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

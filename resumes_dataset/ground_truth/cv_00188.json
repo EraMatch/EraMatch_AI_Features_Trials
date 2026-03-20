@@ -1,0 +1,284 @@
+{
+  "full_name": "James Morgan",
+  "email": "james.morgan@protonmail.com",
+  "location": "West Jeffreyland, Brazil",
+  "years_of_experience": 6.7,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "James Morgan",
+    "email": "james.morgan@protonmail.com",
+    "phone": "+1-890-326-0127",
+    "location": "West Jeffreyland, Brazil",
+    "linkedin_url": "https://linkedin.com/in/james-morgan",
+    "github_url": "https://github.com/jamesmorgan",
+    "portfolio_url": "https://jamesmorgan.dev"
+  },
+  "summary": "Technical leader in frontend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Python, HTML, CSS.",
+  "work_experience": [
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Implemented automated testing framework using React, achieving 56% code coverage\nImproved website accessibility score to 49% using React",
+      "technologies": [
+        "React",
+        "Supabase",
+        "Vite",
+        "Accessibility (WCAG)"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2021-09",
+      "end_date": "2023-11",
+      "duration": "2021-09 – 2023-11",
+      "duration_months": 26,
+      "description": "Improved website accessibility score to 30% using Remix\nBuilt real-time collaboration features using Vercel, serving 100000+ concurrent users\nBuilt interactive data visualizations using Remix, serving 10000+ daily users\nDeveloped design system using Storybook, standardizing UI across 10000+ applications",
+      "technologies": [
+        "Vercel",
+        "Storybook",
+        "Astro",
+        "Vite",
+        "Remix"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2019-10",
+      "end_date": "2021-03",
+      "duration": "2019-10 – 2021-03",
+      "duration_months": 17,
+      "description": "Built reusable component library using Netlify, used by 100000+ developers\nImplemented state management solution using Cloudflare Pages, reducing API calls by 46%",
+      "technologies": [
+        "Netlify",
+        "Cloudflare Pages",
+        "CSS"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2018-08",
+      "end_date": "2019-07",
+      "duration": "2018-08 – 2019-07",
+      "duration_months": 11,
+      "description": "Built interactive data visualizations using Angular, serving 100000+ daily users\nBuilt reusable component library using Bootstrap, used by 100+ developers",
+      "technologies": [
+        "Tailwind CSS",
+        "Vercel",
+        "Bootstrap",
+        "Angular",
+        "Jest"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "M.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2019",
+      "gpa": "3.61",
+      "activities": "Web Development Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prompt Playground",
+      "description": "Built Real-time Chat with CSS and HTML, serving 10,000+ daily active users",
+      "technologies": [
+        "Python",
+        "HTML",
+        "CSS"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Designed E-commerce Platform leveraging Bootstrap microservices architecture with Python for caching",
+      "technologies": [
+        "Bootstrap",
+        "Next.js",
+        "Python"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Google DevFest 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Dart",
+    "Bootstrap",
+    "Next.js",
+    "Prettier",
+    "Figma",
+    "Vite",
+    "MongoDB",
+    "Firebase",
+    "PostgreSQL",
+    "Netlify",
+    "Render",
+    "Responsive Design",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "Uber",
+    "Tesla",
+    "Figma",
+    "DeployFast"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "React Developer",
+    "Full-Stack Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 188,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:52.600436",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

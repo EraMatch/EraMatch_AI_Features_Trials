@@ -1,0 +1,328 @@
+{
+  "full_name": "Rebecca Jacobson",
+  "email": "rebecca.jacobson@yahoo.com",
+  "location": "Scottfort, UK",
+  "years_of_experience": 11.2,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Rebecca Jacobson",
+    "email": "rebecca.jacobson@yahoo.com",
+    "phone": "317.452.4214x9551",
+    "location": "Scottfort, UK",
+    "linkedin_url": "https://linkedin.com/in/rebecca-jacobson",
+    "github_url": "https://github.com/rebeccajacobson",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in backend engineering with expertise in PHP, Python, TypeScript. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": "2022-01 – Present",
+      "duration_months": 50,
+      "description": "Architected and built RESTful APIs serving 100+ requests/day using Railway, reducing response time by 30%\nOptimized database queries using LangChain, improving query performance by 57%\nBuilt event-driven architecture using LangChain, processing 100000+ events daily",
+      "technologies": [
+        "LangChain",
+        "Railway",
+        "AWS Bedrock"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2017-10",
+      "end_date": "2021-12",
+      "duration": "2017-10 – 2021-12",
+      "duration_months": 50,
+      "description": "Architected and built RESTful APIs serving 1000+ requests/day using Kubernetes, reducing response time by 46%\nDeveloped real-time data processing pipeline using Kubernetes, handling 10000+ requests/second",
+      "technologies": [
+        "Ansible",
+        "AWS Bedrock",
+        "ASP.NET",
+        "Cassandra",
+        "Railway",
+        "Kubernetes"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2014-09",
+      "end_date": "2017-08",
+      "duration": "2014-09 – 2017-08",
+      "duration_months": 35,
+      "description": "Mentored team of 8 junior developers on Anthropic best practices\nArchitected and built RESTful APIs serving 500+ requests/day using TypeScript, reducing response time by 58%\nReduced infrastructure costs by 70% through optimization using GCP",
+      "technologies": [
+        "Anthropic",
+        "Azure",
+        "GCP",
+        "TypeScript",
+        "CockroachDB",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "B.A.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Open Source Contributor"
+    },
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2011",
+      "gpa": "3.77",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prompt Playground",
+      "description": "Built Database Proxy using Gin and LangChain, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Gin",
+        "LangChain",
+        "NestJS"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Built Search Engine with NestJS and Gin, serving 10,000+ daily active users",
+      "technologies": [
+        "NestJS",
+        "Gin",
+        "C#"
+      ],
+      "url": "https://github.com/rebeccajacobson/health-check-service",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Shake kind under vote will major guy\" — CVPR 2021",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PHP",
+    "Python",
+    "TypeScript",
+    "C#",
+    "Gin",
+    "LangChain",
+    "Rails",
+    "NestJS",
+    "MySQL",
+    "MongoDB",
+    "CockroachDB",
+    "Ansible",
+    "Kubernetes",
+    "RabbitMQ",
+    "gRPC",
+    "Fly.io",
+    "Cloudflare",
+    "Azure",
+    "AWS Bedrock",
+    "Replicate",
+    "Azure OpenAI",
+    "OpenAI API",
+    "Agile",
+    "TDD"
+  ],
+  "companies": [
+    "Supabase",
+    "DataPulse",
+    "Google"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "AI Engineer",
+    "API Developer"
+  ],
+  "universities": [
+    "University of Edinburgh",
+    "UT Austin"
+  ],
+  "degrees": [
+    "B.A.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 429,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:54.760158",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

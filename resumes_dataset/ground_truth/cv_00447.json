@@ -1,0 +1,316 @@
+{
+  "full_name": "Austin Campbell",
+  "email": "austin.campbell@protonmail.com",
+  "location": "Lisaborough, Australia",
+  "years_of_experience": 7.3,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Austin Campbell",
+    "email": "austin.campbell@protonmail.com",
+    "phone": "883.818.4919",
+    "location": "Lisaborough, Australia",
+    "linkedin_url": "https://linkedin.com/in/austin-campbell",
+    "github_url": "https://github.com/austincampbell",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in TypeScript, Node.js, C#.",
+  "work_experience": [
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2021-12",
+      "end_date": "Present",
+      "duration": "2021-12 – Present",
+      "duration_months": 51,
+      "description": "Mentored team of 2 junior developers on PHP best practices\nReduced infrastructure costs by 26% through optimization using Claude API\nMentored team of 3 junior developers on Claude API best practices\nBuilt event-driven architecture using RAG Architecture, processing 5000+ events daily",
+      "technologies": [
+        "RAG Architecture",
+        "PHP",
+        "Claude API"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2018-09",
+      "end_date": "2021-10",
+      "duration": "2018-09 – 2021-10",
+      "duration_months": 37,
+      "description": "Optimized database queries using Go, improving query performance by 34%\nOptimized database queries using Vercel, improving query performance by 18%\nLed migration from monolithic to microservices using Scrum, improving system scalability by 57%\nBuilt event-driven architecture using Scrum, processing 10000+ events daily",
+      "technologies": [
+        "Go",
+        "NestJS",
+        "Scrum",
+        "Vercel"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2016",
+      "gpa": "3.72",
+      "activities": "ACM Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Designed and implemented User Management API with Flask, integrating with TypeScript for seamless data flow",
+      "technologies": [
+        "TypeScript",
+        "Flask",
+        "Node.js"
+      ],
+      "url": "https://github.com/austincampbell/token-bucket-limiter",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Japanese (Basic)",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Williams Group Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Company Internal 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Node.js",
+    "C#",
+    "Python",
+    "Kotlin",
+    "Flask",
+    "Actix",
+    "LangChain",
+    "FastAPI",
+    "Elasticsearch",
+    "Neon",
+    "Cassandra",
+    "SQLite",
+    "gRPC",
+    "Ansible",
+    "Azure",
+    "GCP",
+    "Railway",
+    "Fly.io",
+    "DigitalOcean",
+    "OpenAI API",
+    "Hugging Face",
+    "Claude API",
+    "Google Gemini",
+    "Event-Driven Architecture",
+    "GraphQL",
+    "REST API Design",
+    "CI/CD",
+    "Scrum"
+  ],
+  "companies": [
+    "ModelShip",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "Server-Side Developer",
+    "API Developer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 447,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:41:03.729301",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

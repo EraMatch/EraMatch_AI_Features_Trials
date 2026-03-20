@@ -1,0 +1,283 @@
+{
+  "full_name": "Dr. Jason Martinez Jr.",
+  "email": "dr..jason.martinez.jr.@jr..dev",
+  "location": "Deannaland, Singapore",
+  "years_of_experience": 8.8,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Dr. Jason Martinez Jr.",
+    "email": "dr..jason.martinez.jr.@jr..dev",
+    "phone": "296-239-0409x07426",
+    "location": "Deannaland, Singapore",
+    "linkedin_url": "https://linkedin.com/in/dr.-jason-martinez-jr.",
+    "github_url": "https://github.com/drjasonmartinezjr",
+    "portfolio_url": null
+  },
+  "summary": "Lead devops / sre / mlops professional with 9 years driving technical strategy and team excellence. Expert in YAML, Bash, Pulumi with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2023-05",
+      "end_date": "Present",
+      "duration": "2023-05 – Present",
+      "duration_months": 34,
+      "description": "Optimized cloud infrastructure using Datadog, reducing costs by 49%\nImplemented security scanning using GitOps, identifying 10000+ vulnerabilities",
+      "technologies": [
+        "GitOps",
+        "Datadog",
+        "Ansible",
+        "YAML",
+        "Azure"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2018-12",
+      "end_date": "2023-04",
+      "duration": "2018-12 – 2023-04",
+      "duration_months": 52,
+      "description": "Built automated backup solution using GCP, ensuring 100% data protection\nImplemented container orchestration using Argo Workflows, managing 1000+ containers\nCreated self-service provisioning portal using Argo Workflows, serving 100000+ engineers",
+      "technologies": [
+        "Seldon",
+        "Argo Workflows",
+        "GCP",
+        "Thanos"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2017-03",
+      "end_date": "2018-11",
+      "duration": "2017-03 – 2018-11",
+      "duration_months": 20,
+      "description": "Implemented security scanning using GitOps, identifying 50000+ vulnerabilities\nOptimized cloud infrastructure using GitOps, reducing costs by 62%\nDesigned and implemented infrastructure as code using GitOps, managing 10000+ servers",
+      "technologies": [
+        "GitOps",
+        "Helm",
+        "Go",
+        "CDK"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "B.A.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Believe sort rich ever send hundred news finish partner\" — ACM 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "YAML",
+    "Bash",
+    "Pulumi",
+    "Helm",
+    "Linkerd",
+    "Kubernetes",
+    "K3s",
+    "Azure DevOps",
+    "Jenkins",
+    "GitLab CI",
+    "Argo Workflows",
+    "GitHub Actions",
+    "PagerDuty",
+    "Thanos",
+    "Datadog",
+    "GCP",
+    "Alibaba Cloud",
+    "Kale",
+    "MLflow",
+    "Seldon",
+    "Zero Trust",
+    "GitOps",
+    "Incident Management"
+  ],
+  "companies": [
+    "Supabase",
+    "Snowflake",
+    "OpenAI"
+  ],
+  "job_titles": [
+    "Infrastructure Engineer",
+    "Infrastructure Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 448,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:41:04.171276",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

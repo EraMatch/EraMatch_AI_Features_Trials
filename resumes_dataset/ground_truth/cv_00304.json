@@ -1,0 +1,346 @@
+{
+  "full_name": "Lynn Suarez",
+  "email": "lynn.suarez@outlook.com",
+  "location": "Guzmanside, Brazil",
+  "years_of_experience": 7.0,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Lynn Suarez",
+    "email": "lynn.suarez@outlook.com",
+    "phone": "001-360-741-7765x61248",
+    "location": "Guzmanside, Brazil",
+    "linkedin_url": "https://linkedin.com/in/lynn-suarez",
+    "github_url": null,
+    "portfolio_url": "https://lynnsuarez.dev"
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Go, Python, Node.js.",
+  "work_experience": [
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2024-08",
+      "end_date": "Present",
+      "duration": "2024-08 – Present",
+      "duration_months": 19,
+      "description": "Led migration from monolithic to microservices using FastAPI, improving system scalability by 68%\nDesigned and implemented message queue system using FastAPI, processing 100000+ messages/hour\nReduced infrastructure costs by 33% through optimization using Terraform\nArchitected and built RESTful APIs serving 1000+ requests/day using Spring Boot, reducing response time by 34%",
+      "technologies": [
+        "Spring Boot",
+        "FastAPI",
+        "Java",
+        "Terraform"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2022-09",
+      "end_date": "2024-07",
+      "duration": "2022-09 – 2024-07",
+      "duration_months": 22,
+      "description": "Created authentication and authorization system using Java, securing 50000+ user accounts\nDesigned and implemented microservices architecture using Google Gemini, handling 50000+ concurrent users",
+      "technologies": [
+        "LlamaIndex",
+        "gRPC",
+        "Java",
+        "Google Gemini",
+        "AWS",
+        "Actix"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2019-10",
+      "end_date": "2022-05",
+      "duration": "2019-10 – 2022-05",
+      "duration_months": 31,
+      "description": "Reduced infrastructure costs by 21% through optimization using Express.js\nOptimized database queries using Render, improving query performance by 70%\nMentored team of 8 junior developers on Node.js best practices\nMentored team of 2 junior developers on Express.js best practices",
+      "technologies": [
+        "Render",
+        "Node.js",
+        "Express.js"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2018-06",
+      "end_date": "2019-06",
+      "duration": "2018-06 – 2019-06",
+      "duration_months": 12,
+      "description": "Mentored team of 2 junior developers on Actix best practices\nLed migration from monolithic to microservices using Agile, improving system scalability by 56%\nOptimized database queries using Java, improving query performance by 45%",
+      "technologies": [
+        "PlanetScale",
+        "GCP",
+        "Railway",
+        "Agile",
+        "Java",
+        "Actix"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019",
+      "gpa": "3.39",
+      "activities": "Open Source Contributor"
+    },
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed and implemented Data Sync Platform with Python, integrating with Go for seamless data flow",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "Go"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Python",
+    "Node.js",
+    "Rust",
+    "Express.js",
+    "NestJS",
+    "Spring Boot",
+    "FastAPI",
+    "PlanetScale",
+    "PostgreSQL",
+    "Cassandra",
+    "Elasticsearch",
+    "MongoDB",
+    "GitHub Actions",
+    "RabbitMQ",
+    "ArgoCD",
+    "gRPC",
+    "Kafka",
+    "AWS",
+    "Cloudflare",
+    "Azure",
+    "Google Gemini",
+    "OpenAI API",
+    "TDD",
+    "RAG Architecture",
+    "Agile",
+    "GraphQL"
+  ],
+  "companies": [
+    "ParseLab",
+    "Meta",
+    "Palantir",
+    "Salesforce"
+  ],
+  "job_titles": [
+    "Server-Side Developer",
+    "LLM Engineer",
+    "Software Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "Tsinghua University",
+    "UIUC"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 304,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:50.592311",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

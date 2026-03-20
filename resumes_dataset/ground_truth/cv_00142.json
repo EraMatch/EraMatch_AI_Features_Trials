@@ -1,0 +1,253 @@
+{
+  "full_name": "James Oconnor",
+  "email": "james.oconnor@yahoo.com",
+  "location": "Joneston, UK",
+  "years_of_experience": 6.9,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "James Oconnor",
+    "email": "james.oconnor@yahoo.com",
+    "phone": "(567)465-8617",
+    "location": "Joneston, UK",
+    "linkedin_url": "https://linkedin.com/in/james-oconnor",
+    "github_url": "https://github.com/jamesoconnor",
+    "portfolio_url": "https://jamesoconnor.dev"
+  },
+  "summary": "Technical leader in cybersecurity with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Go, Bash, Rust.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 – Present",
+      "duration_months": 30,
+      "description": "Created vulnerability management program using Bash, reducing CVEs by 39%\nImplemented SIEM solution using Suricata, processing 100000+ logs/day\nDesigned zero-trust architecture using Suricata, securing 10000+ endpoints",
+      "technologies": [
+        "Suricata",
+        "Azure Sentinel",
+        "Bash"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2018-11",
+      "end_date": "2023-04",
+      "duration": "2018-11 – 2023-04",
+      "duration_months": 53,
+      "description": "Implemented encryption solution using React, protecting 100000+ records\nImplemented security monitoring using MongoDB, detecting 50000+ threats\nConducted penetration testing using Nessus, identifying 100000+ vulnerabilities",
+      "technologies": [
+        "Nessus",
+        "MongoDB",
+        "Elasticsearch",
+        "Azure Sentinel",
+        "OWASP Top 10",
+        "Bash"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "Ph.D.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Implemented Threat Intelligence Feed using Bash, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Suricata",
+        "Bash",
+        "Metasploit"
+      ],
+      "url": "https://github.com/jamesoconnor/api-gateway",
+      "date": "2024"
+    },
+    {
+      "name": "DataPipe CLI",
+      "description": "Designed and implemented Penetration Testing Framework with Sigma, integrating with Go for seamless data flow",
+      "technologies": [
+        "Go",
+        "Sigma",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Cooking",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Bash",
+    "Rust",
+    "PowerShell",
+    "Suricata",
+    "Metasploit",
+    "Sigma",
+    "Trivy",
+    "Hashicorp Vault",
+    "MongoDB",
+    "PostgreSQL",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "SAST/DAST",
+    "Zero Trust Architecture",
+    "SOC2 Compliance",
+    "Threat Modeling"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "ResumeAI"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "University of Washington"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 142,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:38:30.074705",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

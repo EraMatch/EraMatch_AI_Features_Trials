@@ -1,0 +1,313 @@
+{
+  "full_name": "Jennifer Lewis",
+  "email": "jennifer.lewis@gmail.com",
+  "location": "Williamfurt, Canada",
+  "years_of_experience": 11.1,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jennifer Lewis",
+    "email": "jennifer.lewis@gmail.com",
+    "phone": "(269)241-1800x5375",
+    "location": "Williamfurt, Canada",
+    "linkedin_url": "https://linkedin.com/in/jennifer-lewis",
+    "github_url": "https://github.com/jenniferlewis",
+    "portfolio_url": null
+  },
+  "summary": "Lead data science / ml / ai professional with 11 years driving technical strategy and team excellence. Expert in Python, SQL, Scala with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2023-03",
+      "end_date": "Present",
+      "duration": "2023-03 – Present",
+      "duration_months": 36,
+      "description": "Implemented A/B testing framework using Pinecone, running 50000+ experiments\nBuilt ML model serving infrastructure using Pinecone, handling 5000+ predictions/day\nBuilt ML model serving infrastructure using AWS SageMaker, handling 500+ predictions/day\nDeveloped data visualization tools using AWS SageMaker, used by 100000+ analysts",
+      "technologies": [
+        "XGBoost",
+        "Pinecone",
+        "AWS SageMaker"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2019-02",
+      "end_date": "2023-02",
+      "duration": "2019-02 – 2023-02",
+      "duration_months": 48,
+      "description": "Built end-to-end ML pipeline using LightGBM, processing 100000+ samples daily\nDesigned data warehousing solution using AWS SageMaker, enabling analytics on 50000+ records\nBuilt real-time analytics dashboard using AWS SageMaker, used by 1000+ stakeholders",
+      "technologies": [
+        "AWS SageMaker",
+        "Pinecone",
+        "Feature Engineering",
+        "XGBoost",
+        "JAX",
+        "LightGBM"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2014-10",
+      "end_date": "2018-11",
+      "duration": "2014-10 – 2018-11",
+      "duration_months": 49,
+      "description": "Developed computer vision models using Dagster, achieving 45% accuracy\nDeveloped computer vision models using Dagster, achieving 69% accuracy",
+      "technologies": [
+        "ChromaDB",
+        "Dagster",
+        "Computer Vision",
+        "OpenAI API"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "B.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2013",
+      "gpa": "2.85",
+      "activities": "Analytics Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Designed Predictive Analytics Platform leveraging Python microservices architecture with Julia for caching",
+      "technologies": [
+        "Julia",
+        "SQL",
+        "Python"
+      ],
+      "url": "https://github.com/jenniferlewis/pdf-parser-toolkit",
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Within provide car throughout American conference college\" — ACM 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "SQL",
+    "Scala",
+    "Julia",
+    "Keras",
+    "LlamaIndex",
+    "XGBoost",
+    "Scikit-learn",
+    "LangChain",
+    "Weights & Biases",
+    "DVC",
+    "PostgreSQL",
+    "Snowflake",
+    "MongoDB",
+    "Qdrant",
+    "BigQuery",
+    "Azure ML",
+    "Databricks",
+    "Hugging Face Endpoints",
+    "Bedrock",
+    "GCP Vertex AI",
+    "Vector Databases",
+    "Computer Vision",
+    "Prompt Engineering",
+    "NLP",
+    "A/B Testing"
+  ],
+  "companies": [
+    "Palantir",
+    "InfraCore",
+    "Block"
+  ],
+  "job_titles": [
+    "Data Scientist",
+    "Research Scientist",
+    "Data Scientist"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 310,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:39:53.600955",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

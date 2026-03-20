@@ -1,0 +1,271 @@
+{
+  "full_name": "David Baker",
+  "email": "david.baker@gmail.com",
+  "location": "Martinezport, Brazil",
+  "years_of_experience": 3.6,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "David Baker",
+    "email": "david.baker@gmail.com",
+    "phone": "+1-693-661-8324x2102",
+    "location": "Martinezport, Brazil",
+    "linkedin_url": "https://linkedin.com/in/david-baker",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in TypeScript, CSS, and Svelte. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2025-02",
+      "end_date": "Present",
+      "duration": "2025-02 – Present",
+      "duration_months": 13,
+      "description": "Integrated third-party APIs using Prettier, reducing integration time by 66%\nImproved website accessibility score to 42% using PostgreSQL\nImplemented state management solution using Agile, reducing API calls by 45%",
+      "technologies": [
+        "IndexedDB",
+        "PostgreSQL",
+        "Prettier",
+        "Agile"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2023-12",
+      "end_date": "2024-08",
+      "duration": "2023-12 – 2024-08",
+      "duration_months": 8,
+      "description": "Integrated third-party APIs using Accessibility (WCAG), reducing integration time by 19%\nBuilt interactive data visualizations using Netlify, serving 5000+ daily users\nDeveloped design system using Netlify, standardizing UI across 1000+ applications",
+      "technologies": [
+        "Vercel",
+        "Netlify",
+        "Accessibility (WCAG)",
+        "Progressive Web Apps",
+        "Remix",
+        "CSS"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2022-02",
+      "end_date": "2023-12",
+      "duration": "2022-02 – 2023-12",
+      "duration_months": 22,
+      "description": "Integrated third-party APIs using Netlify, reducing integration time by 50%\nBuilt interactive data visualizations using Tailwind CSS, serving 5000+ daily users",
+      "technologies": [
+        "Tailwind CSS",
+        "Netlify",
+        "HTML",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Google Developer Group"
+    },
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.A.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2021",
+      "gpa": "3.04",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Music production",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "CSS",
+    "Svelte",
+    "Remix",
+    "Vue.js",
+    "React",
+    "Cypress",
+    "Playwright",
+    "Prettier",
+    "Git",
+    "Supabase",
+    "PostgreSQL",
+    "Firebase",
+    "Cloudflare Pages",
+    "Render",
+    "Netlify",
+    "Progressive Web Apps",
+    "Agile",
+    "Responsive Design",
+    "Accessibility (WCAG)",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "Stripe",
+    "Airbnb",
+    "ParseLab"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "Full-Stack Developer",
+    "React Developer"
+  ],
+  "universities": [
+    "UIUC",
+    "University of Michigan"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 34,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:37:35.657443",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

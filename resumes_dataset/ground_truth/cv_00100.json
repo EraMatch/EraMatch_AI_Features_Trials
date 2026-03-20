@@ -1,0 +1,324 @@
+{
+  "full_name": "Terri Morgan",
+  "email": "terri.morgan@protonmail.com",
+  "location": "Port Adamberg, Canada",
+  "years_of_experience": 7.3,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Terri Morgan",
+    "email": "terri.morgan@protonmail.com",
+    "phone": "001-277-372-5228x72808",
+    "location": "Port Adamberg, Canada",
+    "linkedin_url": "https://linkedin.com/in/terri-morgan",
+    "github_url": "https://github.com/terrimorgan",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in cybersecurity with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Go, C, PowerShell.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": "2022-01 – Present",
+      "duration_months": 50,
+      "description": "Implemented identity management using Sigma, securing 50000+ user identities\nCreated vulnerability management program using SonarQube, reducing CVEs by 25%\nBuilt incident response automation using SonarQube, reducing recovery time by 64%",
+      "technologies": [
+        "Sigma",
+        "Python",
+        "SonarQube"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2019-08",
+      "end_date": "2021-09",
+      "duration": "2019-08 – 2021-09",
+      "duration_months": 25,
+      "description": "Conducted penetration testing using MongoDB, identifying 1000+ vulnerabilities\nImplemented security monitoring using Rust, detecting 1000+ threats\nBuilt incident response automation using Suricata, reducing recovery time by 23%",
+      "technologies": [
+        "MongoDB",
+        "Rust",
+        "Azure Sentinel",
+        "Suricata",
+        "Sigma"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2018-07",
+      "end_date": "2019-02",
+      "duration": "2018-07 – 2019-02",
+      "duration_months": 7,
+      "description": "Developed threat intelligence platform using Nessus, tracking 500+ threats\nDeveloped threat intelligence platform using Go, tracking 50000+ threats",
+      "technologies": [
+        "Go",
+        "Rust",
+        "Nessus"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2017-12",
+      "end_date": "2018-06",
+      "duration": "2017-12 – 2018-06",
+      "duration_months": 6,
+      "description": "Built secure CI/CD pipeline using Incident Response, preventing 100+ security issues\nDesigned zero-trust architecture using Nessus, securing 1000+ endpoints\nConducted penetration testing using Wireshark, identifying 1000+ vulnerabilities",
+      "technologies": [
+        "Nessus",
+        "Incident Response",
+        "Sigma",
+        "Wireshark",
+        "Hashicorp Vault"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2018",
+      "gpa": "3.02",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Parser",
+      "description": "Designed and implemented Penetration Testing Framework with Sigma, integrating with Burp Suite for seamless data flow",
+      "technologies": [
+        "Go",
+        "Burp Suite",
+        "Sigma"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Implemented SIEM Integration using PowerShell, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "PowerShell",
+        "Metasploit",
+        "Sigma"
+      ],
+      "url": "https://github.com/terrimorgan/vector-search-api",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Technical blogging",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — Google DevFest 2023",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Cooking",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "C",
+    "PowerShell",
+    "Metasploit",
+    "Snort",
+    "Burp Suite",
+    "Sigma",
+    "Hashicorp Vault",
+    "Splunk",
+    "Nessus",
+    "Nmap",
+    "Redis",
+    "Elasticsearch",
+    "PostgreSQL",
+    "MongoDB",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Zero Trust Architecture",
+    "Threat Modeling",
+    "OWASP Top 10",
+    "SOC2 Compliance",
+    "Incident Response"
+  ],
+  "companies": [
+    "Spotify",
+    "ParseLab",
+    "Datadog",
+    "ParseLab"
+  ],
+  "job_titles": [
+    "AppSec Engineer",
+    "Penetration Tester",
+    "Penetration Tester",
+    "Security Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 100,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:38:09.071458",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

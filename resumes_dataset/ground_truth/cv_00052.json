@@ -1,0 +1,354 @@
+{
+  "full_name": "Christian Leblanc",
+  "email": "christian.leblanc@outlook.com",
+  "location": "South Michaelchester, Singapore",
+  "years_of_experience": 4.8,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Christian Leblanc",
+    "email": "christian.leblanc@outlook.com",
+    "phone": "211-716-1528",
+    "location": "South Michaelchester, Singapore",
+    "linkedin_url": null,
+    "github_url": "https://github.com/christianleblanc",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level devops / sre / mlops specialist with 5 years building production systems. Skilled in PowerShell, Rust, Bash with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2024-11",
+      "end_date": "Present",
+      "duration": "2024-11 – Present",
+      "duration_months": 16,
+      "description": "Designed and implemented infrastructure as code using Docker, managing 5000+ servers\nBuilt disaster recovery solution using Alibaba Cloud, achieving RTO of 308ms",
+      "technologies": [
+        "GitLab CI",
+        "CDK",
+        "PagerDuty",
+        "Alibaba Cloud",
+        "Docker"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2021-10",
+      "end_date": "2024-07",
+      "duration": "2021-10 – 2024-07",
+      "duration_months": 33,
+      "description": "Established chaos engineering practices using Argo Workflows, improving system resilience\nOptimized cloud infrastructure using Argo Workflows, reducing costs by 38%\nImplemented log aggregation using Buildah, processing 500+ logs/day",
+      "technologies": [
+        "Buildah",
+        "K3s",
+        "Argo Workflows"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2020-10",
+      "end_date": "2021-07",
+      "duration": "2020-10 – 2021-07",
+      "duration_months": 9,
+      "description": "Built automated backup solution using Istio, ensuring 100000% data protection\nOptimized cloud infrastructure using  Triton Inference Server, reducing costs by 47%\nImplemented container orchestration using GitLab CI, managing 100+ containers",
+      "technologies": [
+        "Kubernetes",
+        "GitLab CI",
+        "Buildah",
+        "MLflow",
+        "Istio",
+        " Triton Inference Server"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "DevOps Bootcamp"
+    },
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "M.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Google Cloud Professional Cloud Engineer",
+      "issuer": "Google",
+      "date": "2020",
+      "credential_id": "WG04KG94"
+    },
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2020",
+      "credential_id": "GW32JX73"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Turkish (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PowerShell",
+    "Rust",
+    "Bash",
+    "HCL",
+    "Terraform",
+    "Pulumi",
+    "Helm",
+    "Ansible",
+    "ArgoCD",
+    "Kubernetes",
+    "Docker",
+    "K3s",
+    "Skopeo",
+    "Envoy",
+    "Argo Workflows",
+    "Jenkins",
+    "Tekton",
+    "Opsgenie",
+    "Prometheus",
+    "Thanos",
+    "PagerDuty",
+    "Datadog",
+    "GCP",
+    "Azure",
+    "Hetzner",
+    "Kale",
+    "TorchServe",
+    "MLflow",
+    "GitOps",
+    "Incident Management",
+    "Chaos Engineering"
+  ],
+  "companies": [
+    "SkillBridge",
+    "InfraCore",
+    "Palantir"
+  ],
+  "job_titles": [
+    "Cloud Engineer",
+    "Platform Engineer",
+    "MLOps Engineer"
+  ],
+  "universities": [
+    "TU Delft",
+    "NUS"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 52,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:37:44.909777",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

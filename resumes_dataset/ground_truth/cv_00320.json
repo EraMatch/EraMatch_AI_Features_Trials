@@ -1,0 +1,280 @@
+{
+  "full_name": "Valerie Ward",
+  "email": "valerie.ward@gmail.com",
+  "location": "Wilkinsonside, UK",
+  "years_of_experience": 9.1,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Valerie Ward",
+    "email": "valerie.ward@gmail.com",
+    "phone": "+1-464-512-2031x03037",
+    "location": "Wilkinsonside, UK",
+    "linkedin_url": "https://linkedin.com/in/valerie-ward",
+    "github_url": "https://github.com/valerieward",
+    "portfolio_url": null
+  },
+  "summary": "Lead data science / ml / ai professional with 9 years driving technical strategy and team excellence. Expert in Python, Go, SQL with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Developed data visualization tools using LlamaIndex, used by 100+ analysts\nDesigned data warehousing solution using Statistical Modeling, enabling analytics on 500+ records\nBuilt real-time analytics dashboard using Statistical Modeling, used by 5000+ stakeholders\nDeveloped data visualization tools using Statistical Modeling, used by 5000+ analysts",
+      "technologies": [
+        "Lambda Labs",
+        "Redshift",
+        "R",
+        "Statistical Modeling",
+        "Neptune",
+        "LlamaIndex"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2023-01",
+      "end_date": "2023-10",
+      "duration": "2023-01 – 2023-10",
+      "duration_months": 9,
+      "description": "Built ML model serving infrastructure using A/B Testing, handling 100+ predictions/day\nEstablished MLOps practices using A/B Testing, reducing model deployment time by 24%\nDeveloped data visualization tools using LLM Evaluation, used by 5000+ analysts\nImplemented NLP solution using Statistical Modeling, processing 100000+ text documents daily",
+      "technologies": [
+        "LLM Evaluation",
+        "A/B Testing",
+        "R",
+        "Dagster",
+        "Statistical Modeling"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2019-06",
+      "end_date": "2022-10",
+      "duration": "2019-06 – 2022-10",
+      "duration_months": 40,
+      "description": "Implemented A/B testing framework using Prompt Engineering, running 1000+ experiments\nBuilt end-to-end ML pipeline using AWS SageMaker, processing 500+ samples daily\nDeveloped data visualization tools using AWS SageMaker, used by 5000+ analysts",
+      "technologies": [
+        "AWS SageMaker",
+        "JAX",
+        "Kubeflow",
+        "Prompt Engineering"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2016-02",
+      "end_date": "2018-12",
+      "duration": "2016-02 – 2018-12",
+      "duration_months": 34,
+      "description": "Implemented NLP solution using SQL, processing 500+ text documents daily\nCreated recommendation system using MATLAB, increasing user engagement by 18%\nDesigned data warehousing solution using SQL, enabling analytics on 100000+ records",
+      "technologies": [
+        "LlamaIndex",
+        "MATLAB",
+        "SQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2014",
+      "gpa": "3.30",
+      "activities": "Research Assistant - ML Lab"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Databricks Certified Data Engineer",
+      "issuer": "Databricks",
+      "date": "2022",
+      "credential_id": "JE31BB47"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Drone building",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Martin and Sons Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Go",
+    "SQL",
+    "LlamaIndex",
+    "XGBoost",
+    "LightGBM",
+    "MLflow",
+    "DVC",
+    "Pandas",
+    "MongoDB",
+    "Neo4j",
+    "Lambda Labs",
+    "Bedrock",
+    "Computer Vision",
+    "LLM Evaluation",
+    "Deep Learning",
+    "A/B Testing",
+    "RAG"
+  ],
+  "companies": [
+    "Supabase",
+    "Uber",
+    "Notion",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Data Analyst",
+    "NLP Engineer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "Imperial College London"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 320,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:39:58.932852",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

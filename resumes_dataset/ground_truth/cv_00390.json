@@ -1,0 +1,281 @@
+{
+  "full_name": "Denise Abbott",
+  "email": "denise.abbott@yahoo.com",
+  "location": "Port Kimberlyfort, USA",
+  "years_of_experience": 5.7,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Denise Abbott",
+    "email": "denise.abbott@yahoo.com",
+    "phone": "001-573-574-6052",
+    "location": "Port Kimberlyfort, USA",
+    "linkedin_url": "https://linkedin.com/in/denise-abbott",
+    "github_url": "https://github.com/deniseabbott",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in MATLAB, Go, and Scala. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2024-07",
+      "end_date": "Present",
+      "duration": "2024-07 – Present",
+      "duration_months": 20,
+      "description": "Built real-time analytics dashboard using Scala, used by 1000+ stakeholders\nBuilt end-to-end ML pipeline using MLflow, processing 10000+ samples daily",
+      "technologies": [
+        "DVC",
+        "Lambda Labs",
+        "MLflow",
+        "PyTorch",
+        "Scala",
+        "Polars"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2020-02",
+      "end_date": "2024-02",
+      "duration": "2020-02 – 2024-02",
+      "duration_months": 48,
+      "description": "Developed ML models using GCP Vertex AI, improving prediction accuracy by 65%\nCreated feature engineering pipeline using OpenAI API, reducing preprocessing time by 19%\nCreated recommendation system using GCP Vertex AI, increasing user engagement by 35%\nDesigned data warehousing solution using OpenAI API, enabling analytics on 100+ records",
+      "technologies": [
+        "OpenAI API",
+        "Databricks",
+        "Redshift",
+        "Lambda Labs",
+        "Neptune",
+        "GCP Vertex AI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.A.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Built Feature Store with MATLAB and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "MATLAB",
+        "Python",
+        "Julia"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Developed Predictive Analytics Platform using MATLAB, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "Julia"
+      ],
+      "url": "https://github.com/deniseabbott/health-check-service",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Federal spring treatment city again hot institution list\" — ICML 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "MATLAB",
+    "Go",
+    "Scala",
+    "Julia",
+    "Python",
+    "Hugging Face",
+    "JAX",
+    "OpenAI API",
+    "Spark",
+    "Polars",
+    "Kubeflow",
+    "MLflow",
+    "Neptune",
+    "Redshift",
+    "PostgreSQL",
+    "ChromaDB",
+    "Bedrock",
+    "Hugging Face Endpoints",
+    "MLOps",
+    "Computer Vision",
+    "Prompt Engineering",
+    "RAG",
+    "Fine-tuning"
+  ],
+  "companies": [
+    "Datadog",
+    "Cloudflare"
+  ],
+  "job_titles": [
+    "NLP Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "University of Washington"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 390,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:40:34.830394",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "full_name": "David Perkins",
+  "email": "david.perkins@perkins.dev",
+  "location": "West Kellyland, Japan",
+  "years_of_experience": 4.0,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "David Perkins",
+    "email": "david.perkins@perkins.dev",
+    "phone": "(857)725-2045",
+    "location": "West Kellyland, Japan",
+    "linkedin_url": "https://linkedin.com/in/david-perkins",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Results-driven devops / sre / mlops professional with 4 years of experience designing and implementing scalable solutions using YAML, Python, Bash. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": "2024-09 – Present",
+      "duration_months": 18,
+      "description": "Built CI/CD pipelines using Buildah, reducing deployment time from 19s to 460ms\nImplemented security scanning using Kubernetes, identifying 5000+ vulnerabilities\nDesigned and implemented infrastructure as code using Istio, managing 50000+ servers",
+      "technologies": [
+        "Kubernetes",
+        "Helm",
+        "TorchServe",
+        "Istio",
+        "Python",
+        "Buildah"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2021-10",
+      "end_date": "2024-04",
+      "duration": "2021-10 – 2024-04",
+      "duration_months": 30,
+      "description": "Implemented container orchestration using Buildah, managing 500+ containers\nImplemented log aggregation using Buildah, processing 5000+ logs/day\nDesigned and implemented infrastructure as code using Buildah, managing 1000+ servers\nEstablished chaos engineering practices using Buildah, improving system resilience",
+      "technologies": [
+        "Seldon",
+        "Buildah",
+        "HCL"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2022",
+      "gpa": "3.77",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Lee, Burton and Duran Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "YAML",
+    "Python",
+    "Bash",
+    "Pulumi",
+    "CloudFormation",
+    "Helm",
+    "Terraform",
+    "Buildah",
+    "K3s",
+    "Kubernetes",
+    "Istio",
+    "Linkerd",
+    "Azure DevOps",
+    "Jenkins",
+    "CircleCI",
+    "GitLab CI",
+    "Argo Workflows",
+    "PagerDuty",
+    "Thanos",
+    "Azure",
+    "Alibaba Cloud",
+    "AWS",
+    "Oracle Cloud",
+    "TorchServe",
+    "Kale",
+    " Triton Inference Server",
+    "GitOps",
+    "Chaos Engineering",
+    "Platform Engineering",
+    "SRE Practices",
+    "Zero Trust"
+  ],
+  "companies": [
+    "CodeCraft Studios",
+    "Google"
+  ],
+  "job_titles": [
+    "SRE",
+    "SRE"
+  ],
+  "universities": [
+    "University of Michigan"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 283,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:40.238244",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

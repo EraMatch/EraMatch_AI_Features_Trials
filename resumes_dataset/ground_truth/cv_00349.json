@@ -1,0 +1,357 @@
+{
+  "full_name": "Anthony Williams",
+  "email": "anthony.williams@gmail.com",
+  "location": "South Zacharyshire, Singapore",
+  "years_of_experience": 11.8,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Anthony Williams",
+    "email": "anthony.williams@gmail.com",
+    "phone": "(361)796-3990x7676",
+    "location": "South Zacharyshire, Singapore",
+    "linkedin_url": "https://linkedin.com/in/anthony-williams",
+    "github_url": "https://github.com/anthonywilliams",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Java, PHP, and Kotlin. 12 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2021-12",
+      "end_date": "Present",
+      "duration": "2021-12 – Present",
+      "duration_months": 51,
+      "description": "Optimized database queries using Cloudflare, improving query performance by 26%\nDesigned and implemented message queue system using PHP, processing 100+ messages/hour\nBuilt automated CI/CD pipelines with SQLite, reducing deployment time by 60%\nDeveloped real-time data processing pipeline using gRPC, handling 5000+ documents/second",
+      "technologies": [
+        "gRPC",
+        "PHP",
+        "MongoDB",
+        "Cloudflare",
+        "SQLite"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2019-11",
+      "end_date": "2021-08",
+      "duration": "2019-11 – 2021-08",
+      "duration_months": 21,
+      "description": "Designed and implemented message queue system using Ansible, processing 1000+ messages/hour\nBuilt event-driven architecture using Hugging Face, processing 50000+ events daily\nBuilt automated CI/CD pipelines with Hugging Face, reducing deployment time by 36%\nReduced infrastructure costs by 59% through optimization using Hugging Face",
+      "technologies": [
+        "Microservices",
+        "LLM Integration",
+        "Hugging Face",
+        "Ansible"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2015-06",
+      "end_date": "2019-05",
+      "duration": "2015-06 – 2019-05",
+      "duration_months": 47,
+      "description": "Designed and implemented message queue system using LangChain, processing 100000+ messages/hour\nArchitected and built RESTful APIs serving 10000+ requests/day using Vercel, reducing response time by 50%\nBuilt event-driven architecture using GraphQL, processing 50000+ events daily\nMentored team of 7 junior developers on GraphQL best practices",
+      "technologies": [
+        "Vercel",
+        "Python",
+        "LangChain",
+        "GraphQL"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2013-02",
+      "end_date": "2014-12",
+      "duration": "2013-02 – 2014-12",
+      "duration_months": 22,
+      "description": "Architected and built RESTful APIs serving 50000+ requests/day using TDD, reducing response time by 26%\nDeveloped real-time data processing pipeline using Hugging Face, handling 100+ users/second\nBuilt event-driven architecture using Render, processing 100+ events daily\nImplemented caching layer with TDD, reducing database load by 16%",
+      "technologies": [
+        "Render",
+        "Elasticsearch",
+        "Ruby",
+        "Hugging Face",
+        "TDD",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2013",
+      "gpa": "3.48",
+      "activities": "ACM Club"
+    },
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2011",
+      "gpa": "3.64",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Graph Query Builder",
+      "description": "Built Database Proxy using PHP and TypeScript, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "LlamaIndex",
+        "TypeScript",
+        "PHP"
+      ],
+      "url": "https://github.com/anthonywilliams/graph-query-builder",
+      "date": "2023"
+    },
+    {
+      "name": "ML Model Registry",
+      "description": "Designed Notification Service leveraging Rails microservices architecture with LlamaIndex for caching",
+      "technologies": [
+        "LlamaIndex",
+        "Rails",
+        "Java"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "Resume Parser",
+      "description": "Implemented Database Proxy using Rust, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Rails",
+        "Rust",
+        "Kotlin"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Oracle Certified Professional Java SE",
+      "issuer": "Oracle",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Swedish (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "PHP",
+    "Kotlin",
+    "Rust",
+    "TypeScript",
+    "Rails",
+    "LlamaIndex",
+    "PostgreSQL",
+    "MySQL",
+    "SQLite",
+    "MongoDB",
+    "gRPC",
+    "Ansible",
+    "Jenkins",
+    "Terraform",
+    "DigitalOcean",
+    "Railway",
+    "Render",
+    "GCP",
+    "Google Gemini",
+    "Replicate",
+    "REST API Design",
+    "RAG Architecture",
+    "GraphQL"
+  ],
+  "companies": [
+    "Snowflake",
+    "Amazon",
+    "Shopify",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Backend Developer",
+    "Software Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University",
+    "TU Delft"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 349,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:14.034094",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

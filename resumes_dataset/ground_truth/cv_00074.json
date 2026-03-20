@@ -1,0 +1,302 @@
+{
+  "full_name": "Kristen Salazar",
+  "email": "kristen.salazar@yahoo.com",
+  "location": "Dawnmouth, USA",
+  "years_of_experience": 7.3,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Kristen Salazar",
+    "email": "kristen.salazar@yahoo.com",
+    "phone": "314-467-8669",
+    "location": "Dawnmouth, USA",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in TypeScript, Rust, Go.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 – Present",
+      "duration_months": 30,
+      "description": "Architected and built RESTful APIs serving 1000+ requests/day using Hugging Face, reducing response time by 21%\nLed migration from monolithic to microservices using REST API Design, improving system scalability by 67%",
+      "technologies": [
+        "Hugging Face",
+        "DigitalOcean",
+        "Microservices",
+        "Scrum",
+        "Java",
+        "REST API Design"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2020-02",
+      "end_date": "2023-05",
+      "duration": "2020-02 – 2023-05",
+      "duration_months": 39,
+      "description": "Implemented caching layer with Express.js, reducing database load by 23%\nCreated authentication and authorization system using Kubernetes, securing 5000+ user accounts\nMentored team of 2 junior developers on Express.js best practices",
+      "technologies": [
+        "Express.js",
+        "TDD",
+        "Kubernetes",
+        "Cassandra",
+        "SQLite"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2018-01",
+      "end_date": "2019-08",
+      "duration": "2018-01 – 2019-08",
+      "duration_months": 19,
+      "description": "Built automated CI/CD pipelines with Azure, reducing deployment time by 64%\nDeveloped real-time data processing pipeline using Actix, handling 500+ messages/second\nBuilt automated CI/CD pipelines with Rust, reducing deployment time by 30%\nCreated authentication and authorization system using OpenAI API, securing 100000+ user accounts",
+      "technologies": [
+        "Azure",
+        "FastAPI",
+        "Rust",
+        "GCP",
+        "Actix",
+        "OpenAI API"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "M.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2016",
+      "gpa": "3.74",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Health Check Service",
+      "description": "Created REST API Framework leveraging Django for core functionality and TypeScript for optimization",
+      "technologies": [
+        "Django",
+        "PHP",
+        "TypeScript"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Korean (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — Company Internal 2024",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Quite general there sister policy consider whom item treat\" — ArXiv 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Rust",
+    "Go",
+    "PHP",
+    "Node.js",
+    "Flask",
+    "Django",
+    "Neon",
+    "Supabase",
+    "Redis",
+    "MongoDB",
+    "Git",
+    "Kubernetes",
+    "Jenkins",
+    "Azure",
+    "Fly.io",
+    "Render",
+    "DigitalOcean",
+    "Hugging Face",
+    "AWS Bedrock",
+    "LLM Integration",
+    "Event-Driven Architecture"
+  ],
+  "companies": [
+    "Spotify",
+    "Meta",
+    "PromptStack"
+  ],
+  "job_titles": [
+    "Backend Developer",
+    "AI Engineer",
+    "API Developer"
+  ],
+  "universities": [
+    "UT Austin",
+    "TU Delft"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 74,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:37:55.689233",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

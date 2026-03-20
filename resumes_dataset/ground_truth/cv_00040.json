@@ -1,0 +1,333 @@
+{
+  "full_name": "Roberta Hughes",
+  "email": "roberta.hughes@protonmail.com",
+  "location": "North Terrance, UAE",
+  "years_of_experience": 10.9,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Roberta Hughes",
+    "email": "roberta.hughes@protonmail.com",
+    "phone": "+1-427-802-8951x71870",
+    "location": "North Terrance, UAE",
+    "linkedin_url": "https://linkedin.com/in/roberta-hughes",
+    "github_url": "https://github.com/robertahughes",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in cybersecurity with expertise in Bash, C, Rust. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Built security automation using GCP Security Command Center, reducing incident response time by 31%\nCreated vulnerability management program using Burp Suite, reducing CVEs by 59%\nImplemented security monitoring using Burp Suite, detecting 50000+ threats\nBuilt incident response automation using C, reducing recovery time by 21%",
+      "technologies": [
+        "GCP Security Command Center",
+        "C",
+        "Burp Suite"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2019-01",
+      "end_date": "2022-04",
+      "duration": "2019-01 – 2022-04",
+      "duration_months": 39,
+      "description": "Developed threat intelligence platform using OWASP Top 10, tracking 100000+ threats\nImplemented encryption solution using React, protecting 100+ records",
+      "technologies": [
+        "OWASP Top 10",
+        "Suricata",
+        "Sigma",
+        "MongoDB",
+        "OWASP ZAP"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2018-01",
+      "end_date": "2019-01",
+      "duration": "2018-01 – 2019-01",
+      "duration_months": 12,
+      "description": "Created security awareness training using Hashicorp Vault, reducing phishing clicks by 38%\nConducted penetration testing using Hashicorp Vault, identifying 100000+ vulnerabilities\nDeveloped threat intelligence platform using Hashicorp Vault, tracking 50000+ threats",
+      "technologies": [
+        "AWS Security Hub",
+        "Hashicorp Vault",
+        "SAST/DAST"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2014-12",
+      "end_date": "2017-09",
+      "duration": "2014-12 – 2017-09",
+      "duration_months": 33,
+      "description": "Created security awareness training using Wireshark, reducing phishing clicks by 17%\nDesigned zero-trust architecture using AWS Security Hub, securing 50000+ endpoints\nImplemented encryption solution using Figma, protecting 50000+ records\nDesigned zero-trust architecture using AWS Security Hub, securing 1000+ endpoints",
+      "technologies": [
+        "AWS Security Hub",
+        "Trivy",
+        "Wireshark"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": "Security Research"
+    },
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2015",
+      "gpa": "3.45",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Schema Validator",
+      "description": "Built Malware Detection with OWASP ZAP and Snort, serving 10,000+ daily active users",
+      "technologies": [
+        "OWASP ZAP",
+        "Burp Suite",
+        "Snort"
+      ],
+      "url": "https://github.com/robertahughes/schema-validator",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Morgan-Schwartz Youth Program, 2020-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "C",
+    "Rust",
+    "Go",
+    "Burp Suite",
+    "Suricata",
+    "OWASP ZAP",
+    "Metasploit",
+    "Snort",
+    "CrowdStrike",
+    "SonarQube",
+    "Hashicorp Vault",
+    "Wireshark",
+    "MongoDB",
+    "Redis",
+    "PostgreSQL",
+    "Elasticsearch",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "AWS Security Hub",
+    "Zero Trust Architecture",
+    "SOC2 Compliance",
+    "SAST/DAST",
+    "Incident Response"
+  ],
+  "companies": [
+    "Airbnb",
+    "ModelShip",
+    "CloudNova",
+    "ParseLab"
+  ],
+  "job_titles": [
+    "AppSec Engineer",
+    "Security Architect",
+    "Penetration Tester",
+    "Security Architect"
+  ],
+  "universities": [
+    "TU Munich",
+    "McGill University"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 40,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:37:38.791168",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

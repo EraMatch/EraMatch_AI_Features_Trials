@@ -1,0 +1,315 @@
+{
+  "full_name": "Melissa Walker",
+  "email": "melissa.walker@walker.dev",
+  "location": "West Larry, Japan",
+  "years_of_experience": 8.6,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Melissa Walker",
+    "email": "melissa.walker@walker.dev",
+    "phone": "(367)398-2507x146",
+    "location": "West Larry, Japan",
+    "linkedin_url": "https://linkedin.com/in/melissa-walker",
+    "github_url": "https://github.com/melissawalker",
+    "portfolio_url": "https://melissawalker.dev"
+  },
+  "summary": "Senior technical leader specializing in frontend engineering with expertise in TypeScript, JavaScript, Python. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": "2022-01 – Present",
+      "duration_months": 50,
+      "description": "Developed responsive web applications using Playwright, improving page load time by 52%\nImplemented automated testing framework using Playwright, achieving 44% code coverage\nBuilt interactive data visualizations using Netlify, serving 100000+ daily users",
+      "technologies": [
+        "Netlify",
+        "Git",
+        "Playwright"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2021-02",
+      "end_date": "2021-12",
+      "duration": "2021-02 – 2021-12",
+      "duration_months": 10,
+      "description": "Improved website accessibility score to 50% using Svelte\nDeveloped responsive web applications using Svelte, improving page load time by 55%\nBuilt reusable component library using Responsive Design, used by 50000+ developers\nCreated accessible UI components using Responsive Design, achieving WCAG AA compliance",
+      "technologies": [
+        "Responsive Design",
+        "Svelte",
+        "Render"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2018-06",
+      "end_date": "2020-12",
+      "duration": "2018-06 – 2020-12",
+      "duration_months": 30,
+      "description": "Created progressive web app using IndexedDB, increasing user engagement by 41%\nImplemented state management solution using Webpack, reducing API calls by 33%\nCreated accessible UI components using IndexedDB, achieving WCAG AA compliance\nImplemented state management solution using IndexedDB, reducing API calls by 67%",
+      "technologies": [
+        "Vue.js",
+        "IndexedDB",
+        "Cloudflare Pages",
+        "Webpack"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2017-02",
+      "end_date": "2018-03",
+      "duration": "2017-02 – 2018-03",
+      "duration_months": 13,
+      "description": "Developed design system using Firebase, standardizing UI across 50000+ applications\nIntegrated third-party APIs using Firebase, reducing integration time by 42%\nDeveloped design system using MongoDB, standardizing UI across 100000+ applications\nBuilt reusable component library using Vue.js, used by 50000+ developers",
+      "technologies": [
+        "Firebase",
+        "Vue.js",
+        "MongoDB"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2015",
+      "gpa": "3.56",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Mueller-Boyd Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "English (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "CSS",
+    "HTML",
+    "React",
+    "Astro",
+    "Svelte",
+    "Figma",
+    "Playwright",
+    "Jest",
+    "ESLint",
+    "Supabase",
+    "IndexedDB",
+    "PostgreSQL",
+    "Render",
+    "Cloudflare Pages",
+    "Vercel",
+    "AWS Amplify",
+    "Netlify",
+    "Responsive Design",
+    "Accessibility (WCAG)",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Agile"
+  ],
+  "companies": [
+    "Uber",
+    "ModelShip",
+    "Figma",
+    "Spotify"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "UI Engineer",
+    "Web Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 112,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:38:15.482209",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "full_name": "Christopher Rogers",
+  "email": "christopher.rogers@rogers.dev",
+  "location": "Alexanderfort, Netherlands",
+  "years_of_experience": 4.9,
+  "seniority_level": "mid",
+  "primary_domain": "QA / Testing",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Christopher Rogers",
+    "email": "christopher.rogers@rogers.dev",
+    "phone": "+1-522-222-0644x74212",
+    "location": "Alexanderfort, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/christopher-rogers",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Mid-level qa / testing specialist with 5 years building production systems. Skilled in C#, Ruby, Java with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Software QA Engineer",
+      "title": "Software QA Engineer",
+      "start_date": "2025-07",
+      "end_date": "Present",
+      "duration": "2025-07 – Present",
+      "duration_months": 8,
+      "description": "Developed API testing framework using JMeter, testing 5000+ endpoints\nBuilt accessibility testing using Jira, ensuring compliance for 1000+ pages\nCreated test data management using Jira, generating 10000+ test records\nBuilt accessibility testing using MySQL, ensuring compliance for 5000+ pages",
+      "technologies": [
+        "CI/CD Testing",
+        "JMeter",
+        "Appium",
+        "Python",
+        "MySQL",
+        "Jira"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Test Automation Engineer",
+      "title": "Test Automation Engineer",
+      "start_date": "2022-04",
+      "end_date": "2025-05",
+      "duration": "2022-04 – 2025-05",
+      "duration_months": 37,
+      "description": "Built mobile testing automation using Security Testing, testing on 1000+ devices\nDeveloped API testing framework using Git, testing 100000+ endpoints\nBuilt accessibility testing using Git, ensuring compliance for 50000+ pages\nBuilt accessibility testing using TestNG, ensuring compliance for 1000+ pages",
+      "technologies": [
+        "Agile Testing",
+        "Security Testing",
+        "TestNG",
+        "Git"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "QA Engineer",
+      "title": "QA Engineer",
+      "start_date": "2021-06",
+      "end_date": "2022-02",
+      "duration": "2021-06 – 2022-02",
+      "duration_months": 8,
+      "description": "Built security testing automation using Cypress, finding 500+ vulnerabilities\nCreated test reporting dashboard using Ruby, tracking 10000+ test metrics\nDeveloped test automation framework using Ruby, achieving 49% automation coverage",
+      "technologies": [
+        "Playwright",
+        "Cypress",
+        "Ruby",
+        "Test Automation"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "QA Lead",
+      "title": "QA Lead",
+      "start_date": "2020-09",
+      "end_date": "2021-03",
+      "duration": "2020-09 – 2021-03",
+      "duration_months": 6,
+      "description": "Built mobile testing automation using Docker, testing on 1000+ devices\nCreated test reporting dashboard using GCP, tracking 10000+ test metrics\nBuilt security testing automation using GCP, finding 1000+ vulnerabilities\nBuilt accessibility testing using TDD, ensuring compliance for 500+ pages",
+      "technologies": [
+        "GCP",
+        "TDD",
+        "Security Testing",
+        "Docker"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "M.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": "3.60",
+      "activities": null
+    },
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2020",
+      "gpa": "3.36",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestNG",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sauce Labs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BrowserStack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Postman",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Automation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Security Testing",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Health Check Service",
+      "description": "Built Load Testing using Cypress and TestNG, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Cypress",
+        "TestNG",
+        "JavaScript"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Developed Load Testing using JavaScript, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "C#",
+        "JavaScript",
+        "TestNG"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Yoga",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "Ruby",
+    "Java",
+    "JavaScript",
+    "TestNG",
+    "Cypress",
+    "Sauce Labs",
+    "Docker",
+    "Jira",
+    "BrowserStack",
+    "Postman",
+    "Redis",
+    "PostgreSQL",
+    "AWS",
+    "Azure",
+    "GCP",
+    "BDD",
+    "Test Automation",
+    "Test Planning"
+  ],
+  "companies": [
+    "Shopify",
+    "Airbnb",
+    "Supabase",
+    "Apple"
+  ],
+  "job_titles": [
+    "Software QA Engineer",
+    "Test Automation Engineer",
+    "QA Engineer",
+    "QA Lead"
+  ],
+  "universities": [
+    "Stanford University",
+    "University of Washington"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 233,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:39:14.592577",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

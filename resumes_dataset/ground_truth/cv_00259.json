@@ -1,0 +1,299 @@
+{
+  "full_name": "Colleen Schneider",
+  "email": "colleen.schneider@protonmail.com",
+  "location": "Adamsmouth, Singapore",
+  "years_of_experience": 9.0,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Colleen Schneider",
+    "email": "colleen.schneider@protonmail.com",
+    "phone": "241.201.1947x072",
+    "location": "Adamsmouth, Singapore",
+    "linkedin_url": "https://linkedin.com/in/colleen-schneider",
+    "github_url": "https://github.com/colleenschneider",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in frontend engineering with expertise in Python, TypeScript, Astro. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": "2023-07 – Present",
+      "duration_months": 32,
+      "description": "Developed design system using Storybook, standardizing UI across 50000+ applications\nDeveloped responsive web applications using Responsive Design, improving page load time by 29%\nDeveloped responsive web applications using Webpack, improving page load time by 69%\nBuilt interactive data visualizations using Storybook, serving 10000+ daily users",
+      "technologies": [
+        "Storybook",
+        "Webpack",
+        "Agile",
+        "Netlify",
+        "Responsive Design"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2019-11",
+      "end_date": "2023-02",
+      "duration": "2019-11 – 2023-02",
+      "duration_months": 39,
+      "description": "Built reusable component library using AWS Amplify, used by 100+ developers\nIntegrated third-party APIs using Responsive Design, reducing integration time by 40%\nBuilt reusable component library using Responsive Design, used by 100+ developers\nCreated progressive web app using AWS Amplify, increasing user engagement by 46%",
+      "technologies": [
+        "AWS Amplify",
+        "Astro",
+        "Responsive Design",
+        "Cloudflare Pages"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2016-05",
+      "end_date": "2019-06",
+      "duration": "2016-05 – 2019-06",
+      "duration_months": 37,
+      "description": "Implemented automated testing framework using Remix, achieving 49% code coverage\nImproved website accessibility score to 16% using Vite\nOptimized frontend bundle size using Remix, reducing load time by 47%\nCreated accessible UI components using Remix, achieving WCAG AA compliance",
+      "technologies": [
+        "Python",
+        "Next.js",
+        "Vite",
+        "Remix"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": "3.02",
+      "activities": "Design Team Lead"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Designed and implemented UI Design System with Astro, integrating with Remix for seamless data flow",
+      "technologies": [
+        "Vue.js",
+        "Remix",
+        "Astro"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Designed and implemented Real-time Chat with Vue.js, integrating with Python for seamless data flow",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "Vue.js"
+      ],
+      "url": "https://github.com/colleenschneider/real-time-analytics-engine",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "Astro",
+    "Vue.js",
+    "Remix",
+    "Jest",
+    "Prettier",
+    "Cypress",
+    "Figma",
+    "Git",
+    "MongoDB",
+    "IndexedDB",
+    "Supabase",
+    "Firebase",
+    "Render",
+    "Cloudflare Pages",
+    "AWS Amplify",
+    "Vercel",
+    "Netlify",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Responsive Design",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "Datadog",
+    "Supabase",
+    "Confluent"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "Frontend Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "Imperial College London"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 259,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:39:27.754464",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

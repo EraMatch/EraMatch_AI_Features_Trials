@@ -1,0 +1,333 @@
+{
+  "full_name": "Christopher Holt",
+  "email": "christopher.holt@gmail.com",
+  "location": "Michelleside, Brazil",
+  "years_of_experience": 10.8,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Christopher Holt",
+    "email": "christopher.holt@gmail.com",
+    "phone": "+1-327-391-4560x833",
+    "location": "Michelleside, Brazil",
+    "linkedin_url": "https://linkedin.com/in/christopher-holt",
+    "github_url": "https://github.com/christopherholt",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in backend engineering with expertise in Kotlin, Rust, Go. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2025-07",
+      "end_date": "Present",
+      "duration": "2025-07 – Present",
+      "duration_months": 8,
+      "description": "Optimized database queries using Node.js, improving query performance by 31%\nArchitected and built RESTful APIs serving 5000+ requests/day using Node.js, reducing response time by 42%",
+      "technologies": [
+        "LLM Integration",
+        "LlamaIndex",
+        "Neon",
+        "Heroku",
+        "Node.js"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2023-10",
+      "end_date": "2025-01",
+      "duration": "2023-10 – 2025-01",
+      "duration_months": 15,
+      "description": "Built event-driven architecture using Hugging Face, processing 50000+ events daily\nLed migration from monolithic to microservices using Hugging Face, improving system scalability by 37%\nLed migration from monolithic to microservices using ArgoCD, improving system scalability by 20%\nCreated authentication and authorization system using GraphQL, securing 5000+ user accounts",
+      "technologies": [
+        "Cassandra",
+        "ArgoCD",
+        "GraphQL",
+        "Hugging Face"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2020-09",
+      "end_date": "2023-04",
+      "duration": "2020-09 – 2023-04",
+      "duration_months": 31,
+      "description": "Developed real-time data processing pipeline using Railway, handling 10000+ queries/second\nMentored team of 3 junior developers on Railway best practices\nDesigned and implemented message queue system using NestJS, processing 500+ messages/hour\nCreated authentication and authorization system using Railway, securing 100+ user accounts",
+      "technologies": [
+        "NestJS",
+        "Railway",
+        "Fly.io"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2017-11",
+      "end_date": "2020-06",
+      "duration": "2017-11 – 2020-06",
+      "duration_months": 31,
+      "description": "Architected and built RESTful APIs serving 100+ requests/day using Gin, reducing response time by 21%\nCreated authentication and authorization system using ASP.NET, securing 100+ user accounts",
+      "technologies": [
+        "Redis",
+        "Gin",
+        "ASP.NET"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2013-10",
+      "end_date": "2017-07",
+      "duration": "2013-10 – 2017-07",
+      "duration_months": 45,
+      "description": "Led migration from monolithic to microservices using SQLite, improving system scalability by 32%\nBuilt event-driven architecture using Kotlin, processing 5000+ events daily\nBuilt event-driven architecture using Rust, processing 50000+ events daily\nLed migration from monolithic to microservices using Rust, improving system scalability by 46%",
+      "technologies": [
+        "Rust",
+        "Kotlin",
+        "SQLite",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "Ph.D.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2015",
+      "gpa": "3.08",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Parser",
+      "description": "Created Database Proxy leveraging Go for core functionality and Rust for optimization",
+      "technologies": [
+        "Rust",
+        "Go",
+        "Django"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Built Cache Layer using LlamaIndex and Go, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Python",
+        "LlamaIndex",
+        "Go"
+      ],
+      "url": "https://github.com/christopherholt/smartcache",
+      "date": "2023"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2019",
+      "credential_id": "RD83MH73"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — IEEE 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "Rust",
+    "Go",
+    "Python",
+    "LlamaIndex",
+    "Django",
+    "PostgreSQL",
+    "Elasticsearch",
+    "Jenkins",
+    "Kubernetes",
+    "ArgoCD",
+    "DigitalOcean",
+    "Railway",
+    "Heroku",
+    "Fly.io",
+    "AWS",
+    "AWS Bedrock",
+    "Anthropic",
+    "Agile",
+    "LLM Integration"
+  ],
+  "companies": [
+    "Cloudflare",
+    "DeployFast",
+    "Block",
+    "Quantum Edge",
+    "Tesla"
+  ],
+  "job_titles": [
+    "Backend Developer",
+    "AI Engineer",
+    "AI Engineer",
+    "Software Engineer",
+    "Software Engineer"
+  ],
+  "universities": [
+    "Technion"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 266,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:31.270685",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

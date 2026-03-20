@@ -1,0 +1,297 @@
+{
+  "full_name": "Carlos Roberts",
+  "email": "carlos.roberts@yahoo.com",
+  "location": "South Staceyberg, Australia",
+  "years_of_experience": 10.7,
+  "seniority_level": "lead",
+  "primary_domain": "Product Management",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Carlos Roberts",
+    "email": "carlos.roberts@yahoo.com",
+    "phone": "001-371-509-3248x086",
+    "location": "South Staceyberg, Australia",
+    "linkedin_url": "https://linkedin.com/in/carlos-roberts",
+    "github_url": null,
+    "portfolio_url": "https://carlosroberts.dev"
+  },
+  "summary": "Lead product management professional with 11 years driving technical strategy and team excellence. Expert in R, SQL, JavaScript with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Senior Product Manager",
+      "title": "Senior Product Manager",
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": "2023-08 – Present",
+      "duration_months": 31,
+      "description": "Created product backlog using Google Analytics, managing 500+ user stories\nBuilt customer feedback system using Hotjar, collecting 5000+ insights\nCreated product documentation using Product Discovery, serving 5000+ stakeholders",
+      "technologies": [
+        "Google Analytics",
+        "User Research",
+        "Hotjar",
+        "Product Discovery"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2019-11",
+      "end_date": "2023-07",
+      "duration": "2019-11 – 2023-07",
+      "duration_months": 44,
+      "description": "Led agile product development using Mixpanel, delivering 50000+ sprints\nConducted user research using Mixpanel, interviewing 5000+ users\nCreated product documentation using Mixpanel, serving 50000+ stakeholders",
+      "technologies": [
+        "Mixpanel",
+        "Amplitude",
+        "Jira"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2015-03",
+      "end_date": "2019-08",
+      "duration": "2015-03 – 2019-08",
+      "duration_months": 53,
+      "description": "Created product documentation using Agile, serving 50000+ stakeholders\nBuilt customer feedback system using Agile, collecting 1000+ insights",
+      "technologies": [
+        "Product Discovery",
+        "AWS",
+        "MySQL",
+        "Agile",
+        "Mixpanel"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "B.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Amplitude",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zoom",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mixpanel",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Product Discovery",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Log Aggregator",
+      "description": "Designed User Onboarding Flow leveraging Confluence microservices architecture with SQL for caching",
+      "technologies": [
+        "SQL",
+        "R",
+        "Confluence"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Built Stakeholder Reporting using R and Python, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Confluence",
+        "R",
+        "Python"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Product Management Certificate",
+      "issuer": "Product School",
+      "date": "2020",
+      "credential_id": "AE74EP84"
+    },
+    {
+      "name": "PMP - Project Management Professional",
+      "issuer": "PMI",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Necessary himself two meet these tell everybody so increase\" — EMNLP 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "SQL",
+    "JavaScript",
+    "Python",
+    "Productboard",
+    "Confluence",
+    "Amplitude",
+    "Google Analytics",
+    "Zoom",
+    "Mixpanel",
+    "Hotjar",
+    "PostgreSQL",
+    "Snowflake",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Agile",
+    "User Research"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "Salesforce",
+    "Datadog"
+  ],
+  "job_titles": [
+    "Senior Product Manager",
+    "Product Owner",
+    "Product Manager"
+  ],
+  "universities": [
+    "Tsinghua University",
+    "Stanford University"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 38,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:37:37.755446",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "full_name": "Sarah Rhodes",
+  "email": "sarah.rhodes@outlook.com",
+  "location": "West Cassiefurt, Australia",
+  "years_of_experience": 6.3,
+  "seniority_level": "senior",
+  "primary_domain": "Product Management",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Sarah Rhodes",
+    "email": "sarah.rhodes@outlook.com",
+    "phone": "+1-856-521-8501",
+    "location": "West Cassiefurt, Australia",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in SQL, JavaScript, and R. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Senior Product Manager",
+      "title": "Senior Product Manager",
+      "start_date": "2024-05",
+      "end_date": "Present",
+      "duration": "2024-05 – Present",
+      "duration_months": 22,
+      "description": "Created product backlog using Confluence, managing 500+ user stories\nDeveloped OKR tracking using MySQL, achieving 23% of quarterly goals\nConducted user research using MySQL, interviewing 1000+ users\nLed product development using Confluence, launching features used by 1000+ users",
+      "technologies": [
+        "User Research",
+        "Figma",
+        "MySQL",
+        "Product Discovery",
+        "AWS",
+        "Confluence"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2021-08",
+      "end_date": "2024-04",
+      "duration": "2021-08 – 2024-04",
+      "duration_months": 32,
+      "description": "Led product development using Agile, launching features used by 100+ users\nConducted user research using User Research, interviewing 5000+ users\nImplemented A/B testing using MySQL, running 1000+ experiments",
+      "technologies": [
+        "Agile",
+        "MySQL",
+        "User Research"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2019-04",
+      "end_date": "2021-02",
+      "duration": "2019-04 – 2021-02",
+      "duration_months": 22,
+      "description": "Led product launches using Zoom, achieving 10000+ signups\nLed product development using Zoom, launching features used by 100000+ users\nImplemented product analytics using PostgreSQL, tracking 1000+ metrics",
+      "technologies": [
+        "PostgreSQL",
+        "OKRs",
+        "Zoom"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Startup Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Notion",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Aha!",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmunk",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zoom",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mixpanel",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmap Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Product Discovery",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Developed Customer Feedback System using Roadmunk, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Confluence",
+        "Roadmunk",
+        "Productboard"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Google DevFest 2019",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — Google DevFest 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "JavaScript",
+    "R",
+    "Notion",
+    "Confluence",
+    "Productboard",
+    "Aha!",
+    "Roadmunk",
+    "Zoom",
+    "Tableau",
+    "Hotjar",
+    "Figma",
+    "Mixpanel",
+    "MySQL",
+    "Snowflake",
+    "BigQuery",
+    "GCP",
+    "Azure",
+    "Roadmap Planning",
+    "Product Discovery"
+  ],
+  "companies": [
+    "Confluent",
+    "Twilio",
+    "VectorDB Inc"
+  ],
+  "job_titles": [
+    "Senior Product Manager",
+    "VP of Product",
+    "Product Owner"
+  ],
+  "universities": [
+    "MIT"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 105,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:38:11.783695",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

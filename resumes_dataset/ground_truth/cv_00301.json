@@ -1,0 +1,363 @@
+{
+  "full_name": "Sandra Herring",
+  "email": "sandra.herring@herring.dev",
+  "location": "East Tara, Germany",
+  "years_of_experience": 8.2,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sandra Herring",
+    "email": "sandra.herring@herring.dev",
+    "phone": "447.313.9155x96363",
+    "location": "East Tara, Germany",
+    "linkedin_url": "https://linkedin.com/in/sandra-herring",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in HCL, Rust, and YAML. 8 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2024-12",
+      "end_date": "Present",
+      "duration": "2024-12 – Present",
+      "duration_months": 15,
+      "description": "Designed and implemented infrastructure as code using Skopeo, managing 5000+ servers\nDesigned and implemented infrastructure as code using Skopeo, managing 500+ servers",
+      "technologies": [
+        "GitOps",
+        "Skopeo",
+        "TensorFlow Serving"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2024-01",
+      "end_date": "2024-12",
+      "duration": "2024-01 – 2024-12",
+      "duration_months": 11,
+      "description": "Designed and implemented infrastructure as code using Istio, managing 100000+ servers\nDesigned and implemented infrastructure as code using CloudFormation, managing 50000+ servers\nImplemented log aggregation using Grafana, processing 500+ logs/day\nDesigned and implemented infrastructure as code using Crossplane, managing 1000+ servers",
+      "technologies": [
+        "Grafana",
+        "Crossplane",
+        "PowerShell",
+        "CloudFormation",
+        "Istio",
+        "Infrastructure as Code"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2019-04",
+      "end_date": "2023-09",
+      "duration": "2019-04 – 2023-09",
+      "duration_months": 53,
+      "description": "Designed and implemented infrastructure as code using Datadog, managing 500+ servers\nImplemented log aggregation using Kubeflow, processing 10000+ logs/day",
+      "technologies": [
+        "Datadog",
+        "CircleCI",
+        "Kubeflow"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2017-03",
+      "end_date": "2018-11",
+      "duration": "2017-03 – 2018-11",
+      "duration_months": 20,
+      "description": "Established GitOps workflows using AWS, improving deployment frequency by 20%\nBuilt automated backup solution using Oracle Cloud, ensuring 1000% data protection",
+      "technologies": [
+        "Oracle Cloud",
+        "AWS",
+        "Datadog"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2015",
+      "gpa": "3.93",
+      "activities": "DevOps Bootcamp"
+    },
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "B.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": "2.89",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Designed GitOps Workflow leveraging YAML microservices architecture with PowerShell for caching",
+      "technologies": [
+        "Rust",
+        "PowerShell",
+        "YAML"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Code Review Bot",
+      "description": "Created Auto-scaling Solution leveraging PowerShell for core functionality and HCL for optimization",
+      "technologies": [
+        "Rust",
+        "PowerShell",
+        "HCL"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Schema Validator",
+      "description": "Built Secrets Management with HCL and Rust, serving 10,000+ daily active users",
+      "technologies": [
+        "Rust",
+        "HCL",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — MLH 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HCL",
+    "Rust",
+    "YAML",
+    "PowerShell",
+    "Ansible",
+    "Pulumi",
+    "CDK",
+    "Helm",
+    "Kubernetes",
+    "Podman",
+    "Docker",
+    "GitHub Actions",
+    "Tekton",
+    "Datadog",
+    "Thanos",
+    "PagerDuty",
+    "Prometheus",
+    "Grafana",
+    "Alibaba Cloud",
+    "DigitalOcean",
+    "Oracle Cloud",
+    "Kubeflow",
+    "MLflow",
+    "Seldon",
+    "SRE Practices",
+    "MLOps"
+  ],
+  "companies": [
+    "Google",
+    "AgentForge",
+    "Amazon",
+    "Cloudflare"
+  ],
+  "job_titles": [
+    "Release Engineer",
+    "MLOps Engineer",
+    "Platform Engineer",
+    "DevOps Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University",
+    "UIUC"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 301,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:48.905917",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

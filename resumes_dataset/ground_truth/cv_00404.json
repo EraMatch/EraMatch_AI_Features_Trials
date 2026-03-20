@@ -1,0 +1,328 @@
+{
+  "full_name": "Mary Knapp DVM",
+  "email": "mary.knapp.dvm@outlook.com",
+  "location": "Graystad, France",
+  "years_of_experience": 9.7,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Mary Knapp DVM",
+    "email": "mary.knapp.dvm@outlook.com",
+    "phone": "290.897.2832x15285",
+    "location": "Graystad, France",
+    "linkedin_url": null,
+    "github_url": "https://github.com/maryknappdvm",
+    "portfolio_url": "https://maryknappdvm.dev"
+  },
+  "summary": "Senior technical leader specializing in frontend engineering with expertise in JavaScript, CSS, TypeScript. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": "2023-07 – Present",
+      "duration_months": 32,
+      "description": "Created accessible UI components using Tailwind CSS, achieving WCAG AA compliance\nImproved website accessibility score to 45% using Responsive Design\nBuilt interactive data visualizations using Responsive Design, serving 100000+ daily users",
+      "technologies": [
+        "Responsive Design",
+        "Tailwind CSS",
+        "IndexedDB",
+        "Material UI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2020-08",
+      "end_date": "2023-04",
+      "duration": "2020-08 – 2023-04",
+      "duration_months": 32,
+      "description": "Created progressive web app using CSS, increasing user engagement by 59%\nImplemented state management solution using Vite, reducing API calls by 33%\nDeveloped design system using Netlify, standardizing UI across 1000+ applications\nBuilt interactive data visualizations using Netlify, serving 100+ daily users",
+      "technologies": [
+        "CSS",
+        "Tailwind CSS",
+        "Vite",
+        "Netlify"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2015-12",
+      "end_date": "2020-04",
+      "duration": "2015-12 – 2020-04",
+      "duration_months": 52,
+      "description": "Built reusable component library using Figma, used by 100000+ developers\nCreated accessible UI components using Prettier, achieving WCAG AA compliance",
+      "technologies": [
+        "Figma",
+        "Prettier",
+        "Bootstrap",
+        "Jest",
+        "Cloudflare Pages"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Accessibility Initiative"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Built SPA Framework with Angular and Svelte, serving 10,000+ daily active users",
+      "technologies": [
+        "Svelte",
+        "Remix",
+        "Angular"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google UX Design Certificate",
+      "issuer": "Google",
+      "date": "2020",
+      "credential_id": null
+    },
+    {
+      "name": "React Certified Developer",
+      "issuer": "React",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — MLH 2023",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Full quickly story surface tax\" — ICML 2025",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Evans-Carter Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "CSS",
+    "TypeScript",
+    "Python",
+    "Dart",
+    "Angular",
+    "Astro",
+    "Remix",
+    "Svelte",
+    "Tailwind CSS",
+    "Playwright",
+    "Git",
+    "Firebase",
+    "PostgreSQL",
+    "MongoDB",
+    "IndexedDB",
+    "AWS Amplify",
+    "Render",
+    "Cloudflare Pages",
+    "Vercel",
+    "Netlify",
+    "Agile",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "ModelShip",
+    "DataPulse",
+    "CodeCraft Studios"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "UI Engineer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 404,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:41.779944",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

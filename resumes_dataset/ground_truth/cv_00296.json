@@ -1,0 +1,375 @@
+{
+  "full_name": "Alex Harrison",
+  "email": "alex.harrison@harrison.dev",
+  "location": "Tylermouth, Brazil",
+  "years_of_experience": 8.4,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Alex Harrison",
+    "email": "alex.harrison@harrison.dev",
+    "phone": "3565965917",
+    "location": "Tylermouth, Brazil",
+    "linkedin_url": "https://linkedin.com/in/alex-harrison",
+    "github_url": "https://github.com/alexharrison",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in devops / sre / mlops with expertise in YAML, PowerShell, Bash. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 – Present",
+      "duration_months": 37,
+      "description": "Built disaster recovery solution using Crossplane, achieving RTO of 77ms\nOptimized cloud infrastructure using CloudFormation, reducing costs by 69%\nBuilt automated backup solution using CloudFormation, ensuring 500% data protection",
+      "technologies": [
+        "ELK Stack",
+        "Tekton",
+        "CloudFormation",
+        "Crossplane",
+        "TensorFlow Serving"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2020-09",
+      "end_date": "2023-01",
+      "duration": "2020-09 – 2023-01",
+      "duration_months": 28,
+      "description": "Established GitOps workflows using TensorFlow Serving, improving deployment frequency by 47%\nImplemented log aggregation using Seldon, processing 100000+ logs/day\nImplemented log aggregation using TensorFlow Serving, processing 5000+ logs/day\nBuilt automated backup solution using Argo Workflows, ensuring 500% data protection",
+      "technologies": [
+        "Linode",
+        "Seldon",
+        "Argo Workflows",
+        " Triton Inference Server",
+        "TensorFlow Serving"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2017-10",
+      "end_date": "2020-03",
+      "duration": "2017-10 – 2020-03",
+      "duration_months": 29,
+      "description": "Created self-service provisioning portal using Rust, serving 10000+ engineers\nImplemented log aggregation using Thanos, processing 10000+ logs/day",
+      "technologies": [
+        "Platform Engineering",
+        "Kubernetes",
+        "Thanos",
+        "Rust"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2016-09",
+      "end_date": "2017-04",
+      "duration": "2016-09 – 2017-04",
+      "duration_months": 7,
+      "description": "Created monitoring and alerting system using GitLab CI, reducing MTTR by 64%\nCreated monitoring and alerting system using Ansible, reducing MTTR by 29%\nEstablished GitOps workflows using ArgoCD, improving deployment frequency by 49%",
+      "technologies": [
+        "GitLab CI",
+        "Crossplane",
+        "Incident Management",
+        "Ansible",
+        "MLOps",
+        "ArgoCD"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "SRE Team"
+    },
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2016",
+      "gpa": "3.53",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Yoga",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "YAML",
+    "PowerShell",
+    "Bash",
+    "HCL",
+    "Pulumi",
+    "Ansible",
+    "CloudFormation",
+    "CDK",
+    "Helm",
+    "Envoy",
+    "Kubernetes",
+    "Docker",
+    "Podman",
+    "GitLab CI",
+    "Tekton",
+    "CircleCI",
+    "Grafana",
+    "PagerDuty",
+    "ELK Stack",
+    "Prometheus",
+    "Thanos",
+    "Alibaba Cloud",
+    "DigitalOcean",
+    "Oracle Cloud",
+    "AWS",
+    "Kubeflow",
+    "MLflow",
+    "Kale",
+    " Triton Inference Server",
+    "TensorFlow Serving",
+    "Platform Engineering",
+    "SRE Practices"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "CloudNova",
+    "Apple",
+    "NeuroLink Labs"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "MLOps Engineer",
+    "Platform Engineer",
+    "Cloud Engineer"
+  ],
+  "universities": [
+    "KAIST",
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 296,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:46.482255",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

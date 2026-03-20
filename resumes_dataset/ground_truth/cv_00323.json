@@ -1,0 +1,309 @@
+{
+  "full_name": "Steven Butler",
+  "email": "steven.butler@butler.dev",
+  "location": "New Regina, Canada",
+  "years_of_experience": 9.9,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Steven Butler",
+    "email": "steven.butler@butler.dev",
+    "phone": "917.595.7602x4375",
+    "location": "New Regina, Canada",
+    "linkedin_url": "https://linkedin.com/in/steven-butler",
+    "github_url": null,
+    "portfolio_url": "https://stevenbutler.dev"
+  },
+  "summary": "Lead cybersecurity professional with 10 years driving technical strategy and team excellence. Expert in Bash, C, PowerShell with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2023-11",
+      "end_date": "Present",
+      "duration": "2023-11 – Present",
+      "duration_months": 28,
+      "description": "Built secure CI/CD pipeline using Bash, preventing 10000+ security issues\nImplemented encryption solution using Vue, protecting 5000+ records\nBuilt secure CI/CD pipeline using OWASP ZAP, preventing 10000+ security issues\nImplemented security monitoring using Python, detecting 50000+ threats",
+      "technologies": [
+        "Python",
+        "OWASP ZAP",
+        "Bash"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2019-10",
+      "end_date": "2023-09",
+      "duration": "2019-10 – 2023-09",
+      "duration_months": 47,
+      "description": "Implemented encryption solution using Angular, protecting 100000+ records\nCreated security awareness training using Wireshark, reducing phishing clicks by 40%\nImplemented SIEM solution using Wireshark, processing 100+ logs/day\nImplemented identity management using AWS Security Hub, securing 100000+ user identities",
+      "technologies": [
+        "Wireshark",
+        "AWS Security Hub",
+        "Burp Suite",
+        "CrowdStrike",
+        "Elasticsearch"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2016-01",
+      "end_date": "2019-09",
+      "duration": "2016-01 – 2019-09",
+      "duration_months": 44,
+      "description": "Created vulnerability management program using AWS Security Hub, reducing CVEs by 64%\nImplemented security monitoring using Go, detecting 5000+ threats\nBuilt secure CI/CD pipeline using AWS Security Hub, preventing 500+ security issues",
+      "technologies": [
+        "SonarQube",
+        "MongoDB",
+        "SOC2 Compliance",
+        "Go",
+        "AWS Security Hub",
+        "Burp Suite"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "InfoSec Society"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Implemented Malware Detection using Metasploit, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Metasploit",
+        "Snort",
+        "Burp Suite"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Built Security Dashboard with Suricata and Metasploit, serving 10,000+ daily active users",
+      "technologies": [
+        "Metasploit",
+        "Suricata",
+        "Sigma"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Designed Access Control System leveraging Go microservices architecture with Snort for caching",
+      "technologies": [
+        "Snort",
+        "Go",
+        "C"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "C",
+    "PowerShell",
+    "Rust",
+    "Go",
+    "Suricata",
+    "Sigma",
+    "Snort",
+    "Burp Suite",
+    "Metasploit",
+    "CrowdStrike",
+    "SonarQube",
+    "Elasticsearch",
+    "Redis",
+    "PostgreSQL",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "Incident Response",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "Airbnb",
+    "InfraCore"
+  ],
+  "job_titles": [
+    "Penetration Tester",
+    "Security Engineer",
+    "SOC Analyst"
+  ],
+  "universities": [
+    "University of Michigan",
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 323,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:40:00.373157",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

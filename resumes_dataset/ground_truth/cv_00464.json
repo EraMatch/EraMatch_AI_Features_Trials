@@ -1,0 +1,325 @@
+{
+  "full_name": "Terry Buchanan",
+  "email": "terry.buchanan@protonmail.com",
+  "location": "Santiagomouth, Brazil",
+  "years_of_experience": 8.0,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Terry Buchanan",
+    "email": "terry.buchanan@protonmail.com",
+    "phone": "001-885-429-8940",
+    "location": "Santiagomouth, Brazil",
+    "linkedin_url": "https://linkedin.com/in/terry-buchanan",
+    "github_url": "https://github.com/terrybuchanan",
+    "portfolio_url": null
+  },
+  "summary": "Lead mobile development professional with 8 years driving technical strategy and team excellence. Expert in Objective-C, C++, KMP with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 – Present",
+      "duration_months": 42,
+      "description": "Implemented push notification system using Swift, increasing user engagement by 43%\nBuilt AR/VR features using Swift, increasing user retention by 47%",
+      "technologies": [
+        "Swift",
+        "MVVM",
+        "Xcode",
+        "Objective-C",
+        "Gradle"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2018-09",
+      "end_date": "2022-07",
+      "duration": "2018-09 – 2022-07",
+      "duration_months": 46,
+      "description": "Implemented app streaming using CI/CD for Mobile, reducing download size by 17%\nDeveloped mobile application using CI/CD for Mobile, achieving 500+ downloads",
+      "technologies": [
+        "SwiftUI",
+        "Gradle",
+        "CI/CD for Mobile"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2017-12",
+      "end_date": "2018-08",
+      "duration": "2017-12 – 2018-08",
+      "duration_months": 8,
+      "description": "Developed cross-platform solution using App Store Optimization, reducing development time by 55%\nCreated app analytics tracking using TestFlight, providing insights on 5000+ users\nBuilt AR/VR features using Kotlin, increasing user retention by 30%\nImplemented push notification system using SQLite, increasing user engagement by 16%",
+      "technologies": [
+        "TestFlight",
+        "Kotlin",
+        "App Store Optimization",
+        "SQLite",
+        "Firebase Firestore"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "B.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "iOS Developer"
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Built Cross-platform SDK using C++ and KMP, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "KMP",
+        "React Native",
+        "C++"
+      ],
+      "url": "https://github.com/terrybuchanan/feature-store",
+      "date": "2021"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed and implemented App Analytics with Flutter, integrating with C++ for seamless data flow",
+      "technologies": [
+        "Flutter",
+        "C++",
+        "KMP"
+      ],
+      "url": "https://github.com/terrybuchanan/autoscale-monitor",
+      "date": "2021"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Implemented App Store Optimization using Objective-C, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Objective-C",
+        "React Native",
+        "Flutter"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Stevens, Brown and Brown Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Objective-C",
+    "C++",
+    "KMP",
+    "React Native",
+    "Flutter",
+    "Gradle",
+    "CocoaPods",
+    "Android Studio",
+    "Realm",
+    "Core Data",
+    "Hive",
+    "Firebase Firestore",
+    "SQLite",
+    "RevenueCat",
+    "Supabase",
+    "Firebase",
+    "AWS Amplify",
+    "CI/CD for Mobile",
+    "MVVM",
+    "App Store Optimization",
+    "Offline-First",
+    "Clean Architecture"
+  ],
+  "companies": [
+    "Notion",
+    "Supabase",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "Android Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "UIUC",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 464,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:41:11.453677",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

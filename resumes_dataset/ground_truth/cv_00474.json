@@ -1,0 +1,280 @@
+{
+  "full_name": "Kathryn Kelly",
+  "email": "kathryn.kelly@gmail.com",
+  "location": "North Victorton, Germany",
+  "years_of_experience": 6.1,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kathryn Kelly",
+    "email": "kathryn.kelly@gmail.com",
+    "phone": "+1-421-676-6191",
+    "location": "North Victorton, Germany",
+    "linkedin_url": "https://linkedin.com/in/kathryn-kelly",
+    "github_url": "https://github.com/kathrynkelly",
+    "portfolio_url": null
+  },
+  "summary": "Senior frontend engineering engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in JavaScript, HTML, Dart with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 – Present",
+      "duration_months": 37,
+      "description": "Developed design system using ESLint, standardizing UI across 100000+ applications\nImproved website accessibility score to 49% using ESLint",
+      "technologies": [
+        "CSS",
+        "Svelte",
+        "Vue.js",
+        "ESLint",
+        "AWS Amplify",
+        "Playwright"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2019-12",
+      "end_date": "2022-12",
+      "duration": "2019-12 – 2022-12",
+      "duration_months": 36,
+      "description": "Optimized frontend bundle size using IndexedDB, reducing load time by 23%\nDeveloped responsive web applications using Prettier, improving page load time by 15%",
+      "technologies": [
+        "TypeScript",
+        "AWS Amplify",
+        "Progressive Web Apps",
+        "Prettier",
+        "Vite",
+        "IndexedDB"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "B.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2019",
+      "gpa": "3.73",
+      "activities": "Design Team Lead"
+    },
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "B.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2018",
+      "gpa": "3.20",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Photography",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Hiking",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "HTML",
+    "Dart",
+    "Python",
+    "CSS",
+    "Angular",
+    "Vue.js",
+    "Remix",
+    "Next.js",
+    "Svelte",
+    "Playwright",
+    "Prettier",
+    "Jest",
+    "Supabase",
+    "Firebase",
+    "PostgreSQL",
+    "IndexedDB",
+    "MongoDB",
+    "Vercel",
+    "Cloudflare Pages",
+    "AWS Amplify",
+    "Netlify",
+    "Accessibility (WCAG)",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "UIUC",
+    "Stanford University"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 474,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:41:16.337568",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

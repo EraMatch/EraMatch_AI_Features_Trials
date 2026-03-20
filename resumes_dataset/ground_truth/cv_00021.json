@@ -1,0 +1,314 @@
+{
+  "full_name": "Joyce Solis",
+  "email": "joyce.solis@solis.dev",
+  "location": "Katiehaven, India",
+  "years_of_experience": 11.2,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Joyce Solis",
+    "email": "joyce.solis@solis.dev",
+    "phone": "+1-688-595-7986x87277",
+    "location": "Katiehaven, India",
+    "linkedin_url": "https://linkedin.com/in/joyce-solis",
+    "github_url": "https://github.com/joycesolis",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Objective-C, Dart, and Kotlin. 11 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2021-09",
+      "end_date": "Present",
+      "duration": "2021-09 – Present",
+      "duration_months": 54,
+      "description": "Implemented biometric authentication using Jetpack Compose, securing 500+ user accounts\nImplemented push notification system using Realm, increasing user engagement by 66%\nImplemented app streaming using Realm, reducing download size by 54%\nBuilt widget functionality using App Store Optimization, increasing daily active users by 27%",
+      "technologies": [
+        "Offline-First",
+        "RevenueCat",
+        "Expo",
+        "Realm",
+        "App Store Optimization",
+        "Jetpack Compose"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2017-12",
+      "end_date": "2021-07",
+      "duration": "2017-12 – 2021-07",
+      "duration_months": 43,
+      "description": "Implemented deep linking using TypeScript, improving conversion rates by 67%\nCreated app analytics tracking using TypeScript, providing insights on 100000+ users\nCreated in-app purchase integration using TypeScript, generating 5000+ in revenue\nCreated app analytics tracking using Offline-First, providing insights on 100000+ users",
+      "technologies": [
+        "Objective-C",
+        "TypeScript",
+        "Offline-First"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2014-07",
+      "end_date": "2017-08",
+      "duration": "2014-07 – 2017-08",
+      "duration_months": 37,
+      "description": "Implemented deep linking using KMP, improving conversion rates by 64%\nDeveloped cross-platform solution using KMP, reducing development time by 26%",
+      "technologies": [
+        "Android Studio",
+        "Firebase",
+        "KMP",
+        "Xcode"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Mobile Development Club"
+    },
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2014",
+      "gpa": "3.54",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Developed In-app Purchase System using Dart, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Dart",
+        "Flutter",
+        "UIKit"
+      ],
+      "url": "https://github.com/joycesolis/api-gateway",
+      "date": "2025"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Built In-app Purchase System with UIKit and Kotlin, serving 10,000+ daily active users",
+      "technologies": [
+        "Expo",
+        "UIKit",
+        "Kotlin"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Apple Certified iOS App Developer",
+      "issuer": "Apple",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Podcasting",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Phone ever back experience even floor music catch discuss\" — NeurIPS 2022",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Objective-C",
+    "Dart",
+    "Kotlin",
+    "React Native",
+    "Expo",
+    "Flutter",
+    "UIKit",
+    "TestFlight",
+    "Fastlane",
+    "Android Studio",
+    "Core Data",
+    "Hive",
+    "Realm",
+    "Firebase Firestore",
+    "SQLite",
+    "AWS Amplify",
+    "Supabase",
+    "Firebase",
+    "CI/CD for Mobile",
+    "Clean Architecture"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "VectorDB Inc",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "iOS Developer",
+    "iOS Developer",
+    "iOS Developer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "MIT"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 21,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:37:28.937275",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

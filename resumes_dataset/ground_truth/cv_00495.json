@@ -1,0 +1,282 @@
+{
+  "full_name": "Dominique Cruz",
+  "email": "dominique.cruz@cruz.dev",
+  "location": "Joshuamouth, UK",
+  "years_of_experience": 5.2,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Dominique Cruz",
+    "email": "dominique.cruz@cruz.dev",
+    "phone": "001-422-303-6849x95154",
+    "location": "Joshuamouth, UK",
+    "linkedin_url": "https://linkedin.com/in/dominique-cruz",
+    "github_url": "https://github.com/dominiquecruz",
+    "portfolio_url": null
+  },
+  "summary": "Senior cybersecurity engineer with 5 years of experience architecting and delivering enterprise solutions. Expert in PowerShell, Python, C with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 – Present",
+      "duration_months": 42,
+      "description": "Created security awareness training using Azure Sentinel, reducing phishing clicks by 57%\nDesigned zero-trust architecture using Suricata, securing 10000+ endpoints",
+      "technologies": [
+        "Suricata",
+        "Wireshark",
+        "Elasticsearch",
+        "Azure Sentinel"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2020-11",
+      "end_date": "2022-08",
+      "duration": "2020-11 – 2022-08",
+      "duration_months": 21,
+      "description": "Implemented SIEM solution using CrowdStrike, processing 1000+ logs/day\nBuilt secure CI/CD pipeline using C, preventing 50000+ security issues",
+      "technologies": [
+        "Hashicorp Vault",
+        "CrowdStrike",
+        "C"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2020",
+      "gpa": "3.38",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Designed SIEM Integration leveraging Sigma microservices architecture with Metasploit for caching",
+      "technologies": [
+        "Sigma",
+        "Rust",
+        "Metasploit"
+      ],
+      "url": "https://github.com/dominiquecruz/api-gateway",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Drone building",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — ACM 2025",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — IEEE 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PowerShell",
+    "Python",
+    "C",
+    "Go",
+    "Rust",
+    "Metasploit",
+    "OWASP ZAP",
+    "Sigma",
+    "Burp Suite",
+    "Suricata",
+    "Hashicorp Vault",
+    "Wireshark",
+    "Splunk",
+    "Redis",
+    "Elasticsearch",
+    "PostgreSQL",
+    "MongoDB",
+    "Azure Sentinel",
+    "AWS Security Hub",
+    "GCP Security Command Center",
+    "SOC2 Compliance",
+    "OWASP Top 10",
+    "Threat Modeling",
+    "Zero Trust Architecture",
+    "Incident Response"
+  ],
+  "companies": [
+    "PipelineIO",
+    "PromptStack"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 495,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:41:26.415274",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

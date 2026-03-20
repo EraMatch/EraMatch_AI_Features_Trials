@@ -1,0 +1,308 @@
+{
+  "full_name": "Jessica Thomas MD",
+  "email": "jessica.thomas.md@gmail.com",
+  "location": "West Heatherville, Brazil",
+  "years_of_experience": 10.2,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jessica Thomas MD",
+    "email": "jessica.thomas.md@gmail.com",
+    "phone": "435.621.1039",
+    "location": "West Heatherville, Brazil",
+    "linkedin_url": "https://linkedin.com/in/jessica-thomas-md",
+    "github_url": "https://github.com/jessicathomasmd",
+    "portfolio_url": "https://jessicathomasmd.dev"
+  },
+  "summary": "Senior technical leader specializing in mobile development with expertise in Dart, TypeScript, SwiftUI. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2022-05",
+      "end_date": "Present",
+      "duration": "2022-05 – Present",
+      "duration_months": 46,
+      "description": "Built offline-first architecture using Kotlin, improving app responsiveness by 26%\nImplemented biometric authentication using Objective-C, securing 50000+ user accounts\nImplemented push notification system using Objective-C, increasing user engagement by 43%",
+      "technologies": [
+        "KMP",
+        "Kotlin",
+        "Objective-C",
+        "MVVM",
+        "UIKit"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2019-08",
+      "end_date": "2022-02",
+      "duration": "2019-08 – 2022-02",
+      "duration_months": 30,
+      "description": "Implemented deep linking using Clean Architecture, improving conversion rates by 29%\nImplemented push notification system using Java, increasing user engagement by 61%",
+      "technologies": [
+        "Java",
+        "C++",
+        "Fastlane",
+        "Clean Architecture"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2018-07",
+      "end_date": "2019-05",
+      "duration": "2018-07 – 2019-05",
+      "duration_months": 10,
+      "description": "Built AR/VR features using App Store Optimization, increasing user retention by 34%\nDeveloped cross-platform solution using App Store Optimization, reducing development time by 51%\nDeveloped mobile application using React Native, achieving 500+ downloads",
+      "technologies": [
+        "Dart",
+        "React Native",
+        "App Store Optimization"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2015-02",
+      "end_date": "2018-03",
+      "duration": "2015-02 – 2018-03",
+      "duration_months": 37,
+      "description": "Implemented app streaming using TypeScript, reducing download size by 43%\nCreated in-app purchase integration using Firebase Firestore, generating 500+ in revenue\nBuilt widget functionality using Firebase Firestore, increasing daily active users by 32%",
+      "technologies": [
+        "App Store Optimization",
+        "Firebase Firestore",
+        "Dart",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "M.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2015",
+      "gpa": "3.51",
+      "activities": "iOS Developer"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deployment Dashboard",
+      "description": "Developed In-app Purchase System using UIKit, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "UIKit",
+        "TypeScript",
+        "KMP"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Learning new languages",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "TypeScript",
+    "SwiftUI",
+    "UIKit",
+    "React Native",
+    "KMP",
+    "Jetpack Compose",
+    "App Center",
+    "Xcode",
+    "TestFlight",
+    "Android Studio",
+    "Fastlane",
+    "Core Data",
+    "Hive",
+    "SQLite",
+    "Firebase Firestore",
+    "AWS Amplify",
+    "RevenueCat",
+    "Supabase",
+    "Firebase",
+    "Offline-First",
+    "App Store Optimization",
+    "Clean Architecture"
+  ],
+  "companies": [
+    "Airbnb",
+    "Apple",
+    "Uber",
+    "Stripe"
+  ],
+  "job_titles": [
+    "Android Developer",
+    "Android Developer",
+    "Mobile Developer",
+    "Android Developer"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 222,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:09.155285",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

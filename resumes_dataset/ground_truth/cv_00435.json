@@ -1,0 +1,302 @@
+{
+  "full_name": "Daniel Werner",
+  "email": "daniel.werner@gmail.com",
+  "location": "Lake Victormouth, Netherlands",
+  "years_of_experience": 8.5,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Daniel Werner",
+    "email": "daniel.werner@gmail.com",
+    "phone": "(682)696-3533x90550",
+    "location": "Lake Victormouth, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/daniel-werner",
+    "github_url": "https://github.com/danielwerner",
+    "portfolio_url": null
+  },
+  "summary": "Lead mobile development professional with 8 years driving technical strategy and team excellence. Expert in Swift, Dart, Flutter with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2022-05",
+      "end_date": "Present",
+      "duration": "2022-05 – Present",
+      "duration_months": 46,
+      "description": "Created app analytics tracking using App Store Optimization, providing insights on 5000+ users\nImplemented biometric authentication using Firebase Firestore, securing 1000+ user accounts\nBuilt offline-first architecture using Firebase Firestore, improving app responsiveness by 66%\nOptimized app performance using Firebase Firestore, reducing battery consumption by 58%",
+      "technologies": [
+        "Offline-First",
+        "App Store Optimization",
+        "Firebase Firestore"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2020-10",
+      "end_date": "2022-04",
+      "duration": "2020-10 – 2022-04",
+      "duration_months": 18,
+      "description": "Developed cross-platform solution using RevenueCat, reducing development time by 55%\nImplemented push notification system using Flutter, increasing user engagement by 60%\nBuilt widget functionality using Firebase, increasing daily active users by 67%\nBuilt offline-first architecture using TestFlight, improving app responsiveness by 17%",
+      "technologies": [
+        "Gradle",
+        "Firebase",
+        "Flutter",
+        "TestFlight",
+        "RevenueCat"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2017-12",
+      "end_date": "2020-07",
+      "duration": "2017-12 – 2020-07",
+      "duration_months": 31,
+      "description": "Created in-app purchase integration using Clean Architecture, generating 1000+ in revenue\nDeveloped mobile application using Clean Architecture, achieving 1000+ downloads",
+      "technologies": [
+        "TestFlight",
+        "Offline-First",
+        "Clean Architecture",
+        "UIKit",
+        "RevenueCat"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2016-11",
+      "end_date": "2017-06",
+      "duration": "2016-11 – 2017-06",
+      "duration_months": 7,
+      "description": "Created in-app purchase integration using React Native, generating 1000+ in revenue\nDeveloped cross-platform solution using React Native, reducing development time by 53%",
+      "technologies": [
+        "CI/CD for Mobile",
+        "Java",
+        "App Store Optimization",
+        "Clean Architecture",
+        "Firebase",
+        "React Native"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": "3.35",
+      "activities": "Android Community"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Java",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vector Search API",
+      "description": "Designed and implemented Android Application with Dart, integrating with Swift for seamless data flow",
+      "technologies": [
+        "Dart",
+        "Expo",
+        "Swift"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Designed React Native App leveraging Swift microservices architecture with Dart for caching",
+      "technologies": [
+        "Swift",
+        "Dart",
+        "Flutter"
+      ],
+      "url": "https://github.com/danielwerner/deployment-dashboard",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Teaching coding workshops",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Swift",
+    "Dart",
+    "Flutter",
+    "SwiftUI",
+    "Expo",
+    "CocoaPods",
+    "Firebase",
+    "Android Studio",
+    "Firebase Firestore",
+    "Hive",
+    "AWS Amplify",
+    "Firebase",
+    "RevenueCat",
+    "Supabase",
+    "Offline-First",
+    "MVVM",
+    "Clean Architecture"
+  ],
+  "companies": [
+    "NeuroLink Labs",
+    "Spotify",
+    "HashiCorp",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "Flutter Developer",
+    "iOS Developer",
+    "Mobile Developer",
+    "Android Developer"
+  ],
+  "universities": [
+    "TU Munich",
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.A.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 435,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:40:57.886949",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

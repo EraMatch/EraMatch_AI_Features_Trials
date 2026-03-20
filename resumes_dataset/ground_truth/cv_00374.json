@@ -1,0 +1,323 @@
+{
+  "full_name": "Jonathan Harris",
+  "email": "jonathan.harris@protonmail.com",
+  "location": "Port Jessica, Netherlands",
+  "years_of_experience": 4.5,
+  "seniority_level": "mid",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jonathan Harris",
+    "email": "jonathan.harris@protonmail.com",
+    "phone": "(630)239-7524x5086",
+    "location": "Port Jessica, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/jonathan-harris",
+    "github_url": "https://github.com/jonathanharris",
+    "portfolio_url": "https://jonathanharris.dev"
+  },
+  "summary": "Mid-level data science / ml / ai specialist with 4 years building production systems. Skilled in Julia, Python, SQL with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": "2024-09 – Present",
+      "duration_months": 18,
+      "description": "Built ML model serving infrastructure using MATLAB, handling 100+ predictions/day\nDesigned data warehousing solution using MATLAB, enabling analytics on 500+ records\nDeveloped ML models using Bedrock, improving prediction accuracy by 66%\nBuilt real-time analytics dashboard using BigQuery, used by 500+ stakeholders",
+      "technologies": [
+        "BigQuery",
+        "Bedrock",
+        "MATLAB",
+        "LangChain"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2022-10",
+      "end_date": "2024-04",
+      "duration": "2022-10 – 2024-04",
+      "duration_months": 18,
+      "description": "Built ML model serving infrastructure using OpenCV, handling 50000+ predictions/day\nDeveloped computer vision models using OpenCV, achieving 38% accuracy\nDesigned data warehousing solution using Vector Databases, enabling analytics on 10000+ records\nDeveloped ML models using OpenCV, improving prediction accuracy by 26%",
+      "technologies": [
+        "Statistical Modeling",
+        "Vector Databases",
+        "OpenCV",
+        "Scikit-learn"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2020-10",
+      "end_date": "2022-04",
+      "duration": "2020-10 – 2022-04",
+      "duration_months": 18,
+      "description": "Developed ML models using ChromaDB, improving prediction accuracy by 50%\nEstablished MLOps practices using A/B Testing, reducing model deployment time by 31%\nBuilt end-to-end ML pipeline using Prompt Engineering, processing 5000+ samples daily\nBuilt real-time analytics dashboard using TensorFlow, used by 500+ stakeholders",
+      "technologies": [
+        "Prompt Engineering",
+        "TensorFlow",
+        "Keras",
+        "Go",
+        "ChromaDB",
+        "A/B Testing"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Analytics Club"
+    },
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Implemented Data Quality Monitor using Python, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "SQL",
+        "Python",
+        "Scala"
+      ],
+      "url": "https://github.com/jonathanharris/token-bucket-limiter",
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Databricks Certified Data Engineer",
+      "issuer": "Databricks",
+      "date": "2025",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Machine Learning",
+      "issuer": "Amazon Web Services",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Allen-Ryan Youth Program, 2023-Present",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — ACM 2023",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Julia",
+    "Python",
+    "SQL",
+    "Scala",
+    "LangChain",
+    "LlamaIndex",
+    "TensorFlow",
+    "XGBoost",
+    "Dagster",
+    "Neptune",
+    "Kubeflow",
+    "Weights & Biases",
+    "Dask",
+    "Snowflake",
+    "MongoDB",
+    "Pinecone",
+    "Lambda Labs",
+    "Azure ML",
+    "Deep Learning",
+    "RAG",
+    "NLP",
+    "MLOps",
+    "Vector Databases"
+  ],
+  "companies": [
+    "CodeCraft Studios",
+    "Quantum Edge",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "Data Scientist",
+    "AI Engineer"
+  ],
+  "universities": [
+    "University of Michigan",
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 374,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:40:26.641264",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "full_name": "Laura Price",
+  "email": "laura.price@outlook.com",
+  "location": "Gregorystad, Japan",
+  "years_of_experience": 9.0,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Laura Price",
+    "email": "laura.price@outlook.com",
+    "phone": "+1-614-550-4617x357",
+    "location": "Gregorystad, Japan",
+    "linkedin_url": "https://linkedin.com/in/laura-price",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead backend engineering professional with 9 years driving technical strategy and team excellence. Expert in PHP, Rust, LlamaIndex with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2021-11",
+      "end_date": "Present",
+      "duration": "2021-11 – Present",
+      "duration_months": 52,
+      "description": "Mentored team of 6 junior developers on Neon best practices\nCreated authentication and authorization system using Elasticsearch, securing 500+ user accounts\nBuilt automated CI/CD pipelines with Kafka, reducing deployment time by 17%",
+      "technologies": [
+        "Neon",
+        "Kafka",
+        "Python",
+        "Elasticsearch",
+        "Go"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Netflix",
+      "organization": "Netflix",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2020-03",
+      "end_date": "2021-10",
+      "duration": "2020-03 – 2021-10",
+      "duration_months": 19,
+      "description": "Developed real-time data processing pipeline using GitHub Actions, handling 100+ records/second\nDesigned and implemented microservices architecture using GitHub Actions, handling 100000+ concurrent users\nLed migration from monolithic to microservices using gRPC, improving system scalability by 56%\nOptimized database queries using Terraform, improving query performance by 31%",
+      "technologies": [
+        "MySQL",
+        "Terraform",
+        "GitHub Actions",
+        "Spring Boot",
+        "RAG Architecture",
+        "gRPC"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2017-02",
+      "end_date": "2020-03",
+      "duration": "2017-02 – 2020-03",
+      "duration_months": 37,
+      "description": "Designed and implemented microservices architecture using Render, handling 100000+ concurrent users\nArchitected and built RESTful APIs serving 100+ requests/day using Render, reducing response time by 62%\nMentored team of 8 junior developers on OpenAI API best practices",
+      "technologies": [
+        "Supabase",
+        "Render",
+        "OpenAI API",
+        "Helm"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "M.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2016",
+      "gpa": "3.14",
+      "activities": "Open Source Contributor"
+    },
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PHP",
+    "Rust",
+    "LlamaIndex",
+    "Rails",
+    "LangChain",
+    "Django",
+    "CockroachDB",
+    "Neon",
+    "PlanetScale",
+    "MongoDB",
+    "DynamoDB",
+    "Git",
+    "Ansible",
+    "RabbitMQ",
+    "ArgoCD",
+    "Nginx",
+    "AWS",
+    "Render",
+    "Claude API",
+    "OpenAI API",
+    "Agile",
+    "CI/CD",
+    "LLM Integration"
+  ],
+  "companies": [
+    "Microsoft",
+    "Netflix",
+    "Uber"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Server-Side Developer",
+    "API Developer"
+  ],
+  "universities": [
+    "IIT Bombay",
+    "University of Washington"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 239,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:17.945223",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

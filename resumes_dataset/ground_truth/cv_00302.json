@@ -1,0 +1,307 @@
+{
+  "full_name": "David Lawrence",
+  "email": "david.lawrence@yahoo.com",
+  "location": "Lake Tammyton, Japan",
+  "years_of_experience": 4.1,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "David Lawrence",
+    "email": "david.lawrence@yahoo.com",
+    "phone": "785.615.8673x4257",
+    "location": "Lake Tammyton, Japan",
+    "linkedin_url": "https://linkedin.com/in/david-lawrence",
+    "github_url": "https://github.com/davidlawrence",
+    "portfolio_url": null
+  },
+  "summary": "Results-driven backend engineering professional with 4 years of experience designing and implementing scalable solutions using Rust, Go, Ruby. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 – Present",
+      "duration_months": 37,
+      "description": "Built automated CI/CD pipelines with Terraform, reducing deployment time by 28%\nDesigned and implemented microservices architecture using GCP, handling 5000+ concurrent users\nBuilt automated CI/CD pipelines with Terraform, reducing deployment time by 45%\nImplemented caching layer with Terraform, reducing database load by 34%",
+      "technologies": [
+        "FastAPI",
+        "GCP",
+        "Git",
+        "Supabase",
+        "Terraform",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2022-02",
+      "end_date": "2023-02",
+      "duration": "2022-02 – 2023-02",
+      "duration_months": 12,
+      "description": "Developed real-time data processing pipeline using TDD, handling 100+ logs/second\nLed migration from monolithic to microservices using DynamoDB, improving system scalability by 33%\nDesigned and implemented microservices architecture using AWS Bedrock, handling 100+ concurrent users\nDesigned and implemented microservices architecture using Replicate, handling 500+ concurrent users",
+      "technologies": [
+        "DynamoDB",
+        "TDD",
+        "PlanetScale",
+        "AWS Bedrock",
+        "Elasticsearch",
+        "Replicate"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2019",
+      "gpa": "3.58",
+      "activities": "Hackathon Winner"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Competitive programming",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Real small dream need finally\" — NeurIPS 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Go",
+    "Ruby",
+    "Java",
+    "Express.js",
+    "Spring Boot",
+    "LlamaIndex",
+    "ASP.NET",
+    "PostgreSQL",
+    "PlanetScale",
+    "Redis",
+    "Cassandra",
+    "SQLite",
+    "Kubernetes",
+    "gRPC",
+    "Terraform",
+    "Helm",
+    "GitHub Actions",
+    "Railway",
+    "Azure",
+    "Render",
+    "GCP",
+    "AWS Bedrock",
+    "Google Gemini",
+    "Claude API",
+    "Replicate",
+    "Azure OpenAI",
+    "TDD",
+    "Microservices",
+    "RAG Architecture"
+  ],
+  "companies": [
+    "Supabase",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "Backend Developer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 302,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:49.679882",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

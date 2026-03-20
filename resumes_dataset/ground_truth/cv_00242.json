@@ -1,0 +1,307 @@
+{
+  "full_name": "Denise Harding",
+  "email": "denise.harding@protonmail.com",
+  "location": "South Brianchester, Japan",
+  "years_of_experience": 9.8,
+  "seniority_level": "lead",
+  "primary_domain": "QA / Testing",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Denise Harding",
+    "email": "denise.harding@protonmail.com",
+    "phone": "993-221-4958x7020",
+    "location": "South Brianchester, Japan",
+    "linkedin_url": "https://linkedin.com/in/denise-harding",
+    "github_url": "https://github.com/deniseharding",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, C#, and Ruby. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "SDET",
+      "title": "SDET",
+      "start_date": "2022-06",
+      "end_date": "Present",
+      "duration": "2022-06 – Present",
+      "duration_months": 45,
+      "description": "Built security testing automation using Git, finding 500+ vulnerabilities\nDeveloped BDD framework using PyTest, writing 10000+ scenarios\nBuilt accessibility testing using PyTest, ensuring compliance for 100+ pages\nImplemented shift-left testing using AWS, reducing bug escape rate by 47%",
+      "technologies": [
+        "Git",
+        "AWS",
+        "Security Testing",
+        "PyTest",
+        "Jira",
+        "TDD"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Test Automation Engineer",
+      "title": "Test Automation Engineer",
+      "start_date": "2017-10",
+      "end_date": "2022-02",
+      "duration": "2017-10 – 2022-02",
+      "duration_months": 52,
+      "description": "Developed test automation framework using JavaScript, achieving 67% automation coverage\nBuilt security testing automation using BDD, finding 100000+ vulnerabilities\nCreated performance testing suite using JavaScript, identifying 100000+ bottlenecks\nBuilt accessibility testing using BDD, ensuring compliance for 100000+ pages",
+      "technologies": [
+        "BDD",
+        "JavaScript",
+        "Agile Testing",
+        "MySQL",
+        "Azure",
+        "Test Automation"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "SDET",
+      "title": "SDET",
+      "start_date": "2015-10",
+      "end_date": "2017-07",
+      "duration": "2015-10 – 2017-07",
+      "duration_months": 21,
+      "description": "Created test data management using PyTest, generating 1000+ test records\nDeveloped API testing framework using Appium, testing 1000+ endpoints\nBuilt security testing automation using Appium, finding 100+ vulnerabilities",
+      "technologies": [
+        "Docker",
+        "PyTest",
+        "Appium"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Testing Community"
+    },
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2016",
+      "gpa": "3.42",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestNG",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Appium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BrowserStack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sauce Labs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Performance Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Security Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTest",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Config Manager",
+      "description": "Built Accessibility Testing using Playwright and Java, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "C#",
+        "Playwright",
+        "Java"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Task Scheduler",
+      "description": "Designed BDD Framework leveraging TestNG microservices architecture with Playwright for caching",
+      "technologies": [
+        "Playwright",
+        "TestNG",
+        "C#"
+      ],
+      "url": "https://github.com/deniseharding/task-scheduler",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "C#",
+    "Ruby",
+    "Java",
+    "TestNG",
+    "Appium",
+    "Playwright",
+    "Jira",
+    "BrowserStack",
+    "Sauce Labs",
+    "Docker",
+    "PostgreSQL",
+    "MongoDB",
+    "MySQL",
+    "Redis",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Test Planning",
+    "Agile Testing",
+    "Performance Testing",
+    "Security Testing",
+    "BDD"
+  ],
+  "companies": [
+    "Supabase",
+    "CodeCraft Studios",
+    "CodeCraft Studios"
+  ],
+  "job_titles": [
+    "SDET",
+    "Test Automation Engineer",
+    "SDET"
+  ],
+  "universities": [
+    "Columbia University",
+    "Columbia University"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 242,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:39:19.621714",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

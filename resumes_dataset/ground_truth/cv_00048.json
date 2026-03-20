@@ -1,0 +1,312 @@
+{
+  "full_name": "Colton Martinez",
+  "email": "colton.martinez@yahoo.com",
+  "location": "West Kim, Japan",
+  "years_of_experience": 5.5,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Colton Martinez",
+    "email": "colton.martinez@yahoo.com",
+    "phone": "513.590.0532x931",
+    "location": "West Kim, Japan",
+    "linkedin_url": "https://linkedin.com/in/colton-martinez",
+    "github_url": "https://github.com/coltonmartinez",
+    "portfolio_url": null
+  },
+  "summary": "Senior frontend engineering engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Python, CSS, JavaScript with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2024-10",
+      "end_date": "Present",
+      "duration": "2024-10 – Present",
+      "duration_months": 17,
+      "description": "Integrated third-party APIs using Vite, reducing integration time by 68%\nDeveloped design system using Prettier, standardizing UI across 10000+ applications",
+      "technologies": [
+        "Cypress",
+        "Prettier",
+        "Accessibility (WCAG)",
+        "Firebase",
+        "Vite"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2024-04",
+      "end_date": "2024-10",
+      "duration": "2024-04 – 2024-10",
+      "duration_months": 6,
+      "description": "Improved website accessibility score to 20% using Playwright\nImproved website accessibility score to 40% using Vue.js\nImplemented state management solution using Vue.js, reducing API calls by 27%\nBuilt interactive data visualizations using Webpack, serving 50000+ daily users",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "Webpack",
+        "Vue.js",
+        "Playwright"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2020-05",
+      "end_date": "2023-12",
+      "duration": "2020-05 – 2023-12",
+      "duration_months": 43,
+      "description": "Implemented state management solution using Responsive Design, reducing API calls by 44%\nBuilt interactive data visualizations using Cloudflare Pages, serving 50000+ daily users\nBuilt interactive data visualizations using Vue.js, serving 50000+ daily users",
+      "technologies": [
+        "Vue.js",
+        "Component-Driven Development",
+        "Cloudflare Pages",
+        "Responsive Design",
+        "Figma"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2019",
+      "gpa": "3.98",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Built Progressive Web App using Python and JavaScript, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Python"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "ChatBot Framework",
+      "description": "Created Mobile Web App leveraging TypeScript for core functionality and Remix for optimization",
+      "technologies": [
+        "TypeScript",
+        "Vue.js",
+        "Remix"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Able teach certain candidate economy company produce ago address so\" — ArXiv 2023",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — ACM 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Vue.js",
+    "Remix",
+    "Figma",
+    "ESLint",
+    "Storybook",
+    "PostgreSQL",
+    "MongoDB",
+    "Supabase",
+    "Firebase",
+    "IndexedDB",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Netlify",
+    "Vercel",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Responsive Design",
+    "Agile",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "PromptStack",
+    "Microsoft",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "React Developer",
+    "Full-Stack Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "UT Austin"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 48,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:37:42.946025",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

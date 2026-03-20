@@ -1,0 +1,354 @@
+{
+  "full_name": "James White",
+  "email": "james.white@outlook.com",
+  "location": "North David, Brazil",
+  "years_of_experience": 7.2,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "James White",
+    "email": "james.white@outlook.com",
+    "phone": "341.651.4888",
+    "location": "North David, Brazil",
+    "linkedin_url": "https://linkedin.com/in/james-white",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in frontend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in CSS, Python, JavaScript.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2024-04",
+      "end_date": "Present",
+      "duration": "2024-04 – Present",
+      "duration_months": 23,
+      "description": "Built interactive data visualizations using Storybook, serving 5000+ daily users\nBuilt reusable component library using Progressive Web Apps, used by 100+ developers",
+      "technologies": [
+        "Storybook",
+        "Webpack",
+        "Component-Driven Development",
+        "ESLint",
+        "Agile",
+        "Progressive Web Apps"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2022-01",
+      "end_date": "2024-02",
+      "duration": "2022-01 – 2024-02",
+      "duration_months": 25,
+      "description": "Optimized frontend bundle size using Responsive Design, reducing load time by 30%\nCreated accessible UI components using Remix, achieving WCAG AA compliance\nCreated accessible UI components using Jest, achieving WCAG AA compliance",
+      "technologies": [
+        "Responsive Design",
+        "HTML",
+        "Cypress",
+        "Vercel",
+        "Remix",
+        "Jest"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2020-01",
+      "end_date": "2022-01",
+      "duration": "2020-01 – 2022-01",
+      "duration_months": 24,
+      "description": "Integrated third-party APIs using PostgreSQL, reducing integration time by 22%\nDeveloped design system using PostgreSQL, standardizing UI across 50000+ applications",
+      "technologies": [
+        "PostgreSQL",
+        "Python",
+        "Cloudflare Pages",
+        "Material UI",
+        "Webpack"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2018-11",
+      "end_date": "2019-08",
+      "duration": "2018-11 – 2019-08",
+      "duration_months": 9,
+      "description": "Built interactive data visualizations using Python, serving 10000+ daily users\nBuilt real-time collaboration features using Figma, serving 5000+ concurrent users\nImplemented automated testing framework using Python, achieving 65% code coverage\nImplemented automated testing framework using Netlify, achieving 22% code coverage",
+      "technologies": [
+        "Netlify",
+        "Accessibility (WCAG)",
+        "Figma",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2018-01",
+      "end_date": "2018-07",
+      "duration": "2018-01 – 2018-07",
+      "duration_months": 6,
+      "description": "Developed design system using React, standardizing UI across 500+ applications\nImproved website accessibility score to 33% using Git\nDeveloped responsive web applications using React, improving page load time by 43%\nIntegrated third-party APIs using Python, reducing integration time by 55%",
+      "technologies": [
+        "React",
+        "Python",
+        "Git"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "Ph.D.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2019",
+      "gpa": "3.05",
+      "activities": null
+    },
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "M.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2016",
+      "gpa": "3.35",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "React Certified Developer",
+      "issuer": "React",
+      "date": "2021",
+      "credential_id": "VM50RV83"
+    },
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "3D printing",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Music production",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "Python",
+    "JavaScript",
+    "Dart",
+    "Remix",
+    "Angular",
+    "Vue.js",
+    "Astro",
+    "Storybook",
+    "Playwright",
+    "Webpack",
+    "Prettier",
+    "Vite",
+    "Firebase",
+    "PostgreSQL",
+    "Vercel",
+    "Render",
+    "AWS Amplify",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)",
+    "Component-Driven Development",
+    "Responsive Design"
+  ],
+  "companies": [
+    "Datadog",
+    "Meta",
+    "Airbnb",
+    "Twilio",
+    "Cloudflare"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "React Developer",
+    "Web Developer",
+    "React Developer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "Purdue University",
+    "EPFL"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 360,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:19.650339",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

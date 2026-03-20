@@ -1,0 +1,292 @@
+{
+  "full_name": "Mark Jimenez",
+  "email": "mark.jimenez@outlook.com",
+  "location": "Harrisberg, USA",
+  "years_of_experience": 5.6,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mark Jimenez",
+    "email": "mark.jimenez@outlook.com",
+    "phone": "+1-884-947-3647x1027",
+    "location": "Harrisberg, USA",
+    "linkedin_url": "https://linkedin.com/in/mark-jimenez",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior backend engineering engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Ruby, Python, Rust with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2025-05",
+      "end_date": "Present",
+      "duration": "2025-05 – Present",
+      "duration_months": 10,
+      "description": "Implemented caching layer with Kotlin, reducing database load by 48%\nDesigned and implemented message queue system using Nginx, processing 50000+ messages/hour\nBuilt automated CI/CD pipelines with Flask, reducing deployment time by 28%",
+      "technologies": [
+        "Flask",
+        "Nginx",
+        "Ansible",
+        "Kotlin"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2024-06",
+      "end_date": "2025-05",
+      "duration": "2024-06 – 2025-05",
+      "duration_months": 11,
+      "description": "Created authentication and authorization system using AWS Bedrock, securing 500+ user accounts\nImplemented caching layer with AWS Bedrock, reducing database load by 50%\nDeveloped real-time data processing pipeline using PlanetScale, handling 100+ messages/second\nDesigned and implemented message queue system using PlanetScale, processing 10000+ messages/hour",
+      "technologies": [
+        "Vercel",
+        "PlanetScale",
+        "AWS Bedrock",
+        "FastAPI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2020-03",
+      "end_date": "2024-01",
+      "duration": "2020-03 – 2024-01",
+      "duration_months": 46,
+      "description": "Designed and implemented message queue system using Gin, processing 10000+ messages/hour\nDeveloped real-time data processing pipeline using Elasticsearch, handling 10000+ queries/second\nArchitected and built RESTful APIs serving 5000+ requests/day using Gin, reducing response time by 26%",
+      "technologies": [
+        "Microservices",
+        "Gin",
+        "Elasticsearch",
+        "LangChain"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2020",
+      "gpa": "3.61",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Podcasting",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Drone building",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Ruby",
+    "Python",
+    "Rust",
+    "Java",
+    "Django",
+    "Flask",
+    "Neon",
+    "PlanetScale",
+    "Elasticsearch",
+    "CockroachDB",
+    "Supabase",
+    "Helm",
+    "Jenkins",
+    "Ansible",
+    "Kafka",
+    "Azure",
+    "Heroku",
+    "Fly.io",
+    "AWS",
+    "Google Gemini",
+    "OpenAI API",
+    "Microservices",
+    "TDD",
+    "GraphQL",
+    "REST API Design"
+  ],
+  "companies": [
+    "Palantir",
+    "Shopify",
+    "DataPulse"
+  ],
+  "job_titles": [
+    "Software Engineer",
+    "Server-Side Developer",
+    "API Developer"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 77,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:37:57.169786",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

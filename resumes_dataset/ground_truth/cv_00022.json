@@ -1,0 +1,291 @@
+{
+  "full_name": "Michelle Brown",
+  "email": "michelle.brown@brown.dev",
+  "location": "Karenchester, India",
+  "years_of_experience": 7.4,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michelle Brown",
+    "email": "michelle.brown@brown.dev",
+    "phone": "(258)776-0366x90967",
+    "location": "Karenchester, India",
+    "linkedin_url": "https://linkedin.com/in/michelle-brown",
+    "github_url": "https://github.com/michellebrown",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in devops / sre / mlops with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Python, Bash, Rust.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 – Present",
+      "duration_months": 24,
+      "description": "Built disaster recovery solution using MLflow, achieving RTO of 373ms\nCreated monitoring and alerting system using Prometheus, reducing MTTR by 56%",
+      "technologies": [
+        "Linode",
+        "Grafana",
+        "Prometheus",
+        "Kale",
+        "MLflow"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2020-03",
+      "end_date": "2024-03",
+      "duration": "2020-03 – 2024-03",
+      "duration_months": 48,
+      "description": "Optimized cloud infrastructure using GitHub Actions, reducing costs by 16%\nBuilt automated backup solution using Helm, ensuring 500% data protection",
+      "technologies": [
+        "CDK",
+        "Helm",
+        "GitHub Actions"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2018-09",
+      "end_date": "2020-02",
+      "duration": "2018-09 – 2020-02",
+      "duration_months": 17,
+      "description": "Created self-service provisioning portal using MLOps, serving 10000+ engineers\nImplemented security scanning using MLOps, identifying 100+ vulnerabilities\nCreated monitoring and alerting system using Incident Management, reducing MTTR by 42%\nEstablished GitOps workflows using CircleCI, improving deployment frequency by 66%",
+      "technologies": [
+        "GCP",
+        "MLflow",
+        "MLOps",
+        "Incident Management",
+        "Opsgenie",
+        "CircleCI"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2019",
+      "gpa": "2.95",
+      "activities": "Linux Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Section national owner determine detail job ahead from quickly identify\" — EMNLP 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Bash",
+    "Rust",
+    "Helm",
+    "Pulumi",
+    "CloudFormation",
+    "CDK",
+    "Crossplane",
+    "Linkerd",
+    "Docker",
+    "K3s",
+    "Envoy",
+    "Jenkins",
+    "GitLab CI",
+    "CircleCI",
+    "VictoriaMetrics",
+    "Grafana",
+    "Linode",
+    "Oracle Cloud",
+    "DigitalOcean",
+    "MLflow",
+    "TorchServe",
+    "Platform Engineering",
+    "MLOps",
+    "Chaos Engineering"
+  ],
+  "companies": [
+    "Confluent",
+    "Amazon",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "Cloud Engineer",
+    "Cloud Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 22,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:37:29.527476",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

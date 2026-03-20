@@ -1,0 +1,325 @@
+{
+  "full_name": "Sophia Johnson",
+  "email": "sophia.johnson@outlook.com",
+  "location": "Karenmouth, Singapore",
+  "years_of_experience": 8.6,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sophia Johnson",
+    "email": "sophia.johnson@outlook.com",
+    "phone": "592-996-2229x27065",
+    "location": "Karenmouth, Singapore",
+    "linkedin_url": "https://linkedin.com/in/sophia-johnson",
+    "github_url": null,
+    "portfolio_url": "https://sophiajohnson.dev"
+  },
+  "summary": "Engineering leader with deep technical background in Rust, Java, and Go. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": "2023-08 – Present",
+      "duration_months": 31,
+      "description": "Implemented caching layer with Cassandra, reducing database load by 70%\nMentored team of 3 junior developers on Kubernetes best practices",
+      "technologies": [
+        "Kubernetes",
+        "Hugging Face",
+        "Kotlin",
+        "Cassandra"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2021-06",
+      "end_date": "2023-02",
+      "duration": "2021-06 – 2023-02",
+      "duration_months": 20,
+      "description": "Reduced infrastructure costs by 33% through optimization using TypeScript\nBuilt event-driven architecture using TDD, processing 1000+ events daily\nDeveloped real-time data processing pipeline using TypeScript, handling 500+ records/second",
+      "technologies": [
+        "GraphQL",
+        "TDD",
+        "TypeScript"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2016-12",
+      "end_date": "2021-04",
+      "duration": "2016-12 – 2021-04",
+      "duration_months": 52,
+      "description": "Mentored team of 3 junior developers on MySQL best practices\nArchitected and built RESTful APIs serving 10000+ requests/day using DynamoDB, reducing response time by 36%\nLed migration from monolithic to microservices using DynamoDB, improving system scalability by 51%\nMentored team of 4 junior developers on CockroachDB best practices",
+      "technologies": [
+        "CockroachDB",
+        "DynamoDB",
+        "MySQL",
+        "GraphQL"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "M.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2017",
+      "gpa": "2.92",
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2014",
+      "gpa": "3.46",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Built Event Streaming Service using Go and LlamaIndex, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Django",
+        "Go",
+        "LlamaIndex"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Built Cache Layer with TypeScript and Java, serving 10,000+ daily active users",
+      "technologies": [
+        "TypeScript",
+        "Java",
+        "Go"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Schema Validator",
+      "description": "Created Search Engine leveraging Rust for core functionality and Java for optimization",
+      "technologies": [
+        "Go",
+        "Java",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Cooking",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Move finally speak light strong happy water\" — CVPR 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Java",
+    "Go",
+    "TypeScript",
+    "LlamaIndex",
+    "Django",
+    "SQLite",
+    "Elasticsearch",
+    "Supabase",
+    "Kubernetes",
+    "Docker",
+    "gRPC",
+    "Ansible",
+    "RabbitMQ",
+    "Railway",
+    "AWS",
+    "Cloudflare",
+    "Azure OpenAI",
+    "OpenAI API",
+    "Anthropic",
+    "Hugging Face",
+    "CI/CD",
+    "Microservices",
+    "GraphQL"
+  ],
+  "companies": [
+    "CloudNova",
+    "Cloudflare",
+    "ScaleGrid"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "LLM Engineer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "Columbia University",
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 62,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:37:49.716396",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

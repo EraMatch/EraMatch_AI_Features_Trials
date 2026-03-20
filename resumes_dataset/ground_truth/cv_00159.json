@@ -1,0 +1,319 @@
+{
+  "full_name": "Amber Vang",
+  "email": "amber.vang@yahoo.com",
+  "location": "Stanleyhaven, Canada",
+  "years_of_experience": 12.8,
+  "seniority_level": "principal",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Amber Vang",
+    "email": "amber.vang@yahoo.com",
+    "phone": "+1-210-601-6761x84723",
+    "location": "Stanleyhaven, Canada",
+    "linkedin_url": "https://linkedin.com/in/amber-vang",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 13 years shaping data science / ml / ai practice. Deep expertise in Go, Scala, Hugging Face and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2025-05",
+      "end_date": "Present",
+      "duration": "2025-05 – Present",
+      "duration_months": 10,
+      "description": "Built real-time analytics dashboard using Lambda Labs, used by 100000+ stakeholders\nBuilt end-to-end ML pipeline using Lambda Labs, processing 5000+ samples daily\nBuilt real-time analytics dashboard using Lambda Labs, used by 5000+ stakeholders",
+      "technologies": [
+        "Lambda Labs",
+        "Polars",
+        "XGBoost",
+        "Hugging Face",
+        "Fine-tuning"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2021-01",
+      "end_date": "2024-11",
+      "duration": "2021-01 – 2024-11",
+      "duration_months": 46,
+      "description": "Built ML model serving infrastructure using MATLAB, handling 1000+ predictions/day\nImplemented NLP solution using Snowflake, processing 10000+ text documents daily\nBuilt ML model serving infrastructure using DVC, handling 500+ predictions/day\nDeveloped ML models using MATLAB, improving prediction accuracy by 47%",
+      "technologies": [
+        "Snowflake",
+        "MATLAB",
+        "DVC",
+        "Scala"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2016-10",
+      "end_date": "2020-09",
+      "duration": "2016-10 – 2020-09",
+      "duration_months": 47,
+      "description": "Developed ML models using Scala, improving prediction accuracy by 16%\nDeveloped computer vision models using LightGBM, achieving 70% accuracy\nBuilt real-time analytics dashboard using LightGBM, used by 1000+ stakeholders",
+      "technologies": [
+        "Hugging Face Endpoints",
+        "Scala",
+        "LightGBM",
+        "PostgreSQL"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2012-07",
+      "end_date": "2016-10",
+      "duration": "2012-07 – 2016-10",
+      "duration_months": 51,
+      "description": "Created feature engineering pipeline using Lambda Labs, reducing preprocessing time by 57%\nCreated feature engineering pipeline using Lambda Labs, reducing preprocessing time by 17%",
+      "technologies": [
+        "Neptune",
+        "MLflow",
+        "Weights & Biases",
+        "Lambda Labs",
+        "DVC",
+        "Dask"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": "Research Assistant - ML Lab"
+    },
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2011",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Health Check Service",
+      "description": "Implemented NLP Text Analyzer using Go, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Go",
+        "Scala",
+        "Go"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Task Scheduler",
+      "description": "Designed and implemented Feature Store with Dagster, integrating with Scala for seamless data flow",
+      "technologies": [
+        "Go",
+        "Scala",
+        "Dagster"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Performance red industry together memory pay executive\" — EMNLP 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Scala",
+    "Hugging Face",
+    "XGBoost",
+    "OpenAI API",
+    "Scikit-learn",
+    "Dagster",
+    "Spark",
+    "ChromaDB",
+    "Databricks",
+    "Weaviate",
+    "Redshift",
+    "AWS SageMaker",
+    "Hugging Face Endpoints",
+    "Lambda Labs",
+    "Azure ML",
+    "GCP Vertex AI",
+    "RAG",
+    "Computer Vision"
+  ],
+  "companies": [
+    "ParseLab",
+    "Quantum Edge",
+    "Vercel",
+    "Twilio"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "ML Engineer",
+    "AI Engineer",
+    "AI Product Engineer"
+  ],
+  "universities": [
+    "MIT",
+    "UIUC"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 159,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:38.534483",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

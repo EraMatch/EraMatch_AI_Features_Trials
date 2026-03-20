@@ -1,0 +1,315 @@
+{
+  "full_name": "Alison Butler",
+  "email": "alison.butler@gmail.com",
+  "location": "Dianamouth, USA",
+  "years_of_experience": 12.2,
+  "seniority_level": "principal",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Alison Butler",
+    "email": "alison.butler@gmail.com",
+    "phone": "+1-782-875-6704x31038",
+    "location": "Dianamouth, USA",
+    "linkedin_url": null,
+    "github_url": "https://github.com/alisonbutler",
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 12 years shaping backend engineering practice. Deep expertise in Kotlin, TypeScript, Rust and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-06",
+      "end_date": "Present",
+      "duration": "2022-06 – Present",
+      "duration_months": 45,
+      "description": "Developed real-time data processing pipeline using OpenAI API, handling 100+ records/second\nCreated authentication and authorization system using DynamoDB, securing 500+ user accounts",
+      "technologies": [
+        "FastAPI",
+        "OpenAI API",
+        "Hugging Face",
+        "Elasticsearch",
+        "DynamoDB",
+        "LlamaIndex"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2017-11",
+      "end_date": "2021-12",
+      "duration": "2017-11 – 2021-12",
+      "duration_months": 49,
+      "description": "Mentored team of 4 junior developers on Helm best practices\nCreated authentication and authorization system using Docker, securing 100000+ user accounts\nMentored team of 2 junior developers on AWS best practices",
+      "technologies": [
+        "Helm",
+        "Kubernetes",
+        "Django",
+        "AWS",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2016-09",
+      "end_date": "2017-07",
+      "duration": "2016-09 – 2017-07",
+      "duration_months": 10,
+      "description": "Mentored team of 5 junior developers on Docker best practices\nDeveloped real-time data processing pipeline using Vercel, handling 500+ records/second\nBuilt automated CI/CD pipelines with Fly.io, reducing deployment time by 59%",
+      "technologies": [
+        "Docker",
+        "Fly.io",
+        "Vercel"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2012-10",
+      "end_date": "2016-04",
+      "duration": "2012-10 – 2016-04",
+      "duration_months": 42,
+      "description": "Built event-driven architecture using Event-Driven Architecture, processing 100+ events daily\nLed migration from monolithic to microservices using AWS Bedrock, improving system scalability by 57%\nReduced infrastructure costs by 38% through optimization using PlanetScale",
+      "technologies": [
+        "Event-Driven Architecture",
+        "PlanetScale",
+        "AWS Bedrock",
+        "Microservices"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Designed and implemented gRPC Services with Django, integrating with Actix for seamless data flow",
+      "technologies": [
+        "Actix",
+        "Django",
+        "TypeScript"
+      ],
+      "url": "https://github.com/alisonbutler/event-sourcing-engine",
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Order recent success knowledge fight car smile commercial employee\" — IEEE 2025",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Dutch (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "TypeScript",
+    "Rust",
+    "Actix",
+    "Django",
+    "Cassandra",
+    "PlanetScale",
+    "CockroachDB",
+    "MySQL",
+    "Helm",
+    "RabbitMQ",
+    "Kubernetes",
+    "gRPC",
+    "Git",
+    "AWS",
+    "DigitalOcean",
+    "Azure",
+    "Claude API",
+    "AWS Bedrock",
+    "RAG Architecture",
+    "Agile",
+    "REST API Design",
+    "Scrum"
+  ],
+  "companies": [
+    "Notion",
+    "Quantum Edge",
+    "Confluent",
+    "TechFlow AI"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "LLM Engineer",
+    "Platform Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 275,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:36.262250",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

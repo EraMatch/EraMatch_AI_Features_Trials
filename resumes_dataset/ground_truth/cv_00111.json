@@ -1,0 +1,282 @@
+{
+  "full_name": "Suzanne Rodriguez",
+  "email": "suzanne.rodriguez@rodriguez.dev",
+  "location": "West Jeffreyhaven, India",
+  "years_of_experience": 12.9,
+  "seniority_level": "principal",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Suzanne Rodriguez",
+    "email": "suzanne.rodriguez@rodriguez.dev",
+    "phone": "352.290.9656",
+    "location": "West Jeffreyhaven, India",
+    "linkedin_url": "https://linkedin.com/in/suzanne-rodriguez",
+    "github_url": "https://github.com/suzannerodriguez",
+    "portfolio_url": "https://suzannerodriguez.dev"
+  },
+  "summary": "Principal cybersecurity architect with 13+ years defining technical strategy for enterprise transformations. Subject matter expert in Go, Python, Rust.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2024-06",
+      "end_date": "Present",
+      "duration": "2024-06 – Present",
+      "duration_months": 21,
+      "description": "Implemented encryption solution using Figma, protecting 100000+ records\nDeveloped threat intelligence platform using PostgreSQL, tracking 10000+ threats",
+      "technologies": [
+        "PostgreSQL",
+        "Wireshark",
+        "Zero Trust Architecture"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2019-06",
+      "end_date": "2023-12",
+      "duration": "2019-06 – 2023-12",
+      "duration_months": 54,
+      "description": "Implemented security monitoring using OWASP ZAP, detecting 500+ threats\nImplemented encryption solution using Figma, protecting 100000+ records",
+      "technologies": [
+        "Trivy",
+        "Threat Modeling",
+        "GCP Security Command Center",
+        "Incident Response",
+        "OWASP ZAP"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2015-10",
+      "end_date": "2019-02",
+      "duration": "2015-10 – 2019-02",
+      "duration_months": 40,
+      "description": "Built security automation using Go, reducing incident response time by 39%\nImplemented security monitoring using Go, detecting 5000+ threats\nDesigned zero-trust architecture using Python, securing 500+ endpoints",
+      "technologies": [
+        "Python",
+        "GCP Security Command Center",
+        "OWASP Top 10",
+        "Go"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2012-05",
+      "end_date": "2015-09",
+      "duration": "2012-05 – 2015-09",
+      "duration_months": 40,
+      "description": "Conducted penetration testing using Splunk, identifying 5000+ vulnerabilities\nCreated vulnerability management program using Sigma, reducing CVEs by 69%\nImplemented identity management using Splunk, securing 500+ user identities\nImplemented encryption solution using Vue, protecting 500+ records",
+      "technologies": [
+        "Splunk",
+        "Snort",
+        "CrowdStrike",
+        "Sigma"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "M.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2014",
+      "gpa": "3.29",
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "B.A.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Developed Incident Response Platform using OWASP ZAP, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "Metasploit",
+        "OWASP ZAP"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Game development as hobby",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Python",
+    "Rust",
+    "Burp Suite",
+    "OWASP ZAP",
+    "Metasploit",
+    "Nmap",
+    "Trivy",
+    "SonarQube",
+    "PostgreSQL",
+    "Elasticsearch",
+    "Redis",
+    "AWS Security Hub",
+    "GCP Security Command Center",
+    "Threat Modeling",
+    "OWASP Top 10"
+  ],
+  "companies": [
+    "Meta",
+    "PromptStack",
+    "Shopify",
+    "Shopify"
+  ],
+  "job_titles": [
+    "SOC Analyst",
+    "Security Engineer",
+    "SOC Analyst",
+    "SOC Analyst"
+  ],
+  "universities": [
+    "Technion",
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 111,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:38:14.997171",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

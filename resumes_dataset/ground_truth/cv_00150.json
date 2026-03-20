@@ -1,0 +1,378 @@
+{
+  "full_name": "Eric Hunter",
+  "email": "eric.hunter@gmail.com",
+  "location": "West Janetview, Japan",
+  "years_of_experience": 7.9,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Eric Hunter",
+    "email": "eric.hunter@gmail.com",
+    "phone": "(289)902-3303",
+    "location": "West Janetview, Japan",
+    "linkedin_url": "https://linkedin.com/in/eric-hunter",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior devops / sre / mlops engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in Rust, Python, PowerShell with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 – Present",
+      "duration_months": 37,
+      "description": "Built CI/CD pipelines using Linode, reducing deployment time from 28s to 350ms\nCreated self-service provisioning portal using Linode, serving 500+ engineers\nEstablished GitOps workflows using Linode, improving deployment frequency by 25%\nCreated self-service provisioning portal using Linode, serving 10000+ engineers",
+      "technologies": [
+        "Terraform",
+        "Linode",
+        "Istio"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2021-07",
+      "end_date": "2022-09",
+      "duration": "2021-07 – 2022-09",
+      "duration_months": 14,
+      "description": "Implemented log aggregation using Docker, processing 50000+ logs/day\nEstablished GitOps workflows using Docker, improving deployment frequency by 64%",
+      "technologies": [
+        "Kale",
+        "Envoy",
+        "Docker"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2017-07",
+      "end_date": "2021-03",
+      "duration": "2017-07 – 2021-03",
+      "duration_months": 44,
+      "description": "Optimized cloud infrastructure using ELK Stack, reducing costs by 28%\nDesigned and implemented infrastructure as code using ELK Stack, managing 10000+ servers",
+      "technologies": [
+        "MLflow",
+        "ELK Stack",
+        "Go",
+        "Hetzner",
+        "GitOps"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2018",
+      "gpa": "3.83",
+      "activities": "Cloud Computing Club"
+    },
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "M.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2018",
+      "gpa": "2.98",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prompt Playground",
+      "description": "Implemented Kubernetes Cluster using HCL, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "HCL",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Built Disaster Recovery System using HCL and Python, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "HCL",
+        "Python",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — ACM 2023",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Statement measure play buy air head order concern\" — ICML 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Python",
+    "PowerShell",
+    "HCL",
+    "Pulumi",
+    "Crossplane",
+    "Istio",
+    "Docker",
+    "Podman",
+    "Buildah",
+    "Linkerd",
+    "Jenkins",
+    "CircleCI",
+    "GitLab CI",
+    "Tekton",
+    "VictoriaMetrics",
+    "PagerDuty",
+    "Opsgenie",
+    "Datadog",
+    "Grafana",
+    "DigitalOcean",
+    "Oracle Cloud",
+    "AWS",
+    "MLflow",
+    "Kale",
+    "TorchServe",
+    "Kubeflow",
+    "Seldon",
+    "Zero Trust",
+    "Incident Management",
+    "MLOps",
+    "Chaos Engineering",
+    "SRE Practices"
+  ],
+  "companies": [
+    "Confluent",
+    "Tesla",
+    "Stripe"
+  ],
+  "job_titles": [
+    "Infrastructure Engineer",
+    "Cloud Engineer",
+    "Infrastructure Engineer"
+  ],
+  "universities": [
+    "UT Austin",
+    "University of Toronto"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 150,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:33.889198",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

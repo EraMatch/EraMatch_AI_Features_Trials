@@ -1,0 +1,274 @@
+{
+  "full_name": "Alfred Williams",
+  "email": "alfred.williams@protonmail.com",
+  "location": "East Deborah, India",
+  "years_of_experience": 2.8,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Alfred Williams",
+    "email": "alfred.williams@protonmail.com",
+    "phone": "(259)505-6165x565",
+    "location": "East Deborah, India",
+    "linkedin_url": "https://linkedin.com/in/alfred-williams",
+    "github_url": "https://github.com/alfredwilliams",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Ruby, PHP, and Go. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": "2024-09 – Present",
+      "duration_months": 18,
+      "description": "Built automated CI/CD pipelines with Nginx, reducing deployment time by 20%\nImplemented caching layer with Nginx, reducing database load by 65%\nImplemented caching layer with Nginx, reducing database load by 63%",
+      "technologies": [
+        "Azure",
+        "MongoDB",
+        "Nginx"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2023-07",
+      "end_date": "2024-05",
+      "duration": "2023-07 – 2024-05",
+      "duration_months": 10,
+      "description": "Developed real-time data processing pipeline using LangChain, handling 500+ requests/second\nCreated authentication and authorization system using Render, securing 500+ user accounts\nDesigned and implemented microservices architecture using Agile, handling 50000+ concurrent users\nOptimized database queries using Helm, improving query performance by 31%",
+      "technologies": [
+        "Helm",
+        "Render",
+        "Agile",
+        "LangChain",
+        "Kubernetes"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-12",
+      "end_date": "2023-06",
+      "duration": "2022-12 – 2023-06",
+      "duration_months": 6,
+      "description": "Led migration from monolithic to microservices using ASP.NET, improving system scalability by 34%\nArchitected and built RESTful APIs serving 10000+ requests/day using Replicate, reducing response time by 50%",
+      "technologies": [
+        "Scrum",
+        "Cloudflare",
+        "ASP.NET",
+        "Replicate"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2021",
+      "gpa": "3.27",
+      "activities": "ACM Club"
+    },
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Eng.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2022",
+      "gpa": "3.02",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Be read than boy college Mrs also price institution method\" — IEEE 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Ruby",
+    "PHP",
+    "Go",
+    "Gin",
+    "Flask",
+    "ASP.NET",
+    "Express.js",
+    "Django",
+    "SQLite",
+    "Neon",
+    "Jenkins",
+    "Ansible",
+    "Heroku",
+    "DigitalOcean",
+    "OpenAI API",
+    "Google Gemini",
+    "Claude API",
+    "LLM Integration",
+    "Agile",
+    "Microservices",
+    "Scrum"
+  ],
+  "companies": [
+    "NeuroLink Labs",
+    "Figma",
+    "Notion"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "LLM Engineer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "Purdue University",
+    "MIT"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 295,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:45.988908",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

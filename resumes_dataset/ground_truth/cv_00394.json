@@ -1,0 +1,328 @@
+{
+  "full_name": "Laura Hill",
+  "email": "laura.hill@yahoo.com",
+  "location": "South Angelaside, USA",
+  "years_of_experience": 7.5,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Laura Hill",
+    "email": "laura.hill@yahoo.com",
+    "phone": "001-419-826-7649x2151",
+    "location": "South Angelaside, USA",
+    "linkedin_url": "https://linkedin.com/in/laura-hill",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior frontend engineering engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in Dart, HTML, CSS with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2024-08",
+      "end_date": "Present",
+      "duration": "2024-08 – Present",
+      "duration_months": 19,
+      "description": "Integrated third-party APIs using Accessibility (WCAG), reducing integration time by 64%\nIntegrated third-party APIs using Responsive Design, reducing integration time by 58%",
+      "technologies": [
+        "Material UI",
+        "Accessibility (WCAG)",
+        "Firebase",
+        "Responsive Design",
+        "Angular"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2021-02",
+      "end_date": "2024-02",
+      "duration": "2021-02 – 2024-02",
+      "duration_months": 36,
+      "description": "Integrated third-party APIs using Prettier, reducing integration time by 27%\nBuilt interactive data visualizations using MongoDB, serving 100+ daily users\nDeveloped design system using Jest, standardizing UI across 50000+ applications\nOptimized frontend bundle size using Jest, reducing load time by 20%",
+      "technologies": [
+        "Jest",
+        "Dart",
+        "Prettier",
+        "Vite",
+        "Webpack",
+        "MongoDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2019-08",
+      "end_date": "2020-09",
+      "duration": "2019-08 – 2020-09",
+      "duration_months": 13,
+      "description": "Developed design system using AWS Amplify, standardizing UI across 50000+ applications\nImproved website accessibility score to 58% using Prettier\nDeveloped design system using Vite, standardizing UI across 10000+ applications\nCreated progressive web app using AWS Amplify, increasing user engagement by 42%",
+      "technologies": [
+        "TypeScript",
+        "AWS Amplify",
+        "Next.js",
+        "Prettier",
+        "Vite"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2017-09",
+      "end_date": "2019-07",
+      "duration": "2017-09 – 2019-07",
+      "duration_months": 22,
+      "description": "Built real-time collaboration features using Component-Driven Development, serving 500+ concurrent users\nImplemented state management solution using Component-Driven Development, reducing API calls by 45%\nIntegrated third-party APIs using ESLint, reducing integration time by 50%",
+      "technologies": [
+        "React",
+        "Supabase",
+        "Next.js",
+        "ESLint",
+        "Component-Driven Development"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": "2.81",
+      "activities": "Google Developer Group"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Teaching coding workshops",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Russian (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "Angular",
+    "Astro",
+    "Remix",
+    "Vite",
+    "Figma",
+    "Jest",
+    "PostgreSQL",
+    "IndexedDB",
+    "Supabase",
+    "MongoDB",
+    "Firebase",
+    "Render",
+    "Vercel",
+    "Cloudflare Pages",
+    "Netlify",
+    "AWS Amplify",
+    "Progressive Web Apps",
+    "Agile",
+    "Responsive Design",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "NeuroLink Labs",
+    "Block",
+    "DeployFast",
+    "DeployFast"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "Frontend Developer",
+    "Web Developer",
+    "Full-Stack Developer"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 394,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:36.820936",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

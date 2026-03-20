@@ -1,0 +1,300 @@
+{
+  "full_name": "Sonya Harvey",
+  "email": "sonya.harvey@protonmail.com",
+  "location": "Davidsonville, UAE",
+  "years_of_experience": 6.9,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sonya Harvey",
+    "email": "sonya.harvey@protonmail.com",
+    "phone": "(693)751-8638x782",
+    "location": "Davidsonville, UAE",
+    "linkedin_url": "https://linkedin.com/in/sonya-harvey",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Rust, YAML, and Python. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-04",
+      "end_date": "Present",
+      "duration": "2022-04 – Present",
+      "duration_months": 47,
+      "description": "Implemented security scanning using CircleCI, identifying 1000+ vulnerabilities\nBuilt CI/CD pipelines using CircleCI, reducing deployment time from 16s to 355ms",
+      "technologies": [
+        "Incident Management",
+        "CircleCI",
+        "PowerShell"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2018-12",
+      "end_date": "2021-12",
+      "duration": "2018-12 – 2021-12",
+      "duration_months": 36,
+      "description": "Built automated backup solution using Seldon, ensuring 1000% data protection\nOptimized cloud infrastructure using K3s, reducing costs by 68%\nOptimized cloud infrastructure using Istio, reducing costs by 57%\nBuilt disaster recovery solution using Grafana, achieving RTO of 158ms",
+      "technologies": [
+        "Grafana",
+        "K3s",
+        "Istio",
+        "Seldon"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.A.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2020",
+      "gpa": "3.58",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Mills Inc Youth Program, 2022-Present",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Conley and Sons Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Turkish (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "YAML",
+    "Python",
+    "Go",
+    "CloudFormation",
+    "Ansible",
+    "Pulumi",
+    "ArgoCD",
+    "Helm",
+    "Buildah",
+    "Linkerd",
+    "Podman",
+    "Kubernetes",
+    "Docker",
+    "GitLab CI",
+    "CircleCI",
+    "GitHub Actions",
+    "Grafana",
+    "Thanos",
+    "AWS",
+    "Hetzner",
+    "Kubeflow",
+    "Kale",
+    "Seldon",
+    "TorchServe",
+    "TensorFlow Serving",
+    "Infrastructure as Code",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "Snowflake",
+    "NeuroLink Labs"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Release Engineer"
+  ],
+  "universities": [
+    "University of Michigan"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 211,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:03.674096",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

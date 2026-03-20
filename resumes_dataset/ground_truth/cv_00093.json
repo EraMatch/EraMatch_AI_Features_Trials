@@ -1,0 +1,334 @@
+{
+  "full_name": "Taylor Jones DVM",
+  "email": "taylor.jones.dvm@gmail.com",
+  "location": "Lake Tamaraside, Brazil",
+  "years_of_experience": 6.8,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Taylor Jones DVM",
+    "email": "taylor.jones.dvm@gmail.com",
+    "phone": "8468226567",
+    "location": "Lake Tamaraside, Brazil",
+    "linkedin_url": "https://linkedin.com/in/taylor-jones-dvm",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Go, Rust, and Actix. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2025-03",
+      "end_date": "Present",
+      "duration": "2025-03 – Present",
+      "duration_months": 12,
+      "description": "Built automated CI/CD pipelines with Ruby, reducing deployment time by 20%\nDesigned and implemented microservices architecture using Gin, handling 10000+ concurrent users\nBuilt automated CI/CD pipelines with Fly.io, reducing deployment time by 17%\nLed migration from monolithic to microservices using Ruby, improving system scalability by 28%",
+      "technologies": [
+        "Event-Driven Architecture",
+        "Ruby",
+        "GitHub Actions",
+        "Ansible",
+        "Gin",
+        "Fly.io"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2023-04",
+      "end_date": "2024-11",
+      "duration": "2023-04 – 2024-11",
+      "duration_months": 19,
+      "description": "Designed and implemented microservices architecture using RabbitMQ, handling 50000+ concurrent users\nImplemented caching layer with RabbitMQ, reducing database load by 21%\nOptimized database queries using TDD, improving query performance by 69%",
+      "technologies": [
+        "PHP",
+        "Python",
+        "RabbitMQ",
+        "TDD"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2021-12",
+      "end_date": "2022-10",
+      "duration": "2021-12 – 2022-10",
+      "duration_months": 10,
+      "description": "Led migration from monolithic to microservices using Nginx, improving system scalability by 17%\nOptimized database queries using Nginx, improving query performance by 28%\nBuilt automated CI/CD pipelines with Claude API, reducing deployment time by 41%\nReduced infrastructure costs by 63% through optimization using Redis",
+      "technologies": [
+        "Claude API",
+        "Nginx",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2018-06",
+      "end_date": "2021-11",
+      "duration": "2018-06 – 2021-11",
+      "duration_months": 41,
+      "description": "Built automated CI/CD pipelines with GCP, reducing deployment time by 52%\nDeveloped real-time data processing pipeline using GCP, handling 100+ documents/second",
+      "technologies": [
+        "Express.js",
+        "GCP",
+        "Supabase"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "M.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Code Review Bot",
+      "description": "Built Payment Processing System using Actix and Django, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Go",
+        "Actix",
+        "Django"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Event Sourcing Engine",
+      "description": "Designed and implemented Cache Layer with Rust, integrating with Go for seamless data flow",
+      "technologies": [
+        "Django",
+        "Go",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Log Aggregator",
+      "description": "Created Message Queue System leveraging Actix for core functionality and Rust for optimization",
+      "technologies": [
+        "Actix",
+        "Go",
+        "Rust"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Technical blogging",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Mandarin (Native)",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Valdez LLC Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Rust",
+    "Actix",
+    "Django",
+    "Elasticsearch",
+    "Supabase",
+    "MongoDB",
+    "PostgreSQL",
+    "GitHub Actions",
+    "Terraform",
+    "Git",
+    "Docker",
+    "Railway",
+    "DigitalOcean",
+    "Google Gemini",
+    "Claude API",
+    "REST API Design",
+    "TDD",
+    "Scrum",
+    "Agile"
+  ],
+  "companies": [
+    "Confluent",
+    "Palantir",
+    "ModelShip",
+    "Stripe"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "API Developer",
+    "Backend Developer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "UT Austin"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 93,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:05.424040",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

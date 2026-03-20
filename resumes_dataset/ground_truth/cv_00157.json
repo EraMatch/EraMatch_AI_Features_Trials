@@ -1,0 +1,258 @@
+{
+  "full_name": "Tiffany Mcclain",
+  "email": "tiffany.mcclain@outlook.com",
+  "location": "Port Brandonport, Australia",
+  "years_of_experience": 3.1,
+  "seniority_level": "mid",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Tiffany Mcclain",
+    "email": "tiffany.mcclain@outlook.com",
+    "phone": "001-683-400-3354x21689",
+    "location": "Port Brandonport, Australia",
+    "linkedin_url": "https://linkedin.com/in/tiffany-mcclain",
+    "github_url": "https://github.com/tiffanymcclain",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level design (ui/ux) specialist with 3 years building production systems. Skilled in JavaScript, HTML, Figma with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "UX Designer",
+      "title": "UX Designer",
+      "start_date": "2025-09",
+      "end_date": "Present",
+      "duration": "2025-09 – Present",
+      "duration_months": 6,
+      "description": "Designed data visualizations using Figma, improving comprehension by 24%\nBuilt interactive prototypes using InVision, reducing development cycles by 18%\nDesigned user interfaces using InVision, improving usability by 64%",
+      "technologies": [
+        "Design Systems",
+        "InVision",
+        "Figma"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Netflix",
+      "organization": "Netflix",
+      "job_title": "UI Designer",
+      "title": "UI Designer",
+      "start_date": "2022-09",
+      "end_date": "2025-04",
+      "duration": "2022-09 – 2025-04",
+      "duration_months": 31,
+      "description": "Created brand identity using Framer, applied across 100+ touchpoints\nCreated information architecture using Figma, improving navigation by 50%",
+      "technologies": [
+        "Hotjar",
+        "CSS",
+        "Cloudflare",
+        "Figma",
+        "Miro",
+        "Framer"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2021",
+      "gpa": "3.50",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Maze",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Thinking",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Framer",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Code Review Bot",
+      "description": "Implemented Data Visualization using Adobe XD, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "Adobe XD"
+      ],
+      "url": "https://github.com/tiffanymcclain/code-review-bot",
+      "date": "2023"
+    },
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Built Design Tokens with Adobe XD and Principle, serving 10,000+ daily active users",
+      "technologies": [
+        "Sketch",
+        "Adobe XD",
+        "Principle"
+      ],
+      "url": "https://github.com/tiffanymcclain/token-bucket-limiter",
+      "date": "2023"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Interaction Design Certificate",
+      "issuer": "Interaction Design Foundation",
+      "date": "2024",
+      "credential_id": "VB78RI98"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Google DevFest 2021",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "HTML",
+    "Figma",
+    "Principle",
+    "Sketch",
+    "Adobe XD",
+    "Hotjar",
+    "Storybook",
+    "Maze",
+    "Adobe Creative Suite",
+    "Firebase",
+    "Vercel",
+    "Netlify",
+    "Cloudflare",
+    "User Research",
+    "Design Thinking"
+  ],
+  "companies": [
+    "Confluent",
+    "Netflix"
+  ],
+  "job_titles": [
+    "UX Designer",
+    "UI Designer"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 157,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:38:37.597484",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

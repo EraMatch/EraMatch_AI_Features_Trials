@@ -1,0 +1,272 @@
+{
+  "full_name": "Rodney Norris",
+  "email": "rodney.norris@gmail.com",
+  "location": "Pamelabury, Singapore",
+  "years_of_experience": 5.8,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Rodney Norris",
+    "email": "rodney.norris@gmail.com",
+    "phone": "488-689-9210x752",
+    "location": "Pamelabury, Singapore",
+    "linkedin_url": null,
+    "github_url": "https://github.com/rodneynorris",
+    "portfolio_url": null
+  },
+  "summary": "Senior cybersecurity engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Rust, Bash, Snort with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": "2023-08 – Present",
+      "duration_months": 31,
+      "description": "Created security awareness training using Wireshark, reducing phishing clicks by 58%\nImplemented SIEM solution using Nmap, processing 50000+ logs/day\nBuilt secure CI/CD pipeline using Zero Trust Architecture, preventing 100+ security issues\nImplemented encryption solution using Figma, protecting 100+ records",
+      "technologies": [
+        "C",
+        "Rust",
+        "Python",
+        "Wireshark",
+        "Zero Trust Architecture",
+        "Nmap"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2020-06",
+      "end_date": "2023-08",
+      "duration": "2020-06 – 2023-08",
+      "duration_months": 38,
+      "description": "Created security awareness training using PowerShell, reducing phishing clicks by 32%\nConducted penetration testing using Sigma, identifying 10000+ vulnerabilities",
+      "technologies": [
+        "Hashicorp Vault",
+        "PostgreSQL",
+        "PowerShell",
+        "Sigma"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Ethical Hacking Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Log Aggregator",
+      "description": "Built Threat Intelligence Feed using Snort and Bash, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Sigma",
+        "Snort",
+        "Bash"
+      ],
+      "url": "https://github.com/rodneynorris/log-aggregator",
+      "date": "2020"
+    },
+    {
+      "name": "Health Check Service",
+      "description": "Designed Security Audit System leveraging Sigma microservices architecture with Burp Suite for caching",
+      "technologies": [
+        "Sigma",
+        "Snort",
+        "Burp Suite"
+      ],
+      "url": "https://github.com/rodneynorris/health-check-service",
+      "date": "2021"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Built Malware Detection with Metasploit and Rust, serving 10,000+ daily active users",
+      "technologies": [
+        "Rust",
+        "Metasploit",
+        "Burp Suite"
+      ],
+      "url": "https://github.com/rodneynorris/real-time-analytics-engine",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Learning new languages",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Bash",
+    "Snort",
+    "Burp Suite",
+    "Suricata",
+    "Sigma",
+    "Metasploit",
+    "Nessus",
+    "SonarQube",
+    "Splunk",
+    "Trivy",
+    "Redis",
+    "PostgreSQL",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "Threat Modeling",
+    "SOC2 Compliance",
+    "OWASP Top 10",
+    "Incident Response"
+  ],
+  "companies": [
+    "CodeReview.io",
+    "Google"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "MIT"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 217,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:39:06.649668",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

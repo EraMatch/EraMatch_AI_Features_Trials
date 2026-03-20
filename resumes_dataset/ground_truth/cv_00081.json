@@ -1,0 +1,289 @@
+{
+  "full_name": "Anthony Hoffman",
+  "email": "anthony.hoffman@gmail.com",
+  "location": "Brooksmouth, Singapore",
+  "years_of_experience": 9.2,
+  "seniority_level": "lead",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Anthony Hoffman",
+    "email": "anthony.hoffman@gmail.com",
+    "phone": "(484)316-8784x991",
+    "location": "Brooksmouth, Singapore",
+    "linkedin_url": "https://linkedin.com/in/anthony-hoffman",
+    "github_url": "https://github.com/anthonyhoffman",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, CSS, and Adobe XD. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Visual Designer",
+      "title": "Visual Designer",
+      "start_date": "2024-08",
+      "end_date": "Present",
+      "duration": "2024-08 – Present",
+      "duration_months": 19,
+      "description": "Built interactive prototypes using User Research, reducing development cycles by 53%\nConducted user research using InVision, gathering insights from 5000+ users\nBuilt interactive prototypes using User Research, reducing development cycles by 70%\nCreated brand identity using Figma, applied across 500+ touchpoints",
+      "technologies": [
+        "InVision",
+        "Miro",
+        "User Research",
+        "Vercel",
+        "Figma"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "UI Designer",
+      "title": "UI Designer",
+      "start_date": "2022-09",
+      "end_date": "2024-05",
+      "duration": "2022-09 – 2024-05",
+      "duration_months": 20,
+      "description": "Created design system using User Research, used across 500+ products\nDesigned accessible interfaces using User Research, achieving WCAG AA compliance",
+      "technologies": [
+        "User Research",
+        "Netlify",
+        "Miro"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2018-10",
+      "end_date": "2022-05",
+      "duration": "2018-10 – 2022-05",
+      "duration_months": 43,
+      "description": "Designed data visualizations using Figma, improving comprehension by 43%\nCreated motion design using Zeplin, increasing engagement by 18%",
+      "technologies": [
+        "Zeplin",
+        "User Research",
+        "Information Architecture",
+        "Maze",
+        "Figma",
+        "Adobe XD"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "UX Designer",
+      "title": "UX Designer",
+      "start_date": "2016-02",
+      "end_date": "2018-06",
+      "duration": "2016-02 – 2018-06",
+      "duration_months": 28,
+      "description": "Created motion design using Hotjar, increasing engagement by 35%\nCreated motion design using Hotjar, increasing engagement by 69%\nConducted usability testing using Principle, identifying 500+ UX issues\nConducted usability testing using Sketch, identifying 10000+ UX issues",
+      "technologies": [
+        "Framer",
+        "Hotjar",
+        "Sketch",
+        "Principle",
+        "Figma"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2016",
+      "gpa": "3.08",
+      "activities": "UX Design Club"
+    },
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2013",
+      "gpa": "3.41",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Principle",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Framer",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Design Systems",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Information Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Maze",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Voice sense current meeting matter and case four listen lead\" — NeurIPS 2021",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Throw cause use five hotel pattern successful order medical meeting\" — ArXiv 2020",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Korean (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "CSS",
+    "Adobe XD",
+    "Principle",
+    "Framer",
+    "Storybook",
+    "After Effects",
+    "Miro",
+    "Figma",
+    "Firebase",
+    "Vercel",
+    "Cloudflare",
+    "Accessibility (WCAG)",
+    "Design Systems",
+    "User Research",
+    "Information Architecture",
+    "Prototyping"
+  ],
+  "companies": [
+    "Figma",
+    "Block",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "job_titles": [
+    "Visual Designer",
+    "UI Designer",
+    "Design Lead",
+    "UX Designer"
+  ],
+  "universities": [
+    "University of Washington",
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 81,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:37:59.262831",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

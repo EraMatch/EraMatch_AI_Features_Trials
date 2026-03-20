@@ -1,0 +1,267 @@
+{
+  "full_name": "Todd Olson",
+  "email": "todd.olson@yahoo.com",
+  "location": "North Jenna, UK",
+  "years_of_experience": 4.0,
+  "seniority_level": "mid",
+  "primary_domain": "General IT",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Todd Olson",
+    "email": "todd.olson@yahoo.com",
+    "phone": "001-865-699-1624x73149",
+    "location": "North Jenna, UK",
+    "linkedin_url": "https://linkedin.com/in/todd-olson",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in SQL, VBA, and PowerShell. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "IT Specialist",
+      "title": "IT Specialist",
+      "start_date": "2025-08",
+      "end_date": "Present",
+      "duration": "2025-08 – Present",
+      "duration_months": 7,
+      "description": "Implemented identity management using Help Desk, securing 1000+ accounts\nCreated network monitoring using Azure, detecting 100+ incidents",
+      "technologies": [
+        "Help Desk",
+        "Incident Management",
+        "Google Workspace",
+        "Azure",
+        "Hyper-V"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "IT Support Engineer",
+      "title": "IT Support Engineer",
+      "start_date": "2022-03",
+      "end_date": "2025-08",
+      "duration": "2022-03 – 2025-08",
+      "duration_months": 41,
+      "description": "Created IT documentation using VMware, serving 1000+ employees\nCreated IT documentation using SharePoint, serving 5000+ employees\nManaged Windows/Active Directory infrastructure using PostgreSQL, supporting 5000+ users\nImplemented backup and recovery using System Administration, achieving 100% data protection",
+      "technologies": [
+        "ITIL",
+        "System Administration",
+        "VMware",
+        "Azure AD",
+        "SharePoint",
+        "PostgreSQL"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.A.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Tech Support"
+    },
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2020",
+      "gpa": "3.27",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VBA",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Active Directory",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Office 365",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure AD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VMware",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Intune",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "System Administration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Network Security",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ITIL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Parser",
+      "description": "Built Compliance Dashboard using Office 365 and PowerShell, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "SQL",
+        "PowerShell",
+        "Office 365"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Designed Patch Management leveraging SQL microservices architecture with Office 365 for caching",
+      "technologies": [
+        "Exchange",
+        "SQL",
+        "Office 365"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Feature Store",
+      "description": "Built User Provisioning with Office 365 and PowerShell, serving 10,000+ daily active users",
+      "technologies": [
+        "Office 365",
+        "PowerShell",
+        "VBA"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CompTIA Network+",
+      "issuer": "CompTIA",
+      "date": "2019",
+      "credential_id": "HA09YP81"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Reach firm gun choice prepare effect\" — ACM 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "VBA",
+    "PowerShell",
+    "Active Directory",
+    "Exchange",
+    "Office 365",
+    "Azure AD",
+    "VMware",
+    "Intune",
+    "Ansible",
+    "SQL Server",
+    "MySQL",
+    "Google Workspace",
+    "AWS",
+    "System Administration",
+    "Network Security"
+  ],
+  "companies": [
+    "Apple",
+    "Palantir"
+  ],
+  "job_titles": [
+    "IT Specialist",
+    "IT Support Engineer"
+  ],
+  "universities": [
+    "University of Toronto",
+    "McGill University"
+  ],
+  "degrees": [
+    "B.A.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 186,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:38:51.548678",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

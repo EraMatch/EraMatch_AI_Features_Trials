@@ -1,0 +1,247 @@
+{
+  "full_name": "Cheryl Ortega",
+  "email": "cheryl.ortega@yahoo.com",
+  "location": "Ramosborough, UK",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Cheryl Ortega",
+    "email": "cheryl.ortega@yahoo.com",
+    "phone": "(729)994-6804x4369",
+    "location": "Ramosborough, UK",
+    "linkedin_url": "https://linkedin.com/in/cheryl-ortega",
+    "github_url": "https://github.com/cherylortega",
+    "portfolio_url": null
+  },
+  "summary": "Results-driven data science / ml / ai professional with 4 years of experience designing and implementing scalable solutions using SQL, MATLAB, Keras. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2024-06",
+      "end_date": "Present",
+      "duration": "2024-06 – Present",
+      "duration_months": 21,
+      "description": "Built real-time analytics dashboard using Airflow, used by 50000+ stakeholders\nDeveloped data visualization tools using Prompt Engineering, used by 500+ analysts\nCreated recommendation system using Prompt Engineering, increasing user engagement by 69%\nImplemented A/B testing framework using Airflow, running 100+ experiments",
+      "technologies": [
+        "Prompt Engineering",
+        "Spark",
+        "Airflow"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2021-12",
+      "end_date": "2024-05",
+      "duration": "2021-12 – 2024-05",
+      "duration_months": 29,
+      "description": "Established MLOps practices using Vector Databases, reducing model deployment time by 57%\nDeveloped ML models using Pinecone, improving prediction accuracy by 66%\nEstablished MLOps practices using Vector Databases, reducing model deployment time by 57%\nDeveloped data visualization tools using Pinecone, used by 100+ analysts",
+      "technologies": [
+        "Vector Databases",
+        "Hugging Face Endpoints",
+        "Pinecone",
+        "Snowflake"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "B.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "AI Research"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Created BI Dashboard leveraging Feature Engineering for core functionality and SQL for optimization",
+      "technologies": [
+        "SQL",
+        "MATLAB",
+        "Feature Engineering"
+      ],
+      "url": "https://github.com/cherylortega/pdf-parser-toolkit",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Hindi (Native)",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"List top somebody college be middle plan friend stand seem\" — CVPR 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "MATLAB",
+    "Keras",
+    "TensorFlow",
+    "LangChain",
+    "Claude API",
+    "Airflow",
+    "Weights & Biases",
+    "Pandas",
+    "MLflow",
+    "Polars",
+    "Redshift",
+    "Neo4j",
+    "Qdrant",
+    "Hugging Face Endpoints",
+    "GCP Vertex AI",
+    "Azure ML",
+    "Lambda Labs",
+    "LLM Evaluation",
+    "Feature Engineering"
+  ],
+  "companies": [
+    "Figma",
+    "InfraCore"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "Data Analyst"
+  ],
+  "universities": [
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 19,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:37:27.834616",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

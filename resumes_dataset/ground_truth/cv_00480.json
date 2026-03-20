@@ -1,0 +1,252 @@
+{
+  "full_name": "Stephanie Bolton",
+  "email": "stephanie.bolton@outlook.com",
+  "location": "Priscillabury, Japan",
+  "years_of_experience": 3.7,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Stephanie Bolton",
+    "email": "stephanie.bolton@outlook.com",
+    "phone": "(596)971-1148",
+    "location": "Priscillabury, Japan",
+    "linkedin_url": "https://linkedin.com/in/stephanie-bolton",
+    "github_url": "https://github.com/stephaniebolton",
+    "portfolio_url": "https://stephaniebolton.dev"
+  },
+  "summary": "Experienced software engineer with expertise in YAML, Python, and HCL. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Implemented log aggregation using Seldon, processing 100000+ logs/day\nImplemented container orchestration using YAML, managing 1000+ containers",
+      "technologies": [
+        "Linkerd",
+        "YAML",
+        "Thanos",
+        "Seldon"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2023",
+      "gpa": "3.21",
+      "activities": "Infrastructure Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Arduino/IoT projects",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "YAML",
+    "Python",
+    "HCL",
+    "Rust",
+    "ArgoCD",
+    "Terraform",
+    "Istio",
+    "Buildah",
+    "Docker",
+    "K3s",
+    "Envoy",
+    "Jenkins",
+    "Azure DevOps",
+    "Argo Workflows",
+    "CircleCI",
+    "GitLab CI",
+    "ELK Stack",
+    "Datadog",
+    "PagerDuty",
+    "VictoriaMetrics",
+    "Opsgenie",
+    "Linode",
+    "Azure",
+    " Triton Inference Server",
+    "MLflow",
+    "Platform Engineering",
+    "Chaos Engineering"
+  ],
+  "companies": [
+    "PromptStack"
+  ],
+  "job_titles": [
+    "MLOps Engineer"
+  ],
+  "universities": [
+    "University of Michigan"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 480,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:41:19.095780",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

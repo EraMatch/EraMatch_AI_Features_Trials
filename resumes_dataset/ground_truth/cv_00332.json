@@ -1,0 +1,291 @@
+{
+  "full_name": "Kelly Wright",
+  "email": "kelly.wright@wright.dev",
+  "location": "South Christian, Singapore",
+  "years_of_experience": 7.0,
+  "seniority_level": "senior",
+  "primary_domain": "Product Management",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kelly Wright",
+    "email": "kelly.wright@wright.dev",
+    "phone": "489-935-7126x61106",
+    "location": "South Christian, Singapore",
+    "linkedin_url": "https://linkedin.com/in/kelly-wright",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in SQL, R, and JavaScript. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2025-09",
+      "end_date": "Present",
+      "duration": "2025-09 – Present",
+      "duration_months": 6,
+      "description": "Created product documentation using Figma, serving 5000+ stakeholders\nConducted user research using Roadmap Planning, interviewing 10000+ users\nCreated product backlog using Kanban, managing 10000+ user stories\nDeveloped product roadmap using Roadmap Planning, prioritizing 100+ features",
+      "technologies": [
+        "Figma",
+        "Kanban",
+        "Roadmap Planning"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2024-11",
+      "end_date": "2025-07",
+      "duration": "2024-11 – 2025-07",
+      "duration_months": 8,
+      "description": "Conducted user research using Amplitude, interviewing 50000+ users\nImplemented A/B testing using Amplitude, running 50000+ experiments\nLed product development using Jira, launching features used by 50000+ users",
+      "technologies": [
+        "Amplitude",
+        "Roadmap Planning",
+        "Jira",
+        "Azure"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Senior Product Manager",
+      "title": "Senior Product Manager",
+      "start_date": "2021-01",
+      "end_date": "2024-09",
+      "duration": "2021-01 – 2024-09",
+      "duration_months": 44,
+      "description": "Led product development using MySQL, launching features used by 5000+ users\nImplemented product analytics using SQL, tracking 100000+ metrics\nLed product launches using SQL, achieving 1000+ signups",
+      "technologies": [
+        "Hotjar",
+        "Scrum",
+        "SQL",
+        "MySQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2018-07",
+      "end_date": "2020-09",
+      "duration": "2018-07 – 2020-09",
+      "duration_months": 26,
+      "description": "Led product launches using Aha!, achieving 1000+ signups\nDeveloped OKR tracking using Aha!, achieving 43% of quarterly goals",
+      "technologies": [
+        "Product Discovery",
+        "PostgreSQL",
+        "Figma",
+        "Aha!"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "B.A.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2017",
+      "gpa": "2.99",
+      "activities": "Business Analytics"
+    },
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mixpanel",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Product Discovery",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Amplitude",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Roadmap Planning",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Turkish (Native)",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "R",
+    "JavaScript",
+    "Jira",
+    "Confluence",
+    "Mixpanel",
+    "Tableau",
+    "Hotjar",
+    "MySQL",
+    "PostgreSQL",
+    "Snowflake",
+    "BigQuery",
+    "GCP",
+    "Azure",
+    "AWS",
+    "Agile",
+    "Product Discovery",
+    "User Research"
+  ],
+  "companies": [
+    "Confluent",
+    "ModelShip",
+    "CloudNova",
+    "Cloudflare"
+  ],
+  "job_titles": [
+    "Product Owner",
+    "VP of Product",
+    "Senior Product Manager",
+    "Product Manager"
+  ],
+  "universities": [
+    "MIT",
+    "KAIST"
+  ],
+  "degrees": [
+    "B.A.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 332,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:40:05.163376",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

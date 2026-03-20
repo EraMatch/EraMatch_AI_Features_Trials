@@ -1,0 +1,283 @@
+{
+  "full_name": "Crystal Carey",
+  "email": "crystal.carey@outlook.com",
+  "location": "North Rickyhaven, Germany",
+  "years_of_experience": 5.3,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Crystal Carey",
+    "email": "crystal.carey@outlook.com",
+    "phone": "(783)769-2944",
+    "location": "North Rickyhaven, Germany",
+    "linkedin_url": "https://linkedin.com/in/crystal-carey",
+    "github_url": null,
+    "portfolio_url": "https://crystalcarey.dev"
+  },
+  "summary": "Senior frontend engineering engineer with 5 years of experience architecting and delivering enterprise solutions. Expert in Dart, TypeScript, JavaScript with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 – Present",
+      "duration_months": 37,
+      "description": "Improved website accessibility score to 17% using Responsive Design\nCreated accessible UI components using HTML, achieving WCAG AA compliance\nImproved website accessibility score to 35% using Render",
+      "technologies": [
+        "JavaScript",
+        "Responsive Design",
+        "TypeScript",
+        "Next.js",
+        "HTML",
+        "Render"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2021-03",
+      "end_date": "2022-10",
+      "duration": "2021-03 – 2022-10",
+      "duration_months": 19,
+      "description": "Developed responsive web applications using CSS, improving page load time by 67%\nIntegrated third-party APIs using TypeScript, reducing integration time by 60%\nImproved website accessibility score to 41% using Git\nBuilt reusable component library using Accessibility (WCAG), used by 100000+ developers",
+      "technologies": [
+        "HTML",
+        "Material UI",
+        "Accessibility (WCAG)",
+        "TypeScript",
+        "Git",
+        "CSS"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2020-05",
+      "end_date": "2021-01",
+      "duration": "2020-05 – 2021-01",
+      "duration_months": 8,
+      "description": "Integrated third-party APIs using Prettier, reducing integration time by 59%\nBuilt interactive data visualizations using Material UI, serving 5000+ daily users\nCreated progressive web app using Cloudflare Pages, increasing user engagement by 63%\nImplemented automated testing framework using Material UI, achieving 27% code coverage",
+      "technologies": [
+        "Material UI",
+        "Prettier",
+        "Cloudflare Pages",
+        "Netlify"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2019",
+      "gpa": "2.89",
+      "activities": "Accessibility Initiative"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartCache",
+      "description": "Built Real-time Chat with Angular and Next.js, serving 10,000+ daily active users",
+      "technologies": [
+        "Angular",
+        "JavaScript",
+        "Next.js"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Developed Dashboard Application using Angular, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Angular",
+        "Dart",
+        "JavaScript"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Johnston Ltd Youth Program, 2020-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "TypeScript",
+    "JavaScript",
+    "HTML",
+    "Python",
+    "Angular",
+    "Next.js",
+    "Figma",
+    "Jest",
+    "Playwright",
+    "PostgreSQL",
+    "MongoDB",
+    "Render",
+    "Cloudflare Pages",
+    "Netlify",
+    "Vercel",
+    "AWS Amplify",
+    "Accessibility (WCAG)",
+    "Agile"
+  ],
+  "companies": [
+    "Tesla",
+    "CodeCraft Studios",
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "UI Engineer",
+    "Full-Stack Developer"
+  ],
+  "universities": [
+    "University of Michigan"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 492,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:41:24.708815",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

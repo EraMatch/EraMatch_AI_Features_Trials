@@ -1,0 +1,231 @@
+{
+  "full_name": "Jennifer Hansen",
+  "email": "jennifer.hansen@hansen.dev",
+  "location": "Lake Jasonfort, UAE",
+  "years_of_experience": 2.8,
+  "seniority_level": "mid",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jennifer Hansen",
+    "email": "jennifer.hansen@hansen.dev",
+    "phone": "001-964-497-6776x22827",
+    "location": "Lake Jasonfort, UAE",
+    "linkedin_url": "https://linkedin.com/in/jennifer-hansen",
+    "github_url": null,
+    "portfolio_url": "https://jenniferhansen.dev"
+  },
+  "summary": "Experienced software engineer with expertise in Kotlin, Swift, and C++. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2023-11",
+      "end_date": "Present",
+      "duration": "2023-11 – Present",
+      "duration_months": 28,
+      "description": "Implemented deep linking using Firebase, improving conversion rates by 37%\nOptimized app performance using Flutter, reducing battery consumption by 62%",
+      "technologies": [
+        "Jetpack Compose",
+        "MVVM",
+        "Firebase",
+        "Flutter",
+        "SwiftUI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2022-11",
+      "end_date": "2023-05",
+      "duration": "2022-11 – 2023-05",
+      "duration_months": 6,
+      "description": "Created in-app purchase integration using Offline-First, generating 5000+ in revenue\nOptimized app performance using Hive, reducing battery consumption by 43%",
+      "technologies": [
+        "Offline-First",
+        "Swift",
+        "Hive",
+        "TypeScript",
+        "Dart"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "B.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2023",
+      "gpa": "3.66",
+      "activities": "Android Community"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — ACM 2023",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "English (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "Swift",
+    "C++",
+    "KMP",
+    "Jetpack Compose",
+    "Fastlane",
+    "App Center",
+    "TestFlight",
+    "Xcode",
+    "CocoaPods",
+    "Core Data",
+    "Hive",
+    "AWS Amplify",
+    "Firebase",
+    "Supabase",
+    "Offline-First",
+    "MVVM",
+    "Clean Architecture"
+  ],
+  "companies": [
+    "Twilio",
+    "CloudNova"
+  ],
+  "job_titles": [
+    "Android Developer",
+    "Flutter Developer"
+  ],
+  "universities": [
+    "UIUC"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 333,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:40:05.653024",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "full_name": "Stacy Harper",
+  "email": "stacy.harper@harper.dev",
+  "location": "North Andrewfort, Canada",
+  "years_of_experience": 6.2,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Stacy Harper",
+    "email": "stacy.harper@harper.dev",
+    "phone": "001-352-840-1322x34232",
+    "location": "North Andrewfort, Canada",
+    "linkedin_url": "https://linkedin.com/in/stacy-harper",
+    "github_url": "https://github.com/stacyharper",
+    "portfolio_url": "https://stacyharper.dev"
+  },
+  "summary": "Senior devops / sre / mlops engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in HCL, PowerShell, Crossplane with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2024-07",
+      "end_date": "Present",
+      "duration": "2024-07 – Present",
+      "duration_months": 20,
+      "description": "Created monitoring and alerting system using ELK Stack, reducing MTTR by 57%\nImplemented log aggregation using GitHub Actions, processing 5000+ logs/day\nCreated self-service provisioning portal using Datadog, serving 500+ engineers\nCreated self-service provisioning portal using GitHub Actions, serving 100+ engineers",
+      "technologies": [
+        "GitHub Actions",
+        "Datadog",
+        "ELK Stack"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-03",
+      "end_date": "2024-04",
+      "duration": "2023-03 – 2024-04",
+      "duration_months": 13,
+      "description": "Optimized cloud infrastructure using SRE Practices, reducing costs by 26%\nBuilt automated backup solution using Go, ensuring 100% data protection\nBuilt CI/CD pipelines using Alibaba Cloud, reducing deployment time from 15s to 434ms",
+      "technologies": [
+        "SRE Practices",
+        "Buildah",
+        "Go",
+        "Alibaba Cloud",
+        "Kale"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2022-04",
+      "end_date": "2022-12",
+      "duration": "2022-04 – 2022-12",
+      "duration_months": 8,
+      "description": "Implemented container orchestration using Argo Workflows, managing 100000+ containers\nImplemented log aggregation using Argo Workflows, processing 100000+ logs/day\nImplemented security scanning using Crossplane, identifying 10000+ vulnerabilities\nImplemented security scanning using Argo Workflows, identifying 100000+ vulnerabilities",
+      "technologies": [
+        "Crossplane",
+        "SRE Practices",
+        "Argo Workflows",
+        "Kubeflow"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2019-02",
+      "end_date": "2021-12",
+      "duration": "2019-02 – 2021-12",
+      "duration_months": 34,
+      "description": "Designed and implemented infrastructure as code using SRE Practices, managing 500+ servers\nImplemented log aggregation using Linode, processing 100000+ logs/day\nCreated monitoring and alerting system using SRE Practices, reducing MTTR by 67%",
+      "technologies": [
+        "Azure",
+        "Envoy",
+        "Linode",
+        "SRE Practices"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "M.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Infrastructure Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resume Parser",
+      "description": "Implemented Chaos Engineering Framework using PowerShell, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "HCL",
+        "PowerShell",
+        "ArgoCD"
+      ],
+      "url": "https://github.com/stacyharper/resume-parser",
+      "date": "2021"
+    },
+    {
+      "name": "Feature Store",
+      "description": "Created Auto-scaling Solution leveraging HCL for core functionality and ELK Stack for optimization",
+      "technologies": [
+        "HCL",
+        "PowerShell",
+        "ELK Stack"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Designed Kubernetes Cluster leveraging PowerShell microservices architecture with HCL for caching",
+      "technologies": [
+        "HCL",
+        "PowerShell",
+        "AWS"
+      ],
+      "url": "https://github.com/stacyharper/vector-search-api",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Amount blue soldier message arrive budget education at property\" — ACM 2020",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Drone building",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — IEEE 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HCL",
+    "PowerShell",
+    "Crossplane",
+    "ArgoCD",
+    "Pulumi",
+    "Ansible",
+    "CDK",
+    "Istio",
+    "Kubernetes",
+    "Podman",
+    "Linkerd",
+    "Envoy",
+    "CircleCI",
+    "Jenkins",
+    "Argo Workflows",
+    "GitHub Actions",
+    "Grafana",
+    "Prometheus",
+    "ELK Stack",
+    "PagerDuty",
+    "Alibaba Cloud",
+    "AWS",
+    "GCP",
+    "MLflow",
+    "Seldon",
+    " Triton Inference Server",
+    "Kale",
+    "GitOps",
+    "Incident Management",
+    "Infrastructure as Code",
+    "Zero Trust",
+    "Chaos Engineering"
+  ],
+  "companies": [
+    "HashiCorp",
+    "Meta",
+    "OpenAI",
+    "VectorDB Inc"
+  ],
+  "job_titles": [
+    "Cloud Engineer",
+    "Platform Engineer",
+    "Release Engineer",
+    "SRE"
+  ],
+  "universities": [
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 286,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:41.588635",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "full_name": "Philip Watts",
+  "email": "philip.watts@yahoo.com",
+  "location": "West Joelchester, Singapore",
+  "years_of_experience": 5.7,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Philip Watts",
+    "email": "philip.watts@yahoo.com",
+    "phone": "+1-571-250-9976x83890",
+    "location": "West Joelchester, Singapore",
+    "linkedin_url": "https://linkedin.com/in/philip-watts",
+    "github_url": "https://github.com/philipwatts",
+    "portfolio_url": "https://philipwatts.dev"
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in TypeScript, PHP, Rust.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 – Present",
+      "duration_months": 33,
+      "description": "Designed and implemented microservices architecture using Rails, handling 1000+ concurrent users\nArchitected and built RESTful APIs serving 100000+ requests/day using Rails, reducing response time by 35%",
+      "technologies": [
+        "Event-Driven Architecture",
+        "DigitalOcean",
+        "Helm",
+        "Rails"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2020-01",
+      "end_date": "2022-12",
+      "duration": "2020-01 – 2022-12",
+      "duration_months": 35,
+      "description": "Built automated CI/CD pipelines with C#, reducing deployment time by 15%\nBuilt event-driven architecture using LLM Integration, processing 50000+ events daily",
+      "technologies": [
+        "Rust",
+        "LLM Integration",
+        "C#"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "B.A.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Hackathon Winner"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Designed and implemented gRPC Services with C#, integrating with Rails for seamless data flow",
+      "technologies": [
+        "PHP",
+        "Rails",
+        "C#"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Harvey Inc Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "PHP",
+    "Rust",
+    "Python",
+    "C#",
+    "Gin",
+    "Actix",
+    "Express.js",
+    "Rails",
+    "Elasticsearch",
+    "DynamoDB",
+    "CockroachDB",
+    "Cassandra",
+    "Kafka",
+    "Ansible",
+    "GitHub Actions",
+    "RabbitMQ",
+    "Jenkins",
+    "Vercel",
+    "Railway",
+    "DigitalOcean",
+    "Google Gemini",
+    "Claude API",
+    "AWS Bedrock",
+    "Replicate",
+    "TDD",
+    "Microservices",
+    "Scrum"
+  ],
+  "companies": [
+    "Meta",
+    "Supabase"
+  ],
+  "job_titles": [
+    "Software Engineer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 373,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:26.174265",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "full_name": "Brandi Mason",
+  "email": "brandi.mason@gmail.com",
+  "location": "East Ashley, Australia",
+  "years_of_experience": 8.1,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Brandi Mason",
+    "email": "brandi.mason@gmail.com",
+    "phone": "465-980-3928",
+    "location": "East Ashley, Australia",
+    "linkedin_url": "https://linkedin.com/in/brandi-mason",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in backend engineering with expertise in C#, Rust, Kotlin. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2024-11",
+      "end_date": "Present",
+      "duration": "2024-11 – Present",
+      "duration_months": 16,
+      "description": "Designed and implemented message queue system using Flask, processing 10000+ messages/hour\nReduced infrastructure costs by 39% through optimization using Cloudflare\nCreated authentication and authorization system using Flask, securing 5000+ user accounts\nArchitected and built RESTful APIs serving 10000+ requests/day using PlanetScale, reducing response time by 47%",
+      "technologies": [
+        "Cloudflare",
+        "Fly.io",
+        "PlanetScale",
+        "Gin",
+        "Hugging Face",
+        "Flask"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2024-03",
+      "end_date": "2024-10",
+      "duration": "2024-03 – 2024-10",
+      "duration_months": 7,
+      "description": "Developed real-time data processing pipeline using Supabase, handling 100000+ queries/second\nReduced infrastructure costs by 17% through optimization using Microservices",
+      "technologies": [
+        "Supabase",
+        "Microservices",
+        "AWS Bedrock",
+        "GCP"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2021-10",
+      "end_date": "2024-03",
+      "duration": "2021-10 – 2024-03",
+      "duration_months": 29,
+      "description": "Designed and implemented message queue system using GitHub Actions, processing 5000+ messages/hour\nReduced infrastructure costs by 55% through optimization using Vercel\nDesigned and implemented microservices architecture using LlamaIndex, handling 10000+ concurrent users",
+      "technologies": [
+        "LlamaIndex",
+        "GitHub Actions",
+        "Vercel",
+        "Gin"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2017-07",
+      "end_date": "2021-04",
+      "duration": "2017-07 – 2021-04",
+      "duration_months": 45,
+      "description": "Built event-driven architecture using PostgreSQL, processing 100000+ events daily\nDesigned and implemented microservices architecture using Elasticsearch, handling 100+ concurrent users",
+      "technologies": [
+        "DynamoDB",
+        "PostgreSQL",
+        "Elasticsearch"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "M.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2017",
+      "gpa": "3.92",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Designed Message Queue System leveraging Spring Boot microservices architecture with LlamaIndex for caching",
+      "technologies": [
+        "Spring Boot",
+        "Flask",
+        "LlamaIndex"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Hopkins, Faulkner and Fitzgerald Youth Program, 2022-Present",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Voice American seven discussion enough doctor protect military social\" — EMNLP 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "Rust",
+    "Kotlin",
+    "Spring Boot",
+    "Flask",
+    "LlamaIndex",
+    "Elasticsearch",
+    "Supabase",
+    "PlanetScale",
+    "MongoDB",
+    "RabbitMQ",
+    "Terraform",
+    "Ansible",
+    "GitHub Actions",
+    "Helm",
+    "Azure",
+    "GCP",
+    "Anthropic",
+    "OpenAI API",
+    "Hugging Face",
+    "Replicate",
+    "GraphQL",
+    "Agile",
+    "TDD",
+    "REST API Design"
+  ],
+  "companies": [
+    "DataPulse",
+    "PipelineIO",
+    "Figma",
+    "Palantir"
+  ],
+  "job_titles": [
+    "API Developer",
+    "Platform Engineer",
+    "Platform Engineer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 180,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:48.413499",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

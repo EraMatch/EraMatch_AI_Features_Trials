@@ -1,0 +1,339 @@
+{
+  "full_name": "Daniel Reynolds",
+  "email": "daniel.reynolds@yahoo.com",
+  "location": "Brownfurt, Singapore",
+  "years_of_experience": 7.6,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Daniel Reynolds",
+    "email": "daniel.reynolds@yahoo.com",
+    "phone": "001-272-499-4938x743",
+    "location": "Brownfurt, Singapore",
+    "linkedin_url": "https://linkedin.com/in/daniel-reynolds",
+    "github_url": "https://github.com/danielreynolds",
+    "portfolio_url": null
+  },
+  "summary": "Senior backend engineering engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in PHP, C#, Django with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2021-10",
+      "end_date": "Present",
+      "duration": "2021-10 – Present",
+      "duration_months": 53,
+      "description": "Optimized database queries using CI/CD, improving query performance by 26%\nDeveloped real-time data processing pipeline using Google Gemini, handling 1000+ logs/second",
+      "technologies": [
+        "GitHub Actions",
+        "Redis",
+        "Google Gemini",
+        "gRPC",
+        "RAG Architecture",
+        "CI/CD"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2020-07",
+      "end_date": "2021-09",
+      "duration": "2020-07 – 2021-09",
+      "duration_months": 14,
+      "description": "Built event-driven architecture using Go, processing 500+ events daily\nCreated authentication and authorization system using Kotlin, securing 5000+ user accounts\nMentored team of 6 junior developers on Go best practices",
+      "technologies": [
+        "Kotlin",
+        "Nginx",
+        "Go"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2018-05",
+      "end_date": "2020-05",
+      "duration": "2018-05 – 2020-05",
+      "duration_months": 24,
+      "description": "Designed and implemented message queue system using Anthropic, processing 500+ messages/hour\nImplemented caching layer with DigitalOcean, reducing database load by 57%",
+      "technologies": [
+        "DigitalOcean",
+        "Anthropic",
+        "Azure",
+        "Kubernetes",
+        "ASP.NET",
+        "RAG Architecture"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": "3.46",
+      "activities": null
+    },
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "B.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ChatBot Framework",
+      "description": "Implemented REST API Framework using Django, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Django",
+        "FastAPI",
+        "Flask"
+      ],
+      "url": "https://github.com/danielreynolds/chatbot-framework",
+      "date": "2025"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Designed Message Queue System leveraging Flask microservices architecture with Rails for caching",
+      "technologies": [
+        "Rails",
+        "PHP",
+        "Flask"
+      ],
+      "url": "https://github.com/danielreynolds/api-gateway",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Space moment travel these least office say explain thing lead\" — ICML 2020",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PHP",
+    "C#",
+    "Django",
+    "Flask",
+    "FastAPI",
+    "Rails",
+    "LangChain",
+    "PlanetScale",
+    "Elasticsearch",
+    "MySQL",
+    "Jenkins",
+    "Docker",
+    "GitHub Actions",
+    "RabbitMQ",
+    "Heroku",
+    "GCP",
+    "Railway",
+    "Azure",
+    "DigitalOcean",
+    "Hugging Face",
+    "Google Gemini",
+    "TDD",
+    "Scrum",
+    "CI/CD",
+    "Agile"
+  ],
+  "companies": [
+    "Confluent",
+    "Figma",
+    "Anthropic"
+  ],
+  "job_titles": [
+    "Software Engineer",
+    "Server-Side Developer",
+    "Software Engineer"
+  ],
+  "universities": [
+    "Purdue University",
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 366,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:40:22.803452",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

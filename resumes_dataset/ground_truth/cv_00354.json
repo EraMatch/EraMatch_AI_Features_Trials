@@ -1,0 +1,303 @@
+{
+  "full_name": "Heather Hester",
+  "email": "heather.hester@protonmail.com",
+  "location": "North Gregory, Japan",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Heather Hester",
+    "email": "heather.hester@protonmail.com",
+    "phone": "534.423.4258",
+    "location": "North Gregory, Japan",
+    "linkedin_url": "https://linkedin.com/in/heather-hester",
+    "github_url": "https://github.com/heatherhester",
+    "portfolio_url": null
+  },
+  "summary": "Senior devops / sre / mlops engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in Rust, HCL, Helm with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 – Present",
+      "duration_months": 44,
+      "description": "Optimized cloud infrastructure using GitOps, reducing costs by 34%\nBuilt CI/CD pipelines using GCP, reducing deployment time from 19s to 108ms\nEstablished GitOps workflows using GitLab CI, improving deployment frequency by 56%\nBuilt disaster recovery solution using Zero Trust, achieving RTO of 325ms",
+      "technologies": [
+        "Zero Trust",
+        "GitOps",
+        "GCP",
+        "GitLab CI"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2017-11",
+      "end_date": "2022-01",
+      "duration": "2017-11 – 2022-01",
+      "duration_months": 50,
+      "description": "Built disaster recovery solution using Go, achieving RTO of 335ms\nBuilt disaster recovery solution using Crossplane, achieving RTO of 186ms\nBuilt CI/CD pipelines using YAML, reducing deployment time from 26s to 163ms",
+      "technologies": [
+        "Go",
+        "YAML",
+        "Crossplane"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "B.A.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "DevOps Bootcamp"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed Kubernetes Cluster leveraging Rust microservices architecture with CloudFormation for caching",
+      "technologies": [
+        "Rust",
+        "HCL",
+        "CloudFormation"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Prompt Playground",
+      "description": "Created Infrastructure as Code leveraging Rust for core functionality and Alibaba Cloud for optimization",
+      "technologies": [
+        "Rust",
+        "HCL",
+        "Alibaba Cloud"
+      ],
+      "url": "https://github.com/heatherhester/prompt-playground",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Korean (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Turkish (Native)",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor — IEEE 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "HCL",
+    "Helm",
+    "Terraform",
+    "CDK",
+    "Pulumi",
+    "CloudFormation",
+    "Envoy",
+    "Istio",
+    "Podman",
+    "Tekton",
+    "GitLab CI",
+    "Argo Workflows",
+    "Azure DevOps",
+    "Jenkins",
+    "Grafana",
+    "Thanos",
+    "PagerDuty",
+    "Alibaba Cloud",
+    "Oracle Cloud",
+    "Seldon",
+    "Kubeflow",
+    "SRE Practices",
+    "Chaos Engineering",
+    "GitOps"
+  ],
+  "companies": [
+    "DataPulse",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "MLOps Engineer",
+    "Infrastructure Engineer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 354,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:16.678081",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

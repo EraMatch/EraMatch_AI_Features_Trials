@@ -1,0 +1,316 @@
+{
+  "full_name": "Jordan Stokes",
+  "email": "jordan.stokes@outlook.com",
+  "location": "New Charles, UK",
+  "years_of_experience": 5.8,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jordan Stokes",
+    "email": "jordan.stokes@outlook.com",
+    "phone": "628.267.9087x406",
+    "location": "New Charles, UK",
+    "linkedin_url": "https://linkedin.com/in/jordan-stokes",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in TypeScript, C#, Go.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-05",
+      "end_date": "Present",
+      "duration": "2022-05 – Present",
+      "duration_months": 46,
+      "description": "Implemented caching layer with CockroachDB, reducing database load by 50%\nBuilt event-driven architecture using Supabase, processing 10000+ events daily\nCreated authentication and authorization system using Supabase, securing 500+ user accounts\nDesigned and implemented microservices architecture using Supabase, handling 50000+ concurrent users",
+      "technologies": [
+        "FastAPI",
+        "Fly.io",
+        "Supabase",
+        "CI/CD",
+        "TDD",
+        "CockroachDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2021-06",
+      "end_date": "2022-05",
+      "duration": "2021-06 – 2022-05",
+      "duration_months": 11,
+      "description": "Developed real-time data processing pipeline using MongoDB, handling 10000+ messages/second\nLed migration from monolithic to microservices using Agile, improving system scalability by 26%",
+      "technologies": [
+        "MongoDB",
+        "Elasticsearch",
+        "Agile"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2019-12",
+      "end_date": "2020-12",
+      "duration": "2019-12 – 2020-12",
+      "duration_months": 12,
+      "description": "Developed real-time data processing pipeline using Fly.io, handling 5000+ logs/second\nReduced infrastructure costs by 31% through optimization using Google Gemini\nCreated authentication and authorization system using Helm, securing 10000+ user accounts",
+      "technologies": [
+        "Helm",
+        "Fly.io",
+        "Google Gemini"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "Ph.D.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2019",
+      "gpa": "3.47",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Implemented Event Streaming Service using Node.js, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Node.js",
+        "Actix",
+        "TypeScript"
+      ],
+      "url": null,
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Cooper-Brown Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Cooking",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "C#",
+    "Go",
+    "Node.js",
+    "Actix",
+    "Django",
+    "MongoDB",
+    "MySQL",
+    "Elasticsearch",
+    "ArgoCD",
+    "Kafka",
+    "gRPC",
+    "Git",
+    "Kubernetes",
+    "Render",
+    "Cloudflare",
+    "Heroku",
+    "Vercel",
+    "Claude API",
+    "Google Gemini",
+    "OpenAI API",
+    "Anthropic",
+    "AWS Bedrock",
+    "REST API Design",
+    "Scrum",
+    "Microservices",
+    "GraphQL"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "Notion",
+    "CloudNova"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "LLM Engineer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 92,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:04.947832",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

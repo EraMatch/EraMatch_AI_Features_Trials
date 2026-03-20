@@ -1,0 +1,233 @@
+{
+  "full_name": "Ms. Brittany Gibson",
+  "email": "ms..brittany.gibson@outlook.com",
+  "location": "East Patrickmouth, Brazil",
+  "years_of_experience": 8.0,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Ms. Brittany Gibson",
+    "email": "ms..brittany.gibson@outlook.com",
+    "phone": "347-973-2010",
+    "location": "East Patrickmouth, Brazil",
+    "linkedin_url": null,
+    "github_url": "https://github.com/msbrittanygibson",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in frontend engineering with expertise in Dart, HTML, Tailwind CSS. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2021-12",
+      "end_date": "Present",
+      "duration": "2021-12 – Present",
+      "duration_months": 51,
+      "description": "Implemented state management solution using Next.js, reducing API calls by 60%\nBuilt reusable component library using Netlify, used by 5000+ developers",
+      "technologies": [
+        "Netlify",
+        "Next.js",
+        "Figma",
+        "Tailwind CSS",
+        "Vercel"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2017-11",
+      "end_date": "2021-08",
+      "duration": "2017-11 – 2021-08",
+      "duration_months": 45,
+      "description": "Integrated third-party APIs using Astro, reducing integration time by 21%\nOptimized frontend bundle size using Astro, reducing load time by 48%",
+      "technologies": [
+        "Agile",
+        "Cloudflare Pages",
+        "Dart",
+        "Vercel",
+        "Firebase",
+        "Astro"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.A.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Web Development Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Designed Mobile Web App leveraging HTML microservices architecture with Astro for caching",
+      "technologies": [
+        "Svelte",
+        "Astro",
+        "HTML"
+      ],
+      "url": "https://github.com/msbrittanygibson/feature-store",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — IEEE 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "HTML",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Material UI",
+    "Svelte",
+    "Astro",
+    "Playwright",
+    "Git",
+    "Supabase",
+    "PostgreSQL",
+    "AWS Amplify",
+    "Vercel",
+    "Cloudflare Pages",
+    "Render",
+    "Agile",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "HashiCorp",
+    "Cloudflare"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 292,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:39:44.723270",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "full_name": "Joe Miranda",
+  "email": "joe.miranda@protonmail.com",
+  "location": "North James, Germany",
+  "years_of_experience": 8.0,
+  "seniority_level": "lead",
+  "primary_domain": "QA / Testing",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Joe Miranda",
+    "email": "joe.miranda@protonmail.com",
+    "phone": "+1-932-580-6346x1571",
+    "location": "North James, Germany",
+    "linkedin_url": "https://linkedin.com/in/joe-miranda",
+    "github_url": "https://github.com/joemiranda",
+    "portfolio_url": null
+  },
+  "summary": "Lead qa / testing professional with 8 years driving technical strategy and team excellence. Expert in Java, JavaScript, Python with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "QA Engineer",
+      "title": "QA Engineer",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 – Present",
+      "duration_months": 33,
+      "description": "Implemented CI/CD testing using BrowserStack, catching 10000+ defects pre-production\nCreated test reporting dashboard using PostgreSQL, tracking 10000+ test metrics\nDeveloped API testing framework using PostgreSQL, testing 5000+ endpoints\nDeveloped BDD framework using BrowserStack, writing 100+ scenarios",
+      "technologies": [
+        "TDD",
+        "BrowserStack",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Test Automation Engineer",
+      "title": "Test Automation Engineer",
+      "start_date": "2020-02",
+      "end_date": "2023-01",
+      "duration": "2020-02 – 2023-01",
+      "duration_months": 35,
+      "description": "Developed test automation framework using Selenium, achieving 67% automation coverage\nCreated test reporting dashboard using Ruby, tracking 10000+ test metrics\nDeveloped BDD framework using Test Planning, writing 100000+ scenarios",
+      "technologies": [
+        "Selenium",
+        "Ruby",
+        "PostgreSQL",
+        "Test Planning",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Test Automation Engineer",
+      "title": "Test Automation Engineer",
+      "start_date": "2017-08",
+      "end_date": "2019-12",
+      "duration": "2017-08 – 2019-12",
+      "duration_months": 28,
+      "description": "Built security testing automation using PyTest, finding 5000+ vulnerabilities\nBuilt accessibility testing using Python, ensuring compliance for 100000+ pages\nCreated test data management using Agile Testing, generating 5000+ test records",
+      "technologies": [
+        "TestNG",
+        "Agile Testing",
+        "PyTest",
+        "Python",
+        "Azure"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "B.A.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2016",
+      "gpa": "3.19",
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "B.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Selenium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestNG",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sauce Labs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Security Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Performance Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTest",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Agile Testing",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Davies, Allen and Price Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "JavaScript",
+    "Python",
+    "C#",
+    "Ruby",
+    "Selenium",
+    "TestNG",
+    "Git",
+    "Sauce Labs",
+    "PostgreSQL",
+    "MySQL",
+    "Azure",
+    "GCP",
+    "AWS",
+    "Security Testing",
+    "Performance Testing"
+  ],
+  "companies": [
+    "Apple",
+    "Confluent",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "QA Engineer",
+    "Test Automation Engineer",
+    "Test Automation Engineer"
+  ],
+  "universities": [
+    "UC Berkeley",
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "B.A.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 261,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:39:28.875315",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

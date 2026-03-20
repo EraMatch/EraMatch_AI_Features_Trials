@@ -1,0 +1,277 @@
+{
+  "full_name": "Scott Lopez",
+  "email": "scott.lopez@gmail.com",
+  "location": "South Richard, Germany",
+  "years_of_experience": 9.5,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Scott Lopez",
+    "email": "scott.lopez@gmail.com",
+    "phone": "375-320-7167",
+    "location": "South Richard, Germany",
+    "linkedin_url": "https://linkedin.com/in/scott-lopez",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in cybersecurity with expertise in Go, PowerShell, Snort. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2025-05",
+      "end_date": "Present",
+      "duration": "2025-05 – Present",
+      "duration_months": 10,
+      "description": "Designed zero-trust architecture using Nmap, securing 10000+ endpoints\nConducted penetration testing using SOC2 Compliance, identifying 10000+ vulnerabilities\nCreated vulnerability management program using SOC2 Compliance, reducing CVEs by 15%\nCreated security awareness training using Nmap, reducing phishing clicks by 32%",
+      "technologies": [
+        "Nmap",
+        "Go",
+        "SOC2 Compliance"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2020-11",
+      "end_date": "2024-12",
+      "duration": "2020-11 – 2024-12",
+      "duration_months": 49,
+      "description": "Built security automation using Snort, reducing incident response time by 50%\nCreated vulnerability management program using SAST/DAST, reducing CVEs by 37%\nCreated vulnerability management program using C, reducing CVEs by 30%",
+      "technologies": [
+        "Snort",
+        "C",
+        "SAST/DAST"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2017-12",
+      "end_date": "2020-08",
+      "duration": "2017-12 – 2020-08",
+      "duration_months": 32,
+      "description": "Developed threat intelligence platform using Hashicorp Vault, tracking 100+ threats\nImplemented encryption solution using Angular, protecting 100+ records",
+      "technologies": [
+        "SonarQube",
+        "OWASP Top 10",
+        "AWS Security Hub",
+        "MongoDB",
+        "Hashicorp Vault"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2015-10",
+      "end_date": "2017-09",
+      "duration": "2015-10 – 2017-09",
+      "duration_months": 23,
+      "description": "Created vulnerability management program using SAST/DAST, reducing CVEs by 48%\nDesigned zero-trust architecture using SAST/DAST, securing 50000+ endpoints\nConducted penetration testing using Metasploit, identifying 100000+ vulnerabilities\nImplemented encryption solution using React, protecting 5000+ records",
+      "technologies": [
+        "Azure Sentinel",
+        "PowerShell",
+        "Metasploit",
+        "SAST/DAST",
+        "Trivy"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "Cyber Defense Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Madden, Figueroa and Stafford Youth Program, 2022-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Volunteering at local shelters",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Yoga",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "PowerShell",
+    "Snort",
+    "Sigma",
+    "OWASP ZAP",
+    "Burp Suite",
+    "Wireshark",
+    "Nessus",
+    "Trivy",
+    "PostgreSQL",
+    "Redis",
+    "MongoDB",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "SAST/DAST",
+    "Zero Trust Architecture",
+    "Threat Modeling",
+    "OWASP Top 10",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "Meta",
+    "CodeCraft Studios",
+    "Figma",
+    "Salesforce"
+  ],
+  "job_titles": [
+    "Security Engineer",
+    "Security Architect",
+    "Security Engineer",
+    "AppSec Engineer"
+  ],
+  "universities": [
+    "University of Washington"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 290,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:39:43.721628",
+    "content_source": "template",
+    "template": "T1_modern"
+  }
+}

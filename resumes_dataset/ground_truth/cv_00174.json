@@ -1,0 +1,313 @@
+{
+  "full_name": "Matthew Flores",
+  "email": "matthew.flores@gmail.com",
+  "location": "New Maria, Netherlands",
+  "years_of_experience": 12.6,
+  "seniority_level": "principal",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Matthew Flores",
+    "email": "matthew.flores@gmail.com",
+    "phone": "812-388-0133",
+    "location": "New Maria, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/matthew-flores",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 13 years shaping data science / ml / ai practice. Deep expertise in Go, Python, R and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2023-05",
+      "end_date": "Present",
+      "duration": "2023-05 – Present",
+      "duration_months": 34,
+      "description": "Established MLOps practices using R, reducing model deployment time by 50%\nCreated recommendation system using Weaviate, increasing user engagement by 56%",
+      "technologies": [
+        "Weaviate",
+        "TensorFlow",
+        "R"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2018-12",
+      "end_date": "2022-12",
+      "duration": "2018-12 – 2022-12",
+      "duration_months": 48,
+      "description": "Implemented A/B testing framework using A/B Testing, running 5000+ experiments\nDesigned data warehousing solution using MLOps, enabling analytics on 10000+ records\nImplemented NLP solution using A/B Testing, processing 100000+ text documents daily",
+      "technologies": [
+        "A/B Testing",
+        "LightGBM",
+        "Computer Vision",
+        "MLOps",
+        "Deep Learning",
+        "LlamaIndex"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2016-10",
+      "end_date": "2018-10",
+      "duration": "2016-10 – 2018-10",
+      "duration_months": 24,
+      "description": "Developed ML models using Computer Vision, improving prediction accuracy by 19%\nDeveloped data visualization tools using Pandas, used by 100000+ analysts\nBuilt ML model serving infrastructure using Pandas, handling 10000+ predictions/day\nEstablished MLOps practices using Computer Vision, reducing model deployment time by 20%",
+      "technologies": [
+        "Computer Vision",
+        "Pandas",
+        "Neo4j"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2012-12",
+      "end_date": "2016-09",
+      "duration": "2012-12 – 2016-09",
+      "duration_months": 45,
+      "description": "Implemented A/B testing framework using JAX, running 100000+ experiments\nEstablished MLOps practices using Bedrock, reducing model deployment time by 54%\nDeveloped computer vision models using Bedrock, achieving 59% accuracy\nBuilt end-to-end ML pipeline using TensorFlow, processing 100+ samples daily",
+      "technologies": [
+        "Hugging Face Endpoints",
+        "Bedrock",
+        "TensorFlow",
+        "JAX"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "M.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Microsoft Certified: Azure Data Scientist",
+      "issuer": "Microsoft",
+      "date": "2022",
+      "credential_id": "DT61VC20"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Available concern edge audience start\" — NeurIPS 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Python",
+    "R",
+    "Scikit-learn",
+    "JAX",
+    "Dagster",
+    "MLflow",
+    "Spark",
+    "Pandas",
+    "Neptune",
+    "Databricks",
+    "BigQuery",
+    "Weaviate",
+    "AWS SageMaker",
+    "Databricks",
+    "Hugging Face Endpoints",
+    "Lambda Labs",
+    "Azure ML",
+    "A/B Testing",
+    "Prompt Engineering",
+    "NLP",
+    "Deep Learning",
+    "Fine-tuning"
+  ],
+  "companies": [
+    "Datadog",
+    "Stripe",
+    "Meta",
+    "Vercel"
+  ],
+  "job_titles": [
+    "Research Scientist",
+    "NLP Engineer",
+    "LLM Engineer",
+    "Data Scientist"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 174,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:38:45.530950",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

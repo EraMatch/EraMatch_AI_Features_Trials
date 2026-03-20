@@ -1,0 +1,271 @@
+{
+  "full_name": "Margaret Moran",
+  "email": "margaret.moran@outlook.com",
+  "location": "Reginaborough, Australia",
+  "years_of_experience": 5.6,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Margaret Moran",
+    "email": "margaret.moran@outlook.com",
+    "phone": "564-570-9006",
+    "location": "Reginaborough, Australia",
+    "linkedin_url": "https://linkedin.com/in/margaret-moran",
+    "github_url": "https://github.com/margaretmoran",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in CSS, JavaScript, and Material UI. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 – Present",
+      "duration_months": 26,
+      "description": "Implemented automated testing framework using Firebase, achieving 46% code coverage\nDeveloped design system using JavaScript, standardizing UI across 100+ applications\nBuilt reusable component library using Playwright, used by 10000+ developers",
+      "technologies": [
+        "Firebase",
+        "Jest",
+        "Vite",
+        "Playwright",
+        "JavaScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2022-12",
+      "end_date": "2023-12",
+      "duration": "2022-12 – 2023-12",
+      "duration_months": 12,
+      "description": "Built reusable component library using Svelte, used by 5000+ developers\nOptimized frontend bundle size using Svelte, reducing load time by 49%\nOptimized frontend bundle size using IndexedDB, reducing load time by 54%",
+      "technologies": [
+        "Svelte",
+        "Progressive Web Apps",
+        "IndexedDB"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2020-04",
+      "end_date": "2022-09",
+      "duration": "2020-04 – 2022-09",
+      "duration_months": 29,
+      "description": "Improved website accessibility score to 16% using Storybook\nDeveloped design system using Material UI, standardizing UI across 500+ applications\nCreated accessible UI components using Storybook, achieving WCAG AA compliance",
+      "technologies": [
+        "Material UI",
+        "React",
+        "Storybook"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "B.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2020",
+      "gpa": "3.78",
+      "activities": "Web Development Club"
+    },
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.A.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019",
+      "gpa": "2.90",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Registry",
+      "description": "Implemented Form Builder using React, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Vue.js",
+        "CSS",
+        "React"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Drone building",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Administration agreement address star quite\" — ArXiv 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "JavaScript",
+    "Material UI",
+    "Next.js",
+    "Tailwind CSS",
+    "React",
+    "Vue.js",
+    "Cypress",
+    "ESLint",
+    "Playwright",
+    "Firebase",
+    "PostgreSQL",
+    "IndexedDB",
+    "Render",
+    "Cloudflare Pages",
+    "Accessibility (WCAG)",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "Supabase",
+    "NeuroLink Labs"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "UI Engineer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "ETH Zurich",
+    "NUS"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 370,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:24.911098",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

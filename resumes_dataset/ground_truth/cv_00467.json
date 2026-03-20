@@ -1,0 +1,245 @@
+{
+  "full_name": "Jill Brown",
+  "email": "jill.brown@yahoo.com",
+  "location": "Thomastown, Brazil",
+  "years_of_experience": 3.6,
+  "seniority_level": "mid",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jill Brown",
+    "email": "jill.brown@yahoo.com",
+    "phone": "946-372-3849",
+    "location": "Thomastown, Brazil",
+    "linkedin_url": "https://linkedin.com/in/jill-brown",
+    "github_url": "https://github.com/jillbrown",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level cybersecurity specialist with 4 years building production systems. Skilled in Rust, PowerShell, Suricata with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 – Present",
+      "duration_months": 37,
+      "description": "Built secure CI/CD pipeline using OWASP ZAP, preventing 50000+ security issues\nImplemented encryption solution using Figma, protecting 100+ records\nDesigned zero-trust architecture using OWASP ZAP, securing 5000+ endpoints\nImplemented encryption solution using React, protecting 100+ records",
+      "technologies": [
+        "Burp Suite",
+        "Suricata",
+        "Azure Sentinel",
+        "OWASP ZAP"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2022-02",
+      "end_date": "2022-08",
+      "duration": "2022-02 – 2022-08",
+      "duration_months": 6,
+      "description": "Designed zero-trust architecture using Threat Modeling, securing 1000+ endpoints\nConducted penetration testing using Metasploit, identifying 100000+ vulnerabilities\nImplemented encryption solution using React, protecting 100000+ records\nBuilt security automation using Metasploit, reducing incident response time by 40%",
+      "technologies": [
+        "Trivy",
+        "Python",
+        "Threat Modeling",
+        "Metasploit"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2022",
+      "gpa": "3.38",
+      "activities": "CTF Team"
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.A.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2019",
+      "gpa": "3.07",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prompt Playground",
+      "description": "Built Security Compliance Tool with Snort and PowerShell, serving 10,000+ daily active users",
+      "technologies": [
+        "Burp Suite",
+        "PowerShell",
+        "Snort"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Deployment Dashboard",
+      "description": "Built Security Compliance Tool with Snort and PowerShell, serving 10,000+ daily active users",
+      "technologies": [
+        "Snort",
+        "PowerShell",
+        "Burp Suite"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Built Security Awareness Training using Rust and Burp Suite, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Rust",
+        "PowerShell",
+        "Burp Suite"
+      ],
+      "url": null,
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Center seat drive memory record customer\" — ACM 2020",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Arabic (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "PowerShell",
+    "Suricata",
+    "Snort",
+    "Burp Suite",
+    "Splunk",
+    "Wireshark",
+    "Elasticsearch",
+    "PostgreSQL",
+    "AWS Security Hub",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "SAST/DAST",
+    "Threat Modeling"
+  ],
+  "companies": [
+    "Google",
+    "PromptStack"
+  ],
+  "job_titles": [
+    "AppSec Engineer",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "EPFL",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 467,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:41:13.011999",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

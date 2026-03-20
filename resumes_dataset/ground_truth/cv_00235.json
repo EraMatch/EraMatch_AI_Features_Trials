@@ -1,0 +1,289 @@
+{
+  "full_name": "Brian Chaney",
+  "email": "brian.chaney@outlook.com",
+  "location": "Port Kevinstad, Singapore",
+  "years_of_experience": 5.2,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Brian Chaney",
+    "email": "brian.chaney@outlook.com",
+    "phone": "(749)299-8279",
+    "location": "Port Kevinstad, Singapore",
+    "linkedin_url": "https://linkedin.com/in/brian-chaney",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in C, PowerShell, and Bash. 5 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": "2024-09 – Present",
+      "duration_months": 18,
+      "description": "Implemented SIEM solution using Rust, processing 100000+ logs/day\nCreated vulnerability management program using Python, reducing CVEs by 54%\nBuilt secure CI/CD pipeline using Nmap, preventing 5000+ security issues",
+      "technologies": [
+        "Nmap",
+        "Rust",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2022-12",
+      "end_date": "2024-03",
+      "duration": "2022-12 – 2024-03",
+      "duration_months": 15,
+      "description": "Conducted penetration testing using AWS Security Hub, identifying 1000+ vulnerabilities\nDesigned zero-trust architecture using Nessus, securing 100000+ endpoints\nImplemented encryption solution using Vue, protecting 100000+ records",
+      "technologies": [
+        "Nessus",
+        "Sigma",
+        "AWS Security Hub"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2020-02",
+      "end_date": "2022-08",
+      "duration": "2020-02 – 2022-08",
+      "duration_months": 30,
+      "description": "Implemented security monitoring using Elasticsearch, detecting 100+ threats\nBuilt security automation using Wireshark, reducing incident response time by 48%\nBuilt secure CI/CD pipeline using SonarQube, preventing 500+ security issues",
+      "technologies": [
+        "Wireshark",
+        "Elasticsearch",
+        "SonarQube"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "M.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Security Research"
+    },
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "M.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2020",
+      "gpa": "2.92",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "CISSP",
+      "issuer": "ISC2",
+      "date": "2019",
+      "credential_id": null
+    },
+    {
+      "name": "CompTIA Security+",
+      "issuer": "CompTIA",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Wilkins-Chang Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Brown, Ruiz and Martinez Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C",
+    "PowerShell",
+    "Bash",
+    "Python",
+    "Go",
+    "Snort",
+    "OWASP ZAP",
+    "SonarQube",
+    "Hashicorp Vault",
+    "Elasticsearch",
+    "PostgreSQL",
+    "Redis",
+    "MongoDB",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "OWASP Top 10",
+    "SAST/DAST",
+    "Threat Modeling",
+    "Incident Response",
+    "Zero Trust Architecture"
+  ],
+  "companies": [
+    "CodeReview.io",
+    "Airbnb",
+    "Supabase"
+  ],
+  "job_titles": [
+    "Penetration Tester",
+    "Security Engineer",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "UT Austin",
+    "TU Delft"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 235,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:39:15.650882",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

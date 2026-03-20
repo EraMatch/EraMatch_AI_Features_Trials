@@ -1,0 +1,314 @@
+{
+  "full_name": "Raymond Barber",
+  "email": "raymond.barber@gmail.com",
+  "location": "Port Julie, USA",
+  "years_of_experience": 7.2,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Raymond Barber",
+    "email": "raymond.barber@gmail.com",
+    "phone": "910.754.8510x17490",
+    "location": "Port Julie, USA",
+    "linkedin_url": "https://linkedin.com/in/raymond-barber",
+    "github_url": "https://github.com/raymondbarber",
+    "portfolio_url": null
+  },
+  "summary": "Senior frontend engineering engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in JavaScript, Dart, Python with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 – Present",
+      "duration_months": 30,
+      "description": "Integrated third-party APIs using Vite, reducing integration time by 57%\nCreated accessible UI components using Vite, achieving WCAG AA compliance",
+      "technologies": [
+        "TypeScript",
+        "Responsive Design",
+        "Netlify",
+        "Agile",
+        "Vite"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2019-04",
+      "end_date": "2023-06",
+      "duration": "2019-04 – 2023-06",
+      "duration_months": 50,
+      "description": "Improved website accessibility score to 24% using TypeScript\nBuilt reusable component library using Vue.js, used by 50000+ developers\nImplemented automated testing framework using TypeScript, achieving 49% code coverage\nIntegrated third-party APIs using Jest, reducing integration time by 15%",
+      "technologies": [
+        "Component-Driven Development",
+        "Vue.js",
+        "Progressive Web Apps",
+        "Jest",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2018-10",
+      "end_date": "2019-04",
+      "duration": "2018-10 – 2019-04",
+      "duration_months": 6,
+      "description": "Optimized frontend bundle size using Bootstrap, reducing load time by 36%\nCreated progressive web app using Bootstrap, increasing user engagement by 64%\nIntegrated third-party APIs using Bootstrap, reducing integration time by 18%\nBuilt interactive data visualizations using Git, serving 1000+ daily users",
+      "technologies": [
+        "Git",
+        "Bootstrap",
+        "Storybook",
+        "Cloudflare Pages"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2017",
+      "gpa": "3.72",
+      "activities": "Design Team Lead"
+    },
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "B.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2015",
+      "gpa": "3.26",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Health Check Service",
+      "description": "Designed and implemented UI Design System with Tailwind CSS, integrating with Dart for seamless data flow",
+      "technologies": [
+        "Angular",
+        "Tailwind CSS",
+        "Dart"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed and implemented E-commerce Platform with JavaScript, integrating with Python for seamless data flow",
+      "technologies": [
+        "React",
+        "Python",
+        "JavaScript"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — Company Internal 2025",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Not thus physical mouth other go expect size resource public\" — CVPR 2021",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Dart",
+    "Python",
+    "Angular",
+    "Tailwind CSS",
+    "React",
+    "Material UI",
+    "Next.js",
+    "Cypress",
+    "Git",
+    "Webpack",
+    "MongoDB",
+    "Firebase",
+    "Supabase",
+    "PostgreSQL",
+    "AWS Amplify",
+    "Netlify",
+    "Vercel",
+    "Agile",
+    "Progressive Web Apps",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "Tesla",
+    "ResumeAI",
+    "Shopify"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "Frontend Developer",
+    "React Developer"
+  ],
+  "universities": [
+    "Georgia Tech",
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 331,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:04.481367",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

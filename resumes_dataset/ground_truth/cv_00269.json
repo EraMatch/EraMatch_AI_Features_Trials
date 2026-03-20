@@ -1,0 +1,263 @@
+{
+  "full_name": "Sheila Bennett",
+  "email": "sheila.bennett@bennett.dev",
+  "location": "Brooksmouth, UK",
+  "years_of_experience": 8.6,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sheila Bennett",
+    "email": "sheila.bennett@bennett.dev",
+    "phone": "917.497.0623",
+    "location": "Brooksmouth, UK",
+    "linkedin_url": "https://linkedin.com/in/sheila-bennett",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead frontend engineering professional with 9 years driving technical strategy and team excellence. Expert in JavaScript, Dart, CSS with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2022-10",
+      "end_date": "Present",
+      "duration": "2022-10 – Present",
+      "duration_months": 41,
+      "description": "Created progressive web app using Supabase, increasing user engagement by 59%\nOptimized frontend bundle size using Vue.js, reducing load time by 37%",
+      "technologies": [
+        "Webpack",
+        "Responsive Design",
+        "Vue.js",
+        "Angular",
+        "Bootstrap",
+        "Supabase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2019-08",
+      "end_date": "2022-09",
+      "duration": "2019-08 – 2022-09",
+      "duration_months": 37,
+      "description": "Improved website accessibility score to 36% using React\nImplemented state management solution using Astro, reducing API calls by 59%",
+      "technologies": [
+        "React",
+        "Figma",
+        "Prettier",
+        "Astro"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2017-07",
+      "end_date": "2019-08",
+      "duration": "2017-07 – 2019-08",
+      "duration_months": 25,
+      "description": "Created accessible UI components using Accessibility (WCAG), achieving WCAG AA compliance\nBuilt reusable component library using PostgreSQL, used by 50000+ developers\nImplemented automated testing framework using Netlify, achieving 20% code coverage\nBuilt reusable component library using PostgreSQL, used by 5000+ developers",
+      "technologies": [
+        "Netlify",
+        "Accessibility (WCAG)",
+        "PostgreSQL",
+        "Vite"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Accessibility Initiative"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Lee, Howard and Nelson Youth Program, 2023-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Arabic (Native)",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Camera realize arrive carry surface learn commercial gas\" — EMNLP 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Dart",
+    "CSS",
+    "Angular",
+    "Astro",
+    "Next.js",
+    "ESLint",
+    "Git",
+    "Storybook",
+    "Cypress",
+    "Playwright",
+    "PostgreSQL",
+    "Supabase",
+    "MongoDB",
+    "Firebase",
+    "Vercel",
+    "Cloudflare Pages",
+    "Component-Driven Development",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "NeuroLink Labs",
+    "Palantir",
+    "Palantir"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "Frontend Developer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "University of Michigan"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 269,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:39:32.979672",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

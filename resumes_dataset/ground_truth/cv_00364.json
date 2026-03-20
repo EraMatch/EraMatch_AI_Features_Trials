@@ -1,0 +1,297 @@
+{
+  "full_name": "John Murphy",
+  "email": "john.murphy@gmail.com",
+  "location": "Campbellbury, India",
+  "years_of_experience": 13.7,
+  "seniority_level": "principal",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "John Murphy",
+    "email": "john.murphy@gmail.com",
+    "phone": "541.321.8209x702",
+    "location": "Campbellbury, India",
+    "linkedin_url": "https://linkedin.com/in/john-murphy",
+    "github_url": "https://github.com/johnmurphy",
+    "portfolio_url": "https://johnmurphy.dev"
+  },
+  "summary": "Executive-level technology leader with extensive background in data science / ml / ai. Expertise in MATLAB, R, Julia with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": "2022-01 – Present",
+      "duration_months": 50,
+      "description": "Implemented A/B testing framework using LLM Evaluation, running 100+ experiments\nCreated feature engineering pipeline using Dask, reducing preprocessing time by 54%\nDeveloped data visualization tools using Dask, used by 1000+ analysts",
+      "technologies": [
+        "Spark",
+        "Qdrant",
+        "Snowflake",
+        "LLM Evaluation",
+        "Dask"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2017-06",
+      "end_date": "2021-12",
+      "duration": "2017-06 – 2021-12",
+      "duration_months": 54,
+      "description": "Designed data warehousing solution using Weights & Biases, enabling analytics on 50000+ records\nDeveloped ML models using TensorFlow, improving prediction accuracy by 59%\nDeveloped data visualization tools using TensorFlow, used by 100000+ analysts\nBuilt end-to-end ML pipeline using Azure ML, processing 10000+ samples daily",
+      "technologies": [
+        "TensorFlow",
+        "Azure ML",
+        "PyTorch",
+        "MATLAB",
+        "Weights & Biases"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2014-02",
+      "end_date": "2017-06",
+      "duration": "2014-02 – 2017-06",
+      "duration_months": 40,
+      "description": "Created recommendation system using Neptune, increasing user engagement by 23%\nDeveloped ML models using Dagster, improving prediction accuracy by 22%\nDeveloped ML models using Hugging Face, improving prediction accuracy by 38%\nBuilt ML model serving infrastructure using Dagster, handling 100000+ predictions/day",
+      "technologies": [
+        "Hugging Face",
+        "Dagster",
+        "MATLAB",
+        "Neptune",
+        "TensorFlow"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2012-05",
+      "end_date": "2014-01",
+      "duration": "2012-05 – 2014-01",
+      "duration_months": 20,
+      "description": "Developed computer vision models using Feature Engineering, achieving 38% accuracy\nDeveloped data visualization tools using DVC, used by 1000+ analysts\nBuilt end-to-end ML pipeline using DVC, processing 50000+ samples daily",
+      "technologies": [
+        "Neo4j",
+        "Feature Engineering",
+        "DVC",
+        "BigQuery"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2012",
+      "gpa": "2.81",
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "M.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2009",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award — MLH 2021",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "MATLAB",
+    "R",
+    "Julia",
+    "Scala",
+    "XGBoost",
+    "LightGBM",
+    "Airflow",
+    "Weights & Biases",
+    "MLflow",
+    "Databricks",
+    "PostgreSQL",
+    "Qdrant",
+    "MongoDB",
+    "Snowflake",
+    "Hugging Face Endpoints",
+    "GCP Vertex AI",
+    "Lambda Labs",
+    "Azure ML",
+    "Computer Vision",
+    "Vector Databases"
+  ],
+  "companies": [
+    "Supabase",
+    "HashiCorp",
+    "Nvidia",
+    "Stripe"
+  ],
+  "job_titles": [
+    "Research Scientist",
+    "Data Analyst",
+    "NLP Engineer",
+    "ML Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University",
+    "NUS"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 364,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:40:21.687618",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

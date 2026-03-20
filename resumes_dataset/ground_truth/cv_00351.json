@@ -1,0 +1,281 @@
+{
+  "full_name": "Cameron Silva",
+  "email": "cameron.silva@silva.dev",
+  "location": "New Lori, Brazil",
+  "years_of_experience": 12.4,
+  "seniority_level": "principal",
+  "primary_domain": "QA / Testing",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Cameron Silva",
+    "email": "cameron.silva@silva.dev",
+    "phone": "454.298.2274x95450",
+    "location": "New Lori, Brazil",
+    "linkedin_url": "https://linkedin.com/in/cameron-silva",
+    "github_url": "https://github.com/cameronsilva",
+    "portfolio_url": "https://cameronsilva.dev"
+  },
+  "summary": "Executive-level technology leader with extensive background in qa / testing. Expertise in Python, C#, Appium with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "QA Lead",
+      "title": "QA Lead",
+      "start_date": "2022-03",
+      "end_date": "Present",
+      "duration": "2022-03 – Present",
+      "duration_months": 48,
+      "description": "Developed BDD framework using Appium, writing 500+ scenarios\nImplemented CI/CD testing using Appium, catching 100000+ defects pre-production",
+      "technologies": [
+        "Appium",
+        "Selenium",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "QA Engineer",
+      "title": "QA Engineer",
+      "start_date": "2018-11",
+      "end_date": "2021-11",
+      "duration": "2018-11 – 2021-11",
+      "duration_months": 36,
+      "description": "Created test data management using TDD, generating 5000+ test records\nDeveloped BDD framework using GCP, writing 100000+ scenarios\nImplemented CI/CD testing using Redis, catching 500+ defects pre-production\nCreated performance testing suite using GCP, identifying 50000+ bottlenecks",
+      "technologies": [
+        "Redis",
+        "TDD",
+        "GCP"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Software QA Engineer",
+      "title": "Software QA Engineer",
+      "start_date": "2015-02",
+      "end_date": "2018-07",
+      "duration": "2015-02 – 2018-07",
+      "duration_months": 41,
+      "description": "Developed BDD framework using MongoDB, writing 100+ scenarios\nImplemented shift-left testing using MongoDB, reducing bug escape rate by 16%\nBuilt mobile testing automation using GCP, testing on 500+ devices\nCreated test reporting dashboard using MongoDB, tracking 50000+ test metrics",
+      "technologies": [
+        "MongoDB",
+        "GCP",
+        "Performance Testing",
+        "JUnit"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "SDET",
+      "title": "SDET",
+      "start_date": "2012-09",
+      "end_date": "2014-09",
+      "duration": "2012-09 – 2014-09",
+      "duration_months": 24,
+      "description": "Created test data management using SoapUI, generating 100000+ test records\nDeveloped test automation framework using Postman, achieving 59% automation coverage\nCreated test reporting dashboard using Python, tracking 5000+ test metrics",
+      "technologies": [
+        "Test Planning",
+        "MySQL",
+        "Python",
+        "Postman",
+        "SoapUI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "M.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2014",
+      "gpa": "3.54",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Appium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTest",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BrowserStack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sauce Labs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Performance Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vector Search API",
+      "description": "Built API Testing using C# and Appium, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "PyTest",
+        "Appium",
+        "C#"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Designed Load Testing leveraging PyTest microservices architecture with Appium for caching",
+      "technologies": [
+        "C#",
+        "PyTest",
+        "Appium"
+      ],
+      "url": "https://github.com/cameronsilva/smartcache",
+      "date": "2025"
+    },
+    {
+      "name": "ML Model Registry",
+      "description": "Designed Security Testing leveraging C# microservices architecture with Appium for caching",
+      "technologies": [
+        "Appium",
+        "Python",
+        "C#"
+      ],
+      "url": "https://github.com/cameronsilva/ml-model-registry",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Teach instead crime customer training size game property reason word\" — IEEE 2020",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "C#",
+    "Appium",
+    "PyTest",
+    "BrowserStack",
+    "Sauce Labs",
+    "Jira",
+    "MongoDB",
+    "MySQL",
+    "Azure",
+    "AWS",
+    "GCP",
+    "TDD",
+    "BDD",
+    "Performance Testing"
+  ],
+  "companies": [
+    "PipelineIO",
+    "Block",
+    "Meta",
+    "Notion"
+  ],
+  "job_titles": [
+    "QA Lead",
+    "QA Engineer",
+    "Software QA Engineer",
+    "SDET"
+  ],
+  "universities": [
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 351,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:40:15.250659",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

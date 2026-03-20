@@ -1,0 +1,313 @@
+{
+  "full_name": "Matthew Fox",
+  "email": "matthew.fox@fox.dev",
+  "location": "Kellieborough, France",
+  "years_of_experience": 8.8,
+  "seniority_level": "lead",
+  "primary_domain": "Design (UI/UX)",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Matthew Fox",
+    "email": "matthew.fox@fox.dev",
+    "phone": "627-585-8549x73348",
+    "location": "Kellieborough, France",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead design (ui/ux) professional with 9 years driving technical strategy and team excellence. Expert in CSS, HTML, JavaScript with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Design Lead",
+      "title": "Design Lead",
+      "start_date": "2022-02",
+      "end_date": "Present",
+      "duration": "2022-02 – Present",
+      "duration_months": 49,
+      "description": "Conducted usability testing using JavaScript, identifying 50000+ UX issues\nBuilt interactive prototypes using Figma, reducing development cycles by 45%\nDesigned user interfaces using After Effects, improving usability by 44%",
+      "technologies": [
+        "Figma",
+        "CSS",
+        "Adobe Creative Suite",
+        "After Effects",
+        "JavaScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Product Designer",
+      "title": "Product Designer",
+      "start_date": "2020-07",
+      "end_date": "2021-12",
+      "duration": "2020-07 – 2021-12",
+      "duration_months": 17,
+      "description": "Built design collaboration workflow using Storybook, reducing review time by 59%\nBuilt design collaboration workflow using Maze, reducing review time by 37%",
+      "technologies": [
+        "Storybook",
+        "Maze",
+        "Framer"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Product Designer",
+      "title": "Product Designer",
+      "start_date": "2018-06",
+      "end_date": "2020-06",
+      "duration": "2018-06 – 2020-06",
+      "duration_months": 24,
+      "description": "Conducted user research using Figma, gathering insights from 50000+ users\nCreated information architecture using Firebase, improving navigation by 26%\nConducted user research using Prototyping, gathering insights from 500+ users\nCreated motion design using Figma, increasing engagement by 51%",
+      "technologies": [
+        "Figma",
+        "Prototyping",
+        "Firebase",
+        "Maze",
+        "Usability Testing",
+        "Storybook"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "UI Designer",
+      "title": "UI Designer",
+      "start_date": "2016-11",
+      "end_date": "2018-03",
+      "duration": "2016-11 – 2018-03",
+      "duration_months": 16,
+      "description": "Created brand identity using Figma, applied across 500+ touchpoints\nDesigned user interfaces using Figma, improving usability by 47%\nBuilt design collaboration workflow using Hotjar, reducing review time by 31%",
+      "technologies": [
+        "Maze",
+        "Hotjar",
+        "CSS",
+        "User Research",
+        "Design Systems",
+        "Figma"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "M.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "M.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "InVision",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe XD",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sketch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Framer",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zeplin",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Maze",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Adobe Creative Suite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Usability Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prototyping",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "After Effects",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "DataPipe CLI",
+      "description": "Developed Prototyping Tool using Figma, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Sketch",
+        "Figma",
+        "Adobe XD"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Implemented Prototyping Tool using HTML, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "HTML",
+        "Adobe XD",
+        "Framer"
+      ],
+      "url": null,
+      "date": "2019"
+    },
+    {
+      "name": "Vector Search API",
+      "description": "Developed Design Tokens using CSS, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "JavaScript",
+        "Adobe XD",
+        "CSS"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Spanish (Professional)",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "InVision",
+    "Adobe XD",
+    "Sketch",
+    "Framer",
+    "Figma",
+    "Zeplin",
+    "Maze",
+    "Adobe Creative Suite",
+    "Firebase",
+    "Vercel",
+    "Netlify",
+    "Usability Testing",
+    "Prototyping"
+  ],
+  "companies": [
+    "Block",
+    "Figma",
+    "Shopify",
+    "CodeReview.io"
+  ],
+  "job_titles": [
+    "Design Lead",
+    "Product Designer",
+    "Product Designer",
+    "UI Designer"
+  ],
+  "universities": [
+    "University of Edinburgh",
+    "Stanford University"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 84,
+    "tier": "T1",
+    "domain": "design",
+    "generated_at": "2026-03-18T12:38:00.855460",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

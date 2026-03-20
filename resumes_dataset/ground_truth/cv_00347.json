@@ -1,0 +1,303 @@
+{
+  "full_name": "Courtney Norris DVM",
+  "email": "courtney.norris.dvm@gmail.com",
+  "location": "Marybury, UAE",
+  "years_of_experience": 4.4,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Courtney Norris DVM",
+    "email": "courtney.norris.dvm@gmail.com",
+    "phone": "832.254.1107",
+    "location": "Marybury, UAE",
+    "linkedin_url": "https://linkedin.com/in/courtney-norris-dvm",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Results-driven frontend engineering professional with 4 years of experience designing and implementing scalable solutions using HTML, Dart, JavaScript. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2024-04",
+      "end_date": "Present",
+      "duration": "2024-04 – Present",
+      "duration_months": 23,
+      "description": "Created accessible UI components using Supabase, achieving WCAG AA compliance\nCreated progressive web app using Component-Driven Development, increasing user engagement by 29%\nCreated progressive web app using Jest, increasing user engagement by 45%\nDeveloped responsive web applications using Supabase, improving page load time by 56%",
+      "technologies": [
+        "Dart",
+        "Jest",
+        "Supabase",
+        "Component-Driven Development",
+        "Cloudflare Pages",
+        "Netlify"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2021-10",
+      "end_date": "2024-04",
+      "duration": "2021-10 – 2024-04",
+      "duration_months": 30,
+      "description": "Implemented automated testing framework using Storybook, achieving 29% code coverage\nImplemented state management solution using Storybook, reducing API calls by 69%",
+      "technologies": [
+        "JavaScript",
+        "Agile",
+        "HTML",
+        "Accessibility (WCAG)",
+        "CSS",
+        "Storybook"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2020",
+      "gpa": "2.95",
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deployment Dashboard",
+      "description": "Built Admin Panel using Dart and HTML, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "HTML",
+        "Dart",
+        "TypeScript"
+      ],
+      "url": null,
+      "date": "2021"
+    },
+    {
+      "name": "Prompt Playground",
+      "description": "Developed SPA Framework using Svelte, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "HTML",
+        "Dart",
+        "Svelte"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Game development as hobby",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "Dart",
+    "JavaScript",
+    "Python",
+    "TypeScript",
+    "Vue.js",
+    "Next.js",
+    "Svelte",
+    "Tailwind CSS",
+    "Astro",
+    "ESLint",
+    "Jest",
+    "Git",
+    "Cypress",
+    "PostgreSQL",
+    "Supabase",
+    "Vercel",
+    "Cloudflare Pages",
+    "AWS Amplify",
+    "Netlify",
+    "Render",
+    "Component-Driven Development",
+    "Responsive Design",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "PipelineIO",
+    "Shopify"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "University of Washington",
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 347,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-03-18T12:40:12.973556",
+    "content_source": "template",
+    "template": "T1_executive"
+  }
+}

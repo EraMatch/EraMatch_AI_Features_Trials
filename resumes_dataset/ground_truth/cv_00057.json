@@ -1,0 +1,267 @@
+{
+  "full_name": "Mark Schmidt",
+  "email": "mark.schmidt@outlook.com",
+  "location": "East Stephaniefort, UAE",
+  "years_of_experience": 4.8,
+  "seniority_level": "mid",
+  "primary_domain": "Product Management",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mark Schmidt",
+    "email": "mark.schmidt@outlook.com",
+    "phone": "455.423.1243",
+    "location": "East Stephaniefort, UAE",
+    "linkedin_url": "https://linkedin.com/in/mark-schmidt",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Python, SQL, and JavaScript. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2023-10",
+      "end_date": "Present",
+      "duration": "2023-10 – Present",
+      "duration_months": 29,
+      "description": "Led agile product development using Kanban, delivering 500+ sprints\nLed product development using Kanban, launching features used by 1000+ users\nImplemented product analytics using Google Analytics, tracking 500+ metrics",
+      "technologies": [
+        "Kanban",
+        "Azure",
+        "BigQuery",
+        "Amplitude",
+        "Google Analytics"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2021-05",
+      "end_date": "2023-10",
+      "duration": "2021-05 – 2023-10",
+      "duration_months": 29,
+      "description": "Developed product roadmap using Product Discovery, prioritizing 50000+ features\nDeveloped OKR tracking using Product Discovery, achieving 51% of quarterly goals\nDeveloped OKR tracking using Mixpanel, achieving 25% of quarterly goals",
+      "technologies": [
+        "Mixpanel",
+        "BigQuery",
+        "Product Discovery",
+        "Hotjar"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmunk",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Aha!",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Notion",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mixpanel",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmap Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Product Discovery",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Amplitude",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "PMP - Project Management Professional",
+      "issuer": "PMI",
+      "date": "2019",
+      "credential_id": "RK79PO97"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Russian (Basic)",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "SQL",
+    "JavaScript",
+    "R",
+    "Jira",
+    "Roadmunk",
+    "Confluence",
+    "Aha!",
+    "Notion",
+    "Hotjar",
+    "Miro",
+    "Mixpanel",
+    "Snowflake",
+    "BigQuery",
+    "PostgreSQL",
+    "MySQL",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Kanban",
+    "Agile",
+    "Roadmap Planning",
+    "Product Discovery"
+  ],
+  "companies": [
+    "SkillBridge",
+    "InfraCore"
+  ],
+  "job_titles": [
+    "Product Manager",
+    "Product Owner"
+  ],
+  "universities": [
+    "University of Washington"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 57,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:37:47.404575",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

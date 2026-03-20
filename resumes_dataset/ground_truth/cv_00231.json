@@ -1,0 +1,299 @@
+{
+  "full_name": "Kelli Mccoy",
+  "email": "kelli.mccoy@gmail.com",
+  "location": "Lake Zacharyberg, Singapore",
+  "years_of_experience": 5.9,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kelli Mccoy",
+    "email": "kelli.mccoy@gmail.com",
+    "phone": "8346764472",
+    "location": "Lake Zacharyberg, Singapore",
+    "linkedin_url": "https://linkedin.com/in/kelli-mccoy",
+    "github_url": "https://github.com/kellimccoy",
+    "portfolio_url": null
+  },
+  "summary": "Senior backend engineering engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Python, Go, Spring Boot with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2025-03",
+      "end_date": "Present",
+      "duration": "2025-03 – Present",
+      "duration_months": 12,
+      "description": "Designed and implemented message queue system using Neon, processing 50000+ messages/hour\nImplemented caching layer with FastAPI, reducing database load by 42%\nImplemented caching layer with Neon, reducing database load by 55%\nMentored team of 4 junior developers on FastAPI best practices",
+      "technologies": [
+        "Docker",
+        "PostgreSQL",
+        "Neon",
+        "Python",
+        "FastAPI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2020-11",
+      "end_date": "2024-12",
+      "duration": "2020-11 – 2024-12",
+      "duration_months": 49,
+      "description": "Mentored team of 2 junior developers on Git best practices\nBuilt automated CI/CD pipelines with Cassandra, reducing deployment time by 66%",
+      "technologies": [
+        "GitHub Actions",
+        "Express.js",
+        "Cassandra",
+        "FastAPI",
+        "Git"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2019-12",
+      "end_date": "2020-10",
+      "duration": "2019-12 – 2020-10",
+      "duration_months": 10,
+      "description": "Led migration from monolithic to microservices using DigitalOcean, improving system scalability by 28%\nDesigned and implemented microservices architecture using Google Gemini, handling 500+ concurrent users\nBuilt event-driven architecture using Google Gemini, processing 50000+ events daily\nDeveloped real-time data processing pipeline using DigitalOcean, handling 100+ records/second",
+      "technologies": [
+        "DigitalOcean",
+        "Docker",
+        "Express.js",
+        "Google Gemini",
+        "FastAPI"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2018",
+      "gpa": "3.43",
+      "activities": "Open Source Contributor"
+    },
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Health Check Service",
+      "description": "Built Microservices Platform with LangChain and FastAPI, serving 10,000+ daily active users",
+      "technologies": [
+        "LangChain",
+        "FastAPI",
+        "Python"
+      ],
+      "url": "https://github.com/kellimccoy/health-check-service",
+      "date": "2019"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Created Payment Processing System leveraging Spring Boot for core functionality and Go for optimization",
+      "technologies": [
+        "Go",
+        "FastAPI",
+        "Spring Boot"
+      ],
+      "url": "https://github.com/kellimccoy/config-manager",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Stop later reveal both single visit receive career including\" — ICML 2020",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Johnson-Chavez Youth Program, 2023-Present",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Spanish (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Go",
+    "Spring Boot",
+    "LangChain",
+    "FastAPI",
+    "Supabase",
+    "SQLite",
+    "CockroachDB",
+    "gRPC",
+    "Docker",
+    "Ansible",
+    "AWS",
+    "GCP",
+    "Claude API",
+    "Azure OpenAI",
+    "RAG Architecture",
+    "TDD",
+    "Microservices",
+    "REST API Design",
+    "Event-Driven Architecture"
+  ],
+  "companies": [
+    "Twilio",
+    "PromptStack",
+    "TechFlow AI"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "LLM Engineer",
+    "API Developer"
+  ],
+  "universities": [
+    "UT Austin",
+    "McGill University"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 231,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:39:13.670005",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

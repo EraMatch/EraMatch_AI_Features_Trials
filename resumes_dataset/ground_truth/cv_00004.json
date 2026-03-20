@@ -1,0 +1,235 @@
+{
+  "full_name": "Thomas Ellis",
+  "email": "thomas.ellis@gmail.com",
+  "location": "Port Brandonville, UAE",
+  "years_of_experience": 5.8,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Thomas Ellis",
+    "email": "thomas.ellis@gmail.com",
+    "phone": "423-988-4969x653",
+    "location": "Port Brandonville, UAE",
+    "linkedin_url": "https://linkedin.com/in/thomas-ellis",
+    "github_url": "https://github.com/thomasellis",
+    "portfolio_url": "https://thomasellis.dev"
+  },
+  "summary": "Seasoned software professional with deep expertise in C, Python, and Rust. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Netflix",
+      "organization": "Netflix",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2023-10",
+      "end_date": "Present",
+      "duration": "2023-10 – Present",
+      "duration_months": 29,
+      "description": "Built secure CI/CD pipeline using GCP Security Command Center, preventing 500+ security issues\nImplemented security monitoring using Suricata, detecting 1000+ threats\nCreated security awareness training using Sigma, reducing phishing clicks by 33%\nDesigned zero-trust architecture using GCP Security Command Center, securing 50000+ endpoints",
+      "technologies": [
+        "Splunk",
+        "GCP Security Command Center",
+        "Sigma",
+        "Suricata"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2020-03",
+      "end_date": "2023-07",
+      "duration": "2020-03 – 2023-07",
+      "duration_months": 40,
+      "description": "Implemented security monitoring using CrowdStrike, detecting 50000+ threats\nCreated security awareness training using Trivy, reducing phishing clicks by 21%\nImplemented security monitoring using CrowdStrike, detecting 1000+ threats",
+      "technologies": [
+        "Suricata",
+        "CrowdStrike",
+        "Threat Modeling",
+        "Trivy",
+        "Elasticsearch"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "B.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "Ethical Hacking Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SAST/DAST",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Cooking",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Korean (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C",
+    "Python",
+    "Rust",
+    "Metasploit",
+    "Snort",
+    "OWASP ZAP",
+    "Sigma",
+    "SonarQube",
+    "Wireshark",
+    "PostgreSQL",
+    "MongoDB",
+    "Elasticsearch",
+    "AWS Security Hub",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "SAST/DAST",
+    "Zero Trust Architecture",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "Netflix",
+    "Apple"
+  ],
+  "job_titles": [
+    "Security Architect",
+    "SOC Analyst"
+  ],
+  "universities": [
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 4,
+    "tier": "T1",
+    "domain": "cybersecurity",
+    "generated_at": "2026-03-18T12:37:20.716206",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

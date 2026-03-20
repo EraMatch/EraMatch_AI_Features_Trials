@@ -1,0 +1,326 @@
+{
+  "full_name": "James Lopez",
+  "email": "james.lopez@yahoo.com",
+  "location": "Lake Mauriceside, Germany",
+  "years_of_experience": 8.0,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "James Lopez",
+    "email": "james.lopez@yahoo.com",
+    "phone": "4473743490",
+    "location": "Lake Mauriceside, Germany",
+    "linkedin_url": "https://linkedin.com/in/james-lopez",
+    "github_url": "https://github.com/jameslopez",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in devops / sre / mlops with expertise in HCL, Python, Bash. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 – Present",
+      "duration_months": 42,
+      "description": "Established chaos engineering practices using Podman, improving system resilience\nEstablished chaos engineering practices using GitLab CI, improving system resilience\nCreated self-service provisioning portal using GitLab CI, serving 500+ engineers\nBuilt disaster recovery solution using Seldon, achieving RTO of 436ms",
+      "technologies": [
+        "Seldon",
+        "MLflow",
+        "Podman",
+        "GitLab CI",
+        "Envoy"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2021-10",
+      "end_date": "2022-07",
+      "duration": "2021-10 – 2022-07",
+      "duration_months": 9,
+      "description": "Established GitOps workflows using Prometheus, improving deployment frequency by 55%\nEstablished GitOps workflows using Crossplane, improving deployment frequency by 59%\nBuilt disaster recovery solution using Crossplane, achieving RTO of 96ms",
+      "technologies": [
+        "VictoriaMetrics",
+        "Crossplane",
+        "Prometheus"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2017-07",
+      "end_date": "2021-04",
+      "duration": "2017-07 – 2021-04",
+      "duration_months": 45,
+      "description": "Created monitoring and alerting system using GitHub Actions, reducing MTTR by 70%\nEstablished GitOps workflows using MLflow, improving deployment frequency by 53%",
+      "technologies": [
+        "GitHub Actions",
+        "Helm",
+        "MLflow"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.A.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Linux Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Graph Query Builder",
+      "description": "Implemented Secrets Management using Python, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "HCL",
+        "Bash"
+      ],
+      "url": null,
+      "date": "2022"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed Secrets Management leveraging Python microservices architecture with HCL for caching",
+      "technologies": [
+        "HCL",
+        "YAML",
+        "Python"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "PDF Parser Toolkit",
+      "description": "Built GitOps Workflow using Bash and HCL, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Bash",
+        "Python",
+        "HCL"
+      ],
+      "url": "https://github.com/jameslopez/pdf-parser-toolkit",
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Wife operation network subject stand industry movement term\" — EMNLP 2020",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — MLH 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HCL",
+    "Python",
+    "Bash",
+    "YAML",
+    "ArgoCD",
+    "Helm",
+    "Pulumi",
+    "CDK",
+    "CloudFormation",
+    "Kubernetes",
+    "Istio",
+    "GitHub Actions",
+    "Azure DevOps",
+    "Opsgenie",
+    "Prometheus",
+    "Oracle Cloud",
+    "Hetzner",
+    "Azure",
+    "TensorFlow Serving",
+    "Seldon",
+    " Triton Inference Server",
+    "MLflow",
+    "Infrastructure as Code",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "Anthropic",
+    "Stripe",
+    "Spotify"
+  ],
+  "job_titles": [
+    "Cloud Engineer",
+    "MLOps Engineer",
+    "SRE"
+  ],
+  "universities": [
+    "University of Toronto"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 145,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:31.393107",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

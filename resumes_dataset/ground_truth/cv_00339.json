@@ -1,0 +1,285 @@
+{
+  "full_name": "David Wilson",
+  "email": "david.wilson@wilson.dev",
+  "location": "North Christina, India",
+  "years_of_experience": 2.6,
+  "seniority_level": "mid",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "David Wilson",
+    "email": "david.wilson@wilson.dev",
+    "phone": "682-842-2412",
+    "location": "North Christina, India",
+    "linkedin_url": "https://linkedin.com/in/david-wilson",
+    "github_url": "https://github.com/davidwilson",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Go, Julia, and JAX. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2025-02",
+      "end_date": "Present",
+      "duration": "2025-02 – Present",
+      "duration_months": 13,
+      "description": "Built real-time analytics dashboard using ChromaDB, used by 10000+ stakeholders\nImplemented A/B testing framework using AWS SageMaker, running 5000+ experiments",
+      "technologies": [
+        "ChromaDB",
+        "MLflow",
+        "Computer Vision",
+        "AWS SageMaker",
+        "Hugging Face Endpoints",
+        "Deep Learning"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2023-06",
+      "end_date": "2024-12",
+      "duration": "2023-06 – 2024-12",
+      "duration_months": 18,
+      "description": "Developed computer vision models using Python, achieving 55% accuracy\nImplemented A/B testing framework using Python, running 100000+ experiments\nCreated recommendation system using Bedrock, increasing user engagement by 57%",
+      "technologies": [
+        "Python",
+        "Bedrock",
+        "RAG",
+        "Azure ML"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SmartCache",
+      "description": "Implemented Data Warehouse using Go, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Go",
+        "Julia",
+        "Go"
+      ],
+      "url": "https://github.com/davidwilson/smartcache",
+      "date": "2022"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Developed ML Model Training Pipeline using Vector Databases, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Go",
+        "Julia",
+        "Vector Databases"
+      ],
+      "url": null,
+      "date": "2025"
+    },
+    {
+      "name": "Task Scheduler",
+      "description": "Implemented Anomaly Detection System using Julia, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Go",
+        "Julia",
+        "Airflow"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Machine Learning",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "credential_id": "TY52GU00"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Include food heart still building dark\" — NeurIPS 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Julia",
+    "JAX",
+    "Scikit-learn",
+    "LangChain",
+    "Kubeflow",
+    "Airflow",
+    "Polars",
+    "Neptune",
+    "ChromaDB",
+    "Pinecone",
+    "Redshift",
+    "Hugging Face Endpoints",
+    "Lambda Labs",
+    "Azure ML",
+    "GCP Vertex AI",
+    "Feature Engineering",
+    "Statistical Modeling",
+    "Prompt Engineering",
+    "RAG",
+    "Vector Databases"
+  ],
+  "companies": [
+    "Anthropic",
+    "Block"
+  ],
+  "job_titles": [
+    "NLP Engineer",
+    "AI Product Engineer"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 339,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-03-18T12:40:09.037873",
+    "content_source": "template",
+    "template": "T1_academic"
+  }
+}

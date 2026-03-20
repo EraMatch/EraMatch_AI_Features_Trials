@@ -1,0 +1,275 @@
+{
+  "full_name": "Amanda Johnson",
+  "email": "amanda.johnson@johnson.dev",
+  "location": "Mccoyland, Japan",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Amanda Johnson",
+    "email": "amanda.johnson@johnson.dev",
+    "phone": "351.597.1284x7818",
+    "location": "Mccoyland, Japan",
+    "linkedin_url": "https://linkedin.com/in/amanda-johnson",
+    "github_url": "https://github.com/amandajohnson",
+    "portfolio_url": "https://amandajohnson.dev"
+  },
+  "summary": "Senior mobile development engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in Java, Objective-C, Swift with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2022-06",
+      "end_date": "Present",
+      "duration": "2022-06 – Present",
+      "duration_months": 45,
+      "description": "Optimized app performance using Hive, reducing battery consumption by 53%\nDeveloped cross-platform solution using Hive, reducing development time by 58%",
+      "technologies": [
+        "Hive",
+        "Flutter",
+        "Firebase Firestore"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2018-02",
+      "end_date": "2022-02",
+      "duration": "2018-02 – 2022-02",
+      "duration_months": 48,
+      "description": "Built widget functionality using C++, increasing daily active users by 35%\nImplemented app streaming using Android Studio, reducing download size by 32%\nBuilt AR/VR features using Android Studio, increasing user retention by 20%\nImplemented biometric authentication using Expo, securing 1000+ user accounts",
+      "technologies": [
+        "Expo",
+        "TypeScript",
+        "Android Studio",
+        "C++"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Created Cross-platform SDK leveraging Objective-C for core functionality and KMP for optimization",
+      "technologies": [
+        "C++",
+        "Objective-C",
+        "KMP"
+      ],
+      "url": "https://github.com/amandajohnson/api-gateway",
+      "date": "2020"
+    },
+    {
+      "name": "ChatBot Framework",
+      "description": "Designed iOS Application leveraging Java microservices architecture with Kotlin for caching",
+      "technologies": [
+        "Kotlin",
+        "Java",
+        "Flutter"
+      ],
+      "url": "https://github.com/amandajohnson/chatbot-framework",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — Google DevFest 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "Objective-C",
+    "Swift",
+    "Kotlin",
+    "C++",
+    "Flutter",
+    "KMP",
+    "CocoaPods",
+    "App Center",
+    "Firebase",
+    "Core Data",
+    "SQLite",
+    "Hive",
+    "Realm",
+    "Firebase Firestore",
+    "Firebase",
+    "Supabase",
+    "RevenueCat",
+    "AWS Amplify",
+    "CI/CD for Mobile",
+    "MVVM",
+    "Offline-First"
+  ],
+  "companies": [
+    "Datadog",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "Android Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 250,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-03-18T12:39:23.563955",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

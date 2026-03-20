@@ -1,0 +1,323 @@
+{
+  "full_name": "David Peterson",
+  "email": "david.peterson@yahoo.com",
+  "location": "North Sabrinafurt, Brazil",
+  "years_of_experience": 4.5,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "David Peterson",
+    "email": "david.peterson@yahoo.com",
+    "phone": "9583319971",
+    "location": "North Sabrinafurt, Brazil",
+    "linkedin_url": "https://linkedin.com/in/david-peterson",
+    "github_url": "https://github.com/davidpeterson",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in YAML, Python, and PowerShell. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2023-05",
+      "end_date": "Present",
+      "duration": "2023-05 – Present",
+      "duration_months": 34,
+      "description": "Implemented log aggregation using Rust, processing 10000+ logs/day\nImplemented log aggregation using Bash, processing 100000+ logs/day\nBuilt automated backup solution using Rust, ensuring 10000% data protection\nCreated self-service provisioning portal using GitLab CI, serving 50000+ engineers",
+      "technologies": [
+        "GitLab CI",
+        "Bash",
+        "Rust"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2022-03",
+      "end_date": "2022-11",
+      "duration": "2022-03 – 2022-11",
+      "duration_months": 8,
+      "description": "Established GitOps workflows using Datadog, improving deployment frequency by 54%\nEstablished chaos engineering practices using Podman, improving system resilience\nBuilt disaster recovery solution using MLflow, achieving RTO of 315ms",
+      "technologies": [
+        "CloudFormation",
+        "VictoriaMetrics",
+        "Datadog",
+        "MLflow",
+        "GitLab CI",
+        "Podman"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2021-01",
+      "end_date": "2022-01",
+      "duration": "2021-01 – 2022-01",
+      "duration_months": 12,
+      "description": "Created self-service provisioning portal using MLOps, serving 1000+ engineers\nBuilt automated backup solution using AWS, ensuring 50000% data protection\nCreated self-service provisioning portal using  Triton Inference Server, serving 100+ engineers\nBuilt automated backup solution using Thanos, ensuring 100% data protection",
+      "technologies": [
+        "Thanos",
+        "TorchServe",
+        "Helm",
+        "MLOps",
+        " Triton Inference Server",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Real-time Analytics Engine",
+      "description": "Built GitOps Workflow with PowerShell and YAML, serving 10,000+ daily active users",
+      "technologies": [
+        "Python",
+        "PowerShell",
+        "YAML"
+      ],
+      "url": "https://github.com/davidpeterson/real-time-analytics-engine",
+      "date": "2022"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Created Infrastructure as Code leveraging PowerShell for core functionality and YAML for optimization",
+      "technologies": [
+        "YAML",
+        "PowerShell",
+        "Python"
+      ],
+      "url": null,
+      "date": "2023"
+    },
+    {
+      "name": "AutoScale Monitor",
+      "description": "Designed Log Aggregation Platform leveraging Python microservices architecture with YAML for caching",
+      "technologies": [
+        "Python",
+        "YAML",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Three really site artist sort area particularly it\" — NeurIPS 2025",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Swedish (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "YAML",
+    "Python",
+    "PowerShell",
+    "ArgoCD",
+    "Crossplane",
+    "CDK",
+    "Skopeo",
+    "K3s",
+    "Istio",
+    "Buildah",
+    "GitLab CI",
+    "CircleCI",
+    "VictoriaMetrics",
+    "Thanos",
+    "Alibaba Cloud",
+    "AWS",
+    "Oracle Cloud",
+    "Kubeflow",
+    "TensorFlow Serving",
+    "Incident Management",
+    "Infrastructure as Code",
+    "Chaos Engineering",
+    "SRE Practices",
+    "GitOps"
+  ],
+  "companies": [
+    "Spotify",
+    "Twilio",
+    "Amazon"
+  ],
+  "job_titles": [
+    "DevOps Engineer",
+    "SRE",
+    "Cloud Engineer"
+  ],
+  "universities": [
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 348,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:40:13.417438",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

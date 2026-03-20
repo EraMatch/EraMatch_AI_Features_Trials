@@ -1,0 +1,245 @@
+{
+  "full_name": "Jerry Christensen",
+  "email": "jerry.christensen@christensen.dev",
+  "location": "Matthewview, Canada",
+  "years_of_experience": 8.1,
+  "seniority_level": "lead",
+  "primary_domain": "Product Management",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jerry Christensen",
+    "email": "jerry.christensen@christensen.dev",
+    "phone": "001-596-750-7527",
+    "location": "Matthewview, Canada",
+    "linkedin_url": "https://linkedin.com/in/jerry-christensen",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead product management professional with 8 years driving technical strategy and team excellence. Expert in Python, SQL, R with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2024-04",
+      "end_date": "Present",
+      "duration": "2024-04 – Present",
+      "duration_months": 23,
+      "description": "Led product development using Jira, launching features used by 5000+ users\nBuilt customer feedback system using Jira, collecting 100+ insights\nImplemented A/B testing using R, running 50000+ experiments",
+      "technologies": [
+        "Miro",
+        "Tableau",
+        "Jira",
+        "Zoom",
+        "R"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Technical PM",
+      "title": "Technical PM",
+      "start_date": "2021-09",
+      "end_date": "2023-12",
+      "duration": "2021-09 – 2023-12",
+      "duration_months": 27,
+      "description": "Led agile product development using Tableau, delivering 10000+ sprints\nImplemented user onboarding using Confluence, improving retention by 17%\nCreated product backlog using R, managing 50000+ user stories",
+      "technologies": [
+        "R",
+        "Confluence",
+        "Mixpanel",
+        "Zoom",
+        "Kanban",
+        "Tableau"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2017-10",
+      "end_date": "2021-09",
+      "duration": "2017-10 – 2021-09",
+      "duration_months": 47,
+      "description": "Led agile product development using JavaScript, delivering 500+ sprints\nCreated product backlog using JavaScript, managing 500+ user stories",
+      "technologies": [
+        "JavaScript",
+        "Figma",
+        "AWS",
+        "BigQuery",
+        "Jira",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zoom",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "CSPO - Certified Scrum Product Owner",
+      "issuer": "Scrum Alliance",
+      "date": "2020",
+      "credential_id": "FP80UA83"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter — MLH 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "SQL",
+    "R",
+    "Jira",
+    "Confluence",
+    "Hotjar",
+    "Google Analytics",
+    "MySQL",
+    "PostgreSQL",
+    "BigQuery",
+    "Snowflake",
+    "GCP",
+    "AWS",
+    "Azure",
+    "Kanban",
+    "User Research"
+  ],
+  "companies": [
+    "ResumeAI",
+    "ParseLab",
+    "CodeReview.io"
+  ],
+  "job_titles": [
+    "Product Owner",
+    "Technical PM",
+    "Product Manager"
+  ],
+  "universities": [
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 28,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:37:32.418788",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

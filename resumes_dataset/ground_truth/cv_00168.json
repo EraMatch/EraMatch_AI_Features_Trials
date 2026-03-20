@@ -1,0 +1,263 @@
+{
+  "full_name": "Victor Waller",
+  "email": "victor.waller@protonmail.com",
+  "location": "Samanthaberg, USA",
+  "years_of_experience": 3.5,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Victor Waller",
+    "email": "victor.waller@protonmail.com",
+    "phone": "522.669.8485x833",
+    "location": "Samanthaberg, USA",
+    "linkedin_url": "https://linkedin.com/in/victor-waller",
+    "github_url": "https://github.com/victorwaller",
+    "portfolio_url": "https://victorwaller.dev"
+  },
+  "summary": "Mid-level backend engineering specialist with 4 years building production systems. Skilled in Python, Go, Java with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": "2023-07 – Present",
+      "duration_months": 32,
+      "description": "Architected and built RESTful APIs serving 50000+ requests/day using Railway, reducing response time by 50%\nImplemented caching layer with Azure OpenAI, reducing database load by 20%\nDesigned and implemented microservices architecture using Railway, handling 500+ concurrent users",
+      "technologies": [
+        "PHP",
+        "SQLite",
+        "Azure OpenAI",
+        "Hugging Face",
+        "Neon",
+        "Railway"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2022-03",
+      "end_date": "2023-01",
+      "duration": "2022-03 – 2023-01",
+      "duration_months": 10,
+      "description": "Implemented caching layer with ArgoCD, reducing database load by 58%\nCreated authentication and authorization system using LlamaIndex, securing 10000+ user accounts\nLed migration from monolithic to microservices using LlamaIndex, improving system scalability by 49%",
+      "technologies": [
+        "ArgoCD",
+        "Rust",
+        "LlamaIndex"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2021",
+      "gpa": "3.48",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Go",
+    "Java",
+    "Rust",
+    "Ruby",
+    "NestJS",
+    "FastAPI",
+    "ASP.NET",
+    "FastAPI",
+    "MongoDB",
+    "Supabase",
+    "Kafka",
+    "Docker",
+    "Terraform",
+    "Heroku",
+    "DigitalOcean",
+    "Railway",
+    "Render",
+    "Replicate",
+    "Google Gemini",
+    "Azure OpenAI",
+    "REST API Design",
+    "TDD",
+    "CI/CD"
+  ],
+  "companies": [
+    "Airbnb",
+    "Shopify"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 168,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:38:42.879446",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

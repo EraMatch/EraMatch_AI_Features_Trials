@@ -1,0 +1,321 @@
+{
+  "full_name": "Robert Graham",
+  "email": "robert.graham@gmail.com",
+  "location": "Hendersonview, Brazil",
+  "years_of_experience": 4.8,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Robert Graham",
+    "email": "robert.graham@gmail.com",
+    "phone": "(934)823-4619x9423",
+    "location": "Hendersonview, Brazil",
+    "linkedin_url": "https://linkedin.com/in/robert-graham",
+    "github_url": "https://github.com/robertgraham",
+    "portfolio_url": "https://robertgraham.dev"
+  },
+  "summary": "Results-driven backend engineering professional with 5 years of experience designing and implementing scalable solutions using Python, TypeScript, Node.js. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2022-08",
+      "end_date": "Present",
+      "duration": "2022-08 – Present",
+      "duration_months": 43,
+      "description": "Architected and built RESTful APIs serving 10000+ requests/day using PlanetScale, reducing response time by 18%\nDesigned and implemented microservices architecture using REST API Design, handling 10000+ concurrent users\nCreated authentication and authorization system using Django, securing 100+ user accounts\nDeveloped real-time data processing pipeline using MongoDB, handling 500+ users/second",
+      "technologies": [
+        "PlanetScale",
+        "Railway",
+        "MongoDB",
+        "Helm",
+        "Django",
+        "REST API Design"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2021-01",
+      "end_date": "2022-03",
+      "duration": "2021-01 – 2022-03",
+      "duration_months": 14,
+      "description": "Optimized database queries using TypeScript, improving query performance by 37%\nReduced infrastructure costs by 61% through optimization using Google Gemini\nCreated authentication and authorization system using Google Gemini, securing 100+ user accounts",
+      "technologies": [
+        "PHP",
+        "Google Gemini",
+        "TypeScript",
+        "C#"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "ACM Club"
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Code Review Bot",
+      "description": "Designed Message Queue System leveraging Spring Boot microservices architecture with FastAPI for caching",
+      "technologies": [
+        "Spring Boot",
+        "Kotlin",
+        "FastAPI"
+      ],
+      "url": null,
+      "date": "2020"
+    },
+    {
+      "name": "Config Manager",
+      "description": "Built Search Engine with FastAPI and TypeScript, serving 10,000+ daily active users",
+      "technologies": [
+        "FastAPI",
+        "TypeScript",
+        "C#"
+      ],
+      "url": "https://github.com/robertgraham/config-manager",
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Performance parent investment note hear plan ask cold\" — NeurIPS 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "Node.js",
+    "C#",
+    "Kotlin",
+    "Express.js",
+    "Spring Boot",
+    "FastAPI",
+    "ASP.NET",
+    "Elasticsearch",
+    "Cassandra",
+    "MySQL",
+    "DynamoDB",
+    "gRPC",
+    "Ansible",
+    "Terraform",
+    "Nginx",
+    "Docker",
+    "Fly.io",
+    "Render",
+    "Azure",
+    "GCP",
+    "AWS",
+    "Azure OpenAI",
+    "Google Gemini",
+    "Hugging Face",
+    "OpenAI API",
+    "Agile",
+    "CI/CD"
+  ],
+  "companies": [
+    "Microsoft",
+    "Quantum Edge"
+  ],
+  "job_titles": [
+    "Backend Developer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "University of Washington",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 445,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-03-18T12:41:02.716533",
+    "content_source": "template",
+    "template": "T1_classic"
+  }
+}

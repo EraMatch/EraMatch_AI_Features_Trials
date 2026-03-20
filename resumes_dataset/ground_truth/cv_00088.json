@@ -1,0 +1,350 @@
+{
+  "full_name": "Frances Gibson",
+  "email": "frances.gibson@yahoo.com",
+  "location": "Lake Matthewport, France",
+  "years_of_experience": 7.5,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Frances Gibson",
+    "email": "frances.gibson@yahoo.com",
+    "phone": "+1-688-472-8743x1527",
+    "location": "Lake Matthewport, France",
+    "linkedin_url": "https://linkedin.com/in/frances-gibson",
+    "github_url": "https://github.com/francesgibson",
+    "portfolio_url": null
+  },
+  "summary": "Senior devops / sre / mlops engineer with 8 years of experience architecting and delivering enterprise solutions. Expert in Python, Bash, Go with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 – Present",
+      "duration_months": 33,
+      "description": "Created monitoring and alerting system using Infrastructure as Code, reducing MTTR by 59%\nBuilt CI/CD pipelines using Kubernetes, reducing deployment time from 12s to 155ms\nImplemented security scanning using Kubernetes, identifying 500+ vulnerabilities",
+      "technologies": [
+        "Kubernetes",
+        "Infrastructure as Code",
+        "Istio"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2019-04",
+      "end_date": "2023-04",
+      "duration": "2019-04 – 2023-04",
+      "duration_months": 48,
+      "description": "Built automated backup solution using Istio, ensuring 1000% data protection\nImplemented log aggregation using Kubernetes, processing 10000+ logs/day\nCreated self-service provisioning portal using Kubernetes, serving 50000+ engineers",
+      "technologies": [
+        "Buildah",
+        "Istio",
+        "Kubeflow",
+        "Kubernetes"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2018-01",
+      "end_date": "2018-10",
+      "duration": "2018-01 – 2018-10",
+      "duration_months": 9,
+      "description": "Established GitOps workflows using Azure DevOps, improving deployment frequency by 33%\nDesigned and implemented infrastructure as code using Azure DevOps, managing 5000+ servers\nBuilt CI/CD pipelines using SRE Practices, reducing deployment time from 29s to 232ms",
+      "technologies": [
+        "Terraform",
+        "SRE Practices",
+        "Azure DevOps",
+        "Kubeflow"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2015",
+      "gpa": "2.89",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "HashiCorp Terraform Associate",
+      "issuer": "HashiCorp",
+      "date": "2021",
+      "credential_id": "OZ93BG29"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "English (Native)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Bash",
+    "Go",
+    "PowerShell",
+    "CDK",
+    "Ansible",
+    "Crossplane",
+    "Docker",
+    "Podman",
+    "Kubernetes",
+    "CircleCI",
+    "GitLab CI",
+    "GitHub Actions",
+    "Argo Workflows",
+    "Datadog",
+    "Opsgenie",
+    "Prometheus",
+    "Thanos",
+    "ELK Stack",
+    "Alibaba Cloud",
+    "Hetzner",
+    "Linode",
+    "TensorFlow Serving",
+    "TorchServe",
+    "Seldon",
+    "MLflow",
+    " Triton Inference Server",
+    "Incident Management",
+    "GitOps",
+    "MLOps",
+    "Chaos Engineering"
+  ],
+  "companies": [
+    "Block",
+    "ModelShip",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "Release Engineer",
+    "Infrastructure Engineer",
+    "Release Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University",
+    "Imperial College London"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 88,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:38:02.825013",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "full_name": "Tiffany Perez",
+  "email": "tiffany.perez@outlook.com",
+  "location": "East Denise, Germany",
+  "years_of_experience": 12.6,
+  "seniority_level": "principal",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Tiffany Perez",
+    "email": "tiffany.perez@outlook.com",
+    "phone": "762-916-8936x39264",
+    "location": "East Denise, Germany",
+    "linkedin_url": "https://linkedin.com/in/tiffany-perez",
+    "github_url": "https://github.com/tiffanyperez",
+    "portfolio_url": "https://tiffanyperez.dev"
+  },
+  "summary": "Distinguished technologist with 13 years shaping devops / sre / mlops practice. Deep expertise in Python, Bash, YAML and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2025-02",
+      "end_date": "Present",
+      "duration": "2025-02 – Present",
+      "duration_months": 13,
+      "description": "Built disaster recovery solution using  Triton Inference Server, achieving RTO of 242ms\nImplemented container orchestration using Rust, managing 500+ containers",
+      "technologies": [
+        " Triton Inference Server",
+        "Rust",
+        "GCP",
+        "Infrastructure as Code"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2021-04",
+      "end_date": "2024-12",
+      "duration": "2021-04 – 2024-12",
+      "duration_months": 44,
+      "description": "Created self-service provisioning portal using Kale, serving 10000+ engineers\nDesigned and implemented infrastructure as code using Podman, managing 50000+ servers",
+      "technologies": [
+        "Linkerd",
+        "Podman",
+        "GitOps",
+        "Kale"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2017-06",
+      "end_date": "2021-03",
+      "duration": "2017-06 – 2021-03",
+      "duration_months": 45,
+      "description": "Designed and implemented infrastructure as code using GCP, managing 500+ servers\nImplemented log aggregation using GCP, processing 10000+ logs/day",
+      "technologies": [
+        "Docker",
+        "Opsgenie",
+        "Platform Engineering",
+        "GCP",
+        "Seldon"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2013-05",
+      "end_date": "2017-06",
+      "duration": "2013-05 – 2017-06",
+      "duration_months": 49,
+      "description": "Optimized cloud infrastructure using PagerDuty, reducing costs by 38%\nImplemented container orchestration using PagerDuty, managing 50000+ containers",
+      "technologies": [
+        "Kale",
+        "Buildah",
+        "PagerDuty",
+        "Infrastructure as Code",
+        "Prometheus"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2011",
+      "gpa": "3.21",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": " Triton Inference Server",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vector Search API",
+      "description": "Built Auto-scaling Solution with YAML and PowerShell, serving 10,000+ daily active users",
+      "technologies": [
+        "YAML",
+        "Bash",
+        "PowerShell"
+      ],
+      "url": null,
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Learning new languages",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Bash",
+    "YAML",
+    "PowerShell",
+    "Terraform",
+    "Crossplane",
+    "CloudFormation",
+    "Helm",
+    "ArgoCD",
+    "Podman",
+    "Docker",
+    "Istio",
+    "GitHub Actions",
+    "GitLab CI",
+    "Jenkins",
+    "Thanos",
+    "Datadog",
+    "VictoriaMetrics",
+    "PagerDuty",
+    "Grafana",
+    "Azure",
+    "DigitalOcean",
+    "Seldon",
+    "Kubeflow",
+    "MLflow",
+    "TorchServe",
+    "GitOps",
+    "Incident Management",
+    "MLOps"
+  ],
+  "companies": [
+    "Vercel",
+    "DataPulse",
+    "Figma",
+    "ParseLab"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Release Engineer",
+    "SRE",
+    "Cloud Engineer"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 226,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-03-18T12:39:11.285936",
+    "content_source": "template",
+    "template": "T1_functional"
+  }
+}

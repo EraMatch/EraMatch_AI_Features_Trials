@@ -1,0 +1,249 @@
+{
+  "full_name": "Mr. Brett Chapman",
+  "email": "mr..brett.chapman@chapman.dev",
+  "location": "New Kevinmouth, India",
+  "years_of_experience": 5.3,
+  "seniority_level": "senior",
+  "primary_domain": "General IT",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Mr. Brett Chapman",
+    "email": "mr..brett.chapman@chapman.dev",
+    "phone": "(346)861-7662x047",
+    "location": "New Kevinmouth, India",
+    "linkedin_url": null,
+    "github_url": "https://github.com/mrbrettchapman",
+    "portfolio_url": null
+  },
+  "summary": "Senior general it engineer with 5 years of experience architecting and delivering enterprise solutions. Expert in SQL, Python, PowerShell with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "IT Specialist",
+      "title": "IT Specialist",
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": "2023-08 – Present",
+      "duration_months": 31,
+      "description": "Managed Windows/Active Directory infrastructure using Nagios, supporting 5000+ users\nImplemented IT service management using Nagios, handling 1000+ tickets/month\nImplemented identity management using SharePoint, securing 500+ accounts\nBuilt monitoring dashboards using Azure, tracking 500+ metrics",
+      "technologies": [
+        "SharePoint",
+        "SQL Server",
+        "Nagios",
+        "Azure"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "IT Specialist",
+      "title": "IT Specialist",
+      "start_date": "2020-06",
+      "end_date": "2023-03",
+      "duration": "2020-06 – 2023-03",
+      "duration_months": 33,
+      "description": "Implemented identity management using Ansible, securing 50000+ accounts\nCreated network monitoring using Ansible, detecting 500+ incidents\nCreated IT documentation using Ansible, serving 5000+ employees",
+      "technologies": [
+        "Bash",
+        "Google Workspace",
+        "AWS",
+        "Ansible"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "IT Society"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SharePoint",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Office 365",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Active Directory",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Exchange",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nagios",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VMware",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL Server",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Workspace",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "System Administration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Help Desk",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Schema Validator",
+      "description": "Built Security Policies with Active Directory and PowerShell, serving 10,000+ daily active users",
+      "technologies": [
+        "Active Directory",
+        "PowerShell",
+        "Exchange"
+      ],
+      "url": null,
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Microsoft 365 Certified: Modern Desktop Administrator",
+      "issuer": "Microsoft",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — Google DevFest 2023",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Python",
+    "PowerShell",
+    "SharePoint",
+    "Office 365",
+    "Active Directory",
+    "Exchange",
+    "Nagios",
+    "VMware",
+    "Ansible",
+    "Docker",
+    "MySQL",
+    "SQL Server",
+    "PostgreSQL",
+    "AWS",
+    "Google Workspace",
+    "System Administration",
+    "Help Desk",
+    "Incident Management"
+  ],
+  "companies": [
+    "Notion",
+    "Supabase"
+  ],
+  "job_titles": [
+    "IT Specialist",
+    "IT Specialist"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 468,
+    "tier": "T1",
+    "domain": "general_it",
+    "generated_at": "2026-03-18T12:41:13.451780",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "full_name": "Gordon Richards",
+  "email": "gordon.richards@richards.dev",
+  "location": "Kennedymouth, India",
+  "years_of_experience": 9.5,
+  "seniority_level": "lead",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Gordon Richards",
+    "email": "gordon.richards@richards.dev",
+    "phone": "871.600.4090x1380",
+    "location": "Kennedymouth, India",
+    "linkedin_url": "https://linkedin.com/in/gordon-richards",
+    "github_url": "https://github.com/gordonrichards",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in product management with expertise in JavaScript, SQL, R. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2024-05",
+      "end_date": "Present",
+      "duration": "2024-05 – Present",
+      "duration_months": 22,
+      "description": "Created product documentation using BigQuery, serving 1000+ stakeholders\nImplemented A/B testing using PostgreSQL, running 50000+ experiments\nCreated product documentation using Snowflake, serving 100+ stakeholders",
+      "technologies": [
+        "Amplitude",
+        "BigQuery",
+        "Snowflake",
+        "Kanban",
+        "PostgreSQL",
+        "Jira"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2020-08",
+      "end_date": "2024-01",
+      "duration": "2020-08 – 2024-01",
+      "duration_months": 41,
+      "description": "Created product documentation using PostgreSQL, serving 100000+ stakeholders\nLed product development using Confluence, launching features used by 10000+ users\nCreated product backlog using Confluence, managing 100+ user stories",
+      "technologies": [
+        "Confluence",
+        "Product Discovery",
+        "Miro",
+        "PostgreSQL"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Technical PM",
+      "title": "Technical PM",
+      "start_date": "2016-02",
+      "end_date": "2020-05",
+      "duration": "2016-02 – 2020-05",
+      "duration_months": 51,
+      "description": "Implemented user onboarding using JavaScript, improving retention by 44%\nImplemented user onboarding using Agile, improving retention by 36%\nBuilt customer feedback system using Roadmap Planning, collecting 100000+ insights",
+      "technologies": [
+        "JavaScript",
+        "Agile",
+        "Roadmap Planning",
+        "Kanban",
+        "Confluence"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2014",
+      "gpa": "3.04",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Aha!",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Amplitude",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OKRs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Product Discovery",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmap Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "name": "CSPO - Certified Scrum Product Owner",
+      "issuer": "Scrum Alliance",
+      "date": "2020",
+      "credential_id": "RV96UP55"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Professor her arm green form beyond lead recognize\" — ArXiv 2024",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place — Company Internal 2020",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award — ACM 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "SQL",
+    "R",
+    "Python",
+    "Aha!",
+    "Productboard",
+    "Google Analytics",
+    "Miro",
+    "Amplitude",
+    "BigQuery",
+    "PostgreSQL",
+    "Snowflake",
+    "MySQL",
+    "GCP",
+    "Azure",
+    "AWS",
+    "Agile",
+    "Scrum",
+    "OKRs",
+    "Product Discovery",
+    "Roadmap Planning"
+  ],
+  "companies": [
+    "HashiCorp",
+    "CodeCraft Studios",
+    "Notion"
+  ],
+  "job_titles": [
+    "VP of Product",
+    "VP of Product",
+    "Technical PM"
+  ],
+  "universities": [
+    "University of Washington"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 384,
+    "tier": "T1",
+    "domain": "product_management",
+    "generated_at": "2026-03-18T12:40:31.865027",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}

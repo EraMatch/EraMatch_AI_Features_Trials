@@ -1,0 +1,305 @@
+{
+  "full_name": "Tim Hamilton",
+  "email": "tim.hamilton@yahoo.com",
+  "location": "Hernandezburgh, Germany",
+  "years_of_experience": 10.5,
+  "seniority_level": "lead",
+  "primary_domain": "QA / Testing",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Tim Hamilton",
+    "email": "tim.hamilton@yahoo.com",
+    "phone": "001-585-638-0032x963",
+    "location": "Hernandezburgh, Germany",
+    "linkedin_url": "https://linkedin.com/in/tim-hamilton",
+    "github_url": "https://github.com/timhamilton",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in qa / testing with expertise in Ruby, JavaScript, C#. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "SDET",
+      "title": "SDET",
+      "start_date": "2023-01",
+      "end_date": "Present",
+      "duration": "2023-01 – Present",
+      "duration_months": 38,
+      "description": "Developed API testing framework using Ruby, testing 100+ endpoints\nImplemented CI/CD testing using TestNG, catching 1000+ defects pre-production\nCreated performance testing suite using Azure, identifying 1000+ bottlenecks\nCreated test reporting dashboard using PyTest, tracking 5000+ test metrics",
+      "technologies": [
+        "Azure",
+        "CI/CD Testing",
+        "TestNG",
+        "BDD",
+        "Ruby",
+        "PyTest"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "SDET",
+      "title": "SDET",
+      "start_date": "2019-04",
+      "end_date": "2022-08",
+      "duration": "2019-04 – 2022-08",
+      "duration_months": 40,
+      "description": "Created test data management using JUnit, generating 100+ test records\nDeveloped API testing framework using Sauce Labs, testing 100+ endpoints\nBuilt accessibility testing using Ruby, ensuring compliance for 10000+ pages",
+      "technologies": [
+        "JUnit",
+        "PostgreSQL",
+        "Ruby",
+        "Sauce Labs"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Test Automation Engineer",
+      "title": "Test Automation Engineer",
+      "start_date": "2018-02",
+      "end_date": "2018-12",
+      "duration": "2018-02 – 2018-12",
+      "duration_months": 10,
+      "description": "Developed BDD framework using Performance Testing, writing 500+ scenarios\nCreated test reporting dashboard using Jira, tracking 5000+ test metrics\nDeveloped test automation framework using Cypress, achieving 65% automation coverage",
+      "technologies": [
+        "Jira",
+        "Appium",
+        "Security Testing",
+        "Cypress",
+        "Performance Testing",
+        "JavaScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "QA Engineer",
+      "title": "QA Engineer",
+      "start_date": "2014-10",
+      "end_date": "2017-12",
+      "duration": "2014-10 – 2017-12",
+      "duration_months": 38,
+      "description": "Implemented shift-left testing using Redis, reducing bug escape rate by 25%\nBuilt mobile testing automation using MySQL, testing on 100000+ devices",
+      "technologies": [
+        "PyTest",
+        "Redis",
+        "MySQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "B.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Appium",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestNG",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BrowserStack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sauce Labs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Performance Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Test Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Security Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTest",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Token Bucket Limiter",
+      "description": "Implemented Security Testing using TestNG, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "TestNG",
+        "Ruby",
+        "C#"
+      ],
+      "url": "https://github.com/timhamilton/token-bucket-limiter",
+      "date": "2019"
+    },
+    {
+      "name": "ML Model Registry",
+      "description": "Designed and implemented Security Testing with Ruby, integrating with TestNG for seamless data flow",
+      "technologies": [
+        "TestNG",
+        "Ruby",
+        "Appium"
+      ],
+      "url": null,
+      "date": "2024"
+    },
+    {
+      "name": "SmartCache",
+      "description": "Developed Load Testing using Ruby, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Appium",
+        "TestNG",
+        "Ruby"
+      ],
+      "url": null,
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified DevOps Engineer",
+      "issuer": "Amazon Web Services",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Executive cup then week tax see about attack newspaper\" — ACM 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Ruby",
+    "JavaScript",
+    "C#",
+    "Appium",
+    "TestNG",
+    "BrowserStack",
+    "Docker",
+    "Sauce Labs",
+    "Jira",
+    "MySQL",
+    "PostgreSQL",
+    "AWS",
+    "GCP",
+    "Azure",
+    "BDD",
+    "Performance Testing",
+    "Test Planning",
+    "Security Testing"
+  ],
+  "companies": [
+    "Meta",
+    "Twilio",
+    "CodeCraft Studios",
+    "Meta"
+  ],
+  "job_titles": [
+    "SDET",
+    "SDET",
+    "Test Automation Engineer",
+    "QA Engineer"
+  ],
+  "universities": [
+    "UIUC"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 498,
+    "tier": "T1",
+    "domain": "qa_testing",
+    "generated_at": "2026-03-18T12:41:27.846898",
+    "content_source": "template",
+    "template": "T1_fresher"
+  }
+}
