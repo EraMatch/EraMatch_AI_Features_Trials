@@ -176,3 +176,42 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Key Improvements in this script:
+
+# 1.  Temperature Management: I set the temperature to 0.8 for this task. While
+#     rubrics require precision (low temp), generating "Poor" or "Hallucinated"
+#     answers requires the LLM to be more creative and deviate from the source,
+#     which works better at a higher temperature.
+# 2.  Context-Aware Hallucinations: The prompt explicitly tells the LLM that a
+#     hallucination is defined as "information not present in the context," which
+#     is the industry-standard way to test RAG (Retrieval-Augmented Generation)
+#     systems.
+# 3.  Checkpointing: It checks data/generated_variants so if the script crashes or
+#     you stop it, it won't re-generate (and pay for/wait for) questions you've
+#     already processed.
+# 4.  Preservation: It keeps your rubric_description and yes_no_questions in the
+#     same JSON object, so your final dataset is "all-in-one" for the scoring
+#     phase.
+
+# What to do next:
+
+# Once this script finishes, your JSONL records will look like this:
+
+# {
+#   "context": "...",
+#   "question": "...",
+#   "answer": "...",
+#   "rubric_description": "...",
+#   "yes_no_questions": [...],
+#   "answer_variants": {
+#     "excellent": "...",
+#     "average": "...",
+#     "poor": "...",
+#     "pedantic": "...",
+#     "hallucinated": "..."
+#   }
+# }
+
+# You can then write your Scorer script to iterate through the 5 variants and run
+# the 15 yes_no_questions against each one.
