@@ -212,6 +212,3 @@ if __name__ == "__main__":
 #     "hallucinated": "..."
 #   }
 # }
-
-# You can then write your Scorer script to iterate through the 5 variants and run
-# the 15 yes_no_questions against each one.
