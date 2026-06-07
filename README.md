@@ -24,7 +24,7 @@ Pipelines designed to analyze job descriptions, extract core keywords, and trans
 ### [4. Behavioural Analysis](./4.%20Behavioural%20Analysis)
 Experiments focused on parsing and analyzing behavioral traits of candidates. Currently contains the core behavioral analysis trials (`eramatch_behavioral_analysis.ipynb`).
 
-### [5. CV Analysis](./5.%20CV%20Analysis)
+### [5. CV Analysis](./5.%20CV%20Analysis) Under Construction (Currently working on)
 Focuses on the automated parsing, feature extraction, and alignment of candidate CV structures against specific job description requirements. Contains data generation scripts for parsing alignment.
 
 ---
