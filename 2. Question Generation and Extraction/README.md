@@ -14,7 +14,7 @@ Contains Python scripts used for various phases of question and rubric generatio
 ### `notebooks/`
 Contains Jupyter notebooks used for fine-tuning state-of-the-art LLMs and analyzing their performance, organized by task:
 
-- **`qag_general/`**: Fine-tuning notebooks for general Question Answer Generation (QAG) using models like:
+- **`qag_essay/`**: Fine-tuning notebooks for Essay Question Answer Generation (QAG) using models like:
   - Llama 3.2 3B, Llama 3.1 8B Instruct
   - Qwen 2.5 (1.5B)
   - Mistral 7B, Phi 3.5 Mini
