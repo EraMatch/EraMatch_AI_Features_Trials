@@ -116,6 +116,43 @@ def extract_json_payload(raw_text: str) -> dict | None:
     return None
 
 
+def is_valid_rubric(record: dict) -> bool:
+    """Rigorous real-life domain validation for Rubric generated records."""
+    desc = str(record.get("rubric_description", "")).strip()
+    if not desc or len(desc) < 20:
+        return False
+        
+    if any(phrase in desc.lower() for phrase in ["as an ai", "i cannot generate", "i'm sorry"]):
+        return False
+    
+    yes_no_qs = record.get("yes_no_questions", [])
+    if not isinstance(yes_no_qs, list) or len(yes_no_qs) < 5:
+        return False
+        
+    valid_qs = []
+    seen = set()
+    for q in yes_no_qs:
+        if not isinstance(q, str): continue
+        q_clean = q.strip()
+        # 1. Reject questions without a question mark (a Yes/No question must be a question)
+        if not q_clean.endswith("?"): continue
+        # 2. Reject overly short or excessively long questions
+        if len(q_clean) < 10 or len(q_clean) > 200: continue
+        # 3. Reject AI refusals hiding in the list
+        if "as an ai" in q_clean.lower(): continue
+        # 4. Prevent duplicate grading questions
+        if q_clean.lower() in seen: continue
+        
+        seen.add(q_clean.lower())
+        valid_qs.append(q_clean)
+        
+    # Logic: If the model failed to generate enough unique, properly-formatted questions, drop the record.
+    if len(valid_qs) < len(yes_no_qs) * 0.8:
+        return False
+        
+    return True
+
+
 def call_rubric_provider(prompt: str, config: dict) -> dict | None:
     if config["provider"] != "ollama":
         raise ValueError(f"Unsupported provider for rubric generation: {config['provider']}")
@@ -194,6 +231,12 @@ def process_essay_file(file_info: tuple) -> int:
 
             record["rubric_description"] = rubric_json.get("rubric_criteria", "")
             record["yes_no_questions"] = yes_no_questions
+            
+            # Hard validation check
+            if not is_valid_rubric(record):
+                logging.warning("Dropped invalid Rubric record")
+                return None
+                
             return record
         except Exception as exc:
             logging.error("Error processing question '%s...': %s", question_text[:30], exc)

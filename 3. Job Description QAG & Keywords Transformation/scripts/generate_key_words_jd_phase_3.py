@@ -44,6 +44,44 @@ def force_to_50(keywords: Dict[str, List[str]]) -> Dict[str, List[str]]:
                 keywords[key].append(fillers[len(keywords[key]) % len(fillers)])
     return keywords
 
+def is_valid_keyword_json(data: dict) -> bool:
+    """Rigorous real-life domain validation for keyword JSON generated records."""
+    keywords = data.get("keywords", {})
+    if not isinstance(keywords, dict): return False
+    required = ["primary", "secondary", "tertiary"]
+    if not all(k in keywords for k in required): return False
+    
+    all_seen = set()
+    
+    # Validate words are logically sound for keywords
+    for k in required:
+        lst = keywords[k]
+        if not isinstance(lst, list): return False
+        
+        valid_count = 0
+        for w in lst:
+            if not isinstance(w, str): continue
+            word = w.strip()
+            
+            # 1. Reject empty or single char unless it's a known short tech (C, R)
+            if len(word) < 2 and word.upper() not in ["C", "R", "R"]: continue
+            # 2. Reject full sentences (keywords shouldn't be paragraphs)
+            if len(word.split()) > 5: continue
+            # 3. Reject AI refusals
+            if "as an ai" in word.lower() or "i cannot" in word.lower(): return False
+            # 4. Reject bullet points sneaking into strings
+            if word.startswith("-") or word.startswith("*"): continue
+            # 5. Prevent exact duplication across ALL categories
+            if word.lower() in all_seen: continue
+            
+            all_seen.add(word.lower())
+            valid_count += 1
+            
+        if valid_count < 5:  # Require at least 5 strictly valid, unique, proper-length keywords per category before padding
+            return False
+            
+    return True
+
 # ============================================================================
 # CORE LOGIC
 # ============================================================================
@@ -83,6 +121,10 @@ def process_record(record: Dict[str, Any], llm_caller: Callable, args) -> Tuple[
         response = llm_caller(prompt)
         clean_json = re.search(r'\{.*\}', response, re.DOTALL).group()
         data = json.loads(clean_json)
+
+        # Hard validation check before forcing padding
+        if not is_valid_keyword_json(data):
+            return {"meta": meta, "status": "failed", "error": "Validation failed: Keyword JSON malformed or insufficient."}, record_id
 
         # Force the count to exactly 20/15/15
         final_keywords = force_to_50(data.get("keywords", {}))

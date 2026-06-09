@@ -127,6 +127,65 @@ def is_rate_limit_error(exc: Exception) -> bool:
         )
     )
 
+def is_valid_mcq(record: dict) -> bool:
+    """Rigorous real-life domain validation for MCQ generated records."""
+    scenario = str(record.get("scenario_context", "")).strip()
+    question = str(record.get("question", "")).strip()
+    
+    if len(scenario) < 10 or len(question) < 5:
+        return False
+        
+    text_lower = (scenario + " " + question).lower()
+    if any(phrase in text_lower for phrase in ["as an ai", "i cannot", "i'm sorry"]):
+        return False
+    
+    # Extract choices securely
+    choices = []
+    if "choices" in record and isinstance(record["choices"], list):
+        choices = [str(c).strip() for c in record["choices"]]
+    elif "choices/0" in record:
+        choices = [str(record.get(f"choices/{i}", "")).strip() for i in range(4)]
+    else:
+        choices = [str(record.get(f"choice_{c}", "")).strip() for c in ["A", "B", "C", "D"]]
+        
+    if len(choices) != 4 or any(not c for c in choices):
+        return False
+        
+    # 1. Logic: Choices must be distinct (prevent A and B from being exactly the same)
+    if len(set([c.lower() for c in choices])) < 4:
+        return False
+        
+    ans = str(record.get("correct_choice", record.get("correct_answer", record.get("answer", "")))).strip()
+    if not ans: return False
+    
+    # 2. Logic: The question shouldn't trivially "leak" the answer string inside of it
+    # E.g., Question: "What is an Integer?" Correct: "Integer"
+    if ans.lower() in question.lower() and len(ans) > 4:
+        # Give some leeway if it's a long sentence, but if the answer is the exact subject, fail it
+        if question.lower().endswith(f"{ans.lower()}?"):
+            return False
+
+    return True
+
+def is_valid_essay(record: dict) -> bool:
+    """Rigorous real-life domain validation for Essay generated records."""
+    scenario = str(record.get("scenario_context", "")).strip()
+    question = str(record.get("question", "")).strip()
+    answer = str(record.get("model_answer", "")).strip()
+    
+    if len(scenario) < 10 or len(question) < 5 or len(answer) < 10:
+        return False
+        
+    # 1. AI Refusals
+    if any(phrase in answer.lower() for phrase in ["as an ai", "i cannot", "i'm sorry", "i don't have personal"]):
+        return False
+        
+    # 2. Logic: Answer shouldn't just repeat the question exactly
+    if answer.lower() == question.lower() or question.lower() in answer.lower()[:len(question) + 10]:
+        return False
+        
+    return True
+
 
 def main():
     from dotenv import load_dotenv
@@ -292,6 +351,10 @@ def main():
                             continue
 
                         if record.get("type") == "mcq":
+                            # Hard validation check
+                            if not is_valid_mcq(record):
+                                logging.warning("Dropped invalid MCQ record")
+                                continue
                             if question_key in seen_mcq_questions or question_key in batch_mcq_keys:
                                 continue
                             batch_mcq_keys.add(question_key)
@@ -299,6 +362,10 @@ def main():
                             write_mcq_record(out_path, record)
                             total_mcqs_local += 1
                         elif record.get("type") == "essay":
+                            # Hard validation check
+                            if not is_valid_essay(record):
+                                logging.warning("Dropped invalid Essay record")
+                                continue
                             if question_key in seen_essay_questions or question_key in batch_essay_keys:
                                 continue
                             batch_essay_keys.add(question_key)

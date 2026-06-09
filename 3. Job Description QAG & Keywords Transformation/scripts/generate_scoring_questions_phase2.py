@@ -50,6 +50,37 @@ def call_openrouter(prompt: str, api_key: str, model: str = "openai/gpt-4o-mini"
 # HELPERS
 # ============================================================================
 
+def is_valid_scoring_questions(text: str) -> bool:
+    """Rigorous real-life domain validation for scoring questions."""
+    if not text or len(text.strip()) < 100:
+        return False
+        
+    text_lower = text.lower()
+    # 1. AI Refusals
+    if any(phrase in text_lower for phrase in ["as an ai", "i cannot generate", "i'm sorry", "here are some"]):
+        return False
+
+    # Check if there are questions
+    lines = text.split('\n')
+    questions = [line.strip() for line in lines if '?' in line and len(line) > 10]
+    
+    # Allow some leeway but enforce at least a minimum set of questions
+    if len(questions) < 8 or len(questions) > 25:
+        return False
+        
+    # 2. Domain Logic: Ensure it's evaluating a candidate's resume (not just a generic tech quiz)
+    eval_keywords = ["candidate", "resume", "experience", "they", "their", "applicant", "project", "evidence", "demonstrate"]
+    has_eval_context = sum(1 for kw in eval_keywords if kw in text_lower)
+    if has_eval_context < 2:  # It should mention candidate/resume context at least a couple of times
+        return False
+        
+    # 3. Prevent Hallucinatory Duplication
+    unique_qs = set([q.lower() for q in questions])
+    if len(unique_qs) < len(questions) * 0.8:  # Fails if >20% of questions are exact duplicates
+        return False
+        
+    return True
+
 def build_scoring_prompt(jd_text: str, meta: Dict[str, Any]) -> str:
     """Constructs a prompt focused on evaluation criteria."""
     pos = meta.get("position", "the role")
@@ -106,6 +137,11 @@ def process_scoring_record(record: Dict[str, Any], llm_caller: Callable, args) -
     try:
         scoring_criteria = llm_caller(prompt)
         time.sleep(args.sleep)
+        
+        # Hard validation check
+        if not is_valid_scoring_questions(scoring_criteria):
+            return {"meta": meta, "status": "failed", "error": "Validation failed: Output did not meet strict criteria."}, record_id
+            
         return {
             "meta": meta,
             "job_description": jd_text,

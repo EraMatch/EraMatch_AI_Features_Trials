@@ -311,6 +311,48 @@ def save_checkpoint(path: str, completed_keys: set):
     os.replace(tmp_path, path)
 
 
+import re
+
+def is_valid_jd(text: str, variant: dict) -> bool:
+    """Rigorous real-life domain validation for JDs."""
+    if not text or len(text.strip()) < 500:
+        return False
+    
+    text_lower = text.lower()
+    
+    # 1. AI Refusals
+    if any(phrase in text_lower for phrase in ["as an ai", "i cannot generate", "i'm sorry"]):
+        return False
+        
+    # 2. Logic: Seniority vs Experience & Responsibilities
+    seniority = variant.get("seniority", "").lower()
+    if seniority in ["junior", "entry", "intern"]:
+        # A junior role logically should NOT demand 7+ years of experience
+        if re.search(r'(7\+|8\+|9\+|10\+|15\+|20\+)\s*years\s*of\s*experience', text_lower):
+            return False
+        if "lead a team of" in text_lower or "head of" in text_lower or "executive board" in text_lower:
+            return False
+            
+    if seniority in ["principal", "staff", "vp", "lead"]:
+        # A principal role logically should not be described as an entry-level learning position
+        if "no prior experience required" in text_lower or "entry-level" in text_lower:
+            return False
+
+    # 3. Logic: Work Mode Contradictions
+    work_mode = variant.get("work_mode", "").lower()
+    if work_mode == "remote" and "must report to the office daily" in text_lower:
+        return False
+    if work_mode == "on-site" and ("100% remote" in text_lower or "work from anywhere" in text_lower):
+        return False
+
+    # 4. Check for common placeholders (immersion breakers)
+    placeholders = ["[company name]", "[location]", "[insert", "[city]", "<company>", "xyz company"]
+    for p in placeholders:
+        if p in text_lower:
+            return False
+            
+    return True
+
 def process_jd_variant(
     position: str,
     variant: Dict[str, str],
@@ -324,6 +366,11 @@ def process_jd_variant(
     try:
         jd_text = llm_caller(jd_prompt)
         time.sleep(args.sleep)
+        
+        # Hard logic validation check
+        if not is_valid_jd(jd_text, variant):
+            return {"meta": meta, "job_description": "", "status": "failed", "error": "Validation failed: Logic constraint violation (seniority mismatch, placeholder, etc.)."}, record_key
+            
     except Exception as e:
         return {"meta": meta, "job_description": "", "status": "failed", "error": f"{type(e).__name__}: {str(e)}"}, record_key
     return {"meta": meta, "job_description": jd_text, "status": "success"}, record_key
