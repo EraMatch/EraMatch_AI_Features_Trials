@@ -27,6 +27,12 @@ Experiments focused on parsing and analyzing behavioral traits of candidates. Cu
 ### [5. CV Analysis](./5.%20CV%20Analysis) Under Construction (Currently working on)
 Focuses on the automated parsing, feature extraction, and alignment of candidate CV structures against specific job description requirements. Contains data generation scripts for parsing alignment.
 
+### [6. Code Generation](./6.%20Code%20Generation)
+Trials and notebooks relating to automated code generation and LeetCode dataset analysis.
+
+### [7. Code Plagiarism Detection](./7.%20Code%20Plagiarism%20Detection)
+Experiments and notebooks for detecting code plagiarism and similarity.
+
 ---
 
 *Note: For detailed information regarding the individual trial pipelines, execution instructions, or fine-tuning approaches, please refer to the `README.md` files located inside each specific subdirectory.*

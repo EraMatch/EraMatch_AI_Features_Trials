@@ -16,9 +16,11 @@ Contains fine-tuning notebooks specifically for transforming Job Descriptions in
 - **`keyword_extraction/`**: Notebooks for fine-tuning models to extract key skills and requirements from JDs.
   - `fine_tuning_jd_keyword_extraction_llama_3_2_3b.ipynb`
   - `fine_tuning_jd_keyword_extraction_qwen_2_5_3b.ipynb`
+  - `fine-tunning-jd-keyword_extraction_qwen_2_5_7b.ipynb`
 - **`qag/`**: Notebooks for fine-tuning models to generate screening questions from JDs.
   - `fine_tuning_jd_qag_llama_3_2_3b.ipynb`
   - `fine_tuning_jd_qag_qwen_2_5_3b.ipynb`
+  - `fine-tuning-jd-qag-qwen-2-5-7b.ipynb`
 
 ### `templates/`
 Contains markdown templates and data used by the generation scripts.
