@@ -21,5 +21,6 @@ Contains Jupyter notebooks used for fine-tuning state-of-the-art LLMs and analyz
   - Flan-T5 (Base/Large), BART Large
 - **`qag_essay_rubric/`**: Fine-tuning notebooks for QA Rubric Generation using Llama 3.1 8B and Qwen 2.5 7B.
 - **`qag_mcq/`**: Fine-tuning notebooks specifically for Multiple Choice Question (MCQ) generation.
+  - `fine-tuning-qag-mcq-qwen-2-5-7b-instruct.ipynb`
 - **`essay_scoring/`**: Essay grading and evaluation notebooks using RoBERTa, DeBERTa v3, and ELECTRA.
 - **`analysis/`**: Contains CSVs and plots (loss comparisons, ROUGE metrics) evaluating model performance.
