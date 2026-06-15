@@ -1,0 +1,332 @@
+{
+  "full_name": "Youssef Said",
+  "email": "youssefsaidtower@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 4.0,
+  "seniority_level": "mid",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Youssef Said",
+    "email": "youssefsaidtower@gmail.com",
+    "phone": "+20 10 9876 5432",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://www.linkedin.com/in/youssefsaid",
+    "github_url": "https://github.com/youssefsaidtower",
+    "portfolio_url": "https://youssefsaid.dev"
+  },
+  "summary": "Mid-level Fullstack Developer with 4+ years of experience building scalable web applications and APIs. Proficient in Python (Flask/Django) and JavaScript/TypeScript ecosystems (React, Next.js, Node.js). Actively contribute to open-source projects and have a strong foundation in data-driven applications. Experienced in Agile teams, CI/CD pipelines, and cloud services (AWS, GCP). Passionate about crafting clean, maintainable code and delivering end-to-end solutions.",
+  "work_experience": [
+    {
+      "company": "Breadfast",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2020-01",
+      "end_date": "2021-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed and maintained features for the company's e-commerce and delivery platforms using React and Node.js. Built RESTful APIs for order management and integrated third-party payment gateways. Collaborated with cross-functional teams to deploy features on AWS.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "AWS",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2021-06",
+      "end_date": "2023-01",
+      "duration": null,
+      "duration_months": null,
+      "description": "Designed and implemented high-performance dashboards and analytics modules using React, TypeScript, and Python (Django). Optimized SQL queries and introduced Redis caching for real-time bug reporting features. Led migration of legacy frontend components to React Hooks.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2023-02",
+      "end_date": "2024-04",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built patient-facing booking and telehealth features using Next.js and Node.js. Developed serverless APIs with Google Cloud Functions and Firestore. Championed adoption of TanStack Router for improved client-side routing and type safety.",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Google Cloud",
+        "Firestore",
+        "TanStack Router"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vodafone Intelligent Solutions (_VOIS)",
+      "organization": null,
+      "job_title": "Fullstack Engineer",
+      "title": null,
+      "start_date": "2024-05",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Architecting internal tools and automation platforms using Blitz.js and TypeScript. Building real-time data pipelines and dashboards with Python and Reflex. Driving CI/CD improvements and mentoring junior developers.",
+      "technologies": [
+        "Blitz.js",
+        "TypeScript",
+        "Python",
+        "Reflex",
+        "Docker",
+        "Kubernetes"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Engineering",
+      "graduation_date": "2020-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TanStack Router",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Blitz.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Reflex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "soft_skill",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "soft_skill",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "date": "2026-05"
+    },
+    {
+      "name": "react",
+      "description": "The library for web and native user interfaces.",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/facebook/react",
+      "date": "2026-05"
+    },
+    {
+      "name": "next.js",
+      "description": "The React Framework",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/vercel/next.js",
+      "date": "2026-05"
+    },
+    {
+      "name": "react-native",
+      "description": "A framework for building native applications using React",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/facebook/react-native",
+      "date": "2026-05"
+    },
+    {
+      "name": "free-programming-books-zh_CN",
+      "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+      "technologies": [],
+      "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022-06",
+      "credential_id": null
+    },
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google Cloud",
+      "date": "2023-08",
+      "credential_id": null
+    },
+    {
+      "name": "MongoDB Associate Developer",
+      "issuer": "MongoDB University",
+      "date": "2021-12",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Django",
+    "Flask",
+    "TanStack Router",
+    "Blitz.js",
+    "Reflex",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Docker",
+    "Git",
+    "AWS",
+    "Google Cloud",
+    "Agile",
+    "Problem Solving",
+    "Team Collaboration"
+  ],
+  "companies": [
+    "Breadfast",
+    "Instabug",
+    "Vezeeta",
+    "Vodafone Intelligent Solutions (_VOIS)"
+  ],
+  "job_titles": [
+    "Junior Fullstack Developer",
+    "Fullstack Developer",
+    "Fullstack Developer",
+    "Fullstack Engineer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Engineering"
+  ],
+  "parsing_metadata": {}
+}

@@ -1,0 +1,371 @@
+{
+  "full_name": "Sara Vega",
+  "email": "sara.vega@yahoo.com",
+  "location": "Lake Larry, Australia",
+  "years_of_experience": 17.5,
+  "seniority_level": "principal",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sara Vega",
+    "email": "sara.vega@yahoo.com",
+    "phone": "439.393.6475x576",
+    "location": "Lake Larry, Australia",
+    "linkedin_url": "https://linkedin.com/in/sara-vega",
+    "github_url": "https://github.com/saravega",
+    "portfolio_url": "https://saravega.dev"
+  },
+  "summary": "Principal backend engineering architect with 17+ years defining technical strategy for enterprise transformations. Subject matter expert in Rust, C#, ASP.NET.",
+  "work_experience": [
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2022-05",
+      "end_date": "Present",
+      "duration": "2022-05 \u2013 Present",
+      "duration_months": 48,
+      "description": "Built automated CI/CD pipelines with SQLite, reducing deployment time by 36%\nOptimized database queries using Railway, improving query performance by 38%\nLed migration from monolithic to microservices using SQLite, improving system scalability by 33%\nBuilt event-driven architecture using ArgoCD, processing 100000+ events daily",
+      "technologies": [
+        "SQLite",
+        "FastAPI",
+        "Railway",
+        "ArgoCD"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2018-07",
+      "end_date": "2022-05",
+      "duration": "2018-07 \u2013 2022-05",
+      "duration_months": 46,
+      "description": "Implemented caching layer with Microservices, reducing database load by 70%\nReduced infrastructure costs by 37% through optimization using GitHub Actions\nMentored team of 7 junior developers on Rails best practices",
+      "technologies": [
+        "Django",
+        "Docker",
+        "Microservices",
+        "GitHub Actions",
+        "Rails"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2016-01",
+      "end_date": "2018-06",
+      "duration": "2016-01 \u2013 2018-06",
+      "duration_months": 29,
+      "description": "Implemented caching layer with AWS, reducing database load by 55%\nDesigned and implemented message queue system using Spring Boot, processing 500+ messages/hour\nImplemented caching layer with REST API Design, reducing database load by 29%\nOptimized database queries using Spring Boot, improving query performance by 39%",
+      "technologies": [
+        "REST API Design",
+        "Rails",
+        "AWS",
+        "Spring Boot"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2011-11",
+      "end_date": "2015-09",
+      "duration": "2011-11 \u2013 2015-09",
+      "duration_months": 46,
+      "description": "Optimized database queries using Nginx, improving query performance by 44%\nDesigned and implemented message queue system using Render, processing 100000+ messages/hour\nOptimized database queries using Render, improving query performance by 35%",
+      "technologies": [
+        "Node.js",
+        "Nginx",
+        "Render"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2008-02",
+      "end_date": "2011-07",
+      "duration": "2008-02 \u2013 2011-07",
+      "duration_months": 41,
+      "description": "Designed and implemented microservices architecture using Helm, handling 100+ concurrent users\nMentored team of 8 junior developers on Azure OpenAI best practices\nLed migration from monolithic to microservices using Agile, improving system scalability by 69%\nMentored team of 5 junior developers on Agile best practices",
+      "technologies": [
+        "Neon",
+        "Agile",
+        "Azure OpenAI",
+        "Helm"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "B.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2007",
+      "gpa": null,
+      "activities": "ACM Club"
+    },
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2006",
+      "gpa": "2.86",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CockroachDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Event Streaming Service",
+      "description": "Developed Auth Service using Rust, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "LlamaIndex",
+        "Express.js",
+        "Rust"
+      ],
+      "url": "https://github.com/synthetic-backend-8-0",
+      "date": "2019"
+    },
+    {
+      "name": "Auth Service",
+      "description": "Designed gRPC Services leveraging LlamaIndex microservices architecture with C# for caching",
+      "technologies": [
+        "C#",
+        "ASP.NET",
+        "LlamaIndex"
+      ],
+      "url": "https://github.com/synthetic-backend-8-1",
+      "date": "2024"
+    },
+    {
+      "name": "Data Sync Platform",
+      "description": "Designed and implemented Search Engine with LlamaIndex, integrating with Express.js for seamless data flow",
+      "technologies": [
+        "Rust",
+        "LlamaIndex",
+        "Express.js"
+      ],
+      "url": "https://github.com/synthetic-backend-8-2",
+      "date": "2019"
+    },
+    {
+      "name": "GraphQL Server",
+      "description": "Created Data Sync Platform leveraging Express.js for core functionality and ASP.NET for optimization",
+      "technologies": [
+        "Express.js",
+        "LlamaIndex",
+        "ASP.NET"
+      ],
+      "url": "https://github.com/synthetic-backend-8-3",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Italian (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "C#",
+    "ASP.NET",
+    "Express.js",
+    "LlamaIndex",
+    "CockroachDB",
+    "DynamoDB",
+    "MySQL",
+    "Ansible",
+    "Git",
+    "GCP",
+    "Heroku",
+    "Cloudflare",
+    "Google Gemini",
+    "Hugging Face",
+    "AWS Bedrock",
+    "Replicate",
+    "Azure OpenAI",
+    "LLM Integration",
+    "CI/CD",
+    "Scrum"
+  ],
+  "companies": [
+    "Google",
+    "Vercel",
+    "Twilio",
+    "Notion",
+    "Block"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "LLM Engineer",
+    "API Developer",
+    "Software Engineer",
+    "Software Engineer"
+  ],
+  "universities": [
+    "KAIST",
+    "University of Washington"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 8,
+    "tier": "T2",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:30:59.434679",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

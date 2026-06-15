@@ -1,0 +1,262 @@
+{
+  "full_name": "Youssef Said",
+  "email": "s-yousef.said@zewailcity.edu.eg",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 3.0,
+  "seniority_level": "junior",
+  "primary_domain": "ml_engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Youssef Said",
+    "email": "s-yousef.said@zewailcity.edu.eg",
+    "phone": "+20 111 234 5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/youssef-said",
+    "github_url": "https://github.com/yousef-said",
+    "portfolio_url": "https://yousef-said.dev"
+  },
+  "summary": "Junior Machine Learning Engineer with 3 years of experience in developing and deploying machine learning models. Skilled in Python, TensorFlow, PyTorch, and Hugging Face Transformers. Experienced in building NLP and computer vision solutions. Active contributor to major open-source projects including TensorFlow, Transformers, and PyTorch. Holds a B.Sc. in Computer Engineering from Zewail City of Science and Technology. AWS Certified Machine Learning Specialist. Passionate about applied ML and MLOps.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Junior Machine Learning Engineer",
+      "title": null,
+      "start_date": "2024-07",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developing and maintaining machine learning pipelines for automated bug triage and user behavior analytics. Built classification models to categorize issues and predict crash patterns. Worked with engineering teams to integrate models into production using Docker and AWS SageMaker.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Docker",
+        "AWS SageMaker",
+        "scikit-learn",
+        "Kubernetes"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Machine Learning Intern",
+      "title": null,
+      "start_date": "2023-07",
+      "end_date": "2024-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in developing recommendation systems for doctor-patient matching using natural language processing. Fine-tuned BERT models on medical appointment data. Built data preprocessing pipelines and model evaluation dashboards.",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "Hugging Face Transformers",
+        "pandas",
+        "numpy",
+        "Flask"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Microsoft Egypt",
+      "organization": null,
+      "job_title": "Data Science Intern",
+      "title": null,
+      "start_date": "2022-07",
+      "end_date": "2023-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Collaborated with the Azure ML team to build and deploy customer churn prediction models. Automated data ingestion and feature engineering pipelines. Gained hands-on experience with Azure ML Studio and MLOps workflows.",
+      "technologies": [
+        "Azure ML",
+        "Python",
+        "SQL",
+        "Spark",
+        "Power BI"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Zewail City of Science and Technology",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Engineering",
+      "field_of_study": "Computer Engineering",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Transformers",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Natural Language Processing",
+      "category": "ai_ml",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "langchain",
+      "description": "The agent engineering platform.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/langchain-ai/langchain",
+      "date": "2026-05"
+    },
+    {
+      "name": "MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "date": "2026-05"
+    },
+    {
+      "name": "AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-05"
+    },
+    {
+      "name": "TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/sansan0/TrendRadar",
+      "date": "2026-05"
+    },
+    {
+      "name": "MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/opendatalab/MinerU",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Machine Learning – Specialty",
+      "issuer": "Amazon Web Services",
+      "date": "2023-03",
+      "credential_id": null
+    },
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "TensorFlow",
+      "date": "2022-12",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Azure ML",
+    "SQL",
+    "scikit-learn",
+    "Git",
+    "C++",
+    "MLOps",
+    "Natural Language Processing"
+  ],
+  "companies": [
+    "Instabug",
+    "Vezeeta",
+    "Microsoft Egypt"
+  ],
+  "job_titles": [
+    "Junior Machine Learning Engineer",
+    "Machine Learning Intern",
+    "Data Science Intern"
+  ],
+  "universities": [
+    "Zewail City of Science and Technology"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Engineering"
+  ],
+  "parsing_metadata": {}
+}

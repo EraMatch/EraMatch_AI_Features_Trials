@@ -1,0 +1,328 @@
+{
+  "full_name": "Benjamin Weber",
+  "email": "benjamin.weber@protonmail.com",
+  "location": "New Marie, Germany",
+  "years_of_experience": 4.5,
+  "seniority_level": "mid",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Benjamin Weber",
+    "email": "benjamin.weber@protonmail.com",
+    "phone": "+1-755-849-5512x79534",
+    "location": "New Marie, Germany",
+    "linkedin_url": "https://linkedin.com/in/benjamin-weber",
+    "github_url": "https://github.com/benjaminweber",
+    "portfolio_url": null
+  },
+  "summary": "Results-driven backend engineering professional with 4 years of experience designing and implementing scalable solutions using Go, Kotlin, PHP. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2024-10",
+      "end_date": "Present",
+      "duration": "2024-10 \u2013 Present",
+      "duration_months": 19,
+      "description": "Reduced infrastructure costs by 54% through optimization using gRPC\nDesigned and implemented microservices architecture using Node.js, handling 100000+ concurrent users\nOptimized database queries using gRPC, improving query performance by 42%\nImplemented caching layer with Git, reducing database load by 52%",
+      "technologies": [
+        "Node.js",
+        "Git",
+        "gRPC"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2023-10",
+      "end_date": "2024-08",
+      "duration": "2023-10 \u2013 2024-08",
+      "duration_months": 10,
+      "description": "Led migration from monolithic to microservices using LlamaIndex, improving system scalability by 48%\nImplemented caching layer with Go, reducing database load by 34%\nDeveloped real-time data processing pipeline using LlamaIndex, handling 500+ messages/second\nReduced infrastructure costs by 45% through optimization using Event-Driven Architecture",
+      "technologies": [
+        "Event-Driven Architecture",
+        "Go",
+        "LlamaIndex"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2021-03",
+      "end_date": "2023-04",
+      "duration": "2021-03 \u2013 2023-04",
+      "duration_months": 25,
+      "description": "Designed and implemented microservices architecture using Azure, handling 50000+ concurrent users\nCreated authentication and authorization system using Nginx, securing 10000+ user accounts",
+      "technologies": [
+        "Azure",
+        "Nginx",
+        "Kafka",
+        "PHP"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2021",
+      "gpa": "3.44",
+      "activities": "ACM Club"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2021",
+      "gpa": "2.85",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Database Proxy",
+      "description": "Built File Processing Service with Kotlin and TypeScript, serving 10,000+ daily active users",
+      "technologies": [
+        "Kotlin",
+        "Java",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-backend-15-0",
+      "date": "2020"
+    },
+    {
+      "name": "REST API Framework",
+      "description": "Designed and implemented Event Streaming Service with Kotlin, integrating with Gin for seamless data flow",
+      "technologies": [
+        "PHP",
+        "Kotlin",
+        "Gin"
+      ],
+      "url": "https://github.com/synthetic-backend-15-1",
+      "date": "2025"
+    },
+    {
+      "name": "User Management API",
+      "description": "Implemented File Processing Service using Java, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "TypeScript",
+        "Gin",
+        "Java"
+      ],
+      "url": "https://github.com/synthetic-backend-15-2",
+      "date": "2023"
+    },
+    {
+      "name": "Notification Service",
+      "description": "Designed API Gateway leveraging Gin microservices architecture with Go for caching",
+      "technologies": [
+        "Gin",
+        "Kotlin",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-backend-15-3",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place \u2014 ACM 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Kotlin",
+    "PHP",
+    "TypeScript",
+    "Java",
+    "Gin",
+    "FastAPI",
+    "PostgreSQL",
+    "MongoDB",
+    "PlanetScale",
+    "Supabase",
+    "Jenkins",
+    "Nginx",
+    "Terraform",
+    "Cloudflare",
+    "Railway",
+    "AWS Bedrock",
+    "OpenAI API",
+    "Event-Driven Architecture",
+    "Scrum",
+    "GraphQL",
+    "LLM Integration"
+  ],
+  "companies": [
+    "PipelineIO",
+    "Snowflake",
+    "TechFlow AI"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Server-Side Developer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "TU Munich"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 15,
+    "tier": "T5",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:31:05.013653",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "full_name": "Joshua Jones",
+  "email": "joshua.jones@yahoo.com",
+  "location": "Breannaville, Germany",
+  "years_of_experience": 8.7,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Joshua Jones",
+    "email": "joshua.jones@yahoo.com",
+    "phone": "268-655-6324",
+    "location": "Breannaville, Germany",
+    "linkedin_url": null,
+    "github_url": "https://github.com/joshuajones",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in frontend engineering with expertise in Dart, JavaScript, TypeScript. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2024-02",
+      "end_date": "Present",
+      "duration": "2024-02 \u2013 Present",
+      "duration_months": 27,
+      "description": "Implemented state management solution using Next.js, reducing API calls by 59%\nDeveloped responsive web applications using Render, improving page load time by 29%\nOptimized frontend bundle size using Render, reducing load time by 40%\nCreated progressive web app using Next.js, increasing user engagement by 49%",
+      "technologies": [
+        "Next.js",
+        "Supabase",
+        "Render",
+        "Material UI",
+        "Firebase",
+        "AWS Amplify"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Netflix",
+      "organization": "Netflix",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2020-05",
+      "end_date": "2023-11",
+      "duration": "2020-05 \u2013 2023-11",
+      "duration_months": 42,
+      "description": "Built real-time collaboration features using Render, serving 1000+ concurrent users\nCreated progressive web app using Playwright, increasing user engagement by 44%\nOptimized frontend bundle size using Astro, reducing load time by 52%\nDeveloped design system using Playwright, standardizing UI across 500+ applications",
+      "technologies": [
+        "Playwright",
+        "Render",
+        "Astro",
+        "Vercel",
+        "Webpack"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2017-01",
+      "end_date": "2019-12",
+      "duration": "2017-01 \u2013 2019-12",
+      "duration_months": 35,
+      "description": "Implemented state management solution using Tailwind CSS, reducing API calls by 37%\nDeveloped responsive web applications using AWS Amplify, improving page load time by 42%\nBuilt reusable component library using AWS Amplify, used by 5000+ developers\nImplemented state management solution using Tailwind CSS, reducing API calls by 17%",
+      "technologies": [
+        "Remix",
+        "Tailwind CSS",
+        "AWS Amplify"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "B.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2017",
+      "gpa": "3.04",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Form Builder",
+      "description": "Built E-commerce Platform with Vue.js and Svelte, serving 10,000+ daily active users",
+      "technologies": [
+        "Vue.js",
+        "Bootstrap",
+        "Svelte"
+      ],
+      "url": "https://github.com/synthetic-frontend-23-0",
+      "date": "2025"
+    },
+    {
+      "name": "Progressive Web App",
+      "description": "Implemented SPA Framework using Bootstrap, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Bootstrap",
+        "Dart",
+        "Vue.js"
+      ],
+      "url": "https://github.com/synthetic-frontend-23-1",
+      "date": "2022"
+    },
+    {
+      "name": "SPA Framework",
+      "description": "Built Real-time Chat with HTML and Remix, serving 10,000+ daily active users",
+      "technologies": [
+        "Svelte",
+        "Remix",
+        "HTML"
+      ],
+      "url": "https://github.com/synthetic-frontend-23-2",
+      "date": "2023"
+    },
+    {
+      "name": "Admin Panel",
+      "description": "Implemented Mobile Web App using Bootstrap, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "JavaScript",
+        "Svelte",
+        "Bootstrap"
+      ],
+      "url": "https://github.com/synthetic-frontend-23-3",
+      "date": "2021"
+    },
+    {
+      "name": "Data Visualization Tool",
+      "description": "Built SPA Framework with Next.js and Vue.js, serving 10,000+ daily active users",
+      "technologies": [
+        "Vue.js",
+        "Dart",
+        "Next.js"
+      ],
+      "url": "https://github.com/synthetic-frontend-23-4",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "HTML",
+    "Vue.js",
+    "Bootstrap",
+    "Svelte",
+    "Next.js",
+    "Remix",
+    "Playwright",
+    "Prettier",
+    "Figma",
+    "ESLint",
+    "Git",
+    "Supabase",
+    "PostgreSQL",
+    "Firebase",
+    "MongoDB",
+    "Render",
+    "Netlify",
+    "AWS Amplify",
+    "Vercel",
+    "Accessibility (WCAG)",
+    "Component-Driven Development",
+    "Agile",
+    "Responsive Design",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "Netflix",
+    "Shopify"
+  ],
+  "job_titles": [
+    "React Developer",
+    "React Developer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 23,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:15.808664",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "aggregate": {
+    "document_count": 310,
+    "field_scores": {
+      "certifications": 0.7290322580645161,
+      "education": 0.3879549731182796,
+      "email": 0.8741935483870967,
+      "full_name": 0.9591799040578193,
+      "github_url": 0.5645161290322581,
+      "linkedin_url": 0.6290322580645161,
+      "location": 0.9029987891736029,
+      "phone": 0.8709677419354839,
+      "projects": 0.47207979679326934,
+      "skills": 0.8631903073244356,
+      "summary": 0.9211091936450714,
+      "work_experience": 0.4161305557023563
+    },
+    "json_valid_rate": 1.0,
+    "macro_score": 0.7158654546082256,
+    "micro_score": 0.7158654546082255,
+    "schema_valid_rate": 1.0,
+    "unsupported_evidence_rate": 1.0
+  },
+  "allow_partial": true,
+  "compact_schema": false,
+  "mean_latency_seconds": 24.076524815148375,
+  "model_id": "eraparse/nuextract-15-reduced",
+  "repair_work_records": true,
+  "representation": "pymupdf4llm_markdown",
+  "results_path": "/Users/anasahmed/AI_Main_Repo/CV_parsing_main/eraparse/artifacts/ingested/nuextract-15-ft-v1/nuextract-15-reduced-pymupdf4llm_markdown-dcb656e213/results.jsonl",
+  "revision": "ft-v1",
+  "run_id": "nuextract-15-reduced-pymupdf4llm_markdown-dcb656e213"
+}

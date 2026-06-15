@@ -1,0 +1,270 @@
+{
+  "full_name": "Cynthia Fuller",
+  "email": "cynthia.fuller@yahoo.com",
+  "location": "Lake Derek, Singapore",
+  "years_of_experience": 5.5,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Cynthia Fuller",
+    "email": "cynthia.fuller@yahoo.com",
+    "phone": "(793)534-1430x8874",
+    "location": "Lake Derek, Singapore",
+    "linkedin_url": "https://linkedin.com/in/cynthia-fuller",
+    "github_url": "https://github.com/cynthiafuller",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Python, Ruby, Flask.",
+  "work_experience": [
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 \u2013 Present",
+      "duration_months": 39,
+      "description": "Designed and implemented message queue system using Google Gemini, processing 100000+ messages/hour\nDesigned and implemented message queue system using NestJS, processing 50000+ messages/hour\nReduced infrastructure costs by 48% through optimization using Git",
+      "technologies": [
+        "Scrum",
+        "NestJS",
+        "Google Gemini",
+        "Git"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2020-06",
+      "end_date": "2022-09",
+      "duration": "2020-06 \u2013 2022-09",
+      "duration_months": 27,
+      "description": "Built automated CI/CD pipelines with Fly.io, reducing deployment time by 26%\nBuilt event-driven architecture using Fly.io, processing 100+ events daily\nBuilt automated CI/CD pipelines with Neon, reducing deployment time by 22%",
+      "technologies": [
+        "Fly.io",
+        "Microservices",
+        "GraphQL",
+        "Neon"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Open Source Contributor"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ruby",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Designed Event Streaming Service leveraging Flask microservices architecture with FastAPI for caching",
+      "technologies": [
+        "Flask",
+        "Python",
+        "FastAPI"
+      ],
+      "url": "https://github.com/synthetic-backend-12-0",
+      "date": "2021"
+    },
+    {
+      "name": "Message Queue System",
+      "description": "Built REST API Framework using Python and Spring Boot, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "FastAPI",
+        "Python",
+        "Spring Boot"
+      ],
+      "url": "https://github.com/synthetic-backend-12-1",
+      "date": "2023"
+    },
+    {
+      "name": "Search Engine",
+      "description": "Created Database Proxy leveraging Spring Boot for core functionality and LlamaIndex for optimization",
+      "technologies": [
+        "NestJS",
+        "LlamaIndex",
+        "Spring Boot"
+      ],
+      "url": "https://github.com/synthetic-backend-12-2",
+      "date": "2019"
+    },
+    {
+      "name": "Notification Service",
+      "description": "Designed and implemented Message Queue System with NestJS, integrating with FastAPI for seamless data flow",
+      "technologies": [
+        "NestJS",
+        "FastAPI",
+        "LlamaIndex"
+      ],
+      "url": "https://github.com/synthetic-backend-12-3",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Compare with speak detail read actually score thank long exist\" \u2014 ICML 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Ruby",
+    "Flask",
+    "NestJS",
+    "FastAPI",
+    "Spring Boot",
+    "LlamaIndex",
+    "PlanetScale",
+    "MySQL",
+    "Terraform",
+    "Helm",
+    "GitHub Actions",
+    "gRPC",
+    "Heroku",
+    "Fly.io",
+    "Google Gemini",
+    "Hugging Face",
+    "RAG Architecture",
+    "REST API Design"
+  ],
+  "companies": [
+    "Cloudflare",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "API Developer"
+  ],
+  "universities": [
+    "Technion"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 12,
+    "tier": "T3",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:31:02.661979",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "cv_id": 24,
+  "domain": "frontend",
+  "seniority_level": "junior",
+  "tier": "T1",
+  "template_used": "T1_functional",
+  "pdf_path": "batches/batch_2_synthetic/cv_00024.pdf",
+  "json_path": "batches/batch_2_synthetic/cv_00024.json",
+  "pdf_rendered": true
+}

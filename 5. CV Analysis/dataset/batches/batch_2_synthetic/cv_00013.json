@@ -1,0 +1,336 @@
+{
+  "full_name": "Lauren Koch",
+  "email": "lauren.koch@koch.dev",
+  "location": "South Joshua, India",
+  "years_of_experience": 10.2,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Lauren Koch",
+    "email": "lauren.koch@koch.dev",
+    "phone": "(279)386-4027",
+    "location": "South Joshua, India",
+    "linkedin_url": "https://linkedin.com/in/lauren-koch",
+    "github_url": "https://github.com/laurenkoch",
+    "portfolio_url": "https://laurenkoch.dev"
+  },
+  "summary": "Engineering leader with deep technical background in Node.js, Python, and ASP.NET. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2025-01",
+      "end_date": "Present",
+      "duration": "2025-01 \u2013 Present",
+      "duration_months": 16,
+      "description": "Led migration from monolithic to microservices using Rust, improving system scalability by 28%\nMentored team of 6 junior developers on Git best practices",
+      "technologies": [
+        "Git",
+        "Rust",
+        "ArgoCD"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2020-05",
+      "end_date": "2024-08",
+      "duration": "2020-05 \u2013 2024-08",
+      "duration_months": 51,
+      "description": "Designed and implemented microservices architecture using Java, handling 100000+ concurrent users\nImplemented caching layer with LLM Integration, reducing database load by 30%\nDesigned and implemented message queue system using Vercel, processing 5000+ messages/hour",
+      "technologies": [
+        "Cloudflare",
+        "LLM Integration",
+        "Vercel",
+        "Java",
+        "Express.js"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2016-01",
+      "end_date": "2019-12",
+      "duration": "2016-01 \u2013 2019-12",
+      "duration_months": 47,
+      "description": "Optimized database queries using Event-Driven Architecture, improving query performance by 35%\nImplemented caching layer with C#, reducing database load by 39%",
+      "technologies": [
+        "C#",
+        "Event-Driven Architecture",
+        "Java",
+        "gRPC",
+        "Ansible"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2014-11",
+      "end_date": "2015-08",
+      "duration": "2014-11 \u2013 2015-08",
+      "duration_months": 9,
+      "description": "Mentored team of 8 junior developers on REST API Design best practices\nBuilt event-driven architecture using FastAPI, processing 5000+ events daily\nCreated authentication and authorization system using C#, securing 10000+ user accounts\nMentored team of 8 junior developers on REST API Design best practices",
+      "technologies": [
+        "MongoDB",
+        "Nginx",
+        "C#",
+        "FastAPI",
+        "REST API Design"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Microservices Platform",
+      "description": "Implemented Database Proxy using NestJS, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Django",
+        "Python",
+        "NestJS"
+      ],
+      "url": "https://github.com/synthetic-backend-13-0",
+      "date": "2021"
+    },
+    {
+      "name": "Event Streaming Service",
+      "description": "Designed and implemented Cache Layer with Node.js, integrating with Python for seamless data flow",
+      "technologies": [
+        "NestJS",
+        "Python",
+        "Node.js"
+      ],
+      "url": "https://github.com/synthetic-backend-13-1",
+      "date": "2020"
+    },
+    {
+      "name": "Database Proxy",
+      "description": "Designed User Management API leveraging Rails microservices architecture with Django for caching",
+      "technologies": [
+        "Rails",
+        "Django",
+        "ASP.NET"
+      ],
+      "url": "https://github.com/synthetic-backend-13-2",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place \u2014 Google DevFest 2025",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Podcasting",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "Python",
+    "ASP.NET",
+    "NestJS",
+    "Flask",
+    "Django",
+    "Rails",
+    "Neon",
+    "Elasticsearch",
+    "DynamoDB",
+    "gRPC",
+    "Docker",
+    "Kubernetes",
+    "RabbitMQ",
+    "Kafka",
+    "Fly.io",
+    "DigitalOcean",
+    "Anthropic",
+    "Google Gemini",
+    "AWS Bedrock",
+    "Microservices",
+    "LLM Integration"
+  ],
+  "companies": [
+    "Datadog",
+    "Airbnb",
+    "ResumeAI",
+    "SkillBridge"
+  ],
+  "job_titles": [
+    "Server-Side Developer",
+    "AI Engineer",
+    "Backend Developer",
+    "Backend Developer"
+  ],
+  "universities": [
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 13,
+    "tier": "T1",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:31:03.155739",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

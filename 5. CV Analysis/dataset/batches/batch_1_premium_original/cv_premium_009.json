@@ -1,0 +1,272 @@
+{
+  "full_name": "Adham Mahmoud",
+  "email": "passanasredmi5plus@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "mobile",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Adham Mahmoud",
+    "email": "passanasredmi5plus@gmail.com",
+    "phone": "+20 109 876 5432",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/adham-mahmoud",
+    "github_url": "https://github.com/adham-mahmoud",
+    "portfolio_url": ""
+  },
+  "summary": "Junior Mobile Developer with 2 years of hands-on experience crafting cross-platform applications using Flutter, React Native, and Ionic. Adept at transforming designs into high-performance mobile experiences for Android and iOS. Active open-source contributor passionate about beautiful UI and clean code. Proven ability to work in agile teams and deliver robust solutions on time.",
+  "work_experience": [
+    {
+      "company": "Breadfast",
+      "organization": null,
+      "job_title": "Associate Flutter Developer",
+      "title": null,
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Building and maintaining customer-facing mobile app features for daily essentials delivery using Flutter, BLoC pattern, and Firebase. Collaborated with UI/UX designers to implement custom animations and responsive layouts. Improved app performance by reducing widget rebuild time by 30%.",
+      "technologies": [
+        "Dart",
+        "Flutter",
+        "BLoC",
+        "Firebase",
+        "REST API",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Paymob",
+      "organization": null,
+      "job_title": "Junior Mobile Developer",
+      "title": null,
+      "start_date": "2022-01",
+      "end_date": "2023-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed a merchant payment acceptance app using React Native and Redux. Integrated NFC payments and QR code scanning. Wrote unit and integration tests with Jest and Detox, achieving 85% code coverage. Participated in daily stand-ups and sprint planning.",
+      "technologies": [
+        "JavaScript",
+        "TypeScript",
+        "React Native",
+        "Redux",
+        "NFC",
+        "Jest",
+        "Detox",
+        "GitHub Actions"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Mobile Engineering Intern",
+      "title": null,
+      "start_date": "2021-08",
+      "end_date": "2021-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted the iOS team in building new trip booking flow using SwiftUI and Combine. Implemented UI components from Figma specs and fixed layout issues on older devices. Gained foundational experience in cross-platform Ionic hybrid apps for internal tools.",
+      "technologies": [
+        "Swift",
+        "SwiftUI",
+        "Combine",
+        "Ionic",
+        "Angular",
+        "TypeScript",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "B.Sc. in Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2021-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ionic",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Methodologies",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "soft_skill",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/n8n-io/n8n",
+      "date": "2026-05"
+    },
+    {
+      "name": "vscode",
+      "description": "Visual Studio Code",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/microsoft/vscode",
+      "date": "2026-05"
+    },
+    {
+      "name": "prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "technologies": [
+        "HTML"
+      ],
+      "url": "https://github.com/f/prompts.chat",
+      "date": "2026-05"
+    },
+    {
+      "name": "langchain",
+      "description": "The agent engineering platform.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/langchain-ai/langchain",
+      "date": "2026-05"
+    },
+    {
+      "name": "TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/microsoft/TypeScript",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Associate Android Developer",
+      "issuer": "Google",
+      "date": "2022-05",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2023-01",
+      "credential_id": null
+    },
+    {
+      "name": "Meta React Native Specialization",
+      "issuer": "Coursera",
+      "date": "2023-09",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Dart",
+    "JavaScript",
+    "TypeScript",
+    "Swift",
+    "Kotlin",
+    "Flutter",
+    "React Native",
+    "Ionic",
+    "Expo",
+    "Firebase",
+    "Git",
+    "REST APIs",
+    "Agile Methodologies",
+    "Problem Solving"
+  ],
+  "companies": [
+    "Breadfast",
+    "Paymob",
+    "Swvl"
+  ],
+  "job_titles": [
+    "Associate Flutter Developer",
+    "Junior Mobile Developer",
+    "Mobile Engineering Intern"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "B.Sc. in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

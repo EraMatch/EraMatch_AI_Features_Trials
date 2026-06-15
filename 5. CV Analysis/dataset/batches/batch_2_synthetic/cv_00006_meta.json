@@ -1,0 +1,10 @@
+{
+  "cv_id": 6,
+  "domain": "backend",
+  "seniority_level": "mid",
+  "tier": "T5",
+  "template_used": "T5_creative",
+  "pdf_path": "batches/batch_2_synthetic/cv_00006.pdf",
+  "json_path": "batches/batch_2_synthetic/cv_00006.json",
+  "pdf_rendered": true
+}

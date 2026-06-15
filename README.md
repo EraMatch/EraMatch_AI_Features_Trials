@@ -1,32 +1,44 @@
 # EraMatch AI Features Trials
 
-Welcome to the **EraMatch AI Features Trials** repository! 
+Research, experiments, and model fine-tuning for EraMatch's AI recruitment features.
 
-This repository serves as a centralized workspace for all research, experimentation, model fine-tuning, and data generation pipelines that power the AI-driven recruitment and candidate evaluation features of EraMatch.
-
-## 🗂️ Project Structure
-
-The repository is organized into distinct feature modules, each containing its own specialized scripts, Jupyter notebooks, and datasets.
+## Structure
 
 ### [1. GitHub Inspired Question](./1.%20GitHub%20Inspired%20Question)
-Trials and experiments for the **ACE-Recruiter** engine. It focuses on evaluating candidate developer profiles using GitHub-inspired performance rubrics, testing parallelization strategies, and optimizing latency.
+ACE-Recruiter engine: evaluating developer profiles using GitHub-inspired rubrics, parallelization, and latency optimization.
 
 ### [2. Question Generation and Extraction](./2.%20Question%20Generation%20and%20Extraction)
-This module explores automated Question Answer Generation (QAG) and Answer Evaluation.
-- **`notebooks/`**: Task-categorized fine-tuning notebooks for general QAG, Multiple Choice Questions (MCQ), and essay scoring using state-of-the-art LLMs (Llama, Qwen, T5, RoBERTa, etc.).
-- **`scripts/`**: Automation scripts for generating variants and evaluating rubrics.
+Automated QAG and answer evaluation. Fine-tuning notebooks for general QAG, MCQ, and essay scoring (Llama, Qwen, T5, RoBERTa).
 
 ### [3. Job Description QAG & Keywords Transformation](./3.%20Job%20Description%20QAG%20&%20Keywords%20Transformation)
-Pipelines designed to analyze job descriptions, extract core keywords, and transform them into structured, verifiable screening questions.
-- **`notebooks/`**: Fine-tuning notebooks specifically targeting keyword extraction and JD-based QAG tasks.
-- **`scripts/`**: Job description data generation and processing pipelines.
+JD analysis: keyword extraction and transformation into screening questions. Fine-tuning notebooks and data generation pipelines.
 
 ### [4. Behavioural Analysis](./4.%20Behavioural%20Analysis)
-Experiments focused on parsing and analyzing behavioral traits of candidates. Currently contains the core behavioral analysis trials (`eramatch_behavioral_analysis.ipynb`).
+Behavioral trait parsing and analysis from candidate interviews.
 
-### [5. Code Plagiarism Detection](./5.%20Code%20Plagiarism%20Detection)
-Experiments and notebooks for detecting code plagiarism and similarity using various models (e.g. CodeBERT, UniXcoder) and synthetic dataset generation pipelines.
+### [5. CV Analysis](./5.%20CV%20Analysis)
+CV parsing, feature extraction, and JD alignment.
+- `dataset/` — v3 and v4 generation pipelines, generated data, EraParse 4,950-CV manifest, v4 dataset (split zip)
+- `benchmarking/` — Extraction + LLM structuring benchmarks, Kaggle kernel outputs
+- `phase_1_finetunes/` — QLoRA Gemma-3-1B fine-tune on CVSchema, benchmark results
+- `EraParse/` — Next-gen CV parsing pipeline (under construction)
+- `scripts/` — CV-JD alignment generation
+
+### [6. Code Generation](./6.%20Code%20Generation)
+Automated code generation and LeetCode dataset analysis.
+
+### [7. Code Plagiarism Detection](./7.%20Code%20Plagiarism%20Detection)
+Code plagiarism and similarity detection experiments.
+
+### [8. Avatar Detection](./8.%20Avatar%20Detection)
+AI-generated face detection for live interview verification.
+- `src/` — Dual-branch model (DCT + SRM frequency features, RGB spatial)
+- `notebooks/` — EfficientNet → CNN-LSTM → multimodal → DCT frequency domain
+- `modal/` — Serverless training (DCT, SRM, cross-modal, video-level)
+- `kaggle/` — SRM + ConvNeXt deployment trials
+- `tests/` — Pytest suite
+- `results/` — Thesis summary, checkpoints, plots
 
 ---
 
-*Note: For detailed information regarding the individual trial pipelines, execution instructions, or fine-tuning approaches, please refer to the `README.md` files located inside each specific subdirectory.*
+See subdirectory READMEs for details on each module.

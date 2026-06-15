@@ -1,0 +1,286 @@
+{
+  "full_name": "Youssef Said Tower",
+  "email": "youssefsaidtower@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 5.0,
+  "seniority_level": "mid",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Youssef Said Tower",
+    "email": "youssefsaidtower@gmail.com",
+    "phone": "+20 10 1234 5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://www.linkedin.com/in/youssefsaidtower",
+    "github_url": "https://github.com/youssefsaidtower",
+    "portfolio_url": "https://youssefsaidtower.dev"
+  },
+  "summary": "Full Stack Developer with 5 years of experience building scalable web applications using modern JavaScript, Python, and TypeScript. Skilled in React, Node.js, Next.js, and cloud services. Passionate about clean code, agile methodologies, and open-source contributions.",
+  "work_experience": [
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Full Stack Developer",
+      "title": null,
+      "start_date": "2021-06",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed and maintained payment gateway microservices and customer-facing web applications using React, Node.js, and PostgreSQL. Integrated with external banking APIs and deployed on AWS. Improved transaction processing speed by 30% through code optimization and database indexing.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Software Engineer",
+      "title": null,
+      "start_date": "2019-09",
+      "end_date": "2021-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built internal dashboards and patient booking features for the healthcare platform using React, Python (Django), and MongoDB. Implemented real-time notifications with WebSockets. Collaborated with UI/UX designers to enhance user experience and led migration of legacy REST endpoints to GraphQL.",
+      "technologies": [
+        "React",
+        "Django",
+        "MongoDB",
+        "WebSocket",
+        "JavaScript",
+        "GraphQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Breadfast",
+      "organization": null,
+      "job_title": "Junior Full Stack Developer",
+      "title": null,
+      "start_date": "2018-07",
+      "end_date": "2019-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in developing e-commerce features for the grocery delivery app using React Native, Node.js, and MySQL. Contributed to API development, unit testing, and code reviews. Participated in daily stand-ups and sprint retrospectives in an Agile team.",
+      "technologies": [
+        "React Native",
+        "Node.js",
+        "MySQL",
+        "Git",
+        "Agile"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2018-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "jsoncrack.com",
+      "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "date": "2026-05"
+    },
+    {
+      "name": "preact",
+      "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/preactjs/preact",
+      "date": "2026-05"
+    },
+    {
+      "name": "remotion",
+      "description": "🎥      Make videos programmatically with React",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/remotion-dev/remotion",
+      "date": "2026-05"
+    },
+    {
+      "name": "storybook",
+      "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/storybookjs/storybook",
+      "date": "2026-05"
+    },
+    {
+      "name": "react-native",
+      "description": "A framework for building native applications using React",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/facebook/react-native",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022-03",
+      "credential_id": null
+    },
+    {
+      "name": "Google Cloud Associate Cloud Engineer",
+      "issuer": "Google Cloud",
+      "date": "2021-09",
+      "credential_id": null
+    },
+    {
+      "name": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "date": "2020-05",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "React",
+    "Node.js",
+    "Next.js",
+    "Django",
+    "PostgreSQL",
+    "MongoDB",
+    "Docker",
+    "AWS",
+    "Git",
+    "HTML",
+    "CSS",
+    "GraphQL",
+    "REST APIs",
+    "Agile"
+  ],
+  "companies": [
+    "Fawry",
+    "Vezeeta",
+    "Breadfast"
+  ],
+  "job_titles": [
+    "Full Stack Developer",
+    "Software Engineer",
+    "Junior Full Stack Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

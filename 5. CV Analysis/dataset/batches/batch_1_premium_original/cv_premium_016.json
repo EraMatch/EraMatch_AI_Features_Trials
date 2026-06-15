@@ -1,0 +1,352 @@
+{
+  "full_name": "Youssef El-Masry",
+  "email": "ne3na3agaming@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "game_development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Youssef El-Masry",
+    "email": "ne3na3agaming@gmail.com",
+    "phone": "+20 10 98765432",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/youssef-el-masry-gamedev",
+    "github_url": "https://github.com/youssefelmasry",
+    "portfolio_url": "https://youssefelmasry.itch.io"
+  },
+  "summary": "Motivated Game Developer with 2+ years of experience in designing and implementing gameplay systems using C++, C#, Python, and game engines such as Unity and Unreal Engine. Passionate about performance optimization and data-oriented design, with hands-on contributions to open-source projects like EnTT ECS library and Recast Navigation. Strong foundation in computer science from Cairo University and a proven ability to collaborate in fast-paced Agile teams. Eager to tackle complex game AI and physics challenges.",
+  "work_experience": [
+    {
+      "company": "Game Cooks",
+      "organization": null,
+      "job_title": "Game Development Intern",
+      "title": null,
+      "start_date": "2021-06",
+      "end_date": "2022-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in developing mobile games using Unity and C#, implemented UI features, and participated in code reviews.",
+      "technologies": [
+        "Unity",
+        "C#",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Lupus Studios",
+      "organization": null,
+      "job_title": "Junior Gameplay Programmer",
+      "title": null,
+      "start_date": "2022-07",
+      "end_date": "2023-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed core gameplay mechanics for a puzzle-platformer using Unreal Engine 4 and C++. Implemented character movement, collision systems, and UI integration. Optimized rendering performance for mobile platforms.",
+      "technologies": [
+        "Unreal Engine",
+        "C++",
+        "Blueprint",
+        "Perforce"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "AppsSquare",
+      "organization": null,
+      "job_title": "Unity Developer",
+      "title": null,
+      "start_date": "2023-09",
+      "end_date": "2024-02",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to hyper-casual mobile game projects. Designed and prototyped game levels, integrated ads and analytics SDKs, and conducted A/B testing for gameplay metrics.",
+      "technologies": [
+        "Unity",
+        "C#",
+        "PlayFab",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "MENA Gaming Hub",
+      "organization": null,
+      "job_title": "Associate Gameplay Programmer",
+      "title": null,
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Working on an open-world RPG prototype utilizing data-oriented ECS architecture. Implemented AI pathfinding with Recast Navigation, designed entity interactions using EnTT, and contributed to build pipeline automation.",
+      "technologies": [
+        "C++",
+        "EnTT",
+        "Recast Navigation",
+        "Godot",
+        "SDL"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Unity",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Unreal Engine",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Godot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pygame",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SDL",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenGL",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "EnTT",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Recastnavigation",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Entity Component System",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Data-Oriented Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Game AI",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Navigation Mesh",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Visual Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Blender",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "soft_skill",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Team Collaboration",
+      "category": "soft_skill",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Methodologies",
+      "category": "methodology",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "entt",
+      "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+      "technologies": [
+        "architectural-patterns",
+        "cpp",
+        "cpp17",
+        "cpp20",
+        "data-oriented"
+      ],
+      "url": "https://github.com/skypjack/entt",
+      "date": "2026-05"
+    },
+    {
+      "name": "pygame",
+      "description": "🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+      "technologies": [
+        "game-dev",
+        "game-development",
+        "gamedev",
+        "pygame",
+        "python"
+      ],
+      "url": "https://github.com/pygame/pygame",
+      "date": "2026-05"
+    },
+    {
+      "name": "recastnavigation",
+      "description": "Industry-standard navigation-mesh toolset for games",
+      "technologies": [
+        "ai",
+        "crowd-simulation",
+        "game",
+        "game-ai",
+        "game-dev"
+      ],
+      "url": "https://github.com/recastnavigation/recastnavigation",
+      "date": "2026-05"
+    },
+    {
+      "name": "GameDev-Resources",
+      "description": " :video_game: :game_die: A wonderful list of Game Development resources.",
+      "technologies": [
+        "2d",
+        "2d-framework",
+        "2d-game",
+        "2d-game-engine",
+        "2d-game-framework"
+      ],
+      "url": "https://github.com/Kavex/GameDev-Resources",
+      "date": "2026-05"
+    },
+    {
+      "name": "QFramework",
+      "description": "Godot/Unity3D System Design Architecture",
+      "technologies": [
+        "frameworks",
+        "game-dev",
+        "godot",
+        "godot-addon",
+        "godot-engine"
+      ],
+      "url": "https://github.com/liangxiegame/QFramework",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Unity Certified Associate: Game Developer",
+      "issuer": "Unity Technologies",
+      "date": "2022-12",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2023-06",
+      "credential_id": null
+    },
+    {
+      "name": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "date": "2023-08",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "C++",
+    "C",
+    "C#",
+    "Python",
+    "Unity",
+    "Unreal Engine",
+    "Godot",
+    "Pygame",
+    "SDL",
+    "OpenGL",
+    "EnTT",
+    "Recastnavigation",
+    "Entity Component System",
+    "Data-Oriented Design",
+    "Game AI",
+    "Navigation Mesh",
+    "Git",
+    "Visual Studio",
+    "Blender",
+    "Problem Solving",
+    "Team Collaboration",
+    "Agile Methodologies"
+  ],
+  "companies": [
+    "Game Cooks",
+    "Lupus Studios",
+    "AppsSquare",
+    "MENA Gaming Hub"
+  ],
+  "job_titles": [
+    "Game Development Intern",
+    "Junior Gameplay Programmer",
+    "Unity Developer",
+    "Associate Gameplay Programmer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

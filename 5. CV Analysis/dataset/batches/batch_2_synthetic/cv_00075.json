@@ -1,0 +1,279 @@
+{
+  "full_name": "Richard Reeves",
+  "email": "richard.reeves@gmail.com",
+  "location": "Staceyton, Netherlands",
+  "years_of_experience": 3.1,
+  "seniority_level": "mid",
+  "primary_domain": "Full-Stack Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Richard Reeves",
+    "email": "richard.reeves@gmail.com",
+    "phone": "+1-744-847-9338x520",
+    "location": "Staceyton, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/richard-reeves",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in C#, Java, and Go. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2023-04",
+      "end_date": "Present",
+      "duration": "2023-04 \u2013 Present",
+      "duration_months": 37,
+      "description": "Built end-to-end web application using Supabase, serving 100+ daily active users\nImplemented server-side rendering using PostgreSQL, reducing page load time by 70%\nCreated cross-platform application using Node.js, reducing development time by 50%\nImplemented CI/CD pipeline for full-stack app using PostgreSQL, achieving 100+ deploys/week",
+      "technologies": [
+        "Supabase",
+        "PostgreSQL",
+        "Node.js",
+        "Angular"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2023",
+      "gpa": null,
+      "activities": "Full-Stack Development Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Search Application",
+      "description": "Developed Real-time Chat App using Node.js, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "JavaScript",
+        "FastAPI",
+        "Node.js"
+      ],
+      "url": "https://github.com/synthetic-fullstack-75-0",
+      "date": "2025"
+    },
+    {
+      "name": "Blog Platform",
+      "description": "Built Real-time Chat App using Node.js and Next.js, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Tailwind CSS",
+        "Next.js",
+        "Node.js"
+      ],
+      "url": "https://github.com/synthetic-fullstack-75-1",
+      "date": "2020"
+    },
+    {
+      "name": "User Management Portal",
+      "description": "Created Content Management System leveraging C# for core functionality and Angular for optimization",
+      "technologies": [
+        "Next.js",
+        "C#",
+        "Angular"
+      ],
+      "url": "https://github.com/synthetic-fullstack-75-2",
+      "date": "2021"
+    },
+    {
+      "name": "Real-time Chat App",
+      "description": "Built User Management Portal using Next.js and FastAPI, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "FastAPI",
+        "Next.js",
+        "Angular"
+      ],
+      "url": "https://github.com/synthetic-fullstack-75-3",
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "Java",
+    "Go",
+    "Node.js",
+    "JavaScript",
+    "FastAPI",
+    "Next.js",
+    "Tailwind CSS",
+    "Express.js",
+    "Angular",
+    "PostgreSQL",
+    "Redis",
+    "Firebase",
+    "Jest",
+    "Git",
+    "Docker",
+    "Vercel",
+    "Cloudflare",
+    "Azure",
+    "Microservices",
+    "Progressive Web Apps",
+    "Scrum",
+    "Agile",
+    "REST API Design"
+  ],
+  "companies": [
+    "PipelineIO"
+  ],
+  "job_titles": [
+    "Software Engineer"
+  ],
+  "universities": [
+    "Technion"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 75,
+    "tier": "T4",
+    "domain": "fullstack",
+    "generated_at": "2026-05-31T02:32:18.443690",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

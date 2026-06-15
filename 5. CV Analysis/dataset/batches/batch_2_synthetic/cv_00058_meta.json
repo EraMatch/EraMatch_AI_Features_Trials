@@ -1,0 +1,10 @@
+{
+  "cv_id": 58,
+  "domain": "devops",
+  "seniority_level": "senior",
+  "tier": "T2",
+  "template_used": "T2_two_col",
+  "pdf_path": "batches/batch_2_synthetic/cv_00058.pdf",
+  "json_path": "batches/batch_2_synthetic/cv_00058.json",
+  "pdf_rendered": true
+}

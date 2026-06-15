@@ -1,0 +1,327 @@
+{
+  "full_name": "Donna Gray",
+  "email": "donna.gray@protonmail.com",
+  "location": "Markston, USA",
+  "years_of_experience": 10.7,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Donna Gray",
+    "email": "donna.gray@protonmail.com",
+    "phone": "001-343-510-6566",
+    "location": "Markston, USA",
+    "linkedin_url": "https://linkedin.com/in/donna-gray",
+    "github_url": "https://github.com/donnagray",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in YAML, PowerShell, and Rust. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 \u2013 Present",
+      "duration_months": 46,
+      "description": "Built disaster recovery solution using Argo Workflows, achieving RTO of 490ms\nEstablished chaos engineering practices using Kale, improving system resilience",
+      "technologies": [
+        "Argo Workflows",
+        "Kale",
+        "Tekton",
+        "Skopeo"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2019-10",
+      "end_date": "2022-03",
+      "duration": "2019-10 \u2013 2022-03",
+      "duration_months": 29,
+      "description": "Created self-service provisioning portal using ArgoCD, serving 50000+ engineers\nCreated monitoring and alerting system using Azure DevOps, reducing MTTR by 24%\nImplemented container orchestration using Azure DevOps, managing 10000+ containers",
+      "technologies": [
+        "ArgoCD",
+        "Azure DevOps",
+        "AWS",
+        "Docker",
+        "GitHub Actions"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2015-04",
+      "end_date": "2019-09",
+      "duration": "2015-04 \u2013 2019-09",
+      "duration_months": 53,
+      "description": "Created self-service provisioning portal using CircleCI, serving 10000+ engineers\nBuilt CI/CD pipelines using Kale, reducing deployment time from 30s to 108ms\nBuilt disaster recovery solution using Opsgenie, achieving RTO of 288ms\nBuilt disaster recovery solution using TensorFlow Serving, achieving RTO of 51ms",
+      "technologies": [
+        "Opsgenie",
+        "CircleCI",
+        "TensorFlow Serving",
+        "Kale",
+        "PowerShell"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2014",
+      "gpa": "3.86",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "GitOps Workflow",
+      "description": "Designed and implemented CI/CD Pipeline with HCL, integrating with YAML for seamless data flow",
+      "technologies": [
+        "PowerShell",
+        "YAML",
+        "HCL"
+      ],
+      "url": "https://github.com/synthetic-devops-68-0",
+      "date": "2019"
+    },
+    {
+      "name": "Secrets Management",
+      "description": "Designed Kubernetes Cluster leveraging PowerShell microservices architecture with HCL for caching",
+      "technologies": [
+        "YAML",
+        "HCL",
+        "PowerShell"
+      ],
+      "url": "https://github.com/synthetic-devops-68-1",
+      "date": "2025"
+    },
+    {
+      "name": "Log Aggregation Platform",
+      "description": "Created Auto-scaling Solution leveraging YAML for core functionality and Rust for optimization",
+      "technologies": [
+        "YAML",
+        "Rust",
+        "PowerShell"
+      ],
+      "url": "https://github.com/synthetic-devops-68-2",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Johnson-Hill Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Camera may these camera land rich charge cause they\" \u2014 CVPR 2024",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "English (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "YAML",
+    "PowerShell",
+    "Rust",
+    "HCL",
+    "Ansible",
+    "Helm",
+    "CDK",
+    "Pulumi",
+    "Istio",
+    "K3s",
+    "Skopeo",
+    "GitHub Actions",
+    "Azure DevOps",
+    "VictoriaMetrics",
+    "Datadog",
+    "Grafana",
+    "Hetzner",
+    "AWS",
+    "Azure",
+    "Seldon",
+    "TensorFlow Serving",
+    "Zero Trust",
+    "Platform Engineering",
+    "GitOps"
+  ],
+  "companies": [
+    "DeployFast",
+    "Uber",
+    "ScaleGrid"
+  ],
+  "job_titles": [
+    "DevOps Engineer",
+    "Infrastructure Engineer",
+    "Cloud Engineer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 68,
+    "tier": "T5",
+    "domain": "devops",
+    "generated_at": "2026-05-31T02:32:11.344068",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

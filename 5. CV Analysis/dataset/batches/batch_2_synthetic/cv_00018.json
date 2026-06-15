@@ -1,0 +1,302 @@
+{
+  "full_name": "Joel Lee",
+  "email": "joel.lee@lee.dev",
+  "location": "Lake Breanna, Brazil",
+  "years_of_experience": 1.1,
+  "seniority_level": "junior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Joel Lee",
+    "email": "joel.lee@lee.dev",
+    "phone": "+1-737-310-5653",
+    "location": "Lake Breanna, Brazil",
+    "linkedin_url": "https://linkedin.com/in/joel-lee",
+    "github_url": "https://github.com/joellee",
+    "portfolio_url": null
+  },
+  "summary": "Software developer specializing in PHP with hands-on experience in Java. Looking to grow in Backend Engineering.",
+  "work_experience": [
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2025-04",
+      "end_date": "Present",
+      "duration": "2025-04 \u2013 Present",
+      "duration_months": 13,
+      "description": "Designed and implemented microservices architecture using CI/CD, handling 10000+ concurrent users\nArchitected and built RESTful APIs serving 100000+ requests/day using CI/CD, reducing response time by 17%\nArchitected and built RESTful APIs serving 100+ requests/day using Kubernetes, reducing response time by 65%",
+      "technologies": [
+        "Hugging Face",
+        "Kubernetes",
+        "CI/CD",
+        "ArgoCD",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2025",
+      "gpa": "3.28",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Integration",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "API Gateway",
+      "description": "Developed Message Queue System using Actix, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "PHP",
+        "NestJS",
+        "Actix"
+      ],
+      "url": "https://github.com/synthetic-backend-18-0",
+      "date": "2021"
+    },
+    {
+      "name": "Message Queue System",
+      "description": "Built Message Queue System with NestJS and PHP, serving 10,000+ daily active users",
+      "technologies": [
+        "Actix",
+        "NestJS",
+        "PHP"
+      ],
+      "url": "https://github.com/synthetic-backend-18-1",
+      "date": "2020"
+    },
+    {
+      "name": "Cache Layer",
+      "description": "Implemented REST API Framework using LlamaIndex, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Java",
+        "Actix",
+        "LlamaIndex"
+      ],
+      "url": "https://github.com/synthetic-backend-18-2",
+      "date": "2023"
+    },
+    {
+      "name": "Auth Service",
+      "description": "Designed Database Proxy leveraging Gin microservices architecture with NestJS for caching",
+      "technologies": [
+        "LlamaIndex",
+        "Gin",
+        "NestJS"
+      ],
+      "url": "https://github.com/synthetic-backend-18-3",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "PHP",
+    "Java",
+    "NestJS",
+    "LlamaIndex",
+    "Actix",
+    "Gin",
+    "SQLite",
+    "Elasticsearch",
+    "Cassandra",
+    "Kubernetes",
+    "Helm",
+    "GitHub Actions",
+    "Ansible",
+    "ArgoCD",
+    "Vercel",
+    "Railway",
+    "GCP",
+    "DigitalOcean",
+    "Google Gemini",
+    "Claude API",
+    "OpenAI API",
+    "Azure OpenAI",
+    "REST API Design",
+    "Microservices",
+    "GraphQL",
+    "LLM Integration"
+  ],
+  "companies": [
+    "Stripe"
+  ],
+  "job_titles": [
+    "Platform Engineer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 18,
+    "tier": "T3",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:31:07.135322",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

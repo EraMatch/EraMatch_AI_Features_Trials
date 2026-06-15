@@ -1,0 +1,68 @@
+{
+  "batch_name": "batch_1_premium",
+  "total_cvs": 20,
+  "total_attempted": 20,
+  "model_used": "deepseek-v4-pro:cloud",
+  "generation_timestamp": "2026-05-30T23:56:17.369497+00:00",
+  "batch_generation_time_seconds": 1466.75,
+  "emails_processed": [
+    "yousefpublicc@gmail.com",
+    "youssefmoustafa220177@gmail.com",
+    "youssefmoustafa220188@gmail.com",
+    "youssefsaidtower@gmail.com",
+    "yousef.1019095@stemoctober.moe.edu.eg",
+    "1019095@stemegypt.edu.eg",
+    "s-yousef.said@zewailcity.edu.eg",
+    "anasbesoanas@gmail.com",
+    "passanasredmi5plus@gmail.com",
+    "aadhameltholth@gmail.com",
+    "adham.eltholth@gmail.com",
+    "s-adham.mohamed@zewailcity.edu.eg",
+    "asholth2025@gmail.com",
+    "prof.eltholth@gmail.com",
+    "ne3na3a25@gmail.com",
+    "ne3na3agaming@gmail.com",
+    "fchatgpt002@gmail.com",
+    "perplexityacc77@gmail.com",
+    "ahmetkuli701@gmail.com",
+    "anasahdev@gmail.com"
+  ],
+  "emails_failed": [],
+  "specializations": {
+    "fullstack": 13,
+    "ml_engineering": 4,
+    "mobile": 2,
+    "game_development": 1
+  },
+  "repository_provenance": {
+    "fullstack": [
+      "https://github.com/Asabeneh/30-Days-Of-Python",
+      "https://github.com/reflex-dev/reflex",
+      "https://github.com/TanStack/router",
+      "https://github.com/blitz-js/blitz",
+      "https://github.com/phodal/growth-ebook"
+    ],
+    "ml_engineering": [
+      "https://github.com/tensorflow/tensorflow",
+      "https://github.com/f/prompts.chat",
+      "https://github.com/huggingface/transformers",
+      "https://github.com/pytorch/pytorch",
+      "https://github.com/rasbt/LLMs-from-scratch"
+    ],
+    "mobile": [
+      "https://github.com/flutter/flutter",
+      "https://github.com/facebook/react-native",
+      "https://github.com/Solido/awesome-flutter",
+      "https://github.com/ionic-team/ionic-framework",
+      "https://github.com/expo/expo"
+    ],
+    "game_development": [
+      "https://github.com/skypjack/entt",
+      "https://github.com/pygame/pygame",
+      "https://github.com/recastnavigation/recastnavigation",
+      "https://github.com/Kavex/GameDev-Resources",
+      "https://github.com/liangxiegame/QFramework"
+    ]
+  },
+  "output_directory": "/Users/anasahmed/AI_Main_Repo/Cvs_generation/batches/batch_1_premium"
+}

@@ -1,0 +1,293 @@
+{
+  "full_name": "Catherine Cox",
+  "email": "catherine.cox@protonmail.com",
+  "location": "North Elizabethland, UK",
+  "years_of_experience": 6.9,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Catherine Cox",
+    "email": "catherine.cox@protonmail.com",
+    "phone": "643-762-2745x19854",
+    "location": "North Elizabethland, UK",
+    "linkedin_url": "https://linkedin.com/in/catherine-cox",
+    "github_url": "https://github.com/catherinecox",
+    "portfolio_url": null
+  },
+  "summary": "Senior data science / ml / ai engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in MATLAB, Scala, R with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 \u2013 Present",
+      "duration_months": 46,
+      "description": "Developed data visualization tools using XGBoost, used by 10000+ analysts\nImplemented A/B testing framework using XGBoost, running 10000+ experiments\nDesigned data warehousing solution using XGBoost, enabling analytics on 100+ records\nImplemented A/B testing framework using XGBoost, running 100000+ experiments",
+      "technologies": [
+        "LightGBM",
+        "Kubeflow",
+        "XGBoost"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2019-06",
+      "end_date": "2022-07",
+      "duration": "2019-06 \u2013 2022-07",
+      "duration_months": 37,
+      "description": "Created feature engineering pipeline using Spark, reducing preprocessing time by 51%\nDeveloped ML models using MATLAB, improving prediction accuracy by 19%",
+      "technologies": [
+        "LangChain",
+        "Hugging Face",
+        "MATLAB",
+        "NLP",
+        "Spark",
+        "Dask"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "M.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Data Science Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Airflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Data Quality Monitor",
+      "description": "Designed NLP Text Analyzer leveraging MATLAB microservices architecture with R for caching",
+      "technologies": [
+        "R",
+        "MATLAB",
+        "Scala"
+      ],
+      "url": "https://github.com/synthetic-data_science-53-0",
+      "date": "2021"
+    },
+    {
+      "name": "BI Dashboard",
+      "description": "Created NLP Text Analyzer leveraging Scala for core functionality and R for optimization",
+      "technologies": [
+        "R",
+        "Scala",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-53-1",
+      "date": "2020"
+    },
+    {
+      "name": "Feature Store",
+      "description": "Designed A/B Testing Framework leveraging MATLAB microservices architecture with R for caching",
+      "technologies": [
+        "R",
+        "MATLAB",
+        "Scala"
+      ],
+      "url": "https://github.com/synthetic-data_science-53-2",
+      "date": "2021"
+    },
+    {
+      "name": "Predictive Analytics Platform",
+      "description": "Designed A/B Testing Framework leveraging Scala microservices architecture with R for caching",
+      "technologies": [
+        "MATLAB",
+        "R",
+        "Scala"
+      ],
+      "url": "https://github.com/synthetic-data_science-53-3",
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Microsoft Certified: Azure Data Scientist",
+      "issuer": "Microsoft",
+      "date": "2020",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Rogers Inc Youth Program, 2024-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "MATLAB",
+    "Scala",
+    "R",
+    "OpenCV",
+    "Hugging Face",
+    "Neptune",
+    "Dagster",
+    "Airflow",
+    "Kubeflow",
+    "BigQuery",
+    "Pinecone",
+    "Bedrock",
+    "Lambda Labs",
+    "GCP Vertex AI",
+    "Azure ML",
+    "Deep Learning",
+    "Feature Engineering",
+    "Computer Vision",
+    "Statistical Modeling"
+  ],
+  "companies": [
+    "Airbnb",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Research Scientist"
+  ],
+  "universities": [
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 53,
+    "tier": "T3",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:55.508842",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

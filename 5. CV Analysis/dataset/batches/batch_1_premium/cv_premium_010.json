@@ -1,0 +1,286 @@
+{
+  "full_name": "Aadham Eltholth",
+  "email": "aadhameltholth@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Aadham Eltholth",
+    "email": "aadhameltholth@gmail.com",
+    "phone": "+201012345678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://www.linkedin.com/in/aadhameltholth",
+    "github_url": "https://github.com/aadhameltholth",
+    "portfolio_url": "https://aadhameltholth.dev"
+  },
+  "summary": "Detail-oriented Junior Fullstack Developer with 2 years of experience building responsive web applications using Python, TypeScript, and React. Proficient in both front-end (React, Next.js) and back-end (Flask, Node.js) technologies. Actively contributes to open-source projects and continuously expands skills in fullstack development. Passionate about clean code, performance optimization, and delivering user-centric solutions.",
+  "work_experience": [
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Develop and maintain core features for a healthcare booking platform serving millions of users. Implement responsive UIs with React and TypeScript, and build scalable RESTful APIs using Python Flask and PostgreSQL. Collaborate in an Agile team to improve patient-doctor interaction flows and integrate third-party payment gateways.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "Docker",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Paymob",
+      "organization": null,
+      "job_title": "Associate Software Engineer",
+      "title": null,
+      "start_date": "2022-09",
+      "end_date": "2023-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to the merchant dashboard and backend services for a leading fintech payment gateway. Enhanced frontend components with React and Redux, and optimized API performance using Node.js and MongoDB. Participated in code reviews and unit testing to ensure high-quality deliverables.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "MongoDB",
+        "Redux",
+        "REST APIs",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Breadfast",
+      "organization": null,
+      "job_title": "Fullstack Developer Intern",
+      "title": null,
+      "start_date": "2022-02",
+      "end_date": "2022-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in building internal tools and customer-facing features for a fast-growing grocery delivery startup. Developed frontend interfaces using HTML, CSS, and JavaScript, and wrote Python scripts for data processing. Gained hands-on experience with CI/CD pipelines and agile methodologies.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "Flask",
+        "Docker",
+        "GitHub Actions"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Engineering",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML5",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS3",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile/Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "soft_skill",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "preact",
+      "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/preactjs/preact",
+      "date": "2026-05"
+    },
+    {
+      "name": "free-programming-books-zh_CN",
+      "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+      "technologies": [],
+      "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+      "date": "2026-05"
+    },
+    {
+      "name": "styled-components",
+      "description": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/styled-components/styled-components",
+      "date": "2026-05"
+    },
+    {
+      "name": "quivr",
+      "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/QuivrHQ/quivr",
+      "date": "2026-05"
+    },
+    {
+      "name": "awesome-react-components",
+      "description": "Curated List of React Components & Libraries.",
+      "technologies": [],
+      "url": "https://github.com/brillout/awesome-react-components",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2023-05",
+      "credential_id": null
+    },
+    {
+      "name": "Meta Front-End Developer Professional Certificate",
+      "issuer": "Meta (Coursera)",
+      "date": "2023-12",
+      "credential_id": null
+    },
+    {
+      "name": "freeCodeCamp Full Stack Developer Certification",
+      "issuer": "freeCodeCamp",
+      "date": "2024-01",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Flask",
+    "Node.js",
+    "HTML5",
+    "CSS3",
+    "SQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Docker",
+    "Git",
+    "REST APIs",
+    "Agile/Scrum",
+    "Problem Solving"
+  ],
+  "companies": [
+    "Vezeeta",
+    "Paymob",
+    "Breadfast"
+  ],
+  "job_titles": [
+    "Junior Fullstack Developer",
+    "Associate Software Engineer",
+    "Fullstack Developer Intern"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

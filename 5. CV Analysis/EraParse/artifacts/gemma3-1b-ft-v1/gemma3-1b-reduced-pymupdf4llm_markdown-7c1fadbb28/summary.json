@@ -1,0 +1,33 @@
+{
+  "aggregate": {
+    "document_count": 310,
+    "field_scores": {
+      "certifications": 0.6691756272401435,
+      "education": 0.8688914490527392,
+      "email": 0.8709677419354839,
+      "full_name": 0.9377056637431246,
+      "github_url": 0.45483870967741935,
+      "linkedin_url": 0.5741935483870968,
+      "location": 0.8789275997032959,
+      "phone": 0.8419354838709677,
+      "projects": 0.4169861751152074,
+      "skills": 0.8921088244805381,
+      "summary": 0.9625898386913947,
+      "work_experience": 0.814535793069119
+    },
+    "json_valid_rate": 0.9709677419354839,
+    "macro_score": 0.7652380379138771,
+    "micro_score": 0.7652380379138767,
+    "schema_valid_rate": 0.9709677419354839,
+    "unsupported_evidence_rate": 0.1076646650840199
+  },
+  "allow_partial": true,
+  "compact_schema": false,
+  "mean_latency_seconds": 35.020922548599984,
+  "model_id": "eraparse/gemma3-1b-reduced",
+  "repair_work_records": true,
+  "representation": "pymupdf4llm_markdown",
+  "results_path": "/Users/anasahmed/AI_Main_Repo/CV_parsing_main/eraparse/artifacts/ingested/gemma3-1b-ft-v1/gemma3-1b-reduced-pymupdf4llm_markdown-7c1fadbb28/results.jsonl",
+  "revision": "ft-v1",
+  "run_id": "gemma3-1b-reduced-pymupdf4llm_markdown-7c1fadbb28"
+}

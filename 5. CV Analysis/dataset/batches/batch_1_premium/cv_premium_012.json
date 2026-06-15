@@ -1,0 +1,318 @@
+{
+  "full_name": "Adham Mohamed",
+  "email": "s-adham.mohamed@zewailcity.edu.eg",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "ml_engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Adham Mohamed",
+    "email": "s-adham.mohamed@zewailcity.edu.eg",
+    "phone": "+20 100 123 4567",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/adham-mohamed",
+    "github_url": "https://github.com/adham-mohamed",
+    "portfolio_url": "https://adham-mohamed.github.io"
+  },
+  "summary": "Junior Machine Learning Engineer with 2+ years of experience in developing and deploying ML models using Python, TensorFlow, PyTorch, and Hugging Face Transformers. Skilled in MLOps, cloud services (AWS), and containerization. Strong foundation in deep learning and natural language processing, complemented by practical contributions to open-source projects. Passionate about applying machine learning to solve real-world problems in healthcare and transportation.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Junior Machine Learning Engineer",
+      "title": null,
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Develop and maintain ML models for bug detection and categorization using Python, TensorFlow, and PyTorch. Built and deployed scalable inference pipelines on AWS SageMaker, reducing bug triage time by 30%. Collaborate with cross-functional teams to integrate ML features into Instabug’s SDK, serving over 2 billion devices.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "AWS SageMaker",
+        "Docker",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Machine Learning Intern",
+      "title": null,
+      "start_date": "2022-06",
+      "end_date": "2023-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in building a healthcare recommendation system using scikit-learn and NLP. Preprocessed large datasets of medical provider profiles. Implemented model evaluation and A/B testing frameworks. Contributed to data pipelines and documentation.",
+      "technologies": [
+        "Python",
+        "scikit-learn",
+        "NLTK",
+        "Pandas",
+        "MySQL",
+        "Jupyter"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Zewail City of Science and Technology",
+      "organization": null,
+      "job_title": "Research Assistant (AI Lab)",
+      "title": null,
+      "start_date": "2021-09",
+      "end_date": "2022-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Conducted research on deep learning for image segmentation under Prof. Tamer El-Din. Developed PyTorch models for medical image analysis, achieving 0.95 Dice score on a benchmark dataset. Co-authored a paper submitted to MICCAI 2022.",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "MONAI",
+        "Jupyter",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Data Science Intern",
+      "title": null,
+      "start_date": "2021-06",
+      "end_date": "2021-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed a customer segmentation model using K-means clustering on transaction data, improving marketing campaign ROI by 15%. Used Python, sklearn, and AWS Redshift.",
+      "technologies": [
+        "Python",
+        "scikit-learn",
+        "AWS Redshift",
+        "Pandas",
+        "SQL"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Zewail City of Science and Technology",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2022-07",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Transformers",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLTK",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jupyter",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Methodologies",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cross-functional Collaboration",
+      "category": "soft_skill",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Arabic (Native)",
+      "category": "language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "English (Fluent)",
+      "category": "language",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "date": "2026-05"
+    },
+    {
+      "name": "keras",
+      "description": "Deep Learning for humans",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/keras-team/keras",
+      "date": "2026-05"
+    },
+    {
+      "name": "ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "date": "2026-05"
+    },
+    {
+      "name": "free-programming-books-zh_CN",
+      "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+      "technologies": [],
+      "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+      "date": "2026-05"
+    },
+    {
+      "name": "langchain",
+      "description": "The agent engineering platform.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/langchain-ai/langchain",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "date": "2023-05",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2022-08",
+      "credential_id": null
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "issuer": "Coursera / deeplearning.ai",
+      "date": "2021-11",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "C++",
+    "TensorFlow",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "scikit-learn",
+    "NLTK",
+    "SQL",
+    "Docker",
+    "AWS SageMaker",
+    "Git",
+    "Jupyter",
+    "MLflow",
+    "Pandas",
+    "NumPy",
+    "Agile Methodologies",
+    "Cross-functional Collaboration",
+    "Arabic (Native)",
+    "English (Fluent)"
+  ],
+  "companies": [
+    "Instabug",
+    "Vezeeta",
+    "Zewail City of Science and Technology",
+    "Fawry"
+  ],
+  "job_titles": [
+    "Junior Machine Learning Engineer",
+    "Machine Learning Intern",
+    "Research Assistant",
+    "Data Science Intern"
+  ],
+  "universities": [
+    "Zewail City of Science and Technology"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

@@ -1,0 +1,375 @@
+{
+  "full_name": "Mrs. Courtney Cox",
+  "email": "mrs..courtney.cox@cox.dev",
+  "location": "East Margaret, UAE",
+  "years_of_experience": 15.2,
+  "seniority_level": "principal",
+  "primary_domain": "Full-Stack Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mrs. Courtney Cox",
+    "email": "mrs..courtney.cox@cox.dev",
+    "phone": "866-270-5591",
+    "location": "East Margaret, UAE",
+    "linkedin_url": "https://linkedin.com/in/mrs.-courtney-cox",
+    "github_url": "https://github.com/mrscourtneycox",
+    "portfolio_url": null
+  },
+  "summary": "Principal full-stack engineering architect with 15+ years defining technical strategy for enterprise transformations. Subject matter expert in JavaScript, Node.js, C#.",
+  "work_experience": [
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 \u2013 Present",
+      "duration_months": 44,
+      "description": "Designed RESTful API and frontend using Angular, handling 5000+ concurrent sessions\nMentored team of 4 developers on Python full-stack best practices\nArchitected full-stack solution with Netlify, improving response time by 43%\nDesigned RESTful API and frontend using Agile, handling 50000+ concurrent sessions",
+      "technologies": [
+        "Netlify",
+        "Go",
+        "Angular",
+        "Agile",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2017-12",
+      "end_date": "2022-05",
+      "duration": "2017-12 \u2013 2022-05",
+      "duration_months": 53,
+      "description": "Architected full-stack solution with GCP, improving response time by 28%\nBuilt end-to-end web application using GCP, serving 500+ daily active users\nDesigned RESTful API and frontend using TypeScript, handling 100000+ concurrent sessions",
+      "technologies": [
+        "GCP",
+        "Node.js",
+        "Cloudflare",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Application Developer",
+      "title": "Application Developer",
+      "start_date": "2013-04",
+      "end_date": "2017-09",
+      "duration": "2013-04 \u2013 2017-09",
+      "duration_months": 53,
+      "description": "Implemented CI/CD pipeline for full-stack app using JavaScript, achieving 100000+ deploys/week\nImplemented server-side rendering using Cloudflare, reducing page load time by 24%",
+      "technologies": [
+        "Cloudflare",
+        "JavaScript",
+        "Kubernetes",
+        "Jest",
+        "Next.js",
+        "Supabase"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Application Developer",
+      "title": "Application Developer",
+      "start_date": "2012-09",
+      "end_date": "2013-04",
+      "duration": "2012-09 \u2013 2013-04",
+      "duration_months": 7,
+      "description": "Created cross-platform application using Angular, reducing development time by 53%\nArchitected full-stack solution with Netlify, improving response time by 34%",
+      "technologies": [
+        "Angular",
+        "Tailwind CSS",
+        "Render",
+        "Netlify"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2010-05",
+      "end_date": "2012-06",
+      "duration": "2010-05 \u2013 2012-06",
+      "duration_months": 25,
+      "description": "Created cross-platform application using Redis, reducing development time by 56%\nOptimized database queries and frontend rendering using Azure, improving UX by 26%\nCreated cross-platform application using SQLite, reducing development time by 56%",
+      "technologies": [
+        "Redis",
+        "Scrum",
+        "Azure",
+        "SQLite"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2011",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Notification Hub",
+      "description": "Built Analytics Dashboard with Node.js and Angular, serving 10,000+ daily active users",
+      "technologies": [
+        "Flask",
+        "Angular",
+        "Node.js"
+      ],
+      "url": "https://github.com/synthetic-fullstack-71-0",
+      "date": "2023"
+    },
+    {
+      "name": "Blog Platform",
+      "description": "Designed Content Management System leveraging JavaScript microservices architecture with Node.js for caching",
+      "technologies": [
+        "JavaScript",
+        "C#",
+        "Node.js"
+      ],
+      "url": "https://github.com/synthetic-fullstack-71-1",
+      "date": "2024"
+    },
+    {
+      "name": "Project Tracker",
+      "description": "Developed Booking System using Node.js, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Node.js",
+        "Flask",
+        "C#"
+      ],
+      "url": "https://github.com/synthetic-fullstack-71-2",
+      "date": "2021"
+    },
+    {
+      "name": "User Management Portal",
+      "description": "Built Search Application with Angular and JavaScript, serving 10,000+ daily active users",
+      "technologies": [
+        "JavaScript",
+        "C#",
+        "Angular"
+      ],
+      "url": "https://github.com/synthetic-fullstack-71-3",
+      "date": "2019"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built Project Tracker using Node.js and C#, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Angular",
+        "Node.js",
+        "C#"
+      ],
+      "url": "https://github.com/synthetic-fullstack-71-4",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Node.js",
+    "C#",
+    "Angular",
+    "Flask",
+    "PostgreSQL",
+    "Firebase",
+    "SQLite",
+    "Supabase",
+    "Cypress",
+    "Webpack",
+    "Storybook",
+    "Kubernetes",
+    "Vite",
+    "Heroku",
+    "AWS",
+    "Render",
+    "Cloudflare",
+    "REST API Design",
+    "TDD",
+    "Agile",
+    "CI/CD"
+  ],
+  "companies": [
+    "Shopify",
+    "Vercel",
+    "Microsoft",
+    "Shopify",
+    "Tesla"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "Full-Stack Developer",
+    "Application Developer",
+    "Application Developer",
+    "Full-Stack Developer"
+  ],
+  "universities": [
+    "University of Michigan"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 71,
+    "tier": "T1",
+    "domain": "fullstack",
+    "generated_at": "2026-05-31T02:32:14.790741",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

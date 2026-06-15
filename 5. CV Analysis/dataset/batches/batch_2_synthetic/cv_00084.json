@@ -1,0 +1,382 @@
+{
+  "full_name": "Patricia Hall",
+  "email": "patricia.hall@yahoo.com",
+  "location": "Travisfort, Brazil",
+  "years_of_experience": 13.9,
+  "seniority_level": "principal",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Patricia Hall",
+    "email": "patricia.hall@yahoo.com",
+    "phone": "(387)598-5113",
+    "location": "Travisfort, Brazil",
+    "linkedin_url": "https://linkedin.com/in/patricia-hall",
+    "github_url": "https://github.com/patriciahall",
+    "portfolio_url": "https://patriciahall.dev"
+  },
+  "summary": "Principal mobile development architect with 13+ years defining technical strategy for enterprise transformations. Subject matter expert in Objective-C, C++, Dart.",
+  "work_experience": [
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2022-06",
+      "end_date": "Present",
+      "duration": "2022-06 \u2013 Present",
+      "duration_months": 47,
+      "description": "Built offline-first architecture using CI/CD for Mobile, improving app responsiveness by 69%\nDeveloped mobile application using Fastlane, achieving 5000+ downloads\nDeveloped mobile application using Expo, achieving 50000+ downloads",
+      "technologies": [
+        "Android Studio",
+        "Xcode",
+        "Expo",
+        "CI/CD for Mobile",
+        "Fastlane",
+        "Supabase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2020-04",
+      "end_date": "2022-03",
+      "duration": "2020-04 \u2013 2022-03",
+      "duration_months": 23,
+      "description": "Built AR/VR features using KMP, increasing user retention by 22%\nImplemented biometric authentication using KMP, securing 5000+ user accounts\nOptimized app performance using CI/CD for Mobile, reducing battery consumption by 26%",
+      "technologies": [
+        "Kotlin",
+        "KMP",
+        "CI/CD for Mobile",
+        "Java",
+        "Flutter"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2015-10",
+      "end_date": "2019-12",
+      "duration": "2015-10 \u2013 2019-12",
+      "duration_months": 50,
+      "description": "Created in-app purchase integration using Android Studio, generating 100+ in revenue\nImplemented push notification system using Objective-C, increasing user engagement by 65%",
+      "technologies": [
+        "Objective-C",
+        "Android Studio",
+        "SwiftUI"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2013-04",
+      "end_date": "2015-08",
+      "duration": "2013-04 \u2013 2015-08",
+      "duration_months": 28,
+      "description": "Implemented app streaming using Offline-First, reducing download size by 48%\nBuilt offline-first architecture using MVVM, improving app responsiveness by 45%\nImplemented app streaming using RevenueCat, reducing download size by 20%",
+      "technologies": [
+        "MVVM",
+        "C++",
+        "Realm",
+        "Firebase",
+        "RevenueCat",
+        "Offline-First"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2011-08",
+      "end_date": "2013-03",
+      "duration": "2011-08 \u2013 2013-03",
+      "duration_months": 19,
+      "description": "Implemented biometric authentication using AWS Amplify, securing 500+ user accounts\nImplemented push notification system using Firebase, increasing user engagement by 59%\nImplemented app streaming using Firebase, reducing download size by 53%\nBuilt widget functionality using AWS Amplify, increasing daily active users by 36%",
+      "technologies": [
+        "AWS Amplify",
+        "RevenueCat",
+        "Firebase",
+        "Objective-C"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2010",
+      "gpa": "3.68",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "iOS Application",
+      "description": "Designed Cross-platform SDK leveraging Swift microservices architecture with C++ for caching",
+      "technologies": [
+        "Swift",
+        "C++",
+        "Expo"
+      ],
+      "url": "https://github.com/synthetic-mobile-84-0",
+      "date": "2025"
+    },
+    {
+      "name": "Android Application",
+      "description": "Implemented App Store Optimization using Objective-C, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Objective-C",
+        "Dart",
+        "Flutter"
+      ],
+      "url": "https://github.com/synthetic-mobile-84-1",
+      "date": "2021"
+    },
+    {
+      "name": "Mobile CI/CD",
+      "description": "Designed and implemented Android Application with Objective-C, integrating with Expo for seamless data flow",
+      "technologies": [
+        "Objective-C",
+        "Expo",
+        "Swift"
+      ],
+      "url": "https://github.com/synthetic-mobile-84-2",
+      "date": "2019"
+    },
+    {
+      "name": "React Native App",
+      "description": "Implemented React Native App using Kotlin, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Dart",
+        "Kotlin",
+        "C++"
+      ],
+      "url": "https://github.com/synthetic-mobile-84-3",
+      "date": "2022"
+    },
+    {
+      "name": "Mobile Backend API",
+      "description": "Created Mobile Backend API leveraging Dart for core functionality and Objective-C for optimization",
+      "technologies": [
+        "Objective-C",
+        "Flutter",
+        "Dart"
+      ],
+      "url": "https://github.com/synthetic-mobile-84-4",
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Associate Android Developer",
+      "issuer": "Google",
+      "date": "2020",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Board games",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Japanese (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Objective-C",
+    "C++",
+    "Dart",
+    "Kotlin",
+    "Swift",
+    "UIKit",
+    "Expo",
+    "Flutter",
+    "Jetpack Compose",
+    "Android Studio",
+    "Xcode",
+    "Firebase Firestore",
+    "Realm",
+    "Core Data",
+    "SQLite",
+    "Supabase",
+    "RevenueCat",
+    "AWS Amplify",
+    "Firebase",
+    "Offline-First",
+    "CI/CD for Mobile"
+  ],
+  "companies": [
+    "ResumeAI",
+    "ParseLab",
+    "CodeReview.io",
+    "CodeReview.io",
+    "ResumeAI"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "React Native Developer",
+    "Android Developer",
+    "React Native Developer",
+    "Flutter Developer"
+  ],
+  "universities": [
+    "University of Toronto"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 84,
+    "tier": "T5",
+    "domain": "mobile",
+    "generated_at": "2026-05-31T02:32:26.646133",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "full_name": "Yousef Said",
+  "email": "s-yousef.said@zewailcity.edu.eg",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 3.0,
+  "seniority_level": "junior",
+  "primary_domain": "ml_engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Yousef Said",
+    "email": "s-yousef.said@zewailcity.edu.eg",
+    "phone": "+20 10 1234 5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/yousef-said",
+    "github_url": "https://github.com/yousef-said",
+    "portfolio_url": "https://yousefsaid.dev"
+  },
+  "summary": "Junior ML Engineer passionate about building end-to-end machine learning systems. Skilled in Python, TensorFlow, and PyTorch with hands-on experience in training, fine-tuning, and deploying deep learning models. Proven track record of contributing to scalable ML pipelines in fast-paced startup environments. Eager to apply cutting-edge research to real-world problems.",
+  "work_experience": [
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Junior Machine Learning Engineer",
+      "title": null,
+      "start_date": "2022-08",
+      "end_date": "2023-07",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in developing fraud detection models using gradient boosting and deep learning. Built data pipelines and automated model retraining workflows on cloud infrastructure.",
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "PyTorch",
+        "SQL",
+        "Airflow",
+        "AWS SageMaker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Machine Learning Engineer",
+      "title": null,
+      "start_date": "2023-08",
+      "end_date": "2024-09",
+      "duration": null,
+      "duration_months": null,
+      "description": "Owned the ML lifecycle for bug prioritization and crash analytics. Deployed transformer-based models to classify user feedback and reduced manual triage time by 40%.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Docker",
+        "Kubernetes",
+        "MLflow",
+        "Hugging Face Transformers"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Machine Learning Engineer",
+      "title": null,
+      "start_date": "2024-10",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Optimizing real-time routing and demand prediction models. Designing scalable feature stores and serving infrastructure for low-latency inference.",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "FastAPI",
+        "Redis",
+        "Grafana",
+        "AWS Lambda"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Zewail City of Science and Technology",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science and Artificial Intelligence",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Transformers",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Natural Language Processing (NLP)",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "date": "2026-05"
+    },
+    {
+      "name": "awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/vinta/awesome-python",
+      "date": "2026-05"
+    },
+    {
+      "name": "project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "technologies": [],
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "date": "2026-05"
+    },
+    {
+      "name": "Python",
+      "description": "All Algorithms implemented in Python",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/TheAlgorithms/Python",
+      "date": "2026-05"
+    },
+    {
+      "name": "tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/tensorflow/tensorflow",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Machine Learning – Specialty",
+      "issuer": "Amazon Web Services",
+      "date": "2023-12",
+      "credential_id": null
+    },
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "date": "2024-06",
+      "credential_id": null
+    },
+    {
+      "name": "Google Cloud Professional Machine Learning Engineer",
+      "issuer": "Google Cloud",
+      "date": "2024-02",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "C++",
+    "SQL",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "Hugging Face Transformers",
+    "Deep Learning",
+    "Natural Language Processing (NLP)",
+    "Computer Vision",
+    "MLflow",
+    "Docker",
+    "Kubernetes",
+    "AWS SageMaker",
+    "Git"
+  ],
+  "companies": [
+    "Fawry",
+    "Instabug",
+    "Swvl"
+  ],
+  "job_titles": [
+    "Junior Machine Learning Engineer",
+    "Machine Learning Engineer",
+    "Machine Learning Engineer"
+  ],
+  "universities": [
+    "Zewail City of Science and Technology"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

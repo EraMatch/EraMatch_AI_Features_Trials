@@ -1,0 +1,366 @@
+{
+  "full_name": "Jesus Ford",
+  "email": "jesus.ford@gmail.com",
+  "location": "Woodport, France",
+  "years_of_experience": 9.2,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jesus Ford",
+    "email": "jesus.ford@gmail.com",
+    "phone": "(665)493-0965x085",
+    "location": "Woodport, France",
+    "linkedin_url": "https://linkedin.com/in/jesus-ford",
+    "github_url": "https://github.com/jesusford",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in HTML, TypeScript, and JavaScript. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "VectorDB Inc",
+      "organization": "VectorDB Inc",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2023-01",
+      "end_date": "Present",
+      "duration": "2023-01 \u2013 Present",
+      "duration_months": 40,
+      "description": "Built interactive data visualizations using PostgreSQL, serving 5000+ daily users\nOptimized frontend bundle size using Bootstrap, reducing load time by 66%",
+      "technologies": [
+        "Bootstrap",
+        "PostgreSQL",
+        "React"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2020-08",
+      "end_date": "2023-01",
+      "duration": "2020-08 \u2013 2023-01",
+      "duration_months": 29,
+      "description": "Optimized frontend bundle size using Tailwind CSS, reducing load time by 32%\nCreated progressive web app using Netlify, increasing user engagement by 31%\nIntegrated third-party APIs using Webpack, reducing integration time by 31%\nIntegrated third-party APIs using Tailwind CSS, reducing integration time by 70%",
+      "technologies": [
+        "Tailwind CSS",
+        "Webpack",
+        "Netlify"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2019-09",
+      "end_date": "2020-04",
+      "duration": "2019-09 \u2013 2020-04",
+      "duration_months": 7,
+      "description": "Created accessible UI components using Jest, achieving WCAG AA compliance\nImproved website accessibility score to 15% using Vue.js",
+      "technologies": [
+        "Vue.js",
+        "Playwright",
+        "Remix",
+        "Jest"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2016-04",
+      "end_date": "2019-03",
+      "duration": "2016-04 \u2013 2019-03",
+      "duration_months": 35,
+      "description": "Built reusable component library using Agile, used by 5000+ developers\nImplemented automated testing framework using Agile, achieving 34% code coverage\nImplemented state management solution using Svelte, reducing API calls by 26%\nIntegrated third-party APIs using Python, reducing integration time by 36%",
+      "technologies": [
+        "Accessibility (WCAG)",
+        "Python",
+        "JavaScript",
+        "IndexedDB",
+        "Svelte",
+        "Agile"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2015",
+      "gpa": "3.38",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SPA Framework",
+      "description": "Created UI Design System leveraging Tailwind CSS for core functionality and Material UI for optimization",
+      "technologies": [
+        "HTML",
+        "Tailwind CSS",
+        "Material UI"
+      ],
+      "url": "https://github.com/synthetic-frontend-40-0",
+      "date": "2025"
+    },
+    {
+      "name": "Admin Panel",
+      "description": "Implemented Form Builder using HTML, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Astro",
+        "Tailwind CSS",
+        "HTML"
+      ],
+      "url": "https://github.com/synthetic-frontend-40-1",
+      "date": "2022"
+    },
+    {
+      "name": "Real-time Chat",
+      "description": "Implemented Real-time Chat using Tailwind CSS, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "HTML",
+        "JavaScript",
+        "Tailwind CSS"
+      ],
+      "url": "https://github.com/synthetic-frontend-40-2",
+      "date": "2019"
+    },
+    {
+      "name": "Form Builder",
+      "description": "Built Data Visualization Tool with TypeScript and Astro, serving 10,000+ daily active users",
+      "technologies": [
+        "Material UI",
+        "Astro",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-frontend-40-3",
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2025",
+      "credential_id": "VN66LA30"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "TypeScript",
+    "JavaScript",
+    "Astro",
+    "Material UI",
+    "Tailwind CSS",
+    "Jest",
+    "Vite",
+    "ESLint",
+    "Webpack",
+    "Storybook",
+    "Firebase",
+    "Supabase",
+    "PostgreSQL",
+    "IndexedDB",
+    "MongoDB",
+    "AWS Amplify",
+    "Render",
+    "Netlify",
+    "Vercel",
+    "Cloudflare Pages",
+    "Responsive Design",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)",
+    "Component-Driven Development",
+    "Agile"
+  ],
+  "companies": [
+    "VectorDB Inc",
+    "Supabase",
+    "Shopify",
+    "TechFlow AI"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "UI Engineer",
+    "Full-Stack Developer",
+    "React Developer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 40,
+    "tier": "T5",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:35.958311",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

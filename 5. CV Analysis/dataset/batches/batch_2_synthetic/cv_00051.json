@@ -1,0 +1,287 @@
+{
+  "full_name": "George Carr",
+  "email": "george.carr@gmail.com",
+  "location": "North Kaylaland, UK",
+  "years_of_experience": 9.4,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "George Carr",
+    "email": "george.carr@gmail.com",
+    "phone": "895-960-7346x6223",
+    "location": "North Kaylaland, UK",
+    "linkedin_url": "https://linkedin.com/in/george-carr",
+    "github_url": "https://github.com/georgecarr",
+    "portfolio_url": "https://georgecarr.dev"
+  },
+  "summary": "Senior technical leader specializing in data science / ml / ai with expertise in SQL, MATLAB, Claude API. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2021-11",
+      "end_date": "Present",
+      "duration": "2021-11 \u2013 Present",
+      "duration_months": 54,
+      "description": "Created feature engineering pipeline using LangChain, reducing preprocessing time by 17%\nBuilt real-time analytics dashboard using JAX, used by 500+ stakeholders",
+      "technologies": [
+        "LangChain",
+        "Fine-tuning",
+        "Scikit-learn",
+        "JAX"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2020-06",
+      "end_date": "2021-09",
+      "duration": "2020-06 \u2013 2021-09",
+      "duration_months": 15,
+      "description": "Implemented A/B testing framework using Vector Databases, running 10000+ experiments\nDesigned data warehousing solution using Vector Databases, enabling analytics on 100000+ records",
+      "technologies": [
+        "Pinecone",
+        "Vector Databases",
+        "RAG",
+        "MATLAB",
+        "LlamaIndex"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2016-05",
+      "end_date": "2020-01",
+      "duration": "2016-05 \u2013 2020-01",
+      "duration_months": 44,
+      "description": "Developed ML models using Pandas, improving prediction accuracy by 60%\nDeveloped computer vision models using Pandas, achieving 46% accuracy\nBuilt end-to-end ML pipeline using Pandas, processing 50000+ samples daily\nBuilt ML model serving infrastructure using MongoDB, handling 10000+ predictions/day",
+      "technologies": [
+        "Qdrant",
+        "Go",
+        "Pandas",
+        "MongoDB",
+        "OpenCV",
+        "JAX"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2017",
+      "gpa": "3.44",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Data Warehouse",
+      "description": "Created Computer Vision System leveraging MATLAB for core functionality and Deep Learning for optimization",
+      "technologies": [
+        "SQL",
+        "MATLAB",
+        "Deep Learning"
+      ],
+      "url": "https://github.com/synthetic-data_science-51-0",
+      "date": "2023"
+    },
+    {
+      "name": "MLOps Platform",
+      "description": "Implemented MLOps Platform using MATLAB, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "SQL",
+        "MATLAB",
+        "Claude API"
+      ],
+      "url": "https://github.com/synthetic-data_science-51-1",
+      "date": "2019"
+    },
+    {
+      "name": "A/B Testing Framework",
+      "description": "Designed Data Quality Monitor leveraging Scikit-learn microservices architecture with SQL for caching",
+      "technologies": [
+        "SQL",
+        "MATLAB",
+        "Scikit-learn"
+      ],
+      "url": "https://github.com/synthetic-data_science-51-2",
+      "date": "2022"
+    },
+    {
+      "name": "Computer Vision System",
+      "description": "Designed MLOps Platform leveraging MongoDB microservices architecture with MATLAB for caching",
+      "technologies": [
+        "SQL",
+        "MATLAB",
+        "MongoDB"
+      ],
+      "url": "https://github.com/synthetic-data_science-51-3",
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "date": "2022",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Away difference bag pressure blue million must front\" \u2014 ArXiv 2022",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Italian (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "MATLAB",
+    "Claude API",
+    "LlamaIndex",
+    "Polars",
+    "Dagster",
+    "NumPy",
+    "Kubeflow",
+    "Databricks",
+    "MongoDB",
+    "AWS SageMaker",
+    "Hugging Face Endpoints",
+    "Azure ML",
+    "Deep Learning",
+    "Vector Databases"
+  ],
+  "companies": [
+    "Palantir",
+    "Notion",
+    "Confluent"
+  ],
+  "job_titles": [
+    "NLP Engineer",
+    "Data Scientist",
+    "AI Engineer"
+  ],
+  "universities": [
+    "TU Delft"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 51,
+    "tier": "T3",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:53.790436",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

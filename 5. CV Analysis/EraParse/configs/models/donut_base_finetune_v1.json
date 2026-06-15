@@ -1,0 +1,20 @@
+{
+  "batch_size": 1,
+  "decoder_max_length": 1536,
+  "epochs": 3,
+  "gradient_accumulation_steps": 8,
+  "label_contract": "raw_json_without_decoder_task_prompt",
+  "learning_rate": 0.00003,
+  "model_id": "naver-clova-ix/donut-base",
+  "model_revision": "a959cf33c20e09215873e338299c900f57047c61",
+  "multi_page_policy": "vertical_stack_in_manifest_order",
+  "optimizer": "AdamW",
+  "processor_image_size": [
+    1920,
+    2560
+  ],
+  "seed": 20260609,
+  "task_prompt": "<s_eraparse>",
+  "train_manifest": "artifacts/manifests/train.jsonl",
+  "validation_manifest": "artifacts/manifests/validation.jsonl"
+}

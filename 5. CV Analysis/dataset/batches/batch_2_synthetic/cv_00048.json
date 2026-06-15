@@ -1,0 +1,360 @@
+{
+  "full_name": "Elizabeth Edwards",
+  "email": "elizabeth.edwards@yahoo.com",
+  "location": "East Justinburgh, Germany",
+  "years_of_experience": 12.5,
+  "seniority_level": "principal",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Elizabeth Edwards",
+    "email": "elizabeth.edwards@yahoo.com",
+    "phone": "001-807-330-1981",
+    "location": "East Justinburgh, Germany",
+    "linkedin_url": "https://linkedin.com/in/elizabeth-edwards",
+    "github_url": "https://github.com/elizabethedwards",
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 12 years shaping data science / ml / ai practice. Deep expertise in Python, R, XGBoost and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2023-05",
+      "end_date": "Present",
+      "duration": "2023-05 \u2013 Present",
+      "duration_months": 36,
+      "description": "Built ML model serving infrastructure using Prompt Engineering, handling 1000+ predictions/day\nBuilt real-time analytics dashboard using SQL, used by 100+ stakeholders\nBuilt end-to-end ML pipeline using Feature Engineering, processing 1000+ samples daily",
+      "technologies": [
+        "Databricks",
+        "Feature Engineering",
+        "SQL",
+        "Prompt Engineering",
+        "Neptune",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2019-05",
+      "end_date": "2023-03",
+      "duration": "2019-05 \u2013 2023-03",
+      "duration_months": 46,
+      "description": "Designed data warehousing solution using Hugging Face Endpoints, enabling analytics on 500+ records\nDeveloped computer vision models using Hugging Face Endpoints, achieving 65% accuracy\nCreated feature engineering pipeline using Hugging Face Endpoints, reducing preprocessing time by 29%",
+      "technologies": [
+        "Hugging Face Endpoints",
+        "Bedrock",
+        "RAG"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "CodeReview.io",
+      "organization": "CodeReview.io",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2016-04",
+      "end_date": "2018-11",
+      "duration": "2016-04 \u2013 2018-11",
+      "duration_months": 31,
+      "description": "Built ML model serving infrastructure using NumPy, handling 100+ predictions/day\nEstablished MLOps practices using PostgreSQL, reducing model deployment time by 60%\nBuilt end-to-end ML pipeline using PostgreSQL, processing 50000+ samples daily\nDeveloped computer vision models using Pinecone, achieving 23% accuracy",
+      "technologies": [
+        "Pinecone",
+        "Kubeflow",
+        "RAG",
+        "PostgreSQL",
+        "NumPy",
+        "Weaviate"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2013-02",
+      "end_date": "2016-03",
+      "duration": "2013-02 \u2013 2016-03",
+      "duration_months": 37,
+      "description": "Designed data warehousing solution using Keras, enabling analytics on 10000+ records\nBuilt ML model serving infrastructure using Keras, handling 1000+ predictions/day\nDeveloped ML models using Scikit-learn, improving prediction accuracy by 23%\nCreated feature engineering pipeline using Scikit-learn, reducing preprocessing time by 45%",
+      "technologies": [
+        "Scikit-learn",
+        "Statistical Modeling",
+        "NLP",
+        "Keras",
+        "Go"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": "Data Science Club"
+    },
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "M.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Predictive Analytics Platform",
+      "description": "Developed BI Dashboard using Python, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "R",
+        "Statistical Modeling"
+      ],
+      "url": "https://github.com/synthetic-data_science-48-0",
+      "date": "2020"
+    },
+    {
+      "name": "BI Dashboard",
+      "description": "Built Anomaly Detection System using Databricks and R, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Python",
+        "R",
+        "Databricks"
+      ],
+      "url": "https://github.com/synthetic-data_science-48-1",
+      "date": "2022"
+    },
+    {
+      "name": "A/B Testing Framework",
+      "description": "Designed Data Warehouse leveraging Python microservices architecture with R for caching",
+      "technologies": [
+        "Python",
+        "R",
+        "Vector Databases"
+      ],
+      "url": "https://github.com/synthetic-data_science-48-2",
+      "date": "2021"
+    },
+    {
+      "name": "Computer Vision System",
+      "description": "Implemented Recommendation Engine using Python, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "R",
+        "ChromaDB"
+      ],
+      "url": "https://github.com/synthetic-data_science-48-3",
+      "date": "2020"
+    },
+    {
+      "name": "Data Quality Monitor",
+      "description": "Created Recommendation Engine leveraging NLP for core functionality and Python for optimization",
+      "technologies": [
+        "Python",
+        "R",
+        "NLP"
+      ],
+      "url": "https://github.com/synthetic-data_science-48-4",
+      "date": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Cloud Professional Data Engineer",
+      "issuer": "Google",
+      "date": "2021",
+      "credential_id": "YE78GR43"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place \u2014 ACM 2024",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Arduino/IoT projects",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "R",
+    "XGBoost",
+    "Scikit-learn",
+    "Kubeflow",
+    "MLflow",
+    "Dagster",
+    "MongoDB",
+    "Qdrant",
+    "BigQuery",
+    "ChromaDB",
+    "PostgreSQL",
+    "Databricks",
+    "Lambda Labs",
+    "Vector Databases",
+    "Statistical Modeling",
+    "Fine-tuning",
+    "Deep Learning",
+    "Computer Vision"
+  ],
+  "companies": [
+    "Figma",
+    "Cloudflare",
+    "CodeReview.io",
+    "Shopify"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Data Scientist",
+    "ML Engineer",
+    "AI Engineer"
+  ],
+  "universities": [
+    "University of Michigan",
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 48,
+    "tier": "T3",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:49.594530",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

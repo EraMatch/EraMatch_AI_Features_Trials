@@ -1,0 +1,304 @@
+{
+  "full_name": "Youssef Mahmoud El-Sayed",
+  "email": "ne3na3a25@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 5.0,
+  "seniority_level": "mid",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Youssef Mahmoud El-Sayed",
+    "email": "ne3na3a25@gmail.com",
+    "phone": "+20 100 123 4567",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/youssefmelsayed",
+    "github_url": "https://github.com/youssefmelsayed",
+    "portfolio_url": "https://youssefmelsayed.dev"
+  },
+  "summary": "Mid-level Fullstack Developer with 5 years of experience building scalable web applications using Python, TypeScript, React, and Next.js. Passionate about clean code, performance optimization, and delivering user-centric solutions. Experienced in both Egyptian startups and international enterprise environments. Proven track record of taking projects from concept to production, leveraging modern frameworks and cloud services.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developing and maintaining internal dashboards and monitoring tools using React and TypeScript. Building RESTful APIs with Python (Flask) and PostgreSQL. Implementing CI/CD pipelines with Jenkins and Docker, and managing deployments on AWS. Collaborating with cross-functional teams to enhance product reliability and user experience.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "Jenkins"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2020-06",
+      "end_date": "2021-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Worked on the patient-facing web application using Next.js and TypeScript. Built reusable UI components and integrated with backend services to support booking and telemedicine features. Optimized page performance and accessibility, resulting in a 30% improvement in load times. Participated in code reviews and sprint planning in an Agile environment.",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "React",
+        "JavaScript",
+        "Python",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2018-08",
+      "end_date": "2020-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to the development of the driver management portal using React and Node.js. Assisted in building backend microservices with Python (Flask) and MongoDB. Wrote unit and integration tests, and participated in migrating legacy systems to a microservices architecture. Gained hands-on experience with Docker and AWS deployment processes.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Python",
+        "Flask",
+        "MongoDB",
+        "Docker",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "IBM Egypt",
+      "organization": null,
+      "job_title": "Software Engineer",
+      "title": null,
+      "start_date": "2017-06",
+      "end_date": "2018-07",
+      "duration": null,
+      "duration_months": null,
+      "description": "Started career as a software engineer in the cloud services division. Developed internal tools using Python and Flask for automation of reporting workflows. Collaborated with senior engineers on client projects, focusing on backend logic and database design with PostgreSQL. Learned agile practices and participated in daily stand-ups and retrospectives.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "JavaScript",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Blitz.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD (Jenkins)",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Problem-Solving",
+      "category": "soft_skill",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Methodologies",
+      "category": "methodology",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "date": "2026-05"
+    },
+    {
+      "name": "react",
+      "description": "The library for web and native user interfaces.",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/facebook/react",
+      "date": "2026-05"
+    },
+    {
+      "name": "next.js",
+      "description": "The React Framework",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/vercel/next.js",
+      "date": "2026-05"
+    },
+    {
+      "name": "react-native",
+      "description": "A framework for building native applications using React",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/facebook/react-native",
+      "date": "2026-05"
+    },
+    {
+      "name": "free-programming-books-zh_CN",
+      "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+      "technologies": [],
+      "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services (AWS)",
+      "date": "2022-05",
+      "credential_id": null
+    },
+    {
+      "name": "Microsoft Certified: Azure Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2023-02",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Next.js",
+    "Flask",
+    "Blitz.js",
+    "PostgreSQL",
+    "MongoDB",
+    "Docker",
+    "AWS",
+    "Git",
+    "CI/CD (Jenkins)",
+    "Problem-Solving",
+    "Agile Methodologies"
+  ],
+  "companies": [
+    "IBM Egypt",
+    "Swvl",
+    "Vezeeta",
+    "Instabug"
+  ],
+  "job_titles": [
+    "Software Engineer",
+    "Junior Fullstack Developer",
+    "Fullstack Developer",
+    "Fullstack Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

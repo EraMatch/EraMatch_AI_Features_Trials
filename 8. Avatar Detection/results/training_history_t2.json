@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "experiment_id": 1,
+    "epoch": 1,
+    "train_loss": 0.7408051192260429,
+    "val_loss": null,
+    "val_auc": 0.9200376470588235,
+    "val_f1": 0.7634841410400902,
+    "lr": null
+  },
+  {
+    "id": 2,
+    "experiment_id": 1,
+    "epoch": 2,
+    "train_loss": 0.6734072692042229,
+    "val_loss": null,
+    "val_auc": 0.9991267973856209,
+    "val_f1": 0.9759036144578314,
+    "lr": null
+  },
+  {
+    "id": 3,
+    "experiment_id": 1,
+    "epoch": 3,
+    "train_loss": 0.6740913785143987,
+    "val_loss": null,
+    "val_auc": 0.9999383006535947,
+    "val_f1": 0.9972473456547385,
+    "lr": null
+  },
+  {
+    "id": 4,
+    "experiment_id": 1,
+    "epoch": 4,
+    "train_loss": 0.6728742700695192,
+    "val_loss": null,
+    "val_auc": 0.9999874509803921,
+    "val_f1": 0.9989531536247056,
+    "lr": null
+  },
+  {
+    "id": 5,
+    "experiment_id": 1,
+    "epoch": 5,
+    "train_loss": 0.6746567250698204,
+    "val_loss": null,
+    "val_auc": 0.9999947712418301,
+    "val_f1": 0.999345977763244,
+    "lr": null
+  },
+  {
+    "id": 6,
+    "experiment_id": 1,
+    "epoch": 6,
+    "train_loss": 0.6762662852970546,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.999345977763244,
+    "lr": null
+  },
+  {
+    "id": 7,
+    "experiment_id": 1,
+    "epoch": 7,
+    "train_loss": 0.6602743903062488,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.9997384937238494,
+    "lr": null
+  },
+  {
+    "id": 8,
+    "experiment_id": 1,
+    "epoch": 8,
+    "train_loss": 0.670632816401104,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.9998692639560727,
+    "lr": null
+  },
+  {
+    "id": 9,
+    "experiment_id": 1,
+    "epoch": 9,
+    "train_loss": 0.6619874421982157,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.9998692639560727,
+    "lr": null
+  },
+  {
+    "id": 10,
+    "experiment_id": 1,
+    "epoch": 10,
+    "train_loss": 0.6600780361050728,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.9998692639560727,
+    "lr": null
+  },
+  {
+    "id": 11,
+    "experiment_id": 3,
+    "epoch": 1,
+    "train_loss": 0.7148682007053554,
+    "val_loss": null,
+    "val_auc": 0.9414933333333334,
+    "val_f1": 0.7310687655343827,
+    "lr": null
+  },
+  {
+    "id": 12,
+    "experiment_id": 3,
+    "epoch": 2,
+    "train_loss": 0.6881720559709024,
+    "val_loss": null,
+    "val_auc": 0.999835816993464,
+    "val_f1": 0.7695029757117581,
+    "lr": null
+  },
+  {
+    "id": 13,
+    "experiment_id": 3,
+    "epoch": 3,
+    "train_loss": 0.6770940555022067,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.9955357142857143,
+    "lr": null
+  },
+  {
+    "id": 14,
+    "experiment_id": 3,
+    "epoch": 4,
+    "train_loss": 0.6628354073770895,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.9992150706436421,
+    "lr": null
+  },
+  {
+    "id": 15,
+    "experiment_id": 3,
+    "epoch": 5,
+    "train_loss": 0.6711839683503913,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.9998692639560727,
+    "lr": null
+  },
+  {
+    "id": 16,
+    "experiment_id": 3,
+    "epoch": 6,
+    "train_loss": 0.6701524619688124,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 17,
+    "experiment_id": 3,
+    "epoch": 7,
+    "train_loss": 0.6666063407323505,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 18,
+    "experiment_id": 3,
+    "epoch": 8,
+    "train_loss": 0.66539548227451,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 19,
+    "experiment_id": 3,
+    "epoch": 9,
+    "train_loss": 0.6583545904031536,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 20,
+    "experiment_id": 3,
+    "epoch": 10,
+    "train_loss": 0.6657310008202624,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 21,
+    "experiment_id": 5,
+    "epoch": 1,
+    "train_loss": 0.7331270547521195,
+    "val_loss": null,
+    "val_auc": 0.9617652287581699,
+    "val_f1": 0.1790049988098072,
+    "lr": null
+  },
+  {
+    "id": 22,
+    "experiment_id": 5,
+    "epoch": 2,
+    "train_loss": 0.6815635502938456,
+    "val_loss": null,
+    "val_auc": 0.9997427450980393,
+    "val_f1": 0.9249578414839797,
+    "lr": null
+  },
+  {
+    "id": 23,
+    "experiment_id": 5,
+    "epoch": 3,
+    "train_loss": 0.6728970024409711,
+    "val_loss": null,
+    "val_auc": 0.9999916339869281,
+    "val_f1": 0.9981665793609219,
+    "lr": null
+  },
+  {
+    "id": 24,
+    "experiment_id": 5,
+    "epoch": 4,
+    "train_loss": 0.6700458515610471,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.9996076892899176,
+    "lr": null
+  },
+  {
+    "id": 25,
+    "experiment_id": 5,
+    "epoch": 5,
+    "train_loss": 0.6732314634043098,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 26,
+    "experiment_id": 5,
+    "epoch": 6,
+    "train_loss": 0.6707991693643915,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 27,
+    "experiment_id": 5,
+    "epoch": 7,
+    "train_loss": 0.6664946569292337,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 28,
+    "experiment_id": 5,
+    "epoch": 8,
+    "train_loss": 0.6675757045713847,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 29,
+    "experiment_id": 5,
+    "epoch": 9,
+    "train_loss": 0.6719359946530937,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 30,
+    "experiment_id": 5,
+    "epoch": 10,
+    "train_loss": 0.67330670106731,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 31,
+    "experiment_id": 7,
+    "epoch": 1,
+    "train_loss": 0.7172895882953734,
+    "val_loss": null,
+    "val_auc": 0.9805762091503267,
+    "val_f1": 0.5166666666666667,
+    "lr": null
+  },
+  {
+    "id": 32,
+    "experiment_id": 7,
+    "epoch": 2,
+    "train_loss": 0.6810699719310607,
+    "val_loss": null,
+    "val_auc": 0.9998494117647059,
+    "val_f1": 0.947875120341081,
+    "lr": null
+  },
+  {
+    "id": 33,
+    "experiment_id": 7,
+    "epoch": 3,
+    "train_loss": 0.669748001050629,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.9955357142857143,
+    "lr": null
+  },
+  {
+    "id": 34,
+    "experiment_id": 7,
+    "epoch": 4,
+    "train_loss": 0.6630502649201643,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.9992150706436421,
+    "lr": null
+  },
+  {
+    "id": 35,
+    "experiment_id": 7,
+    "epoch": 5,
+    "train_loss": 0.6725812071321795,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 36,
+    "experiment_id": 7,
+    "epoch": 6,
+    "train_loss": 0.6746507553046182,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 37,
+    "experiment_id": 7,
+    "epoch": 7,
+    "train_loss": 0.6709767076993148,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 38,
+    "experiment_id": 7,
+    "epoch": 8,
+    "train_loss": 0.6622751891212976,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 39,
+    "experiment_id": 7,
+    "epoch": 9,
+    "train_loss": 0.6716034852668343,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 40,
+    "experiment_id": 7,
+    "epoch": 10,
+    "train_loss": 0.6703353942240644,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 1.0,
+    "lr": null
+  },
+  {
+    "id": 41,
+    "experiment_id": 9,
+    "epoch": 1,
+    "train_loss": 0.7144913524389267,
+    "val_loss": null,
+    "val_auc": 0.951046274509804,
+    "val_f1": 0.31595159515951593,
+    "lr": null
+  },
+  {
+    "id": 42,
+    "experiment_id": 9,
+    "epoch": 2,
+    "train_loss": 0.6774862411638234,
+    "val_loss": null,
+    "val_auc": 0.9995043137254902,
+    "val_f1": 0.947875120341081,
+    "lr": null
+  },
+  {
+    "id": 43,
+    "experiment_id": 9,
+    "epoch": 3,
+    "train_loss": 0.6721225566912017,
+    "val_loss": null,
+    "val_auc": 0.9999592156862744,
+    "val_f1": 0.9969843975350727,
+    "lr": null
+  },
+  {
+    "id": 44,
+    "experiment_id": 11,
+    "epoch": 1,
+    "train_loss": 0.7240891638618188,
+    "val_loss": null,
+    "val_auc": 0.9719675816993465,
+    "val_f1": 0.8199198273203824,
+    "lr": null
+  },
+  {
+    "id": 45,
+    "experiment_id": 11,
+    "epoch": 2,
+    "train_loss": 0.6862023071754699,
+    "val_loss": null,
+    "val_auc": 0.9994478431372549,
+    "val_f1": 0.9795972796372849,
+    "lr": null
+  },
+  {
+    "id": 46,
+    "experiment_id": 11,
+    "epoch": 3,
+    "train_loss": 0.6723343073921716,
+    "val_loss": null,
+    "val_auc": 0.9999864052287581,
+    "val_f1": 0.9981665793609219,
+    "lr": null
+  },
+  {
+    "id": 47,
+    "experiment_id": 13,
+    "epoch": 1,
+    "train_loss": 0.728732727818041,
+    "val_loss": null,
+    "val_auc": 0.9121652287581699,
+    "val_f1": 0.7808588179369355,
+    "lr": null
+  },
+  {
+    "id": 48,
+    "experiment_id": 13,
+    "epoch": 2,
+    "train_loss": 0.6806899186148739,
+    "val_loss": null,
+    "val_auc": 0.9945056209150327,
+    "val_f1": 0.9289112790372236,
+    "lr": null
+  },
+  {
+    "id": 49,
+    "experiment_id": 13,
+    "epoch": 3,
+    "train_loss": 0.6687619712128735,
+    "val_loss": null,
+    "val_auc": 0.9974912418300653,
+    "val_f1": 0.9831229235880399,
+    "lr": null
+  },
+  {
+    "id": 50,
+    "experiment_id": 15,
+    "epoch": 1,
+    "train_loss": 0.7351928017283446,
+    "val_loss": null,
+    "val_auc": 0.9850603921568627,
+    "val_f1": 0.7739144367889761,
+    "lr": null
+  },
+  {
+    "id": 51,
+    "experiment_id": 15,
+    "epoch": 2,
+    "train_loss": 0.6824927561035092,
+    "val_loss": null,
+    "val_auc": 0.9999518954248365,
+    "val_f1": 0.9919620503360127,
+    "lr": null
+  },
+  {
+    "id": 52,
+    "experiment_id": 15,
+    "epoch": 3,
+    "train_loss": 0.6789359813368561,
+    "val_loss": null,
+    "val_auc": 1.0,
+    "val_f1": 0.9996076892899176,
+    "lr": null
+  },
+  {
+    "id": 53,
+    "experiment_id": 17,
+    "epoch": 1,
+    "train_loss": 0.893868383745219,
+    "val_loss": null,
+    "val_auc": 0.8040554248366013,
+    "val_f1": 0.008849557522123894,
+    "lr": null
+  },
+  {
+    "id": 54,
+    "experiment_id": 17,
+    "epoch": 2,
+    "train_loss": 0.7921961707956839,
+    "val_loss": null,
+    "val_auc": 0.9420956862745097,
+    "val_f1": 0.5821005917159763,
+    "lr": null
+  },
+  {
+    "id": 55,
+    "experiment_id": 17,
+    "epoch": 3,
+    "train_loss": 0.7298771969023967,
+    "val_loss": null,
+    "val_auc": 0.9851513725490196,
+    "val_f1": 0.827438370846731,
+    "lr": null
+  }
+]

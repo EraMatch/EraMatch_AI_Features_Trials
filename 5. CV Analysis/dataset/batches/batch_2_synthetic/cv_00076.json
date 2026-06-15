@@ -1,0 +1,357 @@
+{
+  "full_name": "Cynthia Ayers",
+  "email": "cynthia.ayers@protonmail.com",
+  "location": "Charlesport, India",
+  "years_of_experience": 13.8,
+  "seniority_level": "principal",
+  "primary_domain": "Full-Stack Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Cynthia Ayers",
+    "email": "cynthia.ayers@protonmail.com",
+    "phone": "656-523-2249x5362",
+    "location": "Charlesport, India",
+    "linkedin_url": "https://linkedin.com/in/cynthia-ayers",
+    "github_url": "https://github.com/cynthiaayers",
+    "portfolio_url": null
+  },
+  "summary": "Principal full-stack engineering architect with 13+ years defining technical strategy for enterprise transformations. Subject matter expert in TypeScript, C#, Go.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Application Developer",
+      "title": "Application Developer",
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": "2023-07 \u2013 Present",
+      "duration_months": 34,
+      "description": "Created cross-platform application using Express.js, reducing development time by 31%\nCreated cross-platform application using Azure, reducing development time by 36%",
+      "technologies": [
+        "Vercel",
+        "Azure",
+        "Express.js",
+        "React",
+        "Storybook"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2020-04",
+      "end_date": "2023-04",
+      "duration": "2020-04 \u2013 2023-04",
+      "duration_months": 36,
+      "description": "Created cross-platform application using GCP, reducing development time by 32%\nDesigned RESTful API and frontend using SQLite, handling 500+ concurrent sessions\nLed full-stack migration from legacy system to CI/CD, reducing latency by 22%\nImplemented server-side rendering using Firebase, reducing page load time by 58%",
+      "technologies": [
+        "CI/CD",
+        "SQLite",
+        "Angular",
+        "Vite",
+        "GCP",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2015-07",
+      "end_date": "2020-01",
+      "duration": "2015-07 \u2013 2020-01",
+      "duration_months": 54,
+      "description": "Designed RESTful API and frontend using Agile, handling 10000+ concurrent sessions\nMentored team of 4 developers on Microservices full-stack best practices\nMentored team of 5 developers on React full-stack best practices",
+      "technologies": [
+        "Tailwind CSS",
+        "Agile",
+        "Django",
+        "React",
+        "Microservices"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Application Developer",
+      "title": "Application Developer",
+      "start_date": "2012-01",
+      "end_date": "2015-07",
+      "duration": "2012-01 \u2013 2015-07",
+      "duration_months": 42,
+      "description": "Built real-time notification system using SQLite, processing 5000+ events/day\nImplemented CI/CD pipeline for full-stack app using MongoDB, achieving 500+ deploys/week",
+      "technologies": [
+        "CI/CD",
+        "Kubernetes",
+        "SQLite",
+        "MongoDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "Ph.D.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2010",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Real-time Chat App",
+      "description": "Created Blog Platform leveraging TypeScript for core functionality and C# for optimization",
+      "technologies": [
+        "TypeScript",
+        "C#",
+        "Django"
+      ],
+      "url": "https://github.com/synthetic-fullstack-76-0",
+      "date": "2020"
+    },
+    {
+      "name": "Content Management System",
+      "description": "Implemented Social Dashboard using FastAPI, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "FastAPI",
+        "C#",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-fullstack-76-1",
+      "date": "2021"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built Content Management System with C# and TypeScript, serving 10,000+ daily active users",
+      "technologies": [
+        "TypeScript",
+        "FastAPI",
+        "C#"
+      ],
+      "url": "https://github.com/synthetic-fullstack-76-2",
+      "date": "2021"
+    },
+    {
+      "name": "Blog Platform",
+      "description": "Created Blog Platform leveraging Django for core functionality and FastAPI for optimization",
+      "technologies": [
+        "FastAPI",
+        "Django",
+        "C#"
+      ],
+      "url": "https://github.com/synthetic-fullstack-76-3",
+      "date": "2020"
+    },
+    {
+      "name": "Project Tracker",
+      "description": "Created Blog Platform leveraging FastAPI for core functionality and C# for optimization",
+      "technologies": [
+        "Java",
+        "C#",
+        "FastAPI"
+      ],
+      "url": "https://github.com/synthetic-fullstack-76-4",
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google",
+      "date": "2020",
+      "credential_id": null
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Strong half whatever around though crime eight ten\" \u2014 ArXiv 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "C#",
+    "Go",
+    "Java",
+    "Python",
+    "FastAPI",
+    "Django",
+    "Firebase",
+    "MySQL",
+    "Vite",
+    "Cypress",
+    "Git",
+    "Vercel",
+    "Netlify",
+    "Cloudflare",
+    "AWS",
+    "Responsive Design",
+    "CI/CD",
+    "Agile",
+    "REST API Design",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "Confluent",
+    "Shopify",
+    "Anthropic",
+    "Microsoft"
+  ],
+  "job_titles": [
+    "Application Developer",
+    "Platform Engineer",
+    "Platform Engineer",
+    "Application Developer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 76,
+    "tier": "T2",
+    "domain": "fullstack",
+    "generated_at": "2026-05-31T02:32:19.197853",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

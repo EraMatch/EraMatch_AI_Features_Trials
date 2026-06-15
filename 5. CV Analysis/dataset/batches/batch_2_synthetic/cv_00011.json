@@ -1,0 +1,344 @@
+{
+  "full_name": "Carlos Cuevas",
+  "email": "carlos.cuevas@gmail.com",
+  "location": "Lake Hannahhaven, Germany",
+  "years_of_experience": 6.8,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Carlos Cuevas",
+    "email": "carlos.cuevas@gmail.com",
+    "phone": "(718)667-2960x254",
+    "location": "Lake Hannahhaven, Germany",
+    "linkedin_url": "https://linkedin.com/in/carlos-cuevas",
+    "github_url": "https://github.com/carloscuevas",
+    "portfolio_url": null
+  },
+  "summary": "Senior backend engineering engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in Node.js, Java, Python with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2023-05",
+      "end_date": "Present",
+      "duration": "2023-05 \u2013 Present",
+      "duration_months": 36,
+      "description": "Developed real-time data processing pipeline using Ruby, handling 500+ events/second\nBuilt event-driven architecture using Event-Driven Architecture, processing 5000+ events daily\nDeveloped real-time data processing pipeline using REST API Design, handling 50000+ users/second\nImplemented caching layer with Event-Driven Architecture, reducing database load by 19%",
+      "technologies": [
+        "REST API Design",
+        "Ruby",
+        "Event-Driven Architecture",
+        "Go",
+        "AWS"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2022-09",
+      "end_date": "2023-04",
+      "duration": "2022-09 \u2013 2023-04",
+      "duration_months": 7,
+      "description": "Mentored team of 5 junior developers on LlamaIndex best practices\nMentored team of 3 junior developers on MongoDB best practices\nMentored team of 5 junior developers on LlamaIndex best practices\nDesigned and implemented message queue system using Kubernetes, processing 100000+ messages/hour",
+      "technologies": [
+        "MongoDB",
+        "DynamoDB",
+        "LlamaIndex",
+        "Kubernetes",
+        "DigitalOcean"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2018-12",
+      "end_date": "2022-03",
+      "duration": "2018-12 \u2013 2022-03",
+      "duration_months": 39,
+      "description": "Built automated CI/CD pipelines with LlamaIndex, reducing deployment time by 56%\nLed migration from monolithic to microservices using LlamaIndex, improving system scalability by 34%\nDesigned and implemented message queue system using Hugging Face, processing 10000+ messages/hour\nBuilt event-driven architecture using AWS, processing 500+ events daily",
+      "technologies": [
+        "Git",
+        "AWS",
+        "PHP",
+        "Hugging Face",
+        "Django",
+        "LlamaIndex"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "M.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Hackathon Winner"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TDD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Notification Service",
+      "description": "Designed and implemented Search Engine with Rails, integrating with Node.js for seamless data flow",
+      "technologies": [
+        "Node.js",
+        "Rails",
+        "ASP.NET"
+      ],
+      "url": "https://github.com/synthetic-backend-11-0",
+      "date": "2022"
+    },
+    {
+      "name": "Message Queue System",
+      "description": "Built Search Engine using Gin and Node.js, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Node.js",
+        "Django",
+        "Gin"
+      ],
+      "url": "https://github.com/synthetic-backend-11-1",
+      "date": "2022"
+    },
+    {
+      "name": "Payment Processing System",
+      "description": "Designed File Processing Service leveraging Django microservices architecture with Python for caching",
+      "technologies": [
+        "Python",
+        "Java",
+        "Django"
+      ],
+      "url": "https://github.com/synthetic-backend-11-2",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award \u2014 IEEE 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "Java",
+    "Python",
+    "Kotlin",
+    "ASP.NET",
+    "Django",
+    "Gin",
+    "Rails",
+    "PlanetScale",
+    "Elasticsearch",
+    "SQLite",
+    "Redis",
+    "Neon",
+    "ArgoCD",
+    "Terraform",
+    "Docker",
+    "Railway",
+    "Cloudflare",
+    "Fly.io",
+    "Google Gemini",
+    "AWS Bedrock",
+    "Claude API",
+    "Hugging Face",
+    "OpenAI API",
+    "Microservices",
+    "REST API Design",
+    "Event-Driven Architecture",
+    "Agile",
+    "TDD"
+  ],
+  "companies": [
+    "NeuroLink Labs",
+    "Shopify",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "API Developer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "Technion"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 11,
+    "tier": "T4",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:31:02.083231",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

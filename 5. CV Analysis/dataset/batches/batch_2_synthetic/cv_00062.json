@@ -1,0 +1,319 @@
+{
+  "full_name": "Victoria Ayers",
+  "email": "victoria.ayers@yahoo.com",
+  "location": "Laurenmouth, Germany",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Victoria Ayers",
+    "email": "victoria.ayers@yahoo.com",
+    "phone": "+1-814-991-9512",
+    "location": "Laurenmouth, Germany",
+    "linkedin_url": null,
+    "github_url": "https://github.com/victoriaayers",
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in Rust, Python, and Go. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Infrastructure Engineer",
+      "title": "Infrastructure Engineer",
+      "start_date": "2022-02",
+      "end_date": "Present",
+      "duration": "2022-02 \u2013 Present",
+      "duration_months": 51,
+      "description": "Optimized cloud infrastructure using Podman, reducing costs by 56%\nBuilt disaster recovery solution using Kubeflow, achieving RTO of 191ms\nBuilt automated backup solution using DigitalOcean, ensuring 500% data protection",
+      "technologies": [
+        "DigitalOcean",
+        "Bash",
+        "Podman",
+        "Skopeo",
+        "Kubeflow"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Container Registry",
+      "description": "Designed Infrastructure as Code leveraging Rust microservices architecture with Go for caching",
+      "technologies": [
+        "Rust",
+        "Python",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-devops-62-0",
+      "date": "2020"
+    },
+    {
+      "name": "Monitoring System",
+      "description": "Built Monitoring System with Rust and Go, serving 10,000+ daily active users",
+      "technologies": [
+        "Rust",
+        "Python",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-devops-62-1",
+      "date": "2022"
+    },
+    {
+      "name": "Observability Dashboard",
+      "description": "Built CI/CD Pipeline with Go and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "Python",
+        "Go",
+        "Rust"
+      ],
+      "url": "https://github.com/synthetic-devops-62-2",
+      "date": "2020"
+    },
+    {
+      "name": "Kubernetes Cluster",
+      "description": "Implemented CI/CD Pipeline using Go, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "Rust",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-devops-62-3",
+      "date": "2023"
+    },
+    {
+      "name": "GitOps Workflow",
+      "description": "Developed Observability Dashboard using Rust, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Go",
+        "Python",
+        "Rust"
+      ],
+      "url": "https://github.com/synthetic-devops-62-4",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter \u2014 Company Internal 2020",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award \u2014 IEEE 2025",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Python",
+    "Go",
+    "Crossplane",
+    "Terraform",
+    "K3s",
+    "Linkerd",
+    "Skopeo",
+    "Azure DevOps",
+    "GitHub Actions",
+    "GitLab CI",
+    "Jenkins",
+    "Tekton",
+    "Grafana",
+    "Thanos",
+    "VictoriaMetrics",
+    "Datadog",
+    "Hetzner",
+    "Alibaba Cloud",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Triton Inference Server",
+    "Seldon",
+    "Kale",
+    "GitOps",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "Block"
+  ],
+  "job_titles": [
+    "Infrastructure Engineer"
+  ],
+  "universities": [
+    "TU Delft"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 62,
+    "tier": "T3",
+    "domain": "devops",
+    "generated_at": "2026-05-31T02:32:05.382910",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

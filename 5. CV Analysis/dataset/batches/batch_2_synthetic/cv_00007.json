@@ -1,0 +1,295 @@
+{
+  "full_name": "Hailey Avery",
+  "email": "hailey.avery@yahoo.com",
+  "location": "Lambertport, France",
+  "years_of_experience": 1.2,
+  "seniority_level": "junior",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Hailey Avery",
+    "email": "hailey.avery@yahoo.com",
+    "phone": "411-597-5717",
+    "location": "Lambertport, France",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Software developer specializing in Java with hands-on experience in C#. Looking to grow in Backend Engineering.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2025-02",
+      "end_date": "Present",
+      "duration": "2025-02 \u2013 Present",
+      "duration_months": 15,
+      "description": "Created authentication and authorization system using DynamoDB, securing 10000+ user accounts\nDeveloped real-time data processing pipeline using Kubernetes, handling 100000+ events/second",
+      "technologies": [
+        "Kubernetes",
+        "gRPC",
+        "DynamoDB",
+        "Replicate",
+        "Django",
+        "GraphQL"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "B.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2024",
+      "gpa": null,
+      "activities": "ACM Club"
+    },
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2023",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ASP.NET",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Django",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cache Layer",
+      "description": "Developed Event Streaming Service using ASP.NET, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "ASP.NET",
+        "C#",
+        "Java"
+      ],
+      "url": "https://github.com/synthetic-backend-7-0",
+      "date": "2020"
+    },
+    {
+      "name": "GraphQL Server",
+      "description": "Designed File Processing Service leveraging ASP.NET microservices architecture with Java for caching",
+      "technologies": [
+        "C#",
+        "ASP.NET",
+        "Java"
+      ],
+      "url": "https://github.com/synthetic-backend-7-1",
+      "date": "2022"
+    },
+    {
+      "name": "gRPC Services",
+      "description": "Built gRPC Services using NestJS and Java, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "C#",
+        "Java",
+        "NestJS"
+      ],
+      "url": "https://github.com/synthetic-backend-7-2",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "French (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "C#",
+    "Rails",
+    "ASP.NET",
+    "NestJS",
+    "Cassandra",
+    "SQLite",
+    "GitHub Actions",
+    "Terraform",
+    "gRPC",
+    "Ansible",
+    "Git",
+    "Railway",
+    "Render",
+    "Cloudflare",
+    "Heroku",
+    "AWS Bedrock",
+    "Hugging Face",
+    "Azure OpenAI",
+    "REST API Design",
+    "CI/CD",
+    "Event-Driven Architecture",
+    "GraphQL"
+  ],
+  "companies": [
+    "Datadog"
+  ],
+  "job_titles": [
+    "API Developer"
+  ],
+  "universities": [
+    "ETH Zurich",
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 7,
+    "tier": "T5",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:30:59.009008",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "config_id": "qwen3_pymupdf_frozen_v1",
+  "frozen_after_validation_run": "qwen3-0.6b-pymupdf_text-f9d63bb9dd",
+  "manifest_hash": "08335f9c145e4fefc315888fe602244d147abf3cf969a30ed4fb93598ce32c71",
+  "max_input_tokens": 10000,
+  "max_new_tokens": 1600,
+  "model_id": "Qwen/Qwen3-0.6B",
+  "model_revision": "c1899de289a04d12100db370d81485cdf75e47ca",
+  "prompt": {
+    "allow_extra_fields": false,
+    "enable_thinking": false,
+    "missing_value_policy": "empty_strings_or_arrays",
+    "output_contract": "one_valid_json_object",
+    "schema": "reduced_cv_target"
+  },
+  "representation": "pymupdf_text",
+  "selection_split": "validation",
+  "selection_split_count": 310,
+  "selection_summary": {
+    "json_valid_rate": 1.0,
+    "macro_score": 0.5861995593744185,
+    "mean_latency_seconds": 12.653142678864503,
+    "schema_valid_rate": 1.0,
+    "unsupported_evidence_rate": 0.028268514639482364
+  }
+}

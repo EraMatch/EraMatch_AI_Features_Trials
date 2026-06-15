@@ -1,0 +1,282 @@
+{
+  "full_name": "Nathan Calderon",
+  "email": "nathan.calderon@outlook.com",
+  "location": "Doughertyport, UAE",
+  "years_of_experience": 3.4,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Nathan Calderon",
+    "email": "nathan.calderon@outlook.com",
+    "phone": "+1-920-622-1175x32554",
+    "location": "Doughertyport, UAE",
+    "linkedin_url": "https://linkedin.com/in/nathan-calderon",
+    "github_url": "https://github.com/nathancalderon",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level frontend engineering specialist with 3 years building production systems. Skilled in CSS, Dart, Bootstrap with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "duration": "2023-12 \u2013 Present",
+      "duration_months": 29,
+      "description": "Built real-time collaboration features using ESLint, serving 100000+ concurrent users\nBuilt reusable component library using Vue.js, used by 100+ developers",
+      "technologies": [
+        "Vue.js",
+        "Next.js",
+        "Render",
+        "JavaScript",
+        "Python",
+        "ESLint"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2022-11",
+      "end_date": "2023-11",
+      "duration": "2022-11 \u2013 2023-11",
+      "duration_months": 12,
+      "description": "Built reusable component library using Figma, used by 1000+ developers\nCreated accessible UI components using Angular, achieving WCAG AA compliance",
+      "technologies": [
+        "Prettier",
+        "Figma",
+        "Vite",
+        "Angular"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2023",
+      "gpa": null,
+      "activities": "Accessibility Initiative"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Form Builder",
+      "description": "Built Mobile Web App with Bootstrap and Dart, serving 10,000+ daily active users",
+      "technologies": [
+        "Bootstrap",
+        "Dart",
+        "Material UI"
+      ],
+      "url": "https://github.com/synthetic-frontend-25-0",
+      "date": "2021"
+    },
+    {
+      "name": "Dashboard Application",
+      "description": "Built Real-time Chat using CSS and Tailwind CSS, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "CSS",
+        "Astro",
+        "Tailwind CSS"
+      ],
+      "url": "https://github.com/synthetic-frontend-25-1",
+      "date": "2019"
+    },
+    {
+      "name": "Data Visualization Tool",
+      "description": "Designed and implemented SPA Framework with CSS, integrating with Tailwind CSS for seamless data flow",
+      "technologies": [
+        "CSS",
+        "Tailwind CSS",
+        "Bootstrap"
+      ],
+      "url": "https://github.com/synthetic-frontend-25-2",
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "Dart",
+    "Bootstrap",
+    "Tailwind CSS",
+    "Astro",
+    "Material UI",
+    "Jest",
+    "Storybook",
+    "Cypress",
+    "ESLint",
+    "IndexedDB",
+    "PostgreSQL",
+    "Firebase",
+    "Supabase",
+    "Cloudflare Pages",
+    "Netlify",
+    "Render",
+    "AWS Amplify",
+    "Accessibility (WCAG)",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "Apple",
+    "Confluent"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "Web Developer"
+  ],
+  "universities": [
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 25,
+    "tier": "T2",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:18.737453",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

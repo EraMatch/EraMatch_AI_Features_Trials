@@ -1,0 +1,278 @@
+{
+  "full_name": "Jamie Mckinney DDS",
+  "email": "jamie.mckinney.dds@yahoo.com",
+  "location": "Leeton, UK",
+  "years_of_experience": 1.8,
+  "seniority_level": "junior",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jamie Mckinney DDS",
+    "email": "jamie.mckinney.dds@yahoo.com",
+    "phone": "357.879.0160x9346",
+    "location": "Leeton, UK",
+    "linkedin_url": "https://linkedin.com/in/jamie-mckinney-dds",
+    "github_url": "https://github.com/jamiemckinneydds",
+    "portfolio_url": "https://jamiemckinneydds.dev"
+  },
+  "summary": "Junior engineer with 1 years working with Python. Demonstrated ability to learn quickly and contribute to team projects.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2025-10",
+      "end_date": "Present",
+      "duration": "2025-10 \u2013 Present",
+      "duration_months": 7,
+      "description": "Conducted penetration testing using GCP Security Command Center, identifying 5000+ vulnerabilities\nImplemented SIEM solution using SOC2 Compliance, processing 100000+ logs/day\nConducted penetration testing using Nmap, identifying 10000+ vulnerabilities\nImplemented encryption solution using MongoDB, protecting 500+ records",
+      "technologies": [
+        "SOC2 Compliance",
+        "SonarQube",
+        "Nessus",
+        "MongoDB",
+        "GCP Security Command Center",
+        "Nmap"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2024-03",
+      "end_date": "2025-06",
+      "duration": "2024-03 \u2013 2025-06",
+      "duration_months": 15,
+      "description": "Implemented encryption solution using Bash, protecting 50000+ records\nCreated vulnerability management program using AWS Security Hub, reducing CVEs by 41%\nBuilt security automation using AWS Security Hub, reducing incident response time by 70%\nBuilt security automation using Nessus, reducing incident response time by 42%",
+      "technologies": [
+        "Bash",
+        "AWS Security Hub",
+        "Nessus"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "M.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2025",
+      "gpa": null,
+      "activities": "CTF Team"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nessus",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Access Control System",
+      "description": "Created SIEM Integration leveraging Go for core functionality and Metasploit for optimization",
+      "technologies": [
+        "Go",
+        "Python",
+        "Metasploit"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-91-0",
+      "date": "2022"
+    },
+    {
+      "name": "Security Awareness Training",
+      "description": "Designed Security Awareness Training leveraging Snort microservices architecture with OWASP ZAP for caching",
+      "technologies": [
+        "OWASP ZAP",
+        "Snort",
+        "Metasploit"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-91-1",
+      "date": "2019"
+    },
+    {
+      "name": "Vulnerability Scanner",
+      "description": "Created Security Compliance Tool leveraging Python for core functionality and Sigma for optimization",
+      "technologies": [
+        "Sigma",
+        "Rust",
+        "Python"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-91-2",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "French (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "PowerShell",
+    "Go",
+    "Rust",
+    "Bash",
+    "OWASP ZAP",
+    "Snort",
+    "Metasploit",
+    "Sigma",
+    "Trivy",
+    "Nessus",
+    "CrowdStrike",
+    "Wireshark",
+    "Splunk",
+    "Redis",
+    "MongoDB",
+    "PostgreSQL",
+    "Elasticsearch",
+    "Azure Sentinel",
+    "GCP Security Command Center",
+    "SOC2 Compliance",
+    "Incident Response"
+  ],
+  "companies": [
+    "Confluent",
+    "Palantir"
+  ],
+  "job_titles": [
+    "Penetration Tester",
+    "Penetration Tester"
+  ],
+  "universities": [
+    "Stanford University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 91,
+    "tier": "T2",
+    "domain": "cybersecurity",
+    "generated_at": "2026-05-31T02:32:36.195860",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

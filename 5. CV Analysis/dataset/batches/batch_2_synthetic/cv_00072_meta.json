@@ -1,0 +1,10 @@
+{
+  "cv_id": 72,
+  "domain": "fullstack",
+  "seniority_level": "lead",
+  "tier": "T2",
+  "template_used": "T2_sidebar_right",
+  "pdf_path": "batches/batch_2_synthetic/cv_00072.pdf",
+  "json_path": "batches/batch_2_synthetic/cv_00072.json",
+  "pdf_rendered": true
+}

@@ -1,0 +1,268 @@
+{
+  "full_name": "Joshua Macdonald",
+  "email": "joshua.macdonald@gmail.com",
+  "location": "West Marc, USA",
+  "years_of_experience": 7.9,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Joshua Macdonald",
+    "email": "joshua.macdonald@gmail.com",
+    "phone": "(545)637-9923x4639",
+    "location": "West Marc, USA",
+    "linkedin_url": "https://linkedin.com/in/joshua-macdonald",
+    "github_url": "https://github.com/joshuamacdonald",
+    "portfolio_url": "https://joshuamacdonald.dev"
+  },
+  "summary": "Technical leader in data science / ml / ai with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in MATLAB, Scala, Python.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 \u2013 Present",
+      "duration_months": 44,
+      "description": "Built real-time analytics dashboard using Neptune, used by 5000+ stakeholders\nBuilt end-to-end ML pipeline using Airflow, processing 5000+ samples daily\nBuilt real-time analytics dashboard using MLOps, used by 10000+ stakeholders",
+      "technologies": [
+        "MLOps",
+        "Neptune",
+        "Python",
+        "Airflow"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2018-03",
+      "end_date": "2022-06",
+      "duration": "2018-03 \u2013 2022-06",
+      "duration_months": 51,
+      "description": "Created feature engineering pipeline using Weaviate, reducing preprocessing time by 69%\nDeveloped ML models using Pandas, improving prediction accuracy by 60%\nBuilt ML model serving infrastructure using Pandas, handling 100+ predictions/day",
+      "technologies": [
+        "Weaviate",
+        "Pandas",
+        "Spark",
+        "ChromaDB"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Research Assistant - ML Lab"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Store",
+      "description": "Built Recommendation Engine with MATLAB and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "Scala",
+        "MATLAB",
+        "Python"
+      ],
+      "url": "https://github.com/synthetic-data_science-45-0",
+      "date": "2019"
+    },
+    {
+      "name": "Data Warehouse",
+      "description": "Designed and implemented Data Quality Monitor with Python, integrating with MATLAB for seamless data flow",
+      "technologies": [
+        "Scala",
+        "Python",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-45-1",
+      "date": "2020"
+    },
+    {
+      "name": "A/B Testing Framework",
+      "description": "Implemented ML Model Training Pipeline using MATLAB, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Scala",
+        "Python",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-45-2",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Allen-Gomez Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter \u2014 MLH 2025",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Official three plant suffer it rather growth\" \u2014 EMNLP 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "MATLAB",
+    "Scala",
+    "Python",
+    "OpenCV",
+    "Claude API",
+    "Dask",
+    "Kubeflow",
+    "MLflow",
+    "Weights & Biases",
+    "Polars",
+    "MongoDB",
+    "Weaviate",
+    "Databricks",
+    "GCP Vertex AI",
+    "Prompt Engineering",
+    "NLP",
+    "Statistical Modeling",
+    "A/B Testing"
+  ],
+  "companies": [
+    "Spotify",
+    "CloudNova"
+  ],
+  "job_titles": [
+    "AI Product Engineer",
+    "Data Scientist"
+  ],
+  "universities": [
+    "EPFL"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 45,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:46.142107",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

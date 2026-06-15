@@ -1,0 +1,10 @@
+{
+  "cv_id": 86,
+  "domain": "mobile",
+  "seniority_level": "junior",
+  "tier": "T2",
+  "template_used": "T2_sidebar_timeline",
+  "pdf_path": "batches/batch_2_synthetic/cv_00086.pdf",
+  "json_path": "batches/batch_2_synthetic/cv_00086.json",
+  "pdf_rendered": true
+}

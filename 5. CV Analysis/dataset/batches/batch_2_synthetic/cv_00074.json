@@ -1,0 +1,343 @@
+{
+  "full_name": "Rebecca Gomez",
+  "email": "rebecca.gomez@outlook.com",
+  "location": "East John, Australia",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Full-Stack Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Rebecca Gomez",
+    "email": "rebecca.gomez@outlook.com",
+    "phone": "811-970-2504x73853",
+    "location": "East John, Australia",
+    "linkedin_url": "https://linkedin.com/in/rebecca-gomez",
+    "github_url": "https://github.com/rebeccagomez",
+    "portfolio_url": "https://rebeccagomez.dev"
+  },
+  "summary": "Seasoned software professional with deep expertise in Node.js, TypeScript, and Angular. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2024-08",
+      "end_date": "Present",
+      "duration": "2024-08 \u2013 Present",
+      "duration_months": 21,
+      "description": "Built end-to-end web application using Vite, serving 500+ daily active users\nMentored team of 4 developers on FastAPI full-stack best practices\nBuilt real-time notification system using Node.js, processing 100+ events/day",
+      "technologies": [
+        "FastAPI",
+        "Vite",
+        "Node.js",
+        "TDD"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Application Developer",
+      "title": "Application Developer",
+      "start_date": "2022-02",
+      "end_date": "2024-02",
+      "duration": "2022-02 \u2013 2024-02",
+      "duration_months": 24,
+      "description": "Optimized database queries and frontend rendering using Express.js, improving UX by 18%\nImplemented CI/CD pipeline for full-stack app using Progressive Web Apps, achieving 5000+ deploys/week\nMentored team of 2 developers on Progressive Web Apps full-stack best practices\nBuilt real-time notification system using Flask, processing 10000+ events/day",
+      "technologies": [
+        "Express.js",
+        "Spring Boot",
+        "Flask",
+        "Progressive Web Apps",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "Application Developer",
+      "title": "Application Developer",
+      "start_date": "2017-10",
+      "end_date": "2021-11",
+      "duration": "2017-10 \u2013 2021-11",
+      "duration_months": 49,
+      "description": "Designed RESTful API and frontend using Python, handling 500+ concurrent sessions\nArchitected full-stack solution with Python, improving response time by 67%\nImplemented CI/CD pipeline for full-stack app using Responsive Design, achieving 50000+ deploys/week\nCreated cross-platform application using Responsive Design, reducing development time by 57%",
+      "technologies": [
+        "Responsive Design",
+        "SQLite",
+        "REST API Design",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "M.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.67",
+      "activities": "Cloud-Native Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Task Management App",
+      "description": "Created Social Dashboard leveraging NestJS for core functionality and Next.js for optimization",
+      "technologies": [
+        "Next.js",
+        "NestJS",
+        "Angular"
+      ],
+      "url": "https://github.com/synthetic-fullstack-74-0",
+      "date": "2019"
+    },
+    {
+      "name": "Blog Platform",
+      "description": "Built Analytics Dashboard using Angular and Node.js, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Angular",
+        "Next.js",
+        "Node.js"
+      ],
+      "url": "https://github.com/synthetic-fullstack-74-1",
+      "date": "2022"
+    },
+    {
+      "name": "Real-time Chat App",
+      "description": "Created Blog Platform leveraging Django for core functionality and Angular for optimization",
+      "technologies": [
+        "Next.js",
+        "Angular",
+        "Django"
+      ],
+      "url": "https://github.com/synthetic-fullstack-74-2",
+      "date": "2019"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Implemented Task Management App using Node.js, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Angular",
+        "TypeScript",
+        "Node.js"
+      ],
+      "url": "https://github.com/synthetic-fullstack-74-3",
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2020",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Garcia, Hudson and Andersen Youth Program, 2022-Present",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "TypeScript",
+    "Angular",
+    "Django",
+    "Next.js",
+    "NestJS",
+    "MongoDB",
+    "PostgreSQL",
+    "Cypress",
+    "Vite",
+    "Webpack",
+    "Jest",
+    "GitHub Actions",
+    "AWS",
+    "Vercel",
+    "Netlify",
+    "Render",
+    "Azure",
+    "REST API Design",
+    "Responsive Design",
+    "Agile",
+    "Scrum",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "Microsoft",
+    "Palantir",
+    "Apple"
+  ],
+  "job_titles": [
+    "Software Engineer",
+    "Application Developer",
+    "Application Developer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 74,
+    "tier": "T1",
+    "domain": "fullstack",
+    "generated_at": "2026-05-31T02:32:17.965360",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

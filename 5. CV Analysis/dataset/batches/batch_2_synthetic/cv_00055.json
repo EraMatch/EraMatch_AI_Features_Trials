@@ -1,0 +1,289 @@
+{
+  "full_name": "April Brown",
+  "email": "april.brown@outlook.com",
+  "location": "West Michaelberg, Australia",
+  "years_of_experience": 5.8,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "April Brown",
+    "email": "april.brown@outlook.com",
+    "phone": "890-326-1189",
+    "location": "West Michaelberg, Australia",
+    "linkedin_url": "https://linkedin.com/in/april-brown",
+    "github_url": "https://github.com/aprilbrown",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in data science / ml / ai with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in SQL, Julia, MATLAB.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2023-04",
+      "end_date": "Present",
+      "duration": "2023-04 \u2013 Present",
+      "duration_months": 37,
+      "description": "Implemented A/B testing framework using Airflow, running 1000+ experiments\nImplemented NLP solution using Snowflake, processing 500+ text documents daily",
+      "technologies": [
+        "LightGBM",
+        "Hugging Face Endpoints",
+        "Snowflake",
+        "Airflow",
+        "Hugging Face"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2020-01",
+      "end_date": "2022-10",
+      "duration": "2020-01 \u2013 2022-10",
+      "duration_months": 33,
+      "description": "Implemented NLP solution using Snowflake, processing 5000+ text documents daily\nCreated recommendation system using PyTorch, increasing user engagement by 22%",
+      "technologies": [
+        "GCP Vertex AI",
+        "Prompt Engineering",
+        "Snowflake",
+        "Go",
+        "PyTorch"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Feature Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Data Warehouse",
+      "description": "Designed MLOps Platform leveraging Julia microservices architecture with SQL for caching",
+      "technologies": [
+        "Julia",
+        "SQL",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-55-0",
+      "date": "2021"
+    },
+    {
+      "name": "Anomaly Detection System",
+      "description": "Created BI Dashboard leveraging Julia for core functionality and MATLAB for optimization",
+      "technologies": [
+        "MATLAB",
+        "SQL",
+        "Julia"
+      ],
+      "url": "https://github.com/synthetic-data_science-55-1",
+      "date": "2022"
+    },
+    {
+      "name": "ML Model Training Pipeline",
+      "description": "Designed Recommendation Engine leveraging MATLAB microservices architecture with Julia for caching",
+      "technologies": [
+        "Julia",
+        "SQL",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-55-2",
+      "date": "2019"
+    },
+    {
+      "name": "Feature Store",
+      "description": "Built Computer Vision System using MATLAB and SQL, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Julia",
+        "SQL",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-55-3",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Arabic (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "Julia",
+    "MATLAB",
+    "Claude API",
+    "PyTorch",
+    "OpenAI API",
+    "TensorFlow",
+    "Pandas",
+    "NumPy",
+    "Polars",
+    "Snowflake",
+    "Neo4j",
+    "PostgreSQL",
+    "Hugging Face Endpoints",
+    "GCP Vertex AI",
+    "Azure ML",
+    "Bedrock",
+    "RAG",
+    "Feature Engineering",
+    "Prompt Engineering",
+    "Deep Learning"
+  ],
+  "companies": [
+    "DeployFast",
+    "TechFlow AI"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "ML Engineer"
+  ],
+  "universities": [
+    "Technion"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 55,
+    "tier": "T4",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:57.988869",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

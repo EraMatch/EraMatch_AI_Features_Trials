@@ -1,0 +1,287 @@
+{
+  "full_name": "Heather Bullock",
+  "email": "heather.bullock@bullock.dev",
+  "location": "South Devin, India",
+  "years_of_experience": 5.5,
+  "seniority_level": "senior",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Heather Bullock",
+    "email": "heather.bullock@bullock.dev",
+    "phone": "250.568.8712",
+    "location": "South Devin, India",
+    "linkedin_url": "https://linkedin.com/in/heather-bullock",
+    "github_url": "https://github.com/heatherbullock",
+    "portfolio_url": "https://heatherbullock.dev"
+  },
+  "summary": "Senior product management engineer with 5 years of experience architecting and delivering enterprise solutions. Expert in R, SQL, JavaScript with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Technical PM",
+      "title": "Technical PM",
+      "start_date": "2023-12",
+      "end_date": "Present",
+      "duration": "2023-12 \u2013 Present",
+      "duration_months": 29,
+      "description": "Implemented A/B testing using Mixpanel, running 10000+ experiments\nDeveloped product roadmap using Mixpanel, prioritizing 5000+ features\nLed product development using Mixpanel, launching features used by 100000+ users\nBuilt customer feedback system using Amplitude, collecting 100000+ insights",
+      "technologies": [
+        "Azure",
+        "Mixpanel",
+        "Amplitude"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2020-11",
+      "end_date": "2023-12",
+      "duration": "2020-11 \u2013 2023-12",
+      "duration_months": 37,
+      "description": "Led product development using JavaScript, launching features used by 5000+ users\nImplemented product analytics using OKRs, tracking 10000+ metrics\nCreated product backlog using AWS, managing 1000+ user stories\nCreated product backlog using AWS, managing 50000+ user stories",
+      "technologies": [
+        "JavaScript",
+        "Azure",
+        "Agile",
+        "OKRs",
+        "AWS",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "B.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Innovation Lab"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "M.Sc.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019",
+      "gpa": "3.08",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Notion",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Product Discovery",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmap Planning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "OKRs",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "User Research",
+      "description": "Implemented A/B Testing Framework using R, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "JavaScript",
+        "SQL",
+        "R"
+      ],
+      "url": "https://github.com/synthetic-product_management-98-0",
+      "date": "2020"
+    },
+    {
+      "name": "Feature Prioritization",
+      "description": "Built Customer Feedback System using Confluence and Notion, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "JavaScript",
+        "Confluence",
+        "Notion"
+      ],
+      "url": "https://github.com/synthetic-product_management-98-1",
+      "date": "2020"
+    },
+    {
+      "name": "Product Documentation",
+      "description": "Created User Onboarding Flow leveraging JavaScript for core functionality and SQL for optimization",
+      "technologies": [
+        "SQL",
+        "JavaScript",
+        "R"
+      ],
+      "url": "https://github.com/synthetic-product_management-98-2",
+      "date": "2023"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Product Management Certificate",
+      "issuer": "Product School",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Innovation Award \u2014 MLH 2022",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "SQL",
+    "JavaScript",
+    "Notion",
+    "Confluence",
+    "Figma",
+    "Miro",
+    "MySQL",
+    "BigQuery",
+    "Snowflake",
+    "PostgreSQL",
+    "AWS",
+    "GCP",
+    "Kanban",
+    "Scrum",
+    "Product Discovery",
+    "Roadmap Planning",
+    "Agile"
+  ],
+  "companies": [
+    "Notion",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "Technical PM",
+    "Product Manager"
+  ],
+  "universities": [
+    "University of Edinburgh",
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 98,
+    "tier": "T4",
+    "domain": "product_management",
+    "generated_at": "2026-05-31T02:32:45.441073",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

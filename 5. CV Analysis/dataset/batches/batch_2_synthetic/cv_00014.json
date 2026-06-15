@@ -1,0 +1,377 @@
+{
+  "full_name": "Laurie Hill",
+  "email": "laurie.hill@hill.dev",
+  "location": "South Meganfort, Germany",
+  "years_of_experience": 10.8,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Laurie Hill",
+    "email": "laurie.hill@hill.dev",
+    "phone": "+1-511-357-0398x2024",
+    "location": "South Meganfort, Germany",
+    "linkedin_url": "https://linkedin.com/in/laurie-hill",
+    "github_url": "https://github.com/lauriehill",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, Kotlin, and PHP. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2024-11",
+      "end_date": "Present",
+      "duration": "2024-11 \u2013 Present",
+      "duration_months": 18,
+      "description": "Built event-driven architecture using Railway, processing 50000+ events daily\nArchitected and built RESTful APIs serving 10000+ requests/day using GCP, reducing response time by 20%\nOptimized database queries using LlamaIndex, improving query performance by 37%\nCreated authentication and authorization system using GCP, securing 100000+ user accounts",
+      "technologies": [
+        "AWS",
+        "LlamaIndex",
+        "GCP",
+        "Railway",
+        "MySQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2022-12",
+      "end_date": "2024-10",
+      "duration": "2022-12 \u2013 2024-10",
+      "duration_months": 22,
+      "description": "Optimized database queries using Scrum, improving query performance by 33%\nDesigned and implemented microservices architecture using Replicate, handling 100+ concurrent users",
+      "technologies": [
+        "Replicate",
+        "Scrum",
+        "OpenAI API",
+        "Elasticsearch"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2019-04",
+      "end_date": "2022-09",
+      "duration": "2019-04 \u2013 2022-09",
+      "duration_months": 41,
+      "description": "Mentored team of 5 junior developers on CI/CD best practices\nCreated authentication and authorization system using Hugging Face, securing 10000+ user accounts\nReduced infrastructure costs by 38% through optimization using MySQL",
+      "technologies": [
+        "MySQL",
+        "CI/CD",
+        "Hugging Face"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2017-08",
+      "end_date": "2019-01",
+      "duration": "2017-08 \u2013 2019-01",
+      "duration_months": 17,
+      "description": "Implemented caching layer with Claude API, reducing database load by 16%\nBuilt automated CI/CD pipelines with Claude API, reducing deployment time by 27%",
+      "technologies": [
+        "CI/CD",
+        "Claude API",
+        "Ruby",
+        "GraphQL"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2014-12",
+      "end_date": "2017-08",
+      "duration": "2014-12 \u2013 2017-08",
+      "duration_months": 32,
+      "description": "Developed real-time data processing pipeline using Python, handling 500+ users/second\nBuilt event-driven architecture using Docker, processing 500+ events daily\nImplemented caching layer with Docker, reducing database load by 38%\nBuilt event-driven architecture using Python, processing 5000+ events daily",
+      "technologies": [
+        "Redis",
+        "Python",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "B.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": "ACM Club"
+    },
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rails",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "GraphQL Server",
+      "description": "Built Auth Service using LlamaIndex and Python, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Rails",
+        "LlamaIndex",
+        "Python"
+      ],
+      "url": "https://github.com/synthetic-backend-14-0",
+      "date": "2019"
+    },
+    {
+      "name": "File Processing Service",
+      "description": "Created REST API Framework leveraging Python for core functionality and Spring Boot for optimization",
+      "technologies": [
+        "Spring Boot",
+        "Python",
+        "Java"
+      ],
+      "url": "https://github.com/synthetic-backend-14-1",
+      "date": "2019"
+    },
+    {
+      "name": "Search Engine",
+      "description": "Developed API Gateway using Rails, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "LlamaIndex",
+        "Rails",
+        "Spring Boot"
+      ],
+      "url": "https://github.com/synthetic-backend-14-2",
+      "date": "2020"
+    },
+    {
+      "name": "REST API Framework",
+      "description": "Developed Database Proxy using Spring Boot, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Java",
+        "LangChain",
+        "Spring Boot"
+      ],
+      "url": "https://github.com/synthetic-backend-14-3",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Dutch (Conversational)",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "Kotlin",
+    "PHP",
+    "Java",
+    "LlamaIndex",
+    "LangChain",
+    "Spring Boot",
+    "Rails",
+    "Cassandra",
+    "Supabase",
+    "Neon",
+    "Kafka",
+    "Git",
+    "Kubernetes",
+    "Jenkins",
+    "AWS",
+    "Heroku",
+    "Anthropic",
+    "OpenAI API",
+    "AWS Bedrock",
+    "Google Gemini",
+    "GraphQL",
+    "Microservices"
+  ],
+  "companies": [
+    "Figma",
+    "Twilio",
+    "HashiCorp",
+    "ResumeAI",
+    "Palantir"
+  ],
+  "job_titles": [
+    "Backend Developer",
+    "Backend Developer",
+    "Server-Side Developer",
+    "API Developer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "Georgia Tech",
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 14,
+    "tier": "T5",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:31:03.841831",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

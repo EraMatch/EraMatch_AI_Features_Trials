@@ -1,0 +1,418 @@
+{
+  "full_name": "Robert Mcmahon",
+  "email": "robert.mcmahon@outlook.com",
+  "location": "Angelamouth, France",
+  "years_of_experience": 6.2,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Robert Mcmahon",
+    "email": "robert.mcmahon@outlook.com",
+    "phone": "752.864.7073x71512",
+    "location": "Angelamouth, France",
+    "linkedin_url": "https://linkedin.com/in/robert-mcmahon",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in devops / sre / mlops with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Go, PowerShell, Rust.",
+  "work_experience": [
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 \u2013 Present",
+      "duration_months": 26,
+      "description": "Established chaos engineering practices using Oracle Cloud, improving system resilience\nBuilt CI/CD pipelines using Infrastructure as Code, reducing deployment time from 29s to 122ms\nBuilt automated backup solution using Prometheus, ensuring 50000% data protection",
+      "technologies": [
+        "Triton Inference Server",
+        "Prometheus",
+        "Oracle Cloud",
+        "Infrastructure as Code",
+        "Azure DevOps"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2020-10",
+      "end_date": "2023-10",
+      "duration": "2020-10 \u2013 2023-10",
+      "duration_months": 36,
+      "description": "Built CI/CD pipelines using AWS, reducing deployment time from 7s to 256ms\nOptimized cloud infrastructure using VictoriaMetrics, reducing costs by 27%\nBuilt CI/CD pipelines using AWS, reducing deployment time from 29s to 270ms",
+      "technologies": [
+        "Hetzner",
+        "VictoriaMetrics",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2019-09",
+      "end_date": "2020-09",
+      "duration": "2019-09 \u2013 2020-09",
+      "duration_months": 12,
+      "description": "Built automated backup solution using Helm, ensuring 500% data protection\nImplemented security scanning using ArgoCD, identifying 5000+ vulnerabilities\nBuilt CI/CD pipelines using VictoriaMetrics, reducing deployment time from 5s to 132ms\nImplemented log aggregation using VictoriaMetrics, processing 100000+ logs/day",
+      "technologies": [
+        "DigitalOcean",
+        "VictoriaMetrics",
+        "ArgoCD",
+        "Helm"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2020",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    },
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "M.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Skopeo",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ELK Stack",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hetzner",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Secrets Management",
+      "description": "Built Container Registry with Rust and PowerShell, serving 10,000+ daily active users",
+      "technologies": [
+        "Rust",
+        "PowerShell",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-devops-60-0",
+      "date": "2021"
+    },
+    {
+      "name": "Auto-scaling Solution",
+      "description": "Designed and implemented Disaster Recovery System with Go, integrating with PowerShell for seamless data flow",
+      "technologies": [
+        "PowerShell",
+        "Rust",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-devops-60-1",
+      "date": "2023"
+    },
+    {
+      "name": "Container Registry",
+      "description": "Built Kubernetes Cluster using PowerShell and Go, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Rust",
+        "PowerShell",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-devops-60-2",
+      "date": "2025"
+    },
+    {
+      "name": "Log Aggregation Platform",
+      "description": "Developed Infrastructure as Code using PowerShell, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Rust",
+        "Go",
+        "PowerShell"
+      ],
+      "url": "https://github.com/synthetic-devops-60-3",
+      "date": "2025"
+    },
+    {
+      "name": "CI/CD Pipeline",
+      "description": "Implemented Monitoring System using PowerShell, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Rust",
+        "Go",
+        "PowerShell"
+      ],
+      "url": "https://github.com/synthetic-devops-60-4",
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Azure Administrator Associate",
+      "issuer": "Microsoft",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Its teacher dog than near community south environment large\" \u2014 EMNLP 2023",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place \u2014 MLH 2025",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "PowerShell",
+    "Rust",
+    "Ansible",
+    "Terraform",
+    "CloudFormation",
+    "CDK",
+    "Docker",
+    "Skopeo",
+    "Linkerd",
+    "Istio",
+    "Envoy",
+    "CircleCI",
+    "Tekton",
+    "Azure DevOps",
+    "Opsgenie",
+    "Prometheus",
+    "ELK Stack",
+    "Grafana",
+    "Datadog",
+    "DigitalOcean",
+    "Linode",
+    "Hetzner",
+    "Alibaba Cloud",
+    "Oracle Cloud",
+    "MLflow",
+    "Kale",
+    "Seldon",
+    "Incident Management",
+    "Chaos Engineering",
+    "GitOps",
+    "Infrastructure as Code"
+  ],
+  "companies": [
+    "Stripe",
+    "Amazon",
+    "Salesforce"
+  ],
+  "job_titles": [
+    "DevOps Engineer",
+    "MLOps Engineer",
+    "MLOps Engineer"
+  ],
+  "universities": [
+    "Columbia University",
+    "Columbia University"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 60,
+    "tier": "T5",
+    "domain": "devops",
+    "generated_at": "2026-05-31T02:32:03.905556",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

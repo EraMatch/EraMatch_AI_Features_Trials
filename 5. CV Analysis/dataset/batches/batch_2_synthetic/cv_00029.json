@@ -1,0 +1,328 @@
+{
+  "full_name": "Patty Wright",
+  "email": "patty.wright@outlook.com",
+  "location": "East Chloeview, Singapore",
+  "years_of_experience": 9.1,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Patty Wright",
+    "email": "patty.wright@outlook.com",
+    "phone": "001-349-707-9375x71790",
+    "location": "East Chloeview, Singapore",
+    "linkedin_url": "https://linkedin.com/in/patty-wright",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead frontend engineering professional with 9 years driving technical strategy and team excellence. Expert in CSS, Dart, Material UI with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2025-08",
+      "end_date": "Present",
+      "duration": "2025-08 \u2013 Present",
+      "duration_months": 9,
+      "description": "Optimized frontend bundle size using Remix, reducing load time by 65%\nIntegrated third-party APIs using Accessibility (WCAG), reducing integration time by 61%\nIntegrated third-party APIs using Python, reducing integration time by 33%",
+      "technologies": [
+        "Remix",
+        "Python",
+        "Accessibility (WCAG)",
+        "Git",
+        "Supabase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2021-11",
+      "end_date": "2025-04",
+      "duration": "2021-11 \u2013 2025-04",
+      "duration_months": 41,
+      "description": "Implemented state management solution using Python, reducing API calls by 47%\nIntegrated third-party APIs using Python, reducing integration time by 60%",
+      "technologies": [
+        "Python",
+        "Vite",
+        "IndexedDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2019-03",
+      "end_date": "2021-07",
+      "duration": "2019-03 \u2013 2021-07",
+      "duration_months": 28,
+      "description": "Built real-time collaboration features using Supabase, serving 100000+ concurrent users\nBuilt interactive data visualizations using CSS, serving 5000+ daily users\nImplemented automated testing framework using React, achieving 58% code coverage",
+      "technologies": [
+        "CSS",
+        "React",
+        "Supabase",
+        "Svelte",
+        "Cloudflare Pages"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2017-12",
+      "end_date": "2019-01",
+      "duration": "2017-12 \u2013 2019-01",
+      "duration_months": 13,
+      "description": "Developed responsive web applications using Dart, improving page load time by 59%\nDeveloped responsive web applications using TypeScript, improving page load time by 33%\nCreated accessible UI components using Jest, achieving WCAG AA compliance\nDeveloped responsive web applications using TypeScript, improving page load time by 46%",
+      "technologies": [
+        "Dart",
+        "Firebase",
+        "Jest",
+        "Next.js",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2015-12",
+      "end_date": "2017-06",
+      "duration": "2015-12 \u2013 2017-06",
+      "duration_months": 18,
+      "description": "Developed responsive web applications using Svelte, improving page load time by 43%\nIntegrated third-party APIs using Progressive Web Apps, reducing integration time by 62%\nImplemented automated testing framework using Svelte, achieving 32% code coverage",
+      "technologies": [
+        "Vue.js",
+        "Progressive Web Apps",
+        "Svelte"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Content Management UI",
+      "description": "Created E-commerce Platform leveraging Dart for core functionality and Svelte for optimization",
+      "technologies": [
+        "Dart",
+        "Svelte",
+        "Next.js"
+      ],
+      "url": "https://github.com/synthetic-frontend-29-0",
+      "date": "2020"
+    },
+    {
+      "name": "Admin Panel",
+      "description": "Developed Content Management UI using Material UI, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "CSS",
+        "Material UI",
+        "Next.js"
+      ],
+      "url": "https://github.com/synthetic-frontend-29-1",
+      "date": "2022"
+    },
+    {
+      "name": "Progressive Web App",
+      "description": "Built SPA Framework using Dart and CSS, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Svelte",
+        "CSS",
+        "Dart"
+      ],
+      "url": "https://github.com/synthetic-frontend-29-2",
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Allen, Allen and Cooper Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "CSS",
+    "Dart",
+    "Material UI",
+    "Next.js",
+    "Svelte",
+    "Figma",
+    "Storybook",
+    "Prettier",
+    "Vite",
+    "Git",
+    "PostgreSQL",
+    "Firebase",
+    "Vercel",
+    "AWS Amplify",
+    "Render",
+    "Cloudflare Pages",
+    "Netlify",
+    "Responsive Design",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "Spotify",
+    "PromptStack",
+    "Confluent",
+    "Twilio",
+    "Amazon"
+  ],
+  "job_titles": [
+    "React Developer",
+    "Full-Stack Developer",
+    "React Developer",
+    "React Developer",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 29,
+    "tier": "T2",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:25.741487",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

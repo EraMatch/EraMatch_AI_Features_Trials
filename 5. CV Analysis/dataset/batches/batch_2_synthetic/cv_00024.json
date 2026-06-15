@@ -1,0 +1,302 @@
+{
+  "full_name": "Mary Valentine",
+  "email": "mary.valentine@yahoo.com",
+  "location": "Cynthiashire, UAE",
+  "years_of_experience": 1.2,
+  "seniority_level": "junior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Mary Valentine",
+    "email": "mary.valentine@yahoo.com",
+    "phone": "(868)938-7892x46332",
+    "location": "Cynthiashire, UAE",
+    "linkedin_url": null,
+    "github_url": "https://github.com/maryvalentine",
+    "portfolio_url": null
+  },
+  "summary": "Junior frontend engineering developer with 1 years of experience building applications using JavaScript, CSS, Python. Committed to writing clean, maintainable code.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2025-03",
+      "end_date": "Present",
+      "duration": "2025-03 \u2013 Present",
+      "duration_months": 14,
+      "description": "Optimized frontend bundle size using Render, reducing load time by 20%\nImplemented automated testing framework using Git, achieving 35% code coverage\nImproved website accessibility score to 59% using Render",
+      "technologies": [
+        "Firebase",
+        "Git",
+        "Render"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2023",
+      "gpa": "3.14",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Dashboard Application",
+      "description": "Designed and implemented UI Design System with Next.js, integrating with Astro for seamless data flow",
+      "technologies": [
+        "Astro",
+        "TypeScript",
+        "Next.js"
+      ],
+      "url": "https://github.com/synthetic-frontend-24-0",
+      "date": "2024"
+    },
+    {
+      "name": "Data Visualization Tool",
+      "description": "Built Mobile Web App using Astro and Next.js, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Astro",
+        "Next.js",
+        "CSS"
+      ],
+      "url": "https://github.com/synthetic-frontend-24-1",
+      "date": "2021"
+    },
+    {
+      "name": "Admin Panel",
+      "description": "Designed and implemented Content Management UI with Astro, integrating with CSS for seamless data flow",
+      "technologies": [
+        "Next.js",
+        "CSS",
+        "Astro"
+      ],
+      "url": "https://github.com/synthetic-frontend-24-2",
+      "date": "2020"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Implemented Data Visualization Tool using TypeScript, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Remix",
+        "Next.js",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-frontend-24-3",
+      "date": "2023"
+    },
+    {
+      "name": "Real-time Chat",
+      "description": "Developed Progressive Web App using HTML, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "HTML",
+        "Astro"
+      ],
+      "url": "https://github.com/synthetic-frontend-24-4",
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "React Certified Developer",
+      "issuer": "React",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award \u2014 Company Internal 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "CSS",
+    "Python",
+    "TypeScript",
+    "HTML",
+    "Next.js",
+    "Astro",
+    "Tailwind CSS",
+    "Remix",
+    "Jest",
+    "Playwright",
+    "Figma",
+    "ESLint",
+    "Supabase",
+    "IndexedDB",
+    "Firebase",
+    "MongoDB",
+    "Vercel",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Netlify",
+    "Render",
+    "Component-Driven Development",
+    "Responsive Design",
+    "Agile"
+  ],
+  "companies": [
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "React Developer"
+  ],
+  "universities": [
+    "McGill University"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 24,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:17.610997",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

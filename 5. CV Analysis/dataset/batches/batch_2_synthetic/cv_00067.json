@@ -1,0 +1,391 @@
+{
+  "full_name": "Mark Torres",
+  "email": "mark.torres@yahoo.com",
+  "location": "Steeleview, Germany",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mark Torres",
+    "email": "mark.torres@yahoo.com",
+    "phone": "001-691-409-7952x9988",
+    "location": "Steeleview, Germany",
+    "linkedin_url": "https://linkedin.com/in/mark-torres",
+    "github_url": "https://github.com/marktorres",
+    "portfolio_url": null
+  },
+  "summary": "Senior devops / sre / mlops engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in HCL, Python, PowerShell with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "SRE",
+      "title": "SRE",
+      "start_date": "2025-10",
+      "end_date": "Present",
+      "duration": "2025-10 \u2013 Present",
+      "duration_months": 7,
+      "description": "Built disaster recovery solution using MLOps, achieving RTO of 449ms\nEstablished GitOps workflows using CircleCI, improving deployment frequency by 28%\nImplemented log aggregation using Crossplane, processing 5000+ logs/day\nBuilt disaster recovery solution using MLOps, achieving RTO of 199ms",
+      "technologies": [
+        "Crossplane",
+        "CircleCI",
+        "MLflow",
+        "MLOps",
+        "Kale"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2024-04",
+      "end_date": "2025-07",
+      "duration": "2024-04 \u2013 2025-07",
+      "duration_months": 15,
+      "description": "Built automated backup solution using Kubernetes, ensuring 1000% data protection\nCreated monitoring and alerting system using Platform Engineering, reducing MTTR by 27%\nImplemented container orchestration using Platform Engineering, managing 50000+ containers\nBuilt CI/CD pipelines using Jenkins, reducing deployment time from 4s to 62ms",
+      "technologies": [
+        "Kubernetes",
+        "Jenkins",
+        "Platform Engineering",
+        "PagerDuty",
+        "HCL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "MLOps Engineer",
+      "title": "MLOps Engineer",
+      "start_date": "2021-05",
+      "end_date": "2024-03",
+      "duration": "2021-05 \u2013 2024-03",
+      "duration_months": 34,
+      "description": "Implemented log aggregation using Platform Engineering, processing 10000+ logs/day\nCreated monitoring and alerting system using Azure, reducing MTTR by 50%",
+      "technologies": [
+        "Azure",
+        "Hetzner",
+        "Platform Engineering",
+        "TensorFlow Serving",
+        "Grafana"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2017-11",
+      "end_date": "2020-12",
+      "duration": "2017-11 \u2013 2020-12",
+      "duration_months": 37,
+      "description": "Created self-service provisioning portal using GitOps, serving 1000+ engineers\nEstablished chaos engineering practices using VictoriaMetrics, improving system resilience\nBuilt automated backup solution using Infrastructure as Code, ensuring 50000% data protection",
+      "technologies": [
+        "GitOps",
+        "VictoriaMetrics",
+        "Grafana",
+        "Infrastructure as Code",
+        "Helm"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2019",
+      "gpa": "3.24",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "K3s",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Grafana",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TorchServe",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Chaos Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Monitoring System",
+      "description": "Built Container Registry using HCL and Python, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "HCL",
+        "Go",
+        "Python"
+      ],
+      "url": "https://github.com/synthetic-devops-67-0",
+      "date": "2025"
+    },
+    {
+      "name": "Secrets Management",
+      "description": "Designed and implemented Secrets Management with Rust, integrating with PowerShell for seamless data flow",
+      "technologies": [
+        "HCL",
+        "PowerShell",
+        "Rust"
+      ],
+      "url": "https://github.com/synthetic-devops-67-1",
+      "date": "2024"
+    },
+    {
+      "name": "Observability Dashboard",
+      "description": "Designed and implemented Monitoring System with HCL, integrating with Python for seamless data flow",
+      "technologies": [
+        "HCL",
+        "Python",
+        "Rust"
+      ],
+      "url": "https://github.com/synthetic-devops-67-2",
+      "date": "2021"
+    },
+    {
+      "name": "Chaos Engineering Framework",
+      "description": "Designed Auto-scaling Solution leveraging HCL microservices architecture with Python for caching",
+      "technologies": [
+        "Rust",
+        "HCL",
+        "Python"
+      ],
+      "url": "https://github.com/synthetic-devops-67-3",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Hall, Castaneda and Chambers Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HCL",
+    "Python",
+    "PowerShell",
+    "Go",
+    "Rust",
+    "ArgoCD",
+    "Pulumi",
+    "Crossplane",
+    "K3s",
+    "Buildah",
+    "Envoy",
+    "Docker",
+    "Argo Workflows",
+    "Azure DevOps",
+    "Grafana",
+    "Thanos",
+    "PagerDuty",
+    "GCP",
+    "Azure",
+    "AWS",
+    "TorchServe",
+    "MLflow",
+    "TensorFlow Serving",
+    "Kale",
+    "Triton Inference Server",
+    "Chaos Engineering",
+    "Zero Trust",
+    "MLOps",
+    "GitOps"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "ScaleGrid",
+    "DeployFast",
+    "Confluent"
+  ],
+  "job_titles": [
+    "SRE",
+    "MLOps Engineer",
+    "MLOps Engineer",
+    "DevOps Engineer"
+  ],
+  "universities": [
+    "University of Washington"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 67,
+    "tier": "T2",
+    "domain": "devops",
+    "generated_at": "2026-05-31T02:32:10.048628",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

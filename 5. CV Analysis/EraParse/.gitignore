@@ -1,0 +1,54 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Data and generated manifests
+eramatch_benchmark_v4/
+data/
+manifests/
+splits/
+
+# Experiments and model artifacts
+runs/
+reports/generated/
+checkpoints/
+/models/
+outputs/
+# Large artifacts committed separately as zips — keep dirs for structure
+artifacts/adapters/
+artifacts/sge/checkpoints/
+artifacts/representations/
+artifacts/trials/
+artifacts/evidence/
+artifacts/sft/
+artifacts/python-arm/
+artifacts/tmp/
+*.duckdb
+*.duckdb.wal
+coverage.xml
+.coverage
+htmlcov/
+
+# Model and tool caches
+.cache/
+huggingface/
+hf_cache/
+docling_cache/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+.serena/

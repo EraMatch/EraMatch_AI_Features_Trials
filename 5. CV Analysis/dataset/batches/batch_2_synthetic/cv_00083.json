@@ -1,0 +1,321 @@
+{
+  "full_name": "Pamela Jensen",
+  "email": "pamela.jensen@protonmail.com",
+  "location": "Christopherview, UK",
+  "years_of_experience": 8.7,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Pamela Jensen",
+    "email": "pamela.jensen@protonmail.com",
+    "phone": "001-728-747-6879x40651",
+    "location": "Christopherview, UK",
+    "linkedin_url": null,
+    "github_url": "https://github.com/pamelajensen",
+    "portfolio_url": "https://pamelajensen.dev"
+  },
+  "summary": "Senior technical leader specializing in mobile development with expertise in Kotlin, Objective-C, C++. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 \u2013 Present",
+      "duration_months": 26,
+      "description": "Created app analytics tracking using SwiftUI, providing insights on 500+ users\nImplemented biometric authentication using TypeScript, securing 50000+ user accounts\nBuilt AR/VR features using TypeScript, increasing user retention by 32%\nOptimized app performance using SwiftUI, reducing battery consumption by 65%",
+      "technologies": [
+        "SwiftUI",
+        "TypeScript",
+        "Flutter"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2021-07",
+      "end_date": "2024-03",
+      "duration": "2021-07 \u2013 2024-03",
+      "duration_months": 32,
+      "description": "Built AR/VR features using Core Data, increasing user retention by 68%\nDeveloped cross-platform solution using Fastlane, reducing development time by 20%\nImplemented biometric authentication using Core Data, securing 100+ user accounts\nImplemented app streaming using Fastlane, reducing download size by 26%",
+      "technologies": [
+        "Core Data",
+        "Android Studio",
+        "Fastlane",
+        "Dart"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2017-08",
+      "end_date": "2021-06",
+      "duration": "2017-08 \u2013 2021-06",
+      "duration_months": 46,
+      "description": "Implemented deep linking using Swift, improving conversion rates by 21%\nCreated in-app purchase integration using Core Data, generating 100+ in revenue\nDeveloped cross-platform solution using Swift, reducing development time by 54%\nBuilt AR/VR features using Android Studio, increasing user retention by 67%",
+      "technologies": [
+        "Swift",
+        "Android Studio",
+        "Core Data"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2015",
+      "gpa": "3.21",
+      "activities": "Flutter Community"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2016",
+      "gpa": "3.42",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cross-platform SDK",
+      "description": "Designed and implemented iOS Application with Kotlin, integrating with Expo for seamless data flow",
+      "technologies": [
+        "Kotlin",
+        "SwiftUI",
+        "Expo"
+      ],
+      "url": "https://github.com/synthetic-mobile-83-0",
+      "date": "2024"
+    },
+    {
+      "name": "React Native App",
+      "description": "Built Mobile CI/CD with Objective-C and C++, serving 10,000+ daily active users",
+      "technologies": [
+        "SwiftUI",
+        "Objective-C",
+        "C++"
+      ],
+      "url": "https://github.com/synthetic-mobile-83-1",
+      "date": "2024"
+    },
+    {
+      "name": "Mobile CI/CD",
+      "description": "Built Flutter App with Expo and SwiftUI, serving 10,000+ daily active users",
+      "technologies": [
+        "Expo",
+        "Objective-C",
+        "SwiftUI"
+      ],
+      "url": "https://github.com/synthetic-mobile-83-2",
+      "date": "2023"
+    },
+    {
+      "name": "App Analytics",
+      "description": "Developed Mobile Backend API using Kotlin, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "C++",
+        "Objective-C",
+        "Kotlin"
+      ],
+      "url": "https://github.com/synthetic-mobile-83-3",
+      "date": "2024"
+    },
+    {
+      "name": "Push Notification Service",
+      "description": "Created App Store Optimization leveraging Kotlin for core functionality and Java for optimization",
+      "technologies": [
+        "SwiftUI",
+        "Kotlin",
+        "Java"
+      ],
+      "url": "https://github.com/synthetic-mobile-83-4",
+      "date": "2024"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Rock climbing",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Kotlin",
+    "Objective-C",
+    "C++",
+    "Java",
+    "Expo",
+    "SwiftUI",
+    "CocoaPods",
+    "Xcode",
+    "TestFlight",
+    "Core Data",
+    "SQLite",
+    "AWS Amplify",
+    "Supabase",
+    "RevenueCat",
+    "Firebase",
+    "MVVM",
+    "Clean Architecture",
+    "CI/CD for Mobile",
+    "Offline-First"
+  ],
+  "companies": [
+    "Salesforce",
+    "ScaleGrid",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "Flutter Developer",
+    "React Native Developer",
+    "Android Developer"
+  ],
+  "universities": [
+    "IIT Bombay",
+    "TU Munich"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 83,
+    "tier": "T2",
+    "domain": "mobile",
+    "generated_at": "2026-05-31T02:32:25.653160",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

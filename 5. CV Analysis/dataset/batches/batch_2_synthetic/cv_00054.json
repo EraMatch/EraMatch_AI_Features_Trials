@@ -1,0 +1,381 @@
+{
+  "full_name": "Brandon Monroe",
+  "email": "brandon.monroe@outlook.com",
+  "location": "East Daniel, USA",
+  "years_of_experience": 15.8,
+  "seniority_level": "principal",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Brandon Monroe",
+    "email": "brandon.monroe@outlook.com",
+    "phone": "+1-388-901-8595x857",
+    "location": "East Daniel, USA",
+    "linkedin_url": "https://linkedin.com/in/brandon-monroe",
+    "github_url": "https://github.com/brandonmonroe",
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 15 years shaping data science / ml / ai practice. Deep expertise in Go, Scala, Julia and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2024-12",
+      "end_date": "Present",
+      "duration": "2024-12 \u2013 Present",
+      "duration_months": 17,
+      "description": "Built ML model serving infrastructure using Spark, handling 1000+ predictions/day\nCreated recommendation system using Spark, increasing user engagement by 34%\nDeveloped data visualization tools using LLM Evaluation, used by 500+ analysts\nBuilt real-time analytics dashboard using LangChain, used by 100000+ stakeholders",
+      "technologies": [
+        "LangChain",
+        "MongoDB",
+        "LLM Evaluation",
+        "Pinecone",
+        "Spark"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2020-08",
+      "end_date": "2024-09",
+      "duration": "2020-08 \u2013 2024-09",
+      "duration_months": 49,
+      "description": "Built ML model serving infrastructure using OpenCV, handling 500+ predictions/day\nDeveloped ML models using OpenCV, improving prediction accuracy by 49%",
+      "technologies": [
+        "Python",
+        "OpenAI API",
+        "Keras",
+        "OpenCV",
+        "MLflow",
+        "Computer Vision"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2016-08",
+      "end_date": "2020-08",
+      "duration": "2016-08 \u2013 2020-08",
+      "duration_months": 48,
+      "description": "Built ML model serving infrastructure using TensorFlow, handling 1000+ predictions/day\nDeveloped computer vision models using TensorFlow, achieving 33% accuracy",
+      "technologies": [
+        "MLflow",
+        "Vector Databases",
+        "TensorFlow",
+        "Azure ML"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "ResumeAI",
+      "organization": "ResumeAI",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2012-04",
+      "end_date": "2016-02",
+      "duration": "2012-04 \u2013 2016-02",
+      "duration_months": 46,
+      "description": "Built ML model serving infrastructure using BigQuery, handling 5000+ predictions/day\nCreated recommendation system using Hugging Face Endpoints, increasing user engagement by 63%\nDesigned data warehousing solution using Hugging Face Endpoints, enabling analytics on 5000+ records",
+      "technologies": [
+        "BigQuery",
+        "Hugging Face Endpoints",
+        "Computer Vision",
+        "Statistical Modeling",
+        "MongoDB"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2009-07",
+      "end_date": "2012-01",
+      "duration": "2009-07 \u2013 2012-01",
+      "duration_months": 30,
+      "description": "Built real-time analytics dashboard using Feature Engineering, used by 100+ stakeholders\nEstablished MLOps practices using MongoDB, reducing model deployment time by 24%",
+      "technologies": [
+        "Feature Engineering",
+        "Bedrock",
+        "A/B Testing",
+        "MongoDB",
+        "Airflow",
+        "Weights & Biases"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2008",
+      "gpa": "3.06",
+      "activities": "Research Assistant - ML Lab"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ChromaDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anomaly Detection System",
+      "description": "Developed Feature Store using Go, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Scala",
+        "Go",
+        "Julia"
+      ],
+      "url": "https://github.com/synthetic-data_science-54-0",
+      "date": "2025"
+    },
+    {
+      "name": "Computer Vision System",
+      "description": "Created NLP Text Analyzer leveraging Julia for core functionality and MATLAB for optimization",
+      "technologies": [
+        "Go",
+        "MATLAB",
+        "Julia"
+      ],
+      "url": "https://github.com/synthetic-data_science-54-1",
+      "date": "2020"
+    },
+    {
+      "name": "A/B Testing Framework",
+      "description": "Built A/B Testing Framework with Scala and MATLAB, serving 10,000+ daily active users",
+      "technologies": [
+        "Go",
+        "Scala",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-54-2",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Scala",
+    "Julia",
+    "SQL",
+    "MATLAB",
+    "Hugging Face",
+    "LlamaIndex",
+    "Scikit-learn",
+    "XGBoost",
+    "OpenCV",
+    "Kubeflow",
+    "Neptune",
+    "Polars",
+    "Pandas",
+    "Databricks",
+    "PostgreSQL",
+    "ChromaDB",
+    "Pinecone",
+    "Weaviate",
+    "Bedrock",
+    "Hugging Face Endpoints",
+    "Azure ML",
+    "Vector Databases",
+    "Fine-tuning",
+    "NLP",
+    "Computer Vision",
+    "Prompt Engineering"
+  ],
+  "companies": [
+    "ResumeAI",
+    "Apple",
+    "HashiCorp",
+    "ResumeAI",
+    "Tesla"
+  ],
+  "job_titles": [
+    "Research Scientist",
+    "AI Product Engineer",
+    "AI Product Engineer",
+    "LLM Engineer",
+    "NLP Engineer"
+  ],
+  "universities": [
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 54,
+    "tier": "T5",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:56.296583",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "full_name": "Ahmed Abdelaziz",
+  "email": "fchatgpt002@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 5.0,
+  "seniority_level": "mid",
+  "primary_domain": "ml_engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ahmed Abdelaziz",
+    "email": "fchatgpt002@gmail.com",
+    "phone": "+20 10 1234 5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/ahmedabdelaziz",
+    "github_url": "https://github.com/ahmedabdelaziz",
+    "portfolio_url": ""
+  },
+  "summary": "Experienced Machine Learning Engineer with over 5 years of hands-on experience in building and deploying scalable AI solutions. Expertise in deep learning, NLP, and MLOps using TensorFlow, PyTorch, and Hugging Face Transformers. Proven track record of delivering impactful models in high-growth tech environments, including Vezeeta, Swvl, and AWS. Passionate about open-source contributions and leveraging state-of-the-art techniques to solve complex problems.",
+  "work_experience": [
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Machine Learning Engineer",
+      "title": null,
+      "start_date": "2019-07",
+      "end_date": "2021-02",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed NLP models for medical entity recognition and symptom-based search using BERT and Hugging Face Transformers, improving patient-doctor matching accuracy by 30%. Built inference pipelines with FastAPI and Docker.",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "Hugging Face Transformers",
+        "spaCy",
+        "FastAPI",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Breadfast",
+      "organization": null,
+      "job_title": "Machine Learning Consultant",
+      "title": null,
+      "start_date": "2021-03",
+      "end_date": "2021-09",
+      "duration": null,
+      "duration_months": null,
+      "description": "Designed demand forecasting models for last-mile delivery optimization, reducing delivery time by 15%. Implemented a recommendation system for personalized product suggestions using TensorFlow and BigQuery.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Keras",
+        "BigQuery",
+        "Pandas",
+        "scikit-learn"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Senior Machine Learning Engineer",
+      "title": null,
+      "start_date": "2021-10",
+      "end_date": "2023-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Led development of deep learning models for dynamic route optimization and demand-supply matching, handling millions of daily trip requests. Deployed models on AWS SageMaker with automated retraining pipelines.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "AWS SageMaker",
+        "Apache Spark",
+        "MLflow",
+        "Kubernetes"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Amazon Web Services (AWS) Egypt",
+      "organization": null,
+      "job_title": "Machine Learning Engineer II",
+      "title": null,
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Collaborate with cross-functional teams to design and implement end-to-end ML solutions for regional clients. Optimize model training and inference performance on SageMaker, and contribute to internal MLOps best practices.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "AWS SageMaker",
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Engineering",
+      "field_of_study": "Computer Engineering",
+      "graduation_date": "2017-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Transformers",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "scikit-learn",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS (SageMaker, EC2, S3)",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD (GitHub Actions, Jenkins)",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jupyter Notebook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Large Language Models (LLM)",
+      "category": "ai_ml",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "thefuck",
+      "description": "Magnificent app which corrects your previous console command.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/nvbn/thefuck",
+      "date": "2026-05"
+    },
+    {
+      "name": "HelloGitHub",
+      "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/521xueweihan/HelloGitHub",
+      "date": "2026-05"
+    },
+    {
+      "name": "superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/apache/superset",
+      "date": "2026-05"
+    },
+    {
+      "name": "ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "date": "2026-05"
+    },
+    {
+      "name": "manim",
+      "description": "Animation engine for explanatory math videos",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/3b1b/manim",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "date": "2020-09",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Machine Learning – Specialty",
+      "issuer": "Amazon Web Services",
+      "date": "2022-04",
+      "credential_id": null
+    },
+    {
+      "name": "Google Cloud Professional Machine Learning Engineer",
+      "issuer": "Google Cloud",
+      "date": "2023-08",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "C++",
+    "SQL",
+    "TensorFlow",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "Keras",
+    "scikit-learn",
+    "AWS (SageMaker, EC2, S3)",
+    "Docker",
+    "Kubernetes",
+    "MLflow",
+    "CI/CD (GitHub Actions, Jenkins)",
+    "Git",
+    "Jupyter Notebook",
+    "NLP",
+    "Deep Learning",
+    "Large Language Models (LLM)"
+  ],
+  "companies": [
+    "Vezeeta",
+    "Breadfast",
+    "Swvl",
+    "Amazon Web Services (AWS) Egypt"
+  ],
+  "job_titles": [
+    "Machine Learning Engineer",
+    "Machine Learning Consultant",
+    "Senior Machine Learning Engineer",
+    "Machine Learning Engineer II"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Engineering"
+  ],
+  "parsing_metadata": {}
+}

@@ -1,0 +1,295 @@
+{
+  "full_name": "Sara Mohamed Abdallah",
+  "email": "fchatgpt002@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 6.0,
+  "seniority_level": "mid",
+  "primary_domain": "ml_engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sara Mohamed Abdallah",
+    "email": "fchatgpt002@gmail.com",
+    "phone": "+20 100 123 4567",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/saramohamed",
+    "github_url": "https://github.com/saramohamed",
+    "portfolio_url": ""
+  },
+  "summary": "Mid-level Machine Learning Engineer with 6 years of experience building, deploying, and optimizing ML models across healthcare, fintech, and developer tools. Active contributor to major open-source projects including TensorFlow, PyTorch, and Hugging Face Transformers. Skilled in end-to-end MLOps pipelines, cloud ML services (AWS, Azure), and large language model fine-tuning. Proven ability to deliver production-grade models that improve business metrics.",
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "organization": null,
+      "job_title": "Machine Learning Engineer",
+      "title": null,
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Develop and maintain ML models for Azure Cognitive Services, focusing on NLP and computer vision APIs. Collaborate with cross-functional teams to integrate models into scalable cloud infrastructure. Reduce model inference latency by 30% through ONNX Runtime optimizations.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Azure ML",
+        "Docker",
+        "Kubernetes"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Machine Learning Engineer",
+      "title": null,
+      "start_date": "2020-06",
+      "end_date": "2021-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built anomaly detection and crash report clustering models for mobile app monitoring platform. Implemented real-time inference pipeline processing over 1M daily events. Increased bug categorization accuracy by 25%.",
+      "technologies": [
+        "Python",
+        "scikit-learn",
+        "TensorFlow",
+        "AWS SageMaker",
+        "Spark",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Data Scientist (ML)",
+      "title": null,
+      "start_date": "2019-01",
+      "end_date": "2020-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Designed recommendation engine and patient no-show prediction system for digital healthcare platform. Conducted A/B tests to validate model impact on user engagement and revenue. Mentored junior team members on ML best practices.",
+      "technologies": [
+        "Python",
+        "R",
+        "SQL",
+        "Spark",
+        "AWS",
+        "Hugging Face Transformers"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Junior Machine Learning Engineer",
+      "title": null,
+      "start_date": "2018-01",
+      "end_date": "2018-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed fraud detection and risk scoring models for digital payments gateway. Automated ETL pipelines and model retraining workflows. Achieved 15% reduction in false positive rate.",
+      "technologies": [
+        "Python",
+        "scikit-learn",
+        "PostgreSQL",
+        "Docker",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Transformers",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Large Language Models (LLM)",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "ai_ml",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "date": "2026-05"
+    },
+    {
+      "name": "awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/vinta/awesome-python",
+      "date": "2026-05"
+    },
+    {
+      "name": "project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "technologies": [],
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "date": "2026-05"
+    },
+    {
+      "name": "Python",
+      "description": "All Algorithms implemented in Python",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/TheAlgorithms/Python",
+      "date": "2026-05"
+    },
+    {
+      "name": "tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/tensorflow/tensorflow",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Machine Learning – Specialty",
+      "issuer": "Amazon Web Services",
+      "date": "2022-05",
+      "credential_id": null
+    },
+    {
+      "name": "Google Professional Machine Learning Engineer",
+      "issuer": "Google Cloud",
+      "date": "2023-03",
+      "credential_id": null
+    },
+    {
+      "name": "Microsoft Certified: Azure Data Scientist Associate",
+      "issuer": "Microsoft",
+      "date": "2021-11",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "C++",
+    "TensorFlow",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "scikit-learn",
+    "MLOps",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Azure",
+    "Spark",
+    "SQL",
+    "Large Language Models (LLM)",
+    "Deep Learning"
+  ],
+  "companies": [
+    "Microsoft",
+    "Instabug",
+    "Vezeeta",
+    "Fawry"
+  ],
+  "job_titles": [
+    "Machine Learning Engineer",
+    "Machine Learning Engineer",
+    "Data Scientist (ML)",
+    "Junior Machine Learning Engineer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

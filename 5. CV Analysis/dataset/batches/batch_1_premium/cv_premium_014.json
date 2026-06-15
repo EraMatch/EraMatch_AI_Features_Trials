@@ -1,0 +1,284 @@
+{
+  "full_name": "Omar Abdel Rahman",
+  "email": "prof.eltholth@gmail.com",
+  "location": "New Cairo, Egypt",
+  "years_of_experience": 8.0,
+  "seniority_level": "senior",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Omar Abdel Rahman",
+    "email": "prof.eltholth@gmail.com",
+    "phone": "+20 10 1234 5678",
+    "location": "New Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/omar-abdel-rahman-8a2b3c4d",
+    "github_url": "https://github.com/omarabdelrahman",
+    "portfolio_url": "https://omarabdelrahman.dev"
+  },
+  "summary": "Senior Fullstack Engineer with over 8 years of experience building scalable, high-performance web applications. Proficient in both frontend (React, TypeScript) and backend (Python, Node.js, Django, Flask) technologies, with a strong focus on modern full-stack frameworks and cloud infrastructure. An active open-source contributor and advocate for clean code and DevOps practices. Experienced in leading engineering teams and delivering end-to-end solutions in fast-paced environments.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Senior Fullstack Engineer",
+      "title": null,
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Led development of cross-platform web dashboards and internal tools for mobile SDK analytics. Designed and implemented RESTful and GraphQL APIs using Node.js and TypeScript. Mentored junior engineers and drove adoption of React, Next.js, and Docker in the frontend stack. Collaborated with DevOps to build CI/CD pipelines and deploy on AWS ECS.",
+      "technologies": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "GraphQL",
+        "Docker",
+        "AWS",
+        "PostgreSQL",
+        "Next.js"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2019-03",
+      "end_date": "2021-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built and maintained core features of the healthcare booking platform serving millions of users. Developed backend services in Python/Django and frontend components with React. Integrated payment gateways, real-time notifications, and third-party APIs. Optimized database queries and migrated legacy monolith to microservices.",
+      "technologies": [
+        "Python",
+        "Django",
+        "React",
+        "JavaScript",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "IBM Egypt",
+      "organization": null,
+      "job_title": "Associate Fullstack Engineer",
+      "title": null,
+      "start_date": "2017-06",
+      "end_date": "2019-02",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to enterprise SaaS solutions for global clients. Developed REST APIs using Java Spring Boot and Angular frontends. Implemented automated testing and CI/CD pipelines with Jenkins. Participated in Agile ceremonies and on-call rotations.",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Angular",
+        "SQL Server",
+        "Jenkins",
+        "Docker",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Junior Developer",
+      "title": null,
+      "start_date": "2016-01",
+      "end_date": "2017-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed payment gateway integration modules for e-commerce partners. Built merchant dashboards and reporting tools using PHP, MySQL, and JavaScript. Assisted in database schema design and performance tuning.",
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "B.Sc. Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2015-07",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "ci_cd",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Docker-OSX",
+      "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+      "technologies": [
+        "Shell"
+      ],
+      "url": "https://github.com/sickcodes/Docker-OSX",
+      "date": "2026-05"
+    },
+    {
+      "name": "portainer",
+      "description": "Making Docker and Kubernetes management easy.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/portainer/portainer",
+      "date": "2026-05"
+    },
+    {
+      "name": "full-stack-fastapi-template",
+      "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/fastapi/full-stack-fastapi-template",
+      "date": "2026-05"
+    },
+    {
+      "name": "Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "date": "2026-05"
+    },
+    {
+      "name": "data-engineering-zoomcamp",
+      "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022-05",
+      "credential_id": null
+    },
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google Cloud",
+      "date": "2023-11",
+      "credential_id": null
+    },
+    {
+      "name": "Certified Kubernetes Application Developer (CKAD)",
+      "issuer": "The Linux Foundation",
+      "date": "2024-03",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Flask",
+    "Django",
+    "Docker",
+    "AWS",
+    "PostgreSQL",
+    "GraphQL",
+    "CI/CD"
+  ],
+  "companies": [
+    "Instabug",
+    "Vezeeta",
+    "IBM Egypt",
+    "Fawry"
+  ],
+  "job_titles": [
+    "Senior Fullstack Engineer",
+    "Fullstack Developer",
+    "Associate Fullstack Engineer",
+    "Junior Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "B.Sc. Computer Science"
+  ],
+  "parsing_metadata": {}
+}

@@ -1,0 +1,365 @@
+{
+  "full_name": "Jenna Ryan",
+  "email": "jenna.ryan@outlook.com",
+  "location": "New Crystalville, Canada",
+  "years_of_experience": 7.3,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jenna Ryan",
+    "email": "jenna.ryan@outlook.com",
+    "phone": "(588)901-1396x160",
+    "location": "New Crystalville, Canada",
+    "linkedin_url": "https://linkedin.com/in/jenna-ryan",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior data science / ml / ai engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in R, Julia, Go with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2025-05",
+      "end_date": "Present",
+      "duration": "2025-05 \u2013 Present",
+      "duration_months": 12,
+      "description": "Implemented NLP solution using LightGBM, processing 50000+ text documents daily\nCreated recommendation system using Prompt Engineering, increasing user engagement by 62%\nCreated recommendation system using Prompt Engineering, increasing user engagement by 27%\nEstablished MLOps practices using LLM Evaluation, reducing model deployment time by 21%",
+      "technologies": [
+        "LLM Evaluation",
+        "LightGBM",
+        "Prompt Engineering"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2022-07",
+      "end_date": "2025-05",
+      "duration": "2022-07 \u2013 2025-05",
+      "duration_months": 34,
+      "description": "Implemented A/B testing framework using NLP, running 100+ experiments\nBuilt real-time analytics dashboard using Scikit-learn, used by 1000+ stakeholders",
+      "technologies": [
+        "Azure ML",
+        "AWS SageMaker",
+        "Deep Learning",
+        "Scikit-learn",
+        "SQL",
+        "NLP"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2021-05",
+      "end_date": "2022-07",
+      "duration": "2021-05 \u2013 2022-07",
+      "duration_months": 14,
+      "description": "Created recommendation system using JAX, increasing user engagement by 54%\nCreated feature engineering pipeline using JAX, reducing preprocessing time by 69%\nImplemented A/B testing framework using Fine-tuning, running 100+ experiments",
+      "technologies": [
+        "Julia",
+        "Fine-tuning",
+        "Hugging Face Endpoints",
+        "Databricks",
+        "JAX"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2018-12",
+      "end_date": "2021-04",
+      "duration": "2018-12 \u2013 2021-04",
+      "duration_months": 28,
+      "description": "Built ML model serving infrastructure using Snowflake, handling 100+ predictions/day\nImplemented NLP solution using NLP, processing 10000+ text documents daily\nImplemented NLP solution using Claude API, processing 100+ text documents daily\nDeveloped computer vision models using NLP, achieving 26% accuracy",
+      "technologies": [
+        "Claude API",
+        "Snowflake",
+        "Dagster",
+        "Pinecone",
+        "NLP"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "M.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DVC",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Data Quality Monitor",
+      "description": "Built Predictive Analytics Platform with Go and MATLAB, serving 10,000+ daily active users",
+      "technologies": [
+        "Go",
+        "Julia",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-42-0",
+      "date": "2022"
+    },
+    {
+      "name": "NLP Text Analyzer",
+      "description": "Designed and implemented Data Warehouse with Python, integrating with R for seamless data flow",
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "R"
+      ],
+      "url": "https://github.com/synthetic-data_science-42-1",
+      "date": "2021"
+    },
+    {
+      "name": "Predictive Analytics Platform",
+      "description": "Created MLOps Platform leveraging MATLAB for core functionality and Go for optimization",
+      "technologies": [
+        "MATLAB",
+        "Julia",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-data_science-42-2",
+      "date": "2020"
+    },
+    {
+      "name": "Computer Vision System",
+      "description": "Implemented Data Quality Monitor using Go, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "R",
+        "Go",
+        "Python"
+      ],
+      "url": "https://github.com/synthetic-data_science-42-3",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor \u2014 MLH 2022",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Bowman-Murray Youth Program, 2022-Present",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "Julia",
+    "Go",
+    "Python",
+    "MATLAB",
+    "Hugging Face",
+    "LightGBM",
+    "LlamaIndex",
+    "OpenAI API",
+    "LangChain",
+    "Dask",
+    "DVC",
+    "Kubeflow",
+    "Neptune",
+    "Weights & Biases",
+    "Snowflake",
+    "MongoDB",
+    "Redshift",
+    "AWS SageMaker",
+    "Bedrock",
+    "MLOps",
+    "Vector Databases",
+    "Deep Learning",
+    "LLM Evaluation"
+  ],
+  "companies": [
+    "Uber",
+    "Google",
+    "ModelShip",
+    "Salesforce"
+  ],
+  "job_titles": [
+    "AI Product Engineer",
+    "LLM Engineer",
+    "AI Product Engineer",
+    "AI Product Engineer"
+  ],
+  "universities": [
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 42,
+    "tier": "T3",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:38.617113",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

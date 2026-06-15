@@ -1,0 +1,347 @@
+{
+  "full_name": "James Roberts PhD",
+  "email": "james.roberts.phd@phd.dev",
+  "location": "North Jennaview, UK",
+  "years_of_experience": 10.1,
+  "seniority_level": "lead",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "James Roberts PhD",
+    "email": "james.roberts.phd@phd.dev",
+    "phone": "(631)329-5595",
+    "location": "North Jennaview, UK",
+    "linkedin_url": "https://linkedin.com/in/james-roberts-phd",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Lead data science / ml / ai professional with 10 years driving technical strategy and team excellence. Expert in MATLAB, Python, R with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": "2023-08 \u2013 Present",
+      "duration_months": 33,
+      "description": "Implemented A/B testing framework using BigQuery, running 500+ experiments\nBuilt real-time analytics dashboard using JAX, used by 50000+ stakeholders",
+      "technologies": [
+        "Pinecone",
+        "JAX",
+        "BigQuery"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "AI Product Engineer",
+      "title": "AI Product Engineer",
+      "start_date": "2022-02",
+      "end_date": "2023-07",
+      "duration": "2022-02 \u2013 2023-07",
+      "duration_months": 17,
+      "description": "Developed data visualization tools using Lambda Labs, used by 100+ analysts\nCreated recommendation system using Lambda Labs, increasing user engagement by 25%\nCreated recommendation system using BigQuery, increasing user engagement by 42%\nCreated feature engineering pipeline using Dask, reducing preprocessing time by 67%",
+      "technologies": [
+        "Lambda Labs",
+        "BigQuery",
+        "MongoDB",
+        "Dask"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2019-02",
+      "end_date": "2021-09",
+      "duration": "2019-02 \u2013 2021-09",
+      "duration_months": 31,
+      "description": "Built end-to-end ML pipeline using Databricks, processing 100000+ samples daily\nBuilt end-to-end ML pipeline using MLOps, processing 1000+ samples daily\nDeveloped data visualization tools using MLOps, used by 100000+ analysts",
+      "technologies": [
+        "MLflow",
+        "Databricks",
+        "Lambda Labs",
+        "BigQuery",
+        "MLOps"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2016-07",
+      "end_date": "2018-10",
+      "duration": "2016-07 \u2013 2018-10",
+      "duration_months": 27,
+      "description": "Developed data visualization tools using Weaviate, used by 5000+ analysts\nEstablished MLOps practices using Weights & Biases, reducing model deployment time by 45%\nCreated recommendation system using Weights & Biases, increasing user engagement by 52%\nImplemented NLP solution using Weaviate, processing 50000+ text documents daily",
+      "technologies": [
+        "Databricks",
+        "Weights & Biases",
+        "Weaviate"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2014-12",
+      "end_date": "2016-01",
+      "duration": "2014-12 \u2013 2016-01",
+      "duration_months": 13,
+      "description": "Designed data warehousing solution using Bedrock, enabling analytics on 500+ records\nDeveloped ML models using Bedrock, improving prediction accuracy by 67%",
+      "technologies": [
+        "TensorFlow",
+        "Bedrock",
+        "Databricks",
+        "LangChain"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "Ph.D.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Tech.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2012",
+      "gpa": "3.88",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "BI Dashboard",
+      "description": "Developed MLOps Platform using R, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "R",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-47-0",
+      "date": "2025"
+    },
+    {
+      "name": "A/B Testing Framework",
+      "description": "Developed Data Quality Monitor using MATLAB, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "R",
+        "MATLAB",
+        "Python"
+      ],
+      "url": "https://github.com/synthetic-data_science-47-1",
+      "date": "2020"
+    },
+    {
+      "name": "Anomaly Detection System",
+      "description": "Built BI Dashboard using Python and MATLAB, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "R",
+        "Python",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-47-2",
+      "date": "2020"
+    },
+    {
+      "name": "MLOps Platform",
+      "description": "Built ML Model Training Pipeline using MATLAB and R, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "MATLAB",
+        "Python",
+        "R"
+      ],
+      "url": "https://github.com/synthetic-data_science-47-3",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Swedish (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "MATLAB",
+    "Python",
+    "R",
+    "PyTorch",
+    "OpenCV",
+    "LangChain",
+    "Neptune",
+    "Polars",
+    "Dagster",
+    "Redshift",
+    "Snowflake",
+    "MongoDB",
+    "BigQuery",
+    "PostgreSQL",
+    "Lambda Labs",
+    "Databricks",
+    "NLP",
+    "Prompt Engineering"
+  ],
+  "companies": [
+    "ParseLab",
+    "Palantir",
+    "TechFlow AI",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "job_titles": [
+    "Research Scientist",
+    "AI Product Engineer",
+    "Research Scientist",
+    "LLM Engineer",
+    "ML Engineer"
+  ],
+  "universities": [
+    "Columbia University",
+    "KAIST"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 47,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:48.538755",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

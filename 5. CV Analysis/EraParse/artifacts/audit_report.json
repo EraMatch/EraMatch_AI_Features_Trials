@@ -1,0 +1,37 @@
+{
+  "completed_count": 4950,
+  "dataset_root": "/Users/anasahmed/AI_Main_Repo/CV_parsing_main/eramatch_benchmark_v4",
+  "issues": [],
+  "passed": true,
+  "template_counts": {
+    "T1_academic": 208,
+    "T1_classic": 397,
+    "T1_executive": 208,
+    "T1_fresher": 208,
+    "T1_functional": 208,
+    "T1_modern": 209,
+    "T2_sidebar_icons": 395,
+    "T2_sidebar_left": 397,
+    "T2_sidebar_photo": 208,
+    "T2_sidebar_right": 209,
+    "T2_sidebar_timeline": 208,
+    "T2_two_col": 208,
+    "T3_card_layout": 200,
+    "T3_europass": 200,
+    "T3_header_footer": 200,
+    "T3_nested_tables": 200,
+    "T3_table": 387,
+    "T5_creative": 141,
+    "T5_dark": 139,
+    "T5_infographic": 140,
+    "T5_magazine": 140,
+    "T5_minimal": 140
+  },
+  "tier_counts": {
+    "T1": 1250,
+    "T2": 1250,
+    "T3": 1000,
+    "T4": 750,
+    "T5": 700
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "full_name": "Rhonda Orr",
+  "email": "rhonda.orr@protonmail.com",
+  "location": "Brianport, Australia",
+  "years_of_experience": 3.2,
+  "seniority_level": "mid",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Rhonda Orr",
+    "email": "rhonda.orr@protonmail.com",
+    "phone": "708.501.7603x66521",
+    "location": "Brianport, Australia",
+    "linkedin_url": "https://linkedin.com/in/rhonda-orr",
+    "github_url": "https://github.com/rhondaorr",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level data science / ml / ai specialist with 3 years building production systems. Skilled in Scala, Go, XGBoost with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Amazon",
+      "organization": "Amazon",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": "2024-01 \u2013 Present",
+      "duration_months": 28,
+      "description": "Built real-time analytics dashboard using Dask, used by 5000+ stakeholders\nCreated recommendation system using MLOps, increasing user engagement by 37%\nDesigned data warehousing solution using MLflow, enabling analytics on 1000+ records",
+      "technologies": [
+        "MLflow",
+        "Neptune",
+        "Kubeflow",
+        "MLOps",
+        "Dask"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2023-03",
+      "end_date": "2024-01",
+      "duration": "2023-03 \u2013 2024-01",
+      "duration_months": 10,
+      "description": "Built ML model serving infrastructure using Hugging Face, handling 10000+ predictions/day\nDeveloped data visualization tools using MongoDB, used by 100+ analysts\nEstablished MLOps practices using Hugging Face, reducing model deployment time by 24%",
+      "technologies": [
+        "MongoDB",
+        "Hugging Face",
+        "Kubeflow"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia University",
+      "university": "Columbia University",
+      "degree": "M.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2021",
+      "gpa": "3.31",
+      "activities": "Research Assistant - ML Lab"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redshift",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neo4j",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Lambda Labs",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MLOps Platform",
+      "description": "Created A/B Testing Framework leveraging Lambda Labs for core functionality and Go for optimization",
+      "technologies": [
+        "Scala",
+        "Go",
+        "Lambda Labs"
+      ],
+      "url": "https://github.com/synthetic-data_science-49-0",
+      "date": "2024"
+    },
+    {
+      "name": "ML Model Training Pipeline",
+      "description": "Built A/B Testing Framework using Go and Vector Databases, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Scala",
+        "Go",
+        "Vector Databases"
+      ],
+      "url": "https://github.com/synthetic-data_science-49-1",
+      "date": "2024"
+    },
+    {
+      "name": "Data Quality Monitor",
+      "description": "Designed and implemented Recommendation Engine with Go, integrating with Scala for seamless data flow",
+      "technologies": [
+        "Scala",
+        "Go",
+        "Neo4j"
+      ],
+      "url": "https://github.com/synthetic-data_science-49-2",
+      "date": "2025"
+    },
+    {
+      "name": "Predictive Analytics Platform",
+      "description": "Created Predictive Analytics Platform leveraging Hugging Face for core functionality and Scala for optimization",
+      "technologies": [
+        "Scala",
+        "Go",
+        "Hugging Face"
+      ],
+      "url": "https://github.com/synthetic-data_science-49-3",
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Microsoft Certified: Azure Data Scientist",
+      "issuer": "Microsoft",
+      "date": "2020",
+      "credential_id": "BF63AN48"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Central lot court side involve yeah position right control keep know\" \u2014 ACM 2023",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Board games",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Scala",
+    "Go",
+    "XGBoost",
+    "Hugging Face",
+    "Polars",
+    "Neptune",
+    "Qdrant",
+    "Redshift",
+    "PostgreSQL",
+    "Pinecone",
+    "Neo4j",
+    "Bedrock",
+    "Lambda Labs",
+    "Statistical Modeling",
+    "Vector Databases",
+    "RAG"
+  ],
+  "companies": [
+    "Amazon",
+    "Block"
+  ],
+  "job_titles": [
+    "NLP Engineer",
+    "Data Analyst"
+  ],
+  "universities": [
+    "Columbia University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 49,
+    "tier": "T5",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:50.852880",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "full_name": "Wendy Price",
+  "email": "wendy.price@outlook.com",
+  "location": "Aprilland, Australia",
+  "years_of_experience": 3.6,
+  "seniority_level": "mid",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Wendy Price",
+    "email": "wendy.price@outlook.com",
+    "phone": "001-884-235-2292",
+    "location": "Aprilland, Australia",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Results-driven devops / sre / mlops professional with 3 years of experience designing and implementing scalable solutions using Go, HCL, Pulumi. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "DevOps Engineer",
+      "title": "DevOps Engineer",
+      "start_date": "2022-10",
+      "end_date": "Present",
+      "duration": "2022-10 \u2013 Present",
+      "duration_months": 43,
+      "description": "Implemented container orchestration using GCP, managing 100000+ containers\nImplemented security scanning using AWS, identifying 5000+ vulnerabilities\nBuilt CI/CD pipelines using GCP, reducing deployment time from 11s to 156ms",
+      "technologies": [
+        "Argo Workflows",
+        "GitOps",
+        "AWS",
+        "GCP"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Edinburgh",
+      "university": "University of Edinburgh",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2023",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Envoy",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "VictoriaMetrics",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Oracle Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SRE Practices",
+      "category": "methodology",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Disaster Recovery System",
+      "description": "Developed Chaos Engineering Framework using HCL, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Go",
+        "HCL",
+        "Datadog"
+      ],
+      "url": "https://github.com/synthetic-devops-57-0",
+      "date": "2023"
+    },
+    {
+      "name": "Log Aggregation Platform",
+      "description": "Built Auto-scaling Solution using Go and Opsgenie, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Go",
+        "HCL",
+        "Opsgenie"
+      ],
+      "url": "https://github.com/synthetic-devops-57-1",
+      "date": "2020"
+    },
+    {
+      "name": "Observability Dashboard",
+      "description": "Designed and implemented Infrastructure as Code with Kale, integrating with HCL for seamless data flow",
+      "technologies": [
+        "Go",
+        "HCL",
+        "Kale"
+      ],
+      "url": "https://github.com/synthetic-devops-57-2",
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Azure Administrator Associate",
+      "issuer": "Microsoft",
+      "date": "2020",
+      "credential_id": "PM72LA72"
+    },
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about mentoring junior engineers and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "HCL",
+    "Pulumi",
+    "CDK",
+    "Envoy",
+    "Docker",
+    "Argo Workflows",
+    "Azure DevOps",
+    "Tekton",
+    "GitLab CI",
+    "VictoriaMetrics",
+    "Opsgenie",
+    "PagerDuty",
+    "Datadog",
+    "Oracle Cloud",
+    "GCP",
+    "Alibaba Cloud",
+    "Azure",
+    "AWS",
+    "Kale",
+    "Kubeflow",
+    "Zero Trust",
+    "GitOps",
+    "Infrastructure as Code",
+    "SRE Practices"
+  ],
+  "companies": [
+    "Airbnb"
+  ],
+  "job_titles": [
+    "DevOps Engineer"
+  ],
+  "universities": [
+    "University of Edinburgh"
+  ],
+  "degrees": [
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 57,
+    "tier": "T3",
+    "domain": "devops",
+    "generated_at": "2026-05-31T02:31:59.685818",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

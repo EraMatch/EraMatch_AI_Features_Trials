@@ -1,0 +1,295 @@
+{
+  "full_name": "Spencer Butler",
+  "email": "spencer.butler@yahoo.com",
+  "location": "East Nicoletown, UAE",
+  "years_of_experience": 0.5,
+  "seniority_level": "intern",
+  "primary_domain": "Full-Stack Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Spencer Butler",
+    "email": "spencer.butler@yahoo.com",
+    "phone": "+1-462-326-0492x515",
+    "location": "East Nicoletown, UAE",
+    "linkedin_url": "https://linkedin.com/in/spencer-butler",
+    "github_url": "https://github.com/spencerbutler",
+    "portfolio_url": null
+  },
+  "summary": "Recent graduate with coursework in TypeScript and passion for learning. Ready to bring fresh perspective to Full-Stack Engineering challenges.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2025-11",
+      "end_date": "Present",
+      "duration": "2025-11 \u2013 Present",
+      "duration_months": 6,
+      "description": "Built real-time notification system using FastAPI, processing 500+ events/day\nBuilt end-to-end web application using TypeScript, serving 100+ daily active users\nDesigned RESTful API and frontend using Azure, handling 500+ concurrent sessions\nBuilt real-time notification system using TypeScript, processing 100000+ events/day",
+      "technologies": [
+        "Azure",
+        "TypeScript",
+        "FastAPI",
+        "MongoDB",
+        "Render"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2026",
+      "gpa": "3.58",
+      "activities": "Cloud-Native Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Booking System",
+      "description": "Developed Analytics Dashboard using Go, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Go",
+        "TypeScript",
+        "Express.js"
+      ],
+      "url": "https://github.com/synthetic-fullstack-73-0",
+      "date": "2025"
+    },
+    {
+      "name": "Social Dashboard",
+      "description": "Built Task Management App with TypeScript and Flask, serving 10,000+ daily active users",
+      "technologies": [
+        "Flask",
+        "Go",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-fullstack-73-1",
+      "date": "2021"
+    },
+    {
+      "name": "Content Management System",
+      "description": "Developed User Management Portal using Django, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "TypeScript",
+        "Tailwind CSS",
+        "Django"
+      ],
+      "url": "https://github.com/synthetic-fullstack-73-2",
+      "date": "2020"
+    },
+    {
+      "name": "Task Management App",
+      "description": "Designed Blog Platform leveraging Express.js microservices architecture with Tailwind CSS for caching",
+      "technologies": [
+        "Tailwind CSS",
+        "Express.js",
+        "Flask"
+      ],
+      "url": "https://github.com/synthetic-fullstack-73-3",
+      "date": "2024"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Created Booking System leveraging Spring Boot for core functionality and Tailwind CSS for optimization",
+      "technologies": [
+        "Spring Boot",
+        "Flask",
+        "Tailwind CSS"
+      ],
+      "url": "https://github.com/synthetic-fullstack-73-4",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor \u2014 MLH 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Go",
+    "Spring Boot",
+    "Django",
+    "Tailwind CSS",
+    "Express.js",
+    "Flask",
+    "Firebase",
+    "PostgreSQL",
+    "Git",
+    "Kubernetes",
+    "GitHub Actions",
+    "Cypress",
+    "Storybook",
+    "GCP",
+    "Vercel",
+    "Netlify",
+    "AWS",
+    "Cloudflare",
+    "Agile",
+    "Progressive Web Apps",
+    "Responsive Design",
+    "REST API Design"
+  ],
+  "companies": [
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "Web Developer"
+  ],
+  "universities": [
+    "UT Austin"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 73,
+    "tier": "T2",
+    "domain": "fullstack",
+    "generated_at": "2026-05-31T02:32:17.060852",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

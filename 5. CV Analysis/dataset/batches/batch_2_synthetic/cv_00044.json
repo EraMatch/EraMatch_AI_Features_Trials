@@ -1,0 +1,331 @@
+{
+  "full_name": "Kim Brooks",
+  "email": "kim.brooks@yahoo.com",
+  "location": "New Adamchester, UAE",
+  "years_of_experience": 6.0,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kim Brooks",
+    "email": "kim.brooks@yahoo.com",
+    "phone": "001-306-286-2761",
+    "location": "New Adamchester, UAE",
+    "linkedin_url": "https://linkedin.com/in/kim-brooks",
+    "github_url": "https://github.com/kimbrooks",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in R, Scala, and SQL. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2023-10",
+      "end_date": "Present",
+      "duration": "2023-10 \u2013 Present",
+      "duration_months": 31,
+      "description": "Created feature engineering pipeline using Kubeflow, reducing preprocessing time by 67%\nDeveloped ML models using Kubeflow, improving prediction accuracy by 17%\nCreated feature engineering pipeline using OpenCV, reducing preprocessing time by 22%\nCreated recommendation system using Scala, increasing user engagement by 55%",
+      "technologies": [
+        "Kubeflow",
+        "TensorFlow",
+        "OpenCV",
+        "MLflow",
+        "Scala"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2023-02",
+      "end_date": "2023-08",
+      "duration": "2023-02 \u2013 2023-08",
+      "duration_months": 6,
+      "description": "Established MLOps practices using PyTorch, reducing model deployment time by 31%\nDeveloped computer vision models using Python, achieving 50% accuracy\nCreated recommendation system using PyTorch, increasing user engagement by 26%\nImplemented NLP solution using PyTorch, processing 500+ text documents daily",
+      "technologies": [
+        "Python",
+        "XGBoost",
+        "PyTorch"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "SkillBridge",
+      "organization": "SkillBridge",
+      "job_title": "NLP Engineer",
+      "title": "NLP Engineer",
+      "start_date": "2020-03",
+      "end_date": "2023-02",
+      "duration": "2020-03 \u2013 2023-02",
+      "duration_months": 35,
+      "description": "Built end-to-end ML pipeline using Bedrock, processing 10000+ samples daily\nDeveloped data visualization tools using Bedrock, used by 100000+ analysts\nCreated recommendation system using Bedrock, increasing user engagement by 45%\nCreated recommendation system using MLOps, increasing user engagement by 55%",
+      "technologies": [
+        "Bedrock",
+        "Dask",
+        "MLOps",
+        "MATLAB"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Data Science Club"
+    },
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "B.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2018",
+      "gpa": "3.35",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scala",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Polars",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MLOps Platform",
+      "description": "Built Computer Vision System with R and Scala, serving 10,000+ daily active users",
+      "technologies": [
+        "SQL",
+        "Scala",
+        "R"
+      ],
+      "url": "https://github.com/synthetic-data_science-44-0",
+      "date": "2025"
+    },
+    {
+      "name": "A/B Testing Framework",
+      "description": "Designed and implemented NLP Text Analyzer with Scala, integrating with SQL for seamless data flow",
+      "technologies": [
+        "SQL",
+        "Scala",
+        "R"
+      ],
+      "url": "https://github.com/synthetic-data_science-44-1",
+      "date": "2021"
+    },
+    {
+      "name": "Computer Vision System",
+      "description": "Developed Data Warehouse using R, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "SQL",
+        "Scala",
+        "R"
+      ],
+      "url": "https://github.com/synthetic-data_science-44-2",
+      "date": "2020"
+    },
+    {
+      "name": "Data Warehouse",
+      "description": "Designed Recommendation Engine leveraging R microservices architecture with SQL for caching",
+      "technologies": [
+        "R",
+        "Scala",
+        "SQL"
+      ],
+      "url": "https://github.com/synthetic-data_science-44-3",
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Microsoft Certified: Azure Data Scientist",
+      "issuer": "Microsoft",
+      "date": "2021",
+      "credential_id": null
+    },
+    {
+      "name": "Databricks Certified Data Engineer",
+      "issuer": "Databricks",
+      "date": "2023",
+      "credential_id": "EA27PS95"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Technical blogging",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "Scala",
+    "SQL",
+    "TensorFlow",
+    "Claude API",
+    "Pandas",
+    "Kubeflow",
+    "Polars",
+    "MongoDB",
+    "Weaviate",
+    "BigQuery",
+    "PostgreSQL",
+    "AWS SageMaker",
+    "GCP Vertex AI",
+    "Bedrock",
+    "LLM Evaluation",
+    "Vector Databases",
+    "RAG",
+    "Deep Learning",
+    "MLOps"
+  ],
+  "companies": [
+    "Meta",
+    "DataPulse",
+    "SkillBridge"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "AI Engineer",
+    "NLP Engineer"
+  ],
+  "universities": [
+    "UT Austin",
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 44,
+    "tier": "T2",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:42.751767",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

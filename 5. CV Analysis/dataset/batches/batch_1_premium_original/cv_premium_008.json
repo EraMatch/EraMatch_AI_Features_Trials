@@ -1,0 +1,298 @@
+{
+  "full_name": "Anas Beso",
+  "email": "anasbesoanas@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 5.0,
+  "seniority_level": "mid",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Anas Beso",
+    "email": "anasbesoanas@gmail.com",
+    "phone": "+20 10 1234 5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://www.linkedin.com/in/anasbeso",
+    "github_url": "https://github.com/anasbeso",
+    "portfolio_url": "https://anasbeso.dev"
+  },
+  "summary": "Fullstack engineer with 5 years of experience designing and building scalable web applications. Proficient in Python (Flask, Django), TypeScript (React, Next.js), and database management. Passionate about clean code and continuous learning. Contributed to open-source projects and delivered high-impact features in fast-paced teams.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Senior Fullstack Developer",
+      "title": null,
+      "start_date": "2022-03",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Lead development of internal dashboards for crash reporting and bug tracking using React, TypeScript, and Python Flask. Designed and implemented RESTful APIs and microservices, improving data retrieval time by 30%. Mentored junior developers and conducted code reviews.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Flask",
+        "Python",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2020-06",
+      "end_date": "2022-02",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built and maintained the patient booking platform using Next.js and Node.js. Integrated payment gateways and third-party APIs, enhancing user experience. Collaborated with cross-functional teams to migrate legacy PHP backend to Node.js microservices.",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Software Engineer",
+      "title": null,
+      "start_date": "2019-03",
+      "end_date": "2020-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Worked on the transportation ticketing system using Python Django and React frontend. Implemented real-time tracking features with WebSockets. Participated in Agile development practices and daily stand-ups.",
+      "technologies": [
+        "Python",
+        "Django",
+        "React",
+        "PostgreSQL",
+        "WebSocket"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Associate Fullstack Developer",
+      "title": null,
+      "start_date": "2018-07",
+      "end_date": "2019-02",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed e-commerce payment checkout solutions using Java Spring Boot and Angular. Assisted in database schema design and performance tuning. Delivered frontend components for merchant dashboards.",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Angular",
+        "MySQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2018-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile/Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "soft_skill",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "date": "2026-05"
+    },
+    {
+      "name": "awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/vinta/awesome-python",
+      "date": "2026-05"
+    },
+    {
+      "name": "project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "technologies": [],
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "date": "2026-05"
+    },
+    {
+      "name": "Python",
+      "description": "All Algorithms implemented in Python",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/TheAlgorithms/Python",
+      "date": "2026-05"
+    },
+    {
+      "name": "tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/tensorflow/tensorflow",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022-03",
+      "credential_id": null
+    },
+    {
+      "name": "Meta Back-End Developer Professional Certificate",
+      "issuer": "Coursera",
+      "date": "2021-11",
+      "credential_id": null
+    },
+    {
+      "name": "MongoDB Associate Developer",
+      "issuer": "MongoDB",
+      "date": "2020-08",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Flask",
+    "Django",
+    "Node.js",
+    "PostgreSQL",
+    "MongoDB",
+    "Docker",
+    "AWS",
+    "Git",
+    "REST APIs",
+    "Agile/Scrum",
+    "Problem Solving"
+  ],
+  "companies": [
+    "Instabug",
+    "Vezeeta",
+    "Swvl",
+    "Fawry"
+  ],
+  "job_titles": [
+    "Senior Fullstack Developer",
+    "Fullstack Developer",
+    "Software Engineer",
+    "Associate Fullstack Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

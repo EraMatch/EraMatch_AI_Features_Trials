@@ -1,0 +1,360 @@
+{
+  "full_name": "Kathy Ramirez",
+  "email": "kathy.ramirez@ramirez.dev",
+  "location": "North Thomasside, Germany",
+  "years_of_experience": 12.4,
+  "seniority_level": "principal",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kathy Ramirez",
+    "email": "kathy.ramirez@ramirez.dev",
+    "phone": "3523072417",
+    "location": "North Thomasside, Germany",
+    "linkedin_url": "https://linkedin.com/in/kathy-ramirez",
+    "github_url": "https://github.com/kathyramirez",
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 12 years shaping data science / ml / ai practice. Deep expertise in MATLAB, Go, Julia and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2022-05",
+      "end_date": "Present",
+      "duration": "2022-05 \u2013 Present",
+      "duration_months": 48,
+      "description": "Designed data warehousing solution using MLOps, enabling analytics on 10000+ records\nDeveloped ML models using MLflow, improving prediction accuracy by 48%\nImplemented NLP solution using MLOps, processing 5000+ text documents daily\nImplemented NLP solution using MLflow, processing 100000+ text documents daily",
+      "technologies": [
+        "Kubeflow",
+        "Weights & Biases",
+        "Prompt Engineering",
+        "MLOps",
+        "MLflow"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Data Scientist",
+      "title": "Data Scientist",
+      "start_date": "2017-06",
+      "end_date": "2021-12",
+      "duration": "2017-06 \u2013 2021-12",
+      "duration_months": 54,
+      "description": "Developed computer vision models using A/B Testing, achieving 70% accuracy\nBuilt ML model serving infrastructure using Azure ML, handling 10000+ predictions/day\nDeveloped ML models using A/B Testing, improving prediction accuracy by 62%\nDeveloped ML models using Azure ML, improving prediction accuracy by 18%",
+      "technologies": [
+        "A/B Testing",
+        "SQL",
+        "Azure ML"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "Research Scientist",
+      "title": "Research Scientist",
+      "start_date": "2013-06",
+      "end_date": "2017-05",
+      "duration": "2013-06 \u2013 2017-05",
+      "duration_months": 47,
+      "description": "Built ML model serving infrastructure using Scikit-learn, handling 100000+ predictions/day\nDeveloped ML models using Scikit-learn, improving prediction accuracy by 55%",
+      "technologies": [
+        "Claude API",
+        "Scikit-learn",
+        "MATLAB",
+        "Redshift",
+        "NumPy"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "Ph.D.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": "Data Science Club"
+    },
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "M.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "XGBoost",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenCV",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neptune",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Vertex AI",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prompt Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Training Pipeline",
+      "description": "Designed Computer Vision System leveraging MATLAB microservices architecture with Go for caching",
+      "technologies": [
+        "Go",
+        "Julia",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-41-0",
+      "date": "2021"
+    },
+    {
+      "name": "Data Warehouse",
+      "description": "Developed Recommendation Engine using Go, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "SQL",
+        "Go",
+        "Julia"
+      ],
+      "url": "https://github.com/synthetic-data_science-41-1",
+      "date": "2024"
+    },
+    {
+      "name": "Recommendation Engine",
+      "description": "Built Predictive Analytics Platform using Go and MATLAB, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Julia",
+        "Go",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-41-2",
+      "date": "2019"
+    },
+    {
+      "name": "Data Quality Monitor",
+      "description": "Built Predictive Analytics Platform with MATLAB and SQL, serving 10,000+ daily active users",
+      "technologies": [
+        "Julia",
+        "SQL",
+        "MATLAB"
+      ],
+      "url": "https://github.com/synthetic-data_science-41-3",
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "date": "2021",
+      "credential_id": null
+    },
+    {
+      "name": "Databricks Certified Data Engineer",
+      "issuer": "Databricks",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Turkish (Native)",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about accessibility and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Crime movement strategy conference risk challenge she hour\" \u2014 CVPR 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "MATLAB",
+    "Go",
+    "Julia",
+    "SQL",
+    "PyTorch",
+    "XGBoost",
+    "OpenCV",
+    "LangChain",
+    "TensorFlow",
+    "Dask",
+    "Pandas",
+    "Weights & Biases",
+    "Neptune",
+    "Pinecone",
+    "PostgreSQL",
+    "GCP Vertex AI",
+    "Hugging Face Endpoints",
+    "Azure ML",
+    "Bedrock",
+    "Deep Learning",
+    "NLP",
+    "Computer Vision",
+    "Prompt Engineering"
+  ],
+  "companies": [
+    "Notion",
+    "Spotify",
+    "Uber"
+  ],
+  "job_titles": [
+    "AI Engineer",
+    "Data Scientist",
+    "Research Scientist"
+  ],
+  "universities": [
+    "Georgia Tech",
+    "TU Munich"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 41,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:37.039683",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

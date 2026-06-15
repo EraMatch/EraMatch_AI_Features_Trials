@@ -1,0 +1,277 @@
+{
+  "full_name": "Brendan Griffin",
+  "email": "brendan.griffin@yahoo.com",
+  "location": "South William, UAE",
+  "years_of_experience": 1.5,
+  "seniority_level": "junior",
+  "primary_domain": "Product Management",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Brendan Griffin",
+    "email": "brendan.griffin@yahoo.com",
+    "phone": "320.263.7484",
+    "location": "South William, UAE",
+    "linkedin_url": null,
+    "github_url": "https://github.com/brendangriffin",
+    "portfolio_url": "https://brendangriffin.dev"
+  },
+  "summary": "Junior product management developer with 1 years of experience building applications using Python, JavaScript, R. Committed to writing clean, maintainable code.",
+  "work_experience": [
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2025-05",
+      "end_date": "Present",
+      "duration": "2025-05 \u2013 Present",
+      "duration_months": 12,
+      "description": "Implemented user onboarding using Google Analytics, improving retention by 24%\nImplemented product analytics using R, tracking 5000+ metrics\nLed agile product development using SQL, delivering 10000+ sprints\nBuilt customer feedback system using R, collecting 10000+ insights",
+      "technologies": [
+        "R",
+        "SQL",
+        "Google Analytics",
+        "Zoom"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Product Owner",
+      "title": "Product Owner",
+      "start_date": "2024-08",
+      "end_date": "2025-02",
+      "duration": "2024-08 \u2013 2025-02",
+      "duration_months": 6,
+      "description": "Created product backlog using Figma, managing 50000+ user stories\nCreated product documentation using Kanban, serving 5000+ stakeholders",
+      "technologies": [
+        "Jira",
+        "Productboard",
+        "Scrum",
+        "Kanban",
+        "Figma",
+        "Roadmunk"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Roadmunk",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Productboard",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zoom",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Prioritization",
+      "description": "Built Stakeholder Reporting using SQL and Python, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "SQL",
+        "Python",
+        "R"
+      ],
+      "url": "https://github.com/synthetic-product_management-99-0",
+      "date": "2024"
+    },
+    {
+      "name": "Customer Feedback System",
+      "description": "Developed Product Backlog using JavaScript, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "JavaScript",
+        "Roadmunk",
+        "Python"
+      ],
+      "url": "https://github.com/synthetic-product_management-99-1",
+      "date": "2023"
+    },
+    {
+      "name": "Product Documentation",
+      "description": "Built Product Backlog using Productboard and SQL, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "SQL",
+        "Python",
+        "Productboard"
+      ],
+      "url": "https://github.com/synthetic-product_management-99-2",
+      "date": "2023"
+    },
+    {
+      "name": "User Onboarding Flow",
+      "description": "Implemented Product Documentation using Productboard, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "SQL",
+        "Python",
+        "Productboard"
+      ],
+      "url": "https://github.com/synthetic-product_management-99-3",
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Product Management Certificate",
+      "issuer": "Product School",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Establish market them attention skin fire rule political\" \u2014 IEEE 2025",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place \u2014 Google DevFest 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "JavaScript",
+    "R",
+    "SQL",
+    "Roadmunk",
+    "Productboard",
+    "Figma",
+    "Tableau",
+    "Hotjar",
+    "PostgreSQL",
+    "MySQL",
+    "GCP",
+    "AWS",
+    "Azure",
+    "Kanban",
+    "Scrum",
+    "A/B Testing"
+  ],
+  "companies": [
+    "Meta",
+    "Palantir"
+  ],
+  "job_titles": [
+    "Product Owner",
+    "Product Owner"
+  ],
+  "universities": [
+    "University of Melbourne"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 99,
+    "tier": "T3",
+    "domain": "product_management",
+    "generated_at": "2026-05-31T02:32:45.937857",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

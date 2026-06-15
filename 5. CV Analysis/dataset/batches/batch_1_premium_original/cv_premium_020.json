@@ -1,0 +1,307 @@
+{
+  "full_name": "Anas Ahmed",
+  "email": "anasahdev@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 5.0,
+  "seniority_level": "mid",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Anas Ahmed",
+    "email": "anasahdev@gmail.com",
+    "phone": "+20 100 123 4567",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/anasahmed",
+    "github_url": "https://github.com/anasahdev",
+    "portfolio_url": "https://anasahmed.dev"
+  },
+  "summary": "Fullstack developer with 5 years of experience building scalable web applications using Python, TypeScript, and modern frameworks. Proficient in both frontend and backend development, cloud services, and agile methodologies. Passionate about clean code, mentoring junior developers, and delivering high-quality solutions.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Senior Fullstack Developer",
+      "title": null,
+      "start_date": "2022-01",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Lead development of real-time bug reporting dashboards using React and Node.js. Architected microservices for analytics pipelines on AWS, improving report generation speed by 40%.",
+      "technologies": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2020-06",
+      "end_date": "2021-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built patient-facing appointment booking system with Python Flask backend and Angular frontend. Integrated caching with Redis, reducing API latency by 30%.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "TypeScript",
+        "Angular",
+        "MongoDB",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Software Engineer",
+      "title": null,
+      "start_date": "2018-09",
+      "end_date": "2020-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed payment gateway integration modules using Java Spring Boot. Created internal admin dashboards with React and set up CI/CD pipelines with Jenkins.",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "MySQL",
+        "Docker",
+        "Jenkins"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Breadfast",
+      "organization": null,
+      "job_title": "Junior Web Developer",
+      "title": null,
+      "start_date": "2017-07",
+      "end_date": "2018-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to the e-commerce platform using Django and JavaScript. Maintained PostgreSQL databases and implemented responsive UI features.",
+      "technologies": [
+        "Python",
+        "Django",
+        "JavaScript",
+        "HTML/CSS",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML5/CSS3",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Methodologies",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "30-Days-Of-Python",
+      "description": "Step-by-step guide to learn Python in 30 days, covering data science, Flask web development, and more.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "Data Science"
+      ],
+      "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+      "date": "2022"
+    },
+    {
+      "name": "Reflex",
+      "description": "Web apps in pure Python.",
+      "technologies": [
+        "Python",
+        "Data Visualization",
+        "Data Analysis"
+      ],
+      "url": "https://github.com/reflex-dev/reflex",
+      "date": "2023"
+    },
+    {
+      "name": "TanStack Router",
+      "description": "A client-first, server-capable, fully type-safe router and full-stack framework for the web.",
+      "technologies": [
+        "TypeScript",
+        "React",
+        "Router"
+      ],
+      "url": "https://github.com/TanStack/router",
+      "date": "2023"
+    },
+    {
+      "name": "Blitz",
+      "description": "The Missing Fullstack Toolkit for Next.js.",
+      "technologies": [
+        "TypeScript",
+        "Next.js",
+        "React"
+      ],
+      "url": "https://github.com/blitz-js/blitz",
+      "date": "2023"
+    },
+    {
+      "name": "Growth Ebook",
+      "description": "Growth Engineering: The Definitive Guide for full-stack developers.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "url": "https://github.com/phodal/growth-ebook",
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022-08",
+      "credential_id": null
+    },
+    {
+      "name": "Professional Scrum Master I (PSM I)",
+      "issuer": "Scrum.org",
+      "date": "2021-05",
+      "credential_id": null
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "date": "2020-11",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Flask",
+    "Node.js",
+    "HTML5/CSS3",
+    "PostgreSQL",
+    "MongoDB",
+    "Docker",
+    "Jenkins",
+    "AWS",
+    "Agile Methodologies",
+    "Git"
+  ],
+  "companies": [
+    "Instabug",
+    "Vezeeta",
+    "Fawry",
+    "Breadfast"
+  ],
+  "job_titles": [
+    "Senior Fullstack Developer",
+    "Fullstack Developer",
+    "Software Engineer",
+    "Junior Web Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

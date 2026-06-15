@@ -1,0 +1,255 @@
+{
+  "full_name": "Omar Adel Fathy",
+  "email": "passanasredmi5plus@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 3.0,
+  "seniority_level": "junior",
+  "primary_domain": "mobile",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Omar Adel Fathy",
+    "email": "passanasredmi5plus@gmail.com",
+    "phone": "+20 10 9876 5432",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/omaradelfathy",
+    "github_url": "https://github.com/omaradelfathy",
+    "portfolio_url": "https://omaradelfathy.dev"
+  },
+  "summary": "Enthusiastic junior mobile developer with 3 years of experience building high-performance cross-platform apps using Flutter and React Native. Passionate about crafting intuitive user interfaces and delivering seamless mobile experiences. Quick learner, team player, and open-source contributor with a track record of implementing efficient, scalable solutions.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Mobile Developer",
+      "title": null,
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developing and maintaining the Instabug SDK for Flutter, improving crash reporting and in-app feedback features for thousands of mobile developers worldwide. Collaborating with product and design teams to ship new features on a monthly release cycle.",
+      "technologies": [
+        "Dart",
+        "Flutter",
+        "Android",
+        "iOS",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Breadfast",
+      "organization": null,
+      "job_title": "Junior Flutter Developer",
+      "title": null,
+      "start_date": "2022-01",
+      "end_date": "2023-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built customer-facing mobile apps for Egypt's leading grocery delivery platform, integrating payment gateways (Fawry, Paymob) and real-time order tracking. Optimized app performance, reducing cold-start time by 30%.",
+      "technologies": [
+        "Dart",
+        "Flutter",
+        "Firebase",
+        "REST APIs",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Mobile Developer Intern",
+      "title": null,
+      "start_date": "2021-06",
+      "end_date": "2021-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted the mobile team in developing new features for the Swvl passenger app using React Native. Gained hands-on experience with cross-platform development, push notifications, and code reviews.",
+      "technologies": [
+        "JavaScript",
+        "React Native",
+        "TypeScript",
+        "Redux",
+        "iOS",
+        "Android"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2021-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ionic Framework",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Mobile UI/UX",
+      "category": "soft_skill",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "sdk",
+      "description": "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",
+      "technologies": [
+        "Dart"
+      ],
+      "url": "https://github.com/dart-lang/sdk",
+      "date": "2026-05"
+    },
+    {
+      "name": "lsp-mode",
+      "description": "Emacs client/library for the Language Server Protocol",
+      "technologies": [
+        "Emacs Lisp"
+      ],
+      "url": "https://github.com/emacs-lsp/lsp-mode",
+      "date": "2026-05"
+    },
+    {
+      "name": "gallery",
+      "description": "Flutter Gallery was a resource to help developers evaluate and use Flutter",
+      "technologies": [
+        "Dart"
+      ],
+      "url": "https://github.com/flutter/gallery",
+      "date": "2026-05"
+    },
+    {
+      "name": "fvm",
+      "description": "Flutter Version Management: A simple CLI to manage Flutter SDK versions.",
+      "technologies": [
+        "Dart"
+      ],
+      "url": "https://github.com/leoafarias/fvm",
+      "date": "2026-05"
+    },
+    {
+      "name": "one-day-one-language",
+      "description": "Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.",
+      "technologies": [
+        "C#"
+      ],
+      "url": "https://github.com/mouredev/one-day-one-language",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2023-03",
+      "credential_id": null
+    },
+    {
+      "name": "Meta React Native Specialization",
+      "issuer": "Meta (via Coursera)",
+      "date": "2022-11",
+      "credential_id": null
+    },
+    {
+      "name": "Google UX Design Certificate",
+      "issuer": "Google",
+      "date": "2021-09",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Dart",
+    "JavaScript",
+    "TypeScript",
+    "C++",
+    "Flutter",
+    "React Native",
+    "Ionic Framework",
+    "Expo",
+    "Firebase",
+    "REST APIs",
+    "Git",
+    "Mobile UI/UX"
+  ],
+  "companies": [
+    "Instabug",
+    "Breadfast",
+    "Swvl"
+  ],
+  "job_titles": [
+    "Mobile Developer",
+    "Junior Flutter Developer",
+    "Mobile Developer Intern"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

@@ -1,0 +1,322 @@
+{
+  "full_name": "Kara Fletcher",
+  "email": "kara.fletcher@protonmail.com",
+  "location": "Montgomeryfurt, Netherlands",
+  "years_of_experience": 6.3,
+  "seniority_level": "senior",
+  "primary_domain": "Full-Stack Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kara Fletcher",
+    "email": "kara.fletcher@protonmail.com",
+    "phone": "451.511.0236",
+    "location": "Montgomeryfurt, Netherlands",
+    "linkedin_url": "https://linkedin.com/in/kara-fletcher",
+    "github_url": "https://github.com/karafletcher",
+    "portfolio_url": "https://karafletcher.dev"
+  },
+  "summary": "Senior full-stack engineering engineer with 6 years of experience architecting and delivering enterprise solutions. Expert in C#, TypeScript, Next.js with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2025-03",
+      "end_date": "Present",
+      "duration": "2025-03 \u2013 Present",
+      "duration_months": 14,
+      "description": "Implemented CI/CD pipeline for full-stack app using Vercel, achieving 50000+ deploys/week\nBuilt real-time notification system using Vercel, processing 500+ events/day\nLed full-stack migration from legacy system to Vercel, reducing latency by 22%\nImplemented server-side rendering using Agile, reducing page load time by 30%",
+      "technologies": [
+        "Azure",
+        "Agile",
+        "Vercel",
+        "Heroku"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DataPulse",
+      "organization": "DataPulse",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2023-08",
+      "end_date": "2024-10",
+      "duration": "2023-08 \u2013 2024-10",
+      "duration_months": 14,
+      "description": "Built end-to-end web application using REST API Design, serving 100000+ daily active users\nArchitected full-stack solution with GCP, improving response time by 32%",
+      "technologies": [
+        "TypeScript",
+        "MySQL",
+        "REST API Design",
+        "Firebase",
+        "GCP"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2019-08",
+      "end_date": "2023-08",
+      "duration": "2019-08 \u2013 2023-08",
+      "duration_months": 48,
+      "description": "Built end-to-end web application using Heroku, serving 100+ daily active users\nImplemented server-side rendering using FastAPI, reducing page load time by 49%\nImplemented CI/CD pipeline for full-stack app using Netlify, achieving 1000+ deploys/week",
+      "technologies": [
+        "TypeScript",
+        "FastAPI",
+        "Go",
+        "Progressive Web Apps",
+        "Heroku",
+        "Netlify"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.A.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2019",
+      "gpa": "2.89",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Blog Platform",
+      "description": "Created Task Management App leveraging Next.js for core functionality and Flask for optimization",
+      "technologies": [
+        "Next.js",
+        "Flask",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-fullstack-77-0",
+      "date": "2023"
+    },
+    {
+      "name": "Notification Hub",
+      "description": "Developed Notification Hub using Flask, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "TypeScript",
+        "Flask",
+        "Next.js"
+      ],
+      "url": "https://github.com/synthetic-fullstack-77-1",
+      "date": "2023"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built User Management Portal with Flask and TypeScript, serving 10,000+ daily active users",
+      "technologies": [
+        "Flask",
+        "Next.js",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-fullstack-77-2",
+      "date": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2020",
+      "credential_id": null
+    },
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google",
+      "date": "2021",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at King, Pittman and Fields Youth Program, 2023-Present",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Lopez PLC Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "TypeScript",
+    "Next.js",
+    "Flask",
+    "Django",
+    "SQLite",
+    "MySQL",
+    "Vite",
+    "Jest",
+    "Git",
+    "GitHub Actions",
+    "Heroku",
+    "Render",
+    "GCP",
+    "AWS",
+    "Responsive Design",
+    "Scrum",
+    "REST API Design",
+    "Microservices",
+    "Agile"
+  ],
+  "companies": [
+    "Notion",
+    "DataPulse",
+    "OpenAI"
+  ],
+  "job_titles": [
+    "Software Engineer",
+    "Full-Stack Developer",
+    "Platform Engineer"
+  ],
+  "universities": [
+    "University of Toronto"
+  ],
+  "degrees": [
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 77,
+    "tier": "T5",
+    "domain": "fullstack",
+    "generated_at": "2026-05-31T02:32:20.083903",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

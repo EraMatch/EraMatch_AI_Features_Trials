@@ -1,0 +1,10 @@
+{
+  "cv_id": 99,
+  "domain": "product_management",
+  "seniority_level": "junior",
+  "tier": "T3",
+  "template_used": "T3_card_layout",
+  "pdf_path": "batches/batch_2_synthetic/cv_00099.pdf",
+  "json_path": "batches/batch_2_synthetic/cv_00099.json",
+  "pdf_rendered": true
+}

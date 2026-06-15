@@ -1,0 +1,299 @@
+{
+  "full_name": "William Contreras",
+  "email": "william.contreras@outlook.com",
+  "location": "West Scottport, France",
+  "years_of_experience": 4.9,
+  "seniority_level": "mid",
+  "primary_domain": "Full-Stack Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "William Contreras",
+    "email": "william.contreras@outlook.com",
+    "phone": "001-922-918-8847x2621",
+    "location": "West Scottport, France",
+    "linkedin_url": "https://linkedin.com/in/william-contreras",
+    "github_url": "https://github.com/williamcontreras",
+    "portfolio_url": null
+  },
+  "summary": "Results-driven full-stack engineering professional with 4 years of experience designing and implementing scalable solutions using Go, Node.js, Tailwind CSS. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2024-07",
+      "end_date": "Present",
+      "duration": "2024-07 \u2013 Present",
+      "duration_months": 22,
+      "description": "Created cross-platform application using Express.js, reducing development time by 60%\nOptimized database queries and frontend rendering using PostgreSQL, improving UX by 19%\nOptimized database queries and frontend rendering using PostgreSQL, improving UX by 26%",
+      "technologies": [
+        "GCP",
+        "Java",
+        "C#",
+        "PostgreSQL",
+        "Express.js",
+        "Redis"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Netflix",
+      "organization": "Netflix",
+      "job_title": "Application Developer",
+      "title": "Application Developer",
+      "start_date": "2021-04",
+      "end_date": "2024-05",
+      "duration": "2021-04 \u2013 2024-05",
+      "duration_months": 37,
+      "description": "Designed RESTful API and frontend using NestJS, handling 50000+ concurrent sessions\nBuilt real-time notification system using Django, processing 5000+ events/day",
+      "technologies": [
+        "Django",
+        "Progressive Web Apps",
+        "AWS",
+        "NestJS",
+        "Spring Boot"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": "Cloud-Native Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Real-time Chat App",
+      "description": "Implemented Real-time Chat App using Vue.js, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Go",
+        "Vue.js",
+        "React"
+      ],
+      "url": "https://github.com/synthetic-fullstack-80-0",
+      "date": "2019"
+    },
+    {
+      "name": "Search Application",
+      "description": "Designed and implemented Search Application with Go, integrating with Tailwind CSS for seamless data flow",
+      "technologies": [
+        "React",
+        "Tailwind CSS",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-fullstack-80-1",
+      "date": "2025"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Developed Real-time Chat App using Go, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Go",
+        "Node.js",
+        "React"
+      ],
+      "url": "https://github.com/synthetic-fullstack-80-2",
+      "date": "2020"
+    },
+    {
+      "name": "Notification Hub",
+      "description": "Developed Analytics Dashboard using Node.js, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Vue.js",
+        "Node.js",
+        "Tailwind CSS"
+      ],
+      "url": "https://github.com/synthetic-fullstack-80-3",
+      "date": "2025"
+    },
+    {
+      "name": "Social Dashboard",
+      "description": "Implemented Content Management System using Go, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Node.js",
+        "Go",
+        "Tailwind CSS"
+      ],
+      "url": "https://github.com/synthetic-fullstack-80-4",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Yoga",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Weeks, Campbell and Pierce Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Node.js",
+    "Tailwind CSS",
+    "Vue.js",
+    "React",
+    "MongoDB",
+    "Supabase",
+    "Docker",
+    "Storybook",
+    "Jest",
+    "Webpack",
+    "Git",
+    "Cloudflare",
+    "GCP",
+    "Scrum",
+    "CI/CD",
+    "Agile",
+    "Responsive Design",
+    "Microservices"
+  ],
+  "companies": [
+    "Salesforce",
+    "Netflix"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "Application Developer"
+  ],
+  "universities": [
+    "University of Toronto"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 80,
+    "tier": "T5",
+    "domain": "fullstack",
+    "generated_at": "2026-05-31T02:32:22.398136",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

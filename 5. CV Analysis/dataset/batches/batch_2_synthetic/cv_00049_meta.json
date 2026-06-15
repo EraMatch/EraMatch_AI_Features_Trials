@@ -1,0 +1,10 @@
+{
+  "cv_id": 49,
+  "domain": "data_science",
+  "seniority_level": "mid",
+  "tier": "T5",
+  "template_used": "T5_magazine",
+  "pdf_path": "batches/batch_2_synthetic/cv_00049.pdf",
+  "json_path": "batches/batch_2_synthetic/cv_00049.json",
+  "pdf_rendered": true
+}

@@ -1,0 +1,279 @@
+{
+  "full_name": "Ahmed Hassan",
+  "email": "asholth2025@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ahmed Hassan",
+    "email": "asholth2025@gmail.com",
+    "phone": "+20 10 9876 5432",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://www.linkedin.com/in/ahmedhassan-cairo",
+    "github_url": "https://github.com/ahmedhassan2025",
+    "portfolio_url": ""
+  },
+  "summary": "Enthusiastic junior fullstack developer with 2 years of experience building web applications using Python and TypeScript. Skilled in React, Flask, Next.js, and database management. Passionate about clean code and continuous learning, with hands-on experience contributing to open-source projects. Based in Cairo, Egypt, and seeking opportunities to solve real-world problems with modern technologies.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed and maintained fullstack features for bug reporting and in-app feedback platform using React, Node.js, and PostgreSQL. Collaborated with senior developers to implement RESTful APIs and improve UI components. Automated testing with Jest and Cypress.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "TypeScript",
+        "Jest",
+        "Cypress"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Software Engineer Intern",
+      "title": null,
+      "start_date": "2022-09",
+      "end_date": "2023-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to the payment gateway backend using Python and Flask. Assisted in integrating third-party payment APIs and developing internal dashboards with React. Participated in code reviews and agile ceremonies.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "React",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Self-Employed",
+      "organization": null,
+      "job_title": "Freelance Web Developer",
+      "title": null,
+      "start_date": "2021-07",
+      "end_date": "2022-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built frontend interfaces for local businesses using HTML, CSS, JavaScript, and React. Deployed static sites and simple fullstack apps on Vercel and Heroku. Gained foundational experience in version control with Git and GitHub.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Git"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Arabic",
+      "category": "language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "English",
+      "category": "language",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/tensorflow/tensorflow",
+      "date": "2026-05"
+    },
+    {
+      "name": "AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-05"
+    },
+    {
+      "name": "ultralytics",
+      "description": "Ultralytics YOLO 🚀",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/ultralytics/ultralytics",
+      "date": "2026-05"
+    },
+    {
+      "name": "transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/huggingface/transformers",
+      "date": "2026-05"
+    },
+    {
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2023-08",
+      "credential_id": null
+    },
+    {
+      "name": "Meta Front-End Developer Professional Certificate",
+      "issuer": "Meta",
+      "date": "2023-02",
+      "credential_id": null
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "date": "2022-11",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Flask",
+    "Next.js",
+    "Node.js",
+    "HTML",
+    "CSS",
+    "PostgreSQL",
+    "Docker",
+    "Git",
+    "REST APIs",
+    "Agile",
+    "Arabic",
+    "English"
+  ],
+  "companies": [
+    "Instabug",
+    "Fawry",
+    "Self-Employed"
+  ],
+  "job_titles": [
+    "Junior Fullstack Developer",
+    "Software Engineer Intern",
+    "Freelance Web Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

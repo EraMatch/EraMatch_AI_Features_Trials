@@ -1,0 +1,10 @@
+{
+  "cv_id": 51,
+  "domain": "data_science",
+  "seniority_level": "lead",
+  "tier": "T3",
+  "template_used": "T3_table",
+  "pdf_path": "batches/batch_2_synthetic/cv_00051.pdf",
+  "json_path": "batches/batch_2_synthetic/cv_00051.json",
+  "pdf_rendered": true
+}

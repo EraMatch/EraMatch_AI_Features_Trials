@@ -1,0 +1,252 @@
+{
+  "full_name": "Yousef Hamed",
+  "email": "yousefpublicc@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 6.0,
+  "seniority_level": "mid",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Yousef Hamed",
+    "email": "yousefpublicc@gmail.com",
+    "phone": "+20 100 123 4567",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/yousef-hamed",
+    "github_url": "https://github.com/yousefpublicc",
+    "portfolio_url": "https://yousef-hamed.dev"
+  },
+  "summary": "Fullstack Developer with 6 years of experience building scalable web applications using Python, TypeScript, and modern frameworks. Proven track record of delivering high-quality solutions for fintech and e-commerce companies. Passionate about open-source contributions and clean code architecture. Skilled in React, Next.js, Flask, and AWS cloud services.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Led development of internal dashboard and automation tools using React, TypeScript, and Node.js. Improved team productivity by 30% through microservices and CI/CD integration.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Software Engineer",
+      "title": null,
+      "start_date": "2020-06",
+      "end_date": "2022-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built and maintained payment gateway front-end with React and back-end services in Python (Flask). Integrated with multiple banking APIs. Optimized database queries resulting in 20% latency reduction.",
+      "technologies": [
+        "React",
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Amazon Web Services",
+      "organization": null,
+      "job_title": "Associate Developer",
+      "title": null,
+      "start_date": "2019-06",
+      "end_date": "2020-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to internal tooling for AWS S3 team using Python and JavaScript. Participated in agile sprints and code reviews.",
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "date": "2026-05"
+    },
+    {
+      "name": "sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/sherlock-project/sherlock",
+      "date": "2026-05"
+    },
+    {
+      "name": "manim",
+      "description": "Animation engine for explanatory math videos",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/3b1b/manim",
+      "date": "2026-05"
+    },
+    {
+      "name": "tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/tensorflow/tensorflow",
+      "date": "2026-05"
+    },
+    {
+      "name": "awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022-06",
+      "credential_id": null
+    },
+    {
+      "name": "Meta Front-End Developer Professional Certificate",
+      "issuer": "Coursera/Meta",
+      "date": "2023-03",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Flask",
+    "Node.js",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "Git",
+    "HTML",
+    "CSS"
+  ],
+  "companies": [
+    "Amazon Web Services",
+    "Fawry",
+    "Instabug"
+  ],
+  "job_titles": [
+    "Associate Developer",
+    "Software Engineer",
+    "Fullstack Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

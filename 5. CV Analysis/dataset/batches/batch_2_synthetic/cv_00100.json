@@ -1,0 +1,351 @@
+{
+  "full_name": "Raymond Harris",
+  "email": "raymond.harris@outlook.com",
+  "location": "Port Ronnieside, France",
+  "years_of_experience": 5.8,
+  "seniority_level": "senior",
+  "primary_domain": "Product Management",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Raymond Harris",
+    "email": "raymond.harris@outlook.com",
+    "phone": "(876)898-1669x018",
+    "location": "Port Ronnieside, France",
+    "linkedin_url": "https://linkedin.com/in/raymond-harris",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in product management with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in SQL, R, JavaScript.",
+  "work_experience": [
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "Technical PM",
+      "title": "Technical PM",
+      "start_date": "2025-02",
+      "end_date": "Present",
+      "duration": "2025-02 \u2013 Present",
+      "duration_months": 15,
+      "description": "Implemented A/B testing using Kanban, running 1000+ experiments\nCreated product backlog using R, managing 500+ user stories\nConducted user research using Figma, interviewing 100+ users\nDeveloped product roadmap using Mixpanel, prioritizing 5000+ features",
+      "technologies": [
+        "Mixpanel",
+        "Jira",
+        "Kanban",
+        "Figma",
+        "R"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "VP of Product",
+      "title": "VP of Product",
+      "start_date": "2022-11",
+      "end_date": "2024-10",
+      "duration": "2022-11 \u2013 2024-10",
+      "duration_months": 23,
+      "description": "Implemented A/B testing using Scrum, running 100+ experiments\nCreated product documentation using SQL, serving 100+ stakeholders",
+      "technologies": [
+        "SQL",
+        "Scrum",
+        "Jira",
+        "Confluence",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2021-10",
+      "end_date": "2022-06",
+      "duration": "2021-10 \u2013 2022-06",
+      "duration_months": 8,
+      "description": "Built customer feedback system using Notion, collecting 50000+ insights\nBuilt customer feedback system using JavaScript, collecting 10000+ insights\nBuilt customer feedback system using AWS, collecting 5000+ insights\nConducted user research using Notion, interviewing 1000+ users",
+      "technologies": [
+        "AWS",
+        "JavaScript",
+        "Notion",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Product Manager",
+      "title": "Product Manager",
+      "start_date": "2019-11",
+      "end_date": "2021-10",
+      "duration": "2019-11 \u2013 2021-10",
+      "duration_months": 23,
+      "description": "Implemented A/B testing using Kanban, running 1000+ experiments\nDeveloped OKR tracking using Azure, achieving 54% of quarterly goals\nImplemented product analytics using Kanban, tracking 100000+ metrics\nDeveloped product roadmap using Jira, prioritizing 100+ features",
+      "technologies": [
+        "Kanban",
+        "Jira",
+        "Aha!",
+        "Azure",
+        "Roadmap Planning",
+        "JavaScript"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "M.Sc.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2020",
+      "gpa": "3.03",
+      "activities": "Product Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "SQL",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Confluence",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jira",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Notion",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Aha!",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hotjar",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tableau",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Miro",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Analytics",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "User Research",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Kanban",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Prioritization",
+      "description": "Implemented User Onboarding Flow using R, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Python",
+        "R",
+        "JavaScript"
+      ],
+      "url": "https://github.com/synthetic-product_management-100-0",
+      "date": "2019"
+    },
+    {
+      "name": "Product Roadmap",
+      "description": "Built OKR Tracking using Jira and JavaScript, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "SQL",
+        "JavaScript",
+        "Jira"
+      ],
+      "url": "https://github.com/synthetic-product_management-100-1",
+      "date": "2021"
+    },
+    {
+      "name": "A/B Testing Framework",
+      "description": "Built Product Roadmap with Jira and R, serving 10,000+ daily active users",
+      "technologies": [
+        "R",
+        "Notion",
+        "Jira"
+      ],
+      "url": "https://github.com/synthetic-product_management-100-2",
+      "date": "2023"
+    },
+    {
+      "name": "User Onboarding Flow",
+      "description": "Built Stakeholder Reporting using Aha! and Jira, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Confluence",
+        "Jira",
+        "Aha!"
+      ],
+      "url": "https://github.com/synthetic-product_management-100-3",
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Product Management Certificate",
+      "issuer": "Product School",
+      "date": "2025",
+      "credential_id": "RH93GJ25"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award \u2014 IEEE 2022",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Lam, Hart and Gamble Youth Program, 2020-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "SQL",
+    "R",
+    "JavaScript",
+    "Python",
+    "Confluence",
+    "Jira",
+    "Notion",
+    "Aha!",
+    "Hotjar",
+    "Tableau",
+    "Miro",
+    "Google Analytics",
+    "Snowflake",
+    "PostgreSQL",
+    "BigQuery",
+    "MySQL",
+    "Azure",
+    "GCP",
+    "AWS",
+    "Scrum",
+    "Agile",
+    "User Research"
+  ],
+  "companies": [
+    "Apple",
+    "Supabase",
+    "Tesla",
+    "Tesla"
+  ],
+  "job_titles": [
+    "Technical PM",
+    "VP of Product",
+    "Product Manager",
+    "Product Manager"
+  ],
+  "universities": [
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 100,
+    "tier": "T3",
+    "domain": "product_management",
+    "generated_at": "2026-05-31T02:32:46.489735",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

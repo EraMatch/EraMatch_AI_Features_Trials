@@ -1,0 +1,287 @@
+{
+  "full_name": "Youssef Mohamed Ali",
+  "email": "1019095@stemegypt.edu.eg",
+  "location": "6th of October City, Egypt",
+  "years_of_experience": 0.5,
+  "seniority_level": "intern",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Youssef Mohamed Ali",
+    "email": "1019095@stemegypt.edu.eg",
+    "phone": "+20 100 123 4567",
+    "location": "6th of October City, Egypt",
+    "linkedin_url": "https://www.linkedin.com/in/youssef-mohamed-ali/",
+    "github_url": "https://github.com/youssef-ali",
+    "portfolio_url": "https://youssef-ali.dev"
+  },
+  "summary": "Driven Fullstack Developer intern with a strong foundation in Python and JavaScript, complemented by hands-on experience in building and contributing to web applications. Skilled in React, Next.js, Flask, and modern cloud technologies. Passionate about translating complex problems into elegant, scalable solutions. Eager to leverage academic knowledge and internship experience to deliver impactful fullstack products in a collaborative, fast-paced environment.",
+  "work_experience": [
+    {
+      "company": "Microsoft ATL Cairo",
+      "organization": null,
+      "job_title": "Web Development Intern",
+      "title": null,
+      "start_date": "2025-04",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Collaborated with the web platform team to develop internal tools using React and TypeScript. Assisted in implementing RESTful APIs and conducted unit testing, contributing to a 15% improvement in feature delivery speed.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Git",
+        "Azure"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Fullstack Developer Intern",
+      "title": null,
+      "start_date": "2025-01",
+      "end_date": "2025-03",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to the digital payments platform by building reusable React components and integrating backend services with Flask. Participated in code reviews and agile ceremonies, helping to reduce UI bugs by 20%.",
+      "technologies": [
+        "React",
+        "Flask",
+        "Python",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Frontend Developer Intern",
+      "title": null,
+      "start_date": "2024-09",
+      "end_date": "2024-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Enhanced the patient booking experience by optimizing React components and implementing responsive design. Worked closely with the UX team to deliver an accessible and performant frontend, resulting in a 10% increase in user engagement.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "Next.js",
+        "HTML/CSS",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Software Engineering Intern",
+      "title": null,
+      "start_date": "2024-06",
+      "end_date": "2024-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Supported the SDK team by writing Python scripts for automated testing and data analysis. Gained exposure to fullstack development cycles and contributed to internal documentation and knowledge base articles.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "SQL",
+        "Docker",
+        "GitHub Actions"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "STEM Egypt High School for Boys",
+      "university": null,
+      "degree": "High School Diploma",
+      "field_of_study": "Science and Mathematics",
+      "graduation_date": "2024-06",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2028-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML/CSS",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Methodology",
+      "category": "methodology",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "novu",
+      "description": "The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/novuhq/novu",
+      "date": "2026-05"
+    },
+    {
+      "name": "react-bits",
+      "description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/DavidHDev/react-bits",
+      "date": "2026-05"
+    },
+    {
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/makeplane/plane",
+      "date": "2026-05"
+    },
+    {
+      "name": "full-stack-fastapi-template",
+      "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/fastapi/full-stack-fastapi-template",
+      "date": "2026-05"
+    },
+    {
+      "name": "ant-design",
+      "description": "An enterprise-class UI design language and React UI library",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/ant-design/ant-design",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2024-08",
+      "credential_id": null
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "date": "2025-03",
+      "credential_id": null
+    },
+    {
+      "name": "Google IT Automation with Python Professional Certificate",
+      "issuer": "Google / Coursera",
+      "date": "2025-01",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Flask",
+    "HTML/CSS",
+    "Git",
+    "SQL",
+    "Docker",
+    "Node.js",
+    "Agile Methodology"
+  ],
+  "companies": [
+    "Microsoft ATL Cairo",
+    "Fawry",
+    "Vezeeta",
+    "Instabug"
+  ],
+  "job_titles": [
+    "Web Development Intern",
+    "Fullstack Developer Intern",
+    "Frontend Developer Intern",
+    "Software Engineering Intern"
+  ],
+  "universities": [
+    "STEM Egypt High School for Boys",
+    "Cairo University"
+  ],
+  "degrees": [
+    "High School Diploma",
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

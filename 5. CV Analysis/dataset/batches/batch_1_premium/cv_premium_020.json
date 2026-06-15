@@ -1,0 +1,322 @@
+{
+  "full_name": "Anas Hassan",
+  "email": "anasahdev@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 5.0,
+  "seniority_level": "mid",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Anas Hassan",
+    "email": "anasahdev@gmail.com",
+    "phone": "+201012345678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/anashassan",
+    "github_url": "https://github.com/anashassan",
+    "portfolio_url": "https://anashassan.dev"
+  },
+  "summary": "Results-driven fullstack developer with 5+ years of experience building scalable web applications using modern frameworks and cloud technologies. Proficient in Python, TypeScript, React, and Node.js, with a strong focus on delivering high-performance, user-centric solutions. Passionate about clean code, agile methodologies, and continuous learning, demonstrated through active engagement with open-source projects and fullstack toolkits.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Full-Stack Developer",
+      "title": null,
+      "start_date": "2023-01",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Led development of internal dashboard and analytics platform for mobile bug reporting, optimizing performance and integrating real-time data visualization. Collaborated with DevOps to deploy microservices on AWS ECS using Docker and CI/CD pipelines.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Full-Stack Developer",
+      "title": null,
+      "start_date": "2021-06",
+      "end_date": "2022-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built and maintained patient-facing booking system and admin panel using Next.js and Node.js. Introduced type-safe routing with TanStack Router and improved SEO and performance scores by 40%.",
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "TanStack Router",
+        "MongoDB"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Software Engineer",
+      "title": null,
+      "start_date": "2020-01",
+      "end_date": "2021-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to the driver onboarding platform using Blitz.js and Next.js. Developed real-time tracking features with WebSockets and implemented serverless functions on AWS Lambda.",
+      "technologies": [
+        "Blitz.js",
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "AWS Lambda",
+        "WebSocket"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Breadfast",
+      "organization": null,
+      "job_title": "Junior Full-Stack Developer",
+      "title": null,
+      "start_date": "2019-07",
+      "end_date": "2019-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in building inventory management dashboard and customer order tracking using Python Flask and vanilla JavaScript. Wrote unit tests and participated in code reviews to ensure reliability.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "JavaScript",
+        "MySQL",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TanStack Router",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Blitz.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Reflex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile/Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "technologies": [
+        "Rust"
+      ],
+      "url": "https://github.com/oven-sh/bun",
+      "date": "2026-05"
+    },
+    {
+      "name": "mermaid",
+      "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/mermaid-js/mermaid",
+      "date": "2026-05"
+    },
+    {
+      "name": "ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/ruvnet/ruflo",
+      "date": "2026-05"
+    },
+    {
+      "name": "hexo",
+      "description": "A fast, simple & powerful blog framework, powered by Node.js.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/hexojs/hexo",
+      "date": "2026-05"
+    },
+    {
+      "name": "storybook",
+      "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/storybookjs/storybook",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022-05",
+      "credential_id": null
+    },
+    {
+      "name": "Google Associate Cloud Engineer",
+      "issuer": "Google Cloud",
+      "date": "2023-09",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "HTML",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Flask",
+    "TanStack Router",
+    "Blitz.js",
+    "Reflex",
+    "PostgreSQL",
+    "MongoDB",
+    "MySQL",
+    "AWS",
+    "Docker",
+    "Git",
+    "REST APIs",
+    "GraphQL",
+    "Agile/Scrum"
+  ],
+  "companies": [
+    "Instabug",
+    "Vezeeta",
+    "Swvl",
+    "Breadfast"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "Full-Stack Developer",
+    "Software Engineer",
+    "Junior Full-Stack Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

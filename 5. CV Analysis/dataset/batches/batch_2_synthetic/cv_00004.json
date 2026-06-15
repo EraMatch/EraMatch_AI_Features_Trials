@@ -1,0 +1,286 @@
+{
+  "full_name": "Amber Grant",
+  "email": "amber.grant@yahoo.com",
+  "location": "Simmonschester, Australia",
+  "years_of_experience": 7.3,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Amber Grant",
+    "email": "amber.grant@yahoo.com",
+    "phone": "(968)473-9248x450",
+    "location": "Simmonschester, Australia",
+    "linkedin_url": null,
+    "github_url": "https://github.com/ambergrant",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Node.js, TypeScript, LangChain.",
+  "work_experience": [
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "Backend Developer",
+      "title": "Backend Developer",
+      "start_date": "2022-03",
+      "end_date": "Present",
+      "duration": "2022-03 \u2013 Present",
+      "duration_months": 50,
+      "description": "Architected and built RESTful APIs serving 100+ requests/day using GitHub Actions, reducing response time by 24%\nDesigned and implemented message queue system using Node.js, processing 500+ messages/hour\nBuilt automated CI/CD pipelines with Node.js, reducing deployment time by 27%",
+      "technologies": [
+        "Node.js",
+        "Kotlin",
+        "GitHub Actions"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2018-11",
+      "end_date": "2022-01",
+      "duration": "2018-11 \u2013 2022-01",
+      "duration_months": 38,
+      "description": "Reduced infrastructure costs by 69% through optimization using Kotlin\nCreated authentication and authorization system using Kotlin, securing 100000+ user accounts\nDeveloped real-time data processing pipeline using Hugging Face, handling 50000+ queries/second",
+      "technologies": [
+        "Kotlin",
+        "Gin",
+        "Hugging Face"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "NUS",
+      "university": "NUS",
+      "degree": "B.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cassandra",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Heroku",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "User Management API",
+      "description": "Implemented Message Queue System using LangChain, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "LangChain",
+        "Express.js",
+        "Node.js"
+      ],
+      "url": "https://github.com/synthetic-backend-4-0",
+      "date": "2020"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Created Auth Service leveraging TypeScript for core functionality and Express.js for optimization",
+      "technologies": [
+        "TypeScript",
+        "Node.js",
+        "Express.js"
+      ],
+      "url": "https://github.com/synthetic-backend-4-1",
+      "date": "2022"
+    },
+    {
+      "name": "Message Queue System",
+      "description": "Built Notification Service with Express.js and TypeScript, serving 10,000+ daily active users",
+      "technologies": [
+        "TypeScript",
+        "LangChain",
+        "Express.js"
+      ],
+      "url": "https://github.com/synthetic-backend-4-2",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Howard LLC Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "TypeScript",
+    "LangChain",
+    "Express.js",
+    "Redis",
+    "PlanetScale",
+    "Cassandra",
+    "Elasticsearch",
+    "DynamoDB",
+    "Kafka",
+    "Jenkins",
+    "GitHub Actions",
+    "Heroku",
+    "Vercel",
+    "Azure",
+    "Render",
+    "Railway",
+    "OpenAI API",
+    "AWS Bedrock",
+    "CI/CD",
+    "Agile",
+    "Microservices",
+    "REST API Design"
+  ],
+  "companies": [
+    "Twilio",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "Backend Developer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "NUS"
+  ],
+  "degrees": [
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 4,
+    "tier": "T3",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:30:57.094180",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

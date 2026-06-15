@@ -1,0 +1,308 @@
+{
+  "full_name": "Carlos Torres",
+  "email": "carlos.torres@yahoo.com",
+  "location": "Jamesfurt, India",
+  "years_of_experience": 4.0,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Carlos Torres",
+    "email": "carlos.torres@yahoo.com",
+    "phone": "+1-940-862-7626x09916",
+    "location": "Jamesfurt, India",
+    "linkedin_url": "https://linkedin.com/in/carlos-torres",
+    "github_url": "https://github.com/carlostorres",
+    "portfolio_url": null
+  },
+  "summary": "Mid-level frontend engineering specialist with 4 years building production systems. Skilled in HTML, Dart, CSS with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "InfraCore",
+      "organization": "InfraCore",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": "2024-09 \u2013 Present",
+      "duration_months": 20,
+      "description": "Built reusable component library using Jest, used by 10000+ developers\nImplemented state management solution using Prettier, reducing API calls by 36%",
+      "technologies": [
+        "Prettier",
+        "Jest",
+        "AWS Amplify",
+        "Netlify",
+        "Webpack",
+        "Accessibility (WCAG)"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2021-12",
+      "end_date": "2024-04",
+      "duration": "2021-12 \u2013 2024-04",
+      "duration_months": 28,
+      "description": "Built real-time collaboration features using IndexedDB, serving 1000+ concurrent users\nDeveloped responsive web applications using Dart, improving page load time by 65%\nBuilt real-time collaboration features using IndexedDB, serving 5000+ concurrent users\nBuilt real-time collaboration features using IndexedDB, serving 500+ concurrent users",
+      "technologies": [
+        "JavaScript",
+        "Responsive Design",
+        "Dart",
+        "Tailwind CSS",
+        "IndexedDB"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Tech.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2022",
+      "gpa": "3.40",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mobile Web App",
+      "description": "Created Dashboard Application leveraging Material UI for core functionality and Remix for optimization",
+      "technologies": [
+        "JavaScript",
+        "Remix",
+        "Material UI"
+      ],
+      "url": "https://github.com/synthetic-frontend-28-0",
+      "date": "2020"
+    },
+    {
+      "name": "Data Visualization Tool",
+      "description": "Designed and implemented Admin Panel with Python, integrating with HTML for seamless data flow",
+      "technologies": [
+        "Bootstrap",
+        "Python",
+        "HTML"
+      ],
+      "url": "https://github.com/synthetic-frontend-28-1",
+      "date": "2020"
+    },
+    {
+      "name": "Content Management UI",
+      "description": "Built Data Visualization Tool with Bootstrap and React, serving 10,000+ daily active users",
+      "technologies": [
+        "Bootstrap",
+        "CSS",
+        "React"
+      ],
+      "url": "https://github.com/synthetic-frontend-28-2",
+      "date": "2021"
+    },
+    {
+      "name": "UI Design System",
+      "description": "Built E-commerce Platform with Remix and CSS, serving 10,000+ daily active users",
+      "technologies": [
+        "CSS",
+        "Python",
+        "Remix"
+      ],
+      "url": "https://github.com/synthetic-frontend-28-3",
+      "date": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Meta Front-End Developer Certificate",
+      "issuer": "Meta",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Miller-Duke Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Drone building",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "Dart",
+    "CSS",
+    "Python",
+    "JavaScript",
+    "Tailwind CSS",
+    "Bootstrap",
+    "React",
+    "Remix",
+    "Material UI",
+    "Git",
+    "Vite",
+    "MongoDB",
+    "PostgreSQL",
+    "IndexedDB",
+    "Firebase",
+    "Supabase",
+    "Vercel",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "InfraCore",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "React Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 28,
+    "tier": "T2",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:23.935355",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

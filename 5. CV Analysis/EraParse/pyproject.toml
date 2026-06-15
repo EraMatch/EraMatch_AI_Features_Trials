@@ -1,0 +1,81 @@
+[project]
+name = "eraparse"
+version = "0.1.0"
+description = "Reproducible CV parsing research foundation"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+  "duckdb>=1.5.0,<2",
+  "jiwer>=4.0.0,<5",
+  "matplotlib>=3.11.0",
+  "pandas>=3.0.3",
+  "pillow>=11.3.0,<12",
+  "pydantic>=2.12.5,<3",
+  "pyyaml>=6.0.2,<7",
+  "rapidfuzz>=3.14.3,<4",
+  "rich>=14.2.0,<15",
+  "scipy>=1.16.3,<2",
+  "typer>=0.20.0,<1",
+]
+
+[project.scripts]
+eraparse = "eraparse.cli:app"
+
+[dependency-groups]
+dev = [
+  "mypy>=1.19.1,<2",
+  "pytest>=9.0.2,<10",
+  "pytest-cov>=7.0.0,<8",
+  "ruff>=0.14.10,<1",
+]
+modal = [
+  "cbor2==5.6.5",
+  "modal==1.3.5",
+]
+local-ml = [
+  "pymupdf4llm==1.27.2.2",
+  "torch==2.7.1",
+  "transformers==4.57.3",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/eraparse"]
+
+[tool.pytest.ini_options]
+addopts = "-ra --strict-markers"
+testpaths = ["tests"]
+markers = [
+  "dataset: requires the local EraMatch V4 dataset",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
+ignore = ["B008"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+packages = ["eraparse"]
+warn_unused_ignores = true
+
+[[tool.mypy.overrides]]
+module = [
+  "docling",
+  "docling.*",
+  "pymupdf4llm",
+  "scipy",
+  "scipy.*",
+]
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = ["eraparse.sge_model", "eraparse.sge_training"]
+ignore_errors = true

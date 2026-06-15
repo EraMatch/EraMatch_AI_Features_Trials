@@ -1,0 +1,391 @@
+{
+  "full_name": "Michelle Robles",
+  "email": "michelle.robles@gmail.com",
+  "location": "Rodriguezbury, Germany",
+  "years_of_experience": 11.2,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Michelle Robles",
+    "email": "michelle.robles@gmail.com",
+    "phone": "001-450-432-5200",
+    "location": "Rodriguezbury, Germany",
+    "linkedin_url": "https://linkedin.com/in/michelle-robles",
+    "github_url": "https://github.com/michellerobles",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in cybersecurity with expertise in Rust, Python, Bash. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2024-07",
+      "end_date": "Present",
+      "duration": "2024-07 \u2013 Present",
+      "duration_months": 22,
+      "description": "Created vulnerability management program using Elasticsearch, reducing CVEs by 56%\nDesigned zero-trust architecture using Elasticsearch, securing 100000+ endpoints\nCreated security awareness training using SonarQube, reducing phishing clicks by 53%\nImplemented identity management using Hashicorp Vault, securing 1000+ user identities",
+      "technologies": [
+        "Burp Suite",
+        "PowerShell",
+        "Metasploit",
+        "Hashicorp Vault",
+        "SonarQube",
+        "Elasticsearch"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Netflix",
+      "organization": "Netflix",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2022-11",
+      "end_date": "2024-07",
+      "duration": "2022-11 \u2013 2024-07",
+      "duration_months": 20,
+      "description": "Designed zero-trust architecture using Snort, securing 100000+ endpoints\nBuilt secure CI/CD pipeline using AWS Security Hub, preventing 500+ security issues",
+      "technologies": [
+        "CrowdStrike",
+        "AWS Security Hub",
+        "Redis",
+        "Zero Trust Architecture",
+        "Snort",
+        "PostgreSQL"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Penetration Tester",
+      "title": "Penetration Tester",
+      "start_date": "2021-01",
+      "end_date": "2022-05",
+      "duration": "2021-01 \u2013 2022-05",
+      "duration_months": 16,
+      "description": "Built security automation using Nessus, reducing incident response time by 58%\nImplemented SIEM solution using Nessus, processing 5000+ logs/day",
+      "technologies": [
+        "Go",
+        "Azure Sentinel",
+        "Nessus"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2017-02",
+      "end_date": "2020-11",
+      "duration": "2017-02 \u2013 2020-11",
+      "duration_months": 45,
+      "description": "Implemented security monitoring using SAST/DAST, detecting 100000+ threats\nBuilt incident response automation using SAST/DAST, reducing recovery time by 52%\nBuilt incident response automation using Elasticsearch, reducing recovery time by 66%\nCreated security awareness training using Elasticsearch, reducing phishing clicks by 60%",
+      "technologies": [
+        "Go",
+        "SAST/DAST",
+        "Elasticsearch"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "AppSec Engineer",
+      "title": "AppSec Engineer",
+      "start_date": "2014-01",
+      "end_date": "2016-09",
+      "duration": "2014-01 \u2013 2016-09",
+      "duration_months": 32,
+      "description": "Built security automation using C, reducing incident response time by 50%\nCreated security awareness training using MongoDB, reducing phishing clicks by 55%",
+      "technologies": [
+        "MongoDB",
+        "Snort",
+        "C",
+        "Nessus",
+        "Nmap"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": "CTF Team"
+    },
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "B.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nmap",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SOC2 Compliance",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Go",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Threat Intelligence Feed",
+      "description": "Designed and implemented Access Control System with Suricata, integrating with Bash for seamless data flow",
+      "technologies": [
+        "PowerShell",
+        "Suricata",
+        "Bash"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-93-0",
+      "date": "2020"
+    },
+    {
+      "name": "Incident Response Platform",
+      "description": "Built Security Audit System with Sigma and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "PowerShell",
+        "Sigma",
+        "Python"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-93-1",
+      "date": "2022"
+    },
+    {
+      "name": "Security Audit System",
+      "description": "Built SIEM Integration with Sigma and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "Python",
+        "Bash",
+        "Sigma"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-93-2",
+      "date": "2024"
+    },
+    {
+      "name": "Security Awareness Training",
+      "description": "Built Malware Detection with Snort and OWASP ZAP, serving 10,000+ daily active users",
+      "technologies": [
+        "OWASP ZAP",
+        "Sigma",
+        "Snort"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-93-3",
+      "date": "2023"
+    },
+    {
+      "name": "Encryption Utility",
+      "description": "Developed Access Control System using Burp Suite, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Bash",
+        "Burp Suite",
+        "OWASP ZAP"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-93-4",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about AI ethics and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Python",
+    "Bash",
+    "PowerShell",
+    "Sigma",
+    "Suricata",
+    "Snort",
+    "Burp Suite",
+    "OWASP ZAP",
+    "Nmap",
+    "Splunk",
+    "Trivy",
+    "SonarQube",
+    "PostgreSQL",
+    "Redis",
+    "Elasticsearch",
+    "MongoDB",
+    "GCP Security Command Center",
+    "Azure Sentinel",
+    "AWS Security Hub",
+    "OWASP Top 10",
+    "SOC2 Compliance"
+  ],
+  "companies": [
+    "Palantir",
+    "Netflix",
+    "ModelShip",
+    "DeployFast",
+    "Palantir"
+  ],
+  "job_titles": [
+    "Security Architect",
+    "SOC Analyst",
+    "Penetration Tester",
+    "AppSec Engineer",
+    "AppSec Engineer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "University of Michigan"
+  ],
+  "degrees": [
+    "M.Eng.",
+    "B.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 93,
+    "tier": "T5",
+    "domain": "cybersecurity",
+    "generated_at": "2026-05-31T02:32:38.844199",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

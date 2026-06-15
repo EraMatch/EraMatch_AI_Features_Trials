@@ -1,0 +1,332 @@
+{
+  "full_name": "Adham Mohamed Hassan",
+  "email": "s-adham.mohamed@zewailcity.edu.eg",
+  "location": "6th of October City, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "ml_engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Adham Mohamed Hassan",
+    "email": "s-adham.mohamed@zewailcity.edu.eg",
+    "phone": "+20 100 234 5678",
+    "location": "6th of October City, Egypt",
+    "linkedin_url": "https://linkedin.com/in/adham-mohamed-hassan",
+    "github_url": "https://github.com/adham-mohamed",
+    "portfolio_url": "https://adham-mohamed.github.io"
+  },
+  "summary": "Junior Machine Learning Engineer with 2 years of experience building and deploying ML models in fintech, healthtech, and developer tools. Graduate of Zewail City of Science and Technology with deep expertise in deep learning, NLP, and MLOps. Active open-source contributor to TensorFlow, PyTorch, and Hugging Face Transformers. Eager to deliver robust, scalable AI solutions in collaborative, fast-paced environments.",
+  "work_experience": [
+    {
+      "company": "IBM Egypt",
+      "organization": null,
+      "job_title": "AI Intern",
+      "title": null,
+      "start_date": "2021-06",
+      "end_date": "2021-09",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed NLP text classification models for a customer service chatbot using Python and scikit-learn. Preprocessed Arabic-English bilingual data, implemented TF-IDF and word embeddings, and achieved 92% accuracy on intent classification tasks.",
+      "technologies": [
+        "Python",
+        "scikit-learn",
+        "NLTK",
+        "Pandas",
+        "Jupyter"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Zewail City of Science and Technology",
+      "organization": null,
+      "job_title": "Machine Learning Research Assistant",
+      "title": null,
+      "start_date": "2021-09",
+      "end_date": "2022-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted faculty research on attention mechanisms for Arabic NLP. Built and evaluated Transformer variants in PyTorch, contributing to a paper on low-resource language modeling. Ran experiments on GPU clusters and maintained reproducible codebases.",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "Jupyter",
+        "Git",
+        "Linux"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Junior Data Scientist",
+      "title": null,
+      "start_date": "2022-07",
+      "end_date": "2022-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Designed and deployed fraud detection models for digital payments, reducing false positives by 15%. Built feature engineering pipelines with Pandas and SQL, and served models via REST APIs using FastAPI and Docker.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "FastAPI",
+        "Docker",
+        "SQL",
+        "Pandas",
+        "NumPy"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Machine Learning Engineer",
+      "title": null,
+      "start_date": "2023-01",
+      "end_date": "2023-07",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed a doctor recommendation engine using two-tower neural networks, improving patient booking conversion by 12%. Implemented NLP modules with Hugging Face Transformers for symptom understanding and deployed models using FastAPI and Docker Compose.",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "Hugging Face Transformers",
+        "FastAPI",
+        "Docker",
+        "SQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Junior Machine Learning Engineer",
+      "title": null,
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Building automated bug detection and crash analysis models for mobile apps. Fine-tune Large Language Models for log summarization and anomaly detection. Optimize inference pipelines with ONNX and Triton Inference Server, and contribute to internal TensorFlow and PyTorch libraries.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "ONNX",
+        "Triton Inference Server",
+        "Docker",
+        "Kubernetes",
+        "SQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Zewail City of Science and Technology",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Engineering",
+      "field_of_study": "Computer Engineering",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Transformers",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ONNX",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linux",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Arabic",
+      "category": "language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "English (Professional)",
+      "category": "language",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "date": "2026-05"
+    },
+    {
+      "name": "awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/vinta/awesome-python",
+      "date": "2026-05"
+    },
+    {
+      "name": "project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "technologies": [],
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "date": "2026-05"
+    },
+    {
+      "name": "Python",
+      "description": "All Algorithms implemented in Python",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/TheAlgorithms/Python",
+      "date": "2026-05"
+    },
+    {
+      "name": "tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/tensorflow/tensorflow",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "date": "2023-05",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Machine Learning – Specialty",
+      "issuer": "Amazon Web Services",
+      "date": "2024-01",
+      "credential_id": null
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "issuer": "deeplearning.ai (Coursera)",
+      "date": "2021-08",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "C++",
+    "TensorFlow",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "scikit-learn",
+    "Docker",
+    "FastAPI",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "ONNX",
+    "Triton Inference Server",
+    "Git",
+    "Linux",
+    "Arabic",
+    "English (Professional)"
+  ],
+  "companies": [
+    "IBM Egypt",
+    "Zewail City of Science and Technology",
+    "Fawry",
+    "Vezeeta",
+    "Instabug"
+  ],
+  "job_titles": [
+    "AI Intern",
+    "Machine Learning Research Assistant",
+    "Junior Data Scientist",
+    "Machine Learning Engineer",
+    "Junior Machine Learning Engineer"
+  ],
+  "universities": [
+    "Zewail City of Science and Technology"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Engineering"
+  ],
+  "parsing_metadata": {}
+}

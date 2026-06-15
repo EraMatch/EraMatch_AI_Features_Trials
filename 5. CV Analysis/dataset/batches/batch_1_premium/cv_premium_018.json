@@ -1,0 +1,270 @@
+{
+  "full_name": "Ahmed Abdelrahman",
+  "email": "perplexityacc77@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "ml_engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ahmed Abdelrahman",
+    "email": "perplexityacc77@gmail.com",
+    "phone": "+20 10 1234 5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://www.linkedin.com/in/ahmed-abdelrahman-ml",
+    "github_url": "https://github.com/ahmedabdelrahman",
+    "portfolio_url": "https://ahmedabdelrahman.dev"
+  },
+  "summary": "Motivated Junior ML Engineer with 2 years of hands-on experience in designing, training, and deploying machine learning models using Python, TensorFlow, PyTorch, and Hugging Face Transformers. Passionate about leveraging open-source frameworks to solve real-world problems, with practical exposure to NLP, computer vision, and end-to-end ML pipelines. Proactive contributor to community projects and continuous learner, seeking to apply skills in a collaborative, fast-paced environment.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Junior Machine Learning Engineer",
+      "title": null,
+      "start_date": "2023-01",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed and optimized ML models for bug detection and user session analysis. Built data pipelines using Python, Pandas, and Apache Airflow. Integrated Hugging Face Transformers for NLP-based bug report classification. Collaborated with senior engineers to deploy models on AWS SageMaker.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Hugging Face Transformers",
+        "scikit-learn",
+        "AWS SageMaker",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Data Scientist (Internship)",
+      "title": null,
+      "start_date": "2022-06",
+      "end_date": "2022-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in building recommendation systems for doctor-patient matching. Performed exploratory data analysis on healthcare datasets and implemented NLP-based symptom extraction from patient queries. Used PyTorch and TensorFlow for model prototyping.",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Pandas",
+        "NumPy",
+        "SQL",
+        "scikit-learn"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Microsoft Egypt",
+      "organization": null,
+      "job_title": "AI Engineering Intern",
+      "title": null,
+      "start_date": "2022-01",
+      "end_date": "2022-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Worked with the Azure AI team to evaluate and fine-tune pre-trained models on custom datasets. Gained experience with Azure ML Studio and contributed to internal tools for automated model monitoring.",
+      "technologies": [
+        "Python",
+        "Azure ML",
+        "ONNX",
+        "Docker",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Engineering",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Transformers",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jupyter Notebook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "date": "2026-05"
+    },
+    {
+      "name": "core",
+      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/home-assistant/core",
+      "date": "2026-05"
+    },
+    {
+      "name": "localstack",
+      "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/localstack/localstack",
+      "date": "2026-05"
+    },
+    {
+      "name": "Real-Time-Voice-Cloning",
+      "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+      "date": "2026-05"
+    },
+    {
+      "name": "sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/sherlock-project/sherlock",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Machine Learning – Specialty",
+      "issuer": "Amazon Web Services",
+      "date": "2023-11",
+      "credential_id": null
+    },
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "date": "2023-08",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "C++",
+    "TensorFlow",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "scikit-learn",
+    "Pandas",
+    "NumPy",
+    "Jupyter Notebook",
+    "SQL",
+    "Docker",
+    "Git",
+    "HTML",
+    "Azure ML",
+    "AWS SageMaker"
+  ],
+  "companies": [
+    "Instabug",
+    "Vezeeta",
+    "Microsoft Egypt"
+  ],
+  "job_titles": [
+    "Junior Machine Learning Engineer",
+    "Data Scientist (Internship)",
+    "AI Engineering Intern"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

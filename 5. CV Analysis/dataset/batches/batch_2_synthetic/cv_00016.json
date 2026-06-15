@@ -1,0 +1,335 @@
+{
+  "full_name": "Shari Manning",
+  "email": "shari.manning@yahoo.com",
+  "location": "Emilymouth, Canada",
+  "years_of_experience": 11.7,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Shari Manning",
+    "email": "shari.manning@yahoo.com",
+    "phone": "6202682798",
+    "location": "Emilymouth, Canada",
+    "linkedin_url": "https://linkedin.com/in/shari-manning",
+    "github_url": "https://github.com/sharimanning",
+    "portfolio_url": null
+  },
+  "summary": "Lead backend engineering professional with 11 years driving technical strategy and team excellence. Expert in Go, Node.js, PHP with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 \u2013 Present",
+      "duration_months": 44,
+      "description": "Reduced infrastructure costs by 70% through optimization using PostgreSQL\nLed migration from monolithic to microservices using Redis, improving system scalability by 28%",
+      "technologies": [
+        "PostgreSQL",
+        "Redis",
+        "Azure",
+        "Helm",
+        "Node.js"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Microsoft",
+      "organization": "Microsoft",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2018-11",
+      "end_date": "2022-07",
+      "duration": "2018-11 \u2013 2022-07",
+      "duration_months": 44,
+      "description": "Mentored team of 2 junior developers on Heroku best practices\nMentored team of 8 junior developers on FastAPI best practices\nImplemented caching layer with FastAPI, reducing database load by 45%",
+      "technologies": [
+        "Ansible",
+        "Jenkins",
+        "gRPC",
+        "FastAPI",
+        "Heroku",
+        "ArgoCD"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2014-07",
+      "end_date": "2018-11",
+      "duration": "2014-07 \u2013 2018-11",
+      "duration_months": 52,
+      "description": "Implemented caching layer with gRPC, reducing database load by 48%\nOptimized database queries using Cloudflare, improving query performance by 21%\nReduced infrastructure costs by 52% through optimization using Vercel",
+      "technologies": [
+        "Cloudflare",
+        "Python",
+        "gRPC",
+        "OpenAI API",
+        "Vercel"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "B.A.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": "Hackathon Winner"
+    },
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2012",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PHP",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NestJS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Neon",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "gRPC Services",
+      "description": "Developed Data Sync Platform using Django, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Node.js",
+        "Java",
+        "Django"
+      ],
+      "url": "https://github.com/synthetic-backend-16-0",
+      "date": "2022"
+    },
+    {
+      "name": "Event Streaming Service",
+      "description": "Designed File Processing Service leveraging NestJS microservices architecture with Java for caching",
+      "technologies": [
+        "Java",
+        "NestJS",
+        "PHP"
+      ],
+      "url": "https://github.com/synthetic-backend-16-1",
+      "date": "2022"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Designed User Management API leveraging PHP microservices architecture with Go for caching",
+      "technologies": [
+        "Go",
+        "PHP",
+        "Node.js"
+      ],
+      "url": "https://github.com/synthetic-backend-16-2",
+      "date": "2025"
+    },
+    {
+      "name": "Payment Processing System",
+      "description": "Designed and implemented GraphQL Server with Node.js, integrating with NestJS for seamless data flow",
+      "technologies": [
+        "Node.js",
+        "NestJS",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-backend-16-3",
+      "date": "2021"
+    },
+    {
+      "name": "Auth Service",
+      "description": "Built REST API Framework with PHP and Django, serving 10,000+ daily active users",
+      "technologies": [
+        "Django",
+        "PHP",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-backend-16-4",
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2019",
+      "credential_id": "MR84PL46"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Reading sci-fi novels",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place \u2014 ACM 2019",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Node.js",
+    "PHP",
+    "Java",
+    "NestJS",
+    "Django",
+    "Express.js",
+    "Supabase",
+    "Neon",
+    "PlanetScale",
+    "Nginx",
+    "RabbitMQ",
+    "Cloudflare",
+    "GCP",
+    "DigitalOcean",
+    "Google Gemini",
+    "OpenAI API",
+    "Event-Driven Architecture",
+    "Scrum",
+    "Agile"
+  ],
+  "companies": [
+    "Quantum Edge",
+    "Microsoft",
+    "Supabase"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Software Engineer",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "Georgia Tech",
+    "UT Austin"
+  ],
+  "degrees": [
+    "B.A.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 16,
+    "tier": "T3",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:31:05.744197",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "full_name": "Abigail Rogers",
+  "email": "abigail.rogers@yahoo.com",
+  "location": "Emilymouth, India",
+  "years_of_experience": 4.2,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Abigail Rogers",
+    "email": "abigail.rogers@yahoo.com",
+    "phone": "8172457210",
+    "location": "Emilymouth, India",
+    "linkedin_url": "https://linkedin.com/in/abigail-rogers",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Experienced software engineer with expertise in JavaScript, HTML, and CSS. Proven ability to lead technical initiatives and mentor junior team members.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2024-03",
+      "end_date": "Present",
+      "duration": "2024-03 \u2013 Present",
+      "duration_months": 26,
+      "description": "Improved website accessibility score to 64% using Storybook\nImplemented automated testing framework using Responsive Design, achieving 49% code coverage",
+      "technologies": [
+        "Storybook",
+        "Firebase",
+        "Agile",
+        "Component-Driven Development",
+        "Responsive Design"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2022-04",
+      "end_date": "2023-11",
+      "duration": "2022-04 \u2013 2023-11",
+      "duration_months": 19,
+      "description": "Optimized frontend bundle size using ESLint, reducing load time by 38%\nImplemented state management solution using MongoDB, reducing API calls by 17%\nImproved website accessibility score to 24% using Progressive Web Apps\nImplemented automated testing framework using Progressive Web Apps, achieving 23% code coverage",
+      "technologies": [
+        "Progressive Web Apps",
+        "MongoDB",
+        "Playwright",
+        "ESLint",
+        "Angular"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2021-10",
+      "end_date": "2022-04",
+      "duration": "2021-10 \u2013 2022-04",
+      "duration_months": 6,
+      "description": "Optimized frontend bundle size using Tailwind CSS, reducing load time by 33%\nImplemented automated testing framework using Material UI, achieving 57% code coverage\nDeveloped responsive web applications using Tailwind CSS, improving page load time by 38%\nIntegrated third-party APIs using Vite, reducing integration time by 30%",
+      "technologies": [
+        "Vite",
+        "Playwright",
+        "Tailwind CSS",
+        "Material UI",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "M.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2022",
+      "gpa": null,
+      "activities": "Accessibility Initiative"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mobile Web App",
+      "description": "Designed Admin Panel leveraging Material UI microservices architecture with CSS for caching",
+      "technologies": [
+        "Material UI",
+        "CSS",
+        "HTML"
+      ],
+      "url": "https://github.com/synthetic-frontend-30-0",
+      "date": "2021"
+    },
+    {
+      "name": "Content Management UI",
+      "description": "Created Data Visualization Tool leveraging JavaScript for core functionality and Angular for optimization",
+      "technologies": [
+        "HTML",
+        "JavaScript",
+        "Angular"
+      ],
+      "url": "https://github.com/synthetic-frontend-30-1",
+      "date": "2023"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Developed Content Management UI using HTML, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Material UI",
+        "HTML",
+        "JavaScript"
+      ],
+      "url": "https://github.com/synthetic-frontend-30-2",
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2020",
+      "credential_id": "EF11NL95"
+    },
+    {
+      "name": "Google UX Design Certificate",
+      "issuer": "Google",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Photography",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Dutch (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Dart",
+    "Angular",
+    "Material UI",
+    "Playwright",
+    "Webpack",
+    "MongoDB",
+    "PostgreSQL",
+    "IndexedDB",
+    "AWS Amplify",
+    "Render",
+    "Netlify",
+    "Vercel",
+    "Cloudflare Pages",
+    "Agile",
+    "Responsive Design",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "Notion",
+    "Cloudflare",
+    "Vercel"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "Full-Stack Developer",
+    "React Developer"
+  ],
+  "universities": [
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 30,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:26.743467",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

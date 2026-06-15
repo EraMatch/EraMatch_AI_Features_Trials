@@ -1,0 +1,325 @@
+{
+  "full_name": "Christopher Long",
+  "email": "christopher.long@gmail.com",
+  "location": "North Richard, UK",
+  "years_of_experience": 9.7,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Christopher Long",
+    "email": "christopher.long@gmail.com",
+    "phone": "(709)434-3414x926",
+    "location": "North Richard, UK",
+    "linkedin_url": "https://linkedin.com/in/christopher-long",
+    "github_url": "https://github.com/christopherlong",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, CSS, and Material UI. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 \u2013 Present",
+      "duration_months": 35,
+      "description": "Built real-time collaboration features using IndexedDB, serving 50000+ concurrent users\nIntegrated third-party APIs using Render, reducing integration time by 52%\nOptimized frontend bundle size using Material UI, reducing load time by 21%",
+      "technologies": [
+        "IndexedDB",
+        "Angular",
+        "Material UI",
+        "Render"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2020-04",
+      "end_date": "2023-04",
+      "duration": "2020-04 \u2013 2023-04",
+      "duration_months": 36,
+      "description": "Developed design system using PostgreSQL, standardizing UI across 1000+ applications\nBuilt interactive data visualizations using Progressive Web Apps, serving 100000+ daily users\nBuilt real-time collaboration features using Vite, serving 100000+ concurrent users",
+      "technologies": [
+        "Vite",
+        "Progressive Web Apps",
+        "Cypress",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2018-06",
+      "end_date": "2020-02",
+      "duration": "2018-06 \u2013 2020-02",
+      "duration_months": 20,
+      "description": "Integrated third-party APIs using Accessibility (WCAG), reducing integration time by 42%\nDeveloped design system using MongoDB, standardizing UI across 500+ applications\nCreated accessible UI components using Storybook, achieving WCAG AA compliance",
+      "technologies": [
+        "Cypress",
+        "Accessibility (WCAG)",
+        "MongoDB",
+        "Storybook",
+        "Remix"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2016-02",
+      "end_date": "2018-03",
+      "duration": "2016-02 \u2013 2018-03",
+      "duration_months": 25,
+      "description": "Created accessible UI components using Material UI, achieving WCAG AA compliance\nCreated accessible UI components using Prettier, achieving WCAG AA compliance",
+      "technologies": [
+        "Jest",
+        "Vue.js",
+        "Dart",
+        "Prettier",
+        "Material UI",
+        "Python"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": "UI/UX Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Content Management UI",
+      "description": "Built Admin Panel using Next.js and Python, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Python",
+        "Next.js",
+        "Bootstrap"
+      ],
+      "url": "https://github.com/synthetic-frontend-37-0",
+      "date": "2022"
+    },
+    {
+      "name": "Form Builder",
+      "description": "Developed React Component Library using Python, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "CSS",
+        "Python",
+        "Bootstrap"
+      ],
+      "url": "https://github.com/synthetic-frontend-37-1",
+      "date": "2020"
+    },
+    {
+      "name": "Progressive Web App",
+      "description": "Created UI Design System leveraging Next.js for core functionality and CSS for optimization",
+      "technologies": [
+        "CSS",
+        "Next.js",
+        "Material UI"
+      ],
+      "url": "https://github.com/synthetic-frontend-37-2",
+      "date": "2024"
+    },
+    {
+      "name": "UI Design System",
+      "description": "Designed and implemented E-commerce Platform with Material UI, integrating with CSS for seamless data flow",
+      "technologies": [
+        "CSS",
+        "Next.js",
+        "Material UI"
+      ],
+      "url": "https://github.com/synthetic-frontend-37-3",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Photography",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "CSS",
+    "Material UI",
+    "Next.js",
+    "Bootstrap",
+    "Vite",
+    "Prettier",
+    "Webpack",
+    "Supabase",
+    "Firebase",
+    "MongoDB",
+    "Vercel",
+    "AWS Amplify",
+    "Cloudflare Pages",
+    "Agile",
+    "Responsive Design",
+    "Component-Driven Development",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "HashiCorp",
+    "Datadog",
+    "Anthropic",
+    "Shopify"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "Full-Stack Developer",
+    "UI Engineer",
+    "Web Developer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 37,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:33.040834",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

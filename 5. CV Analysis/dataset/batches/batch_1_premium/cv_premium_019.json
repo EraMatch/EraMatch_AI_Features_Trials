@@ -1,0 +1,298 @@
+{
+  "full_name": "Youssef El-Sayed",
+  "email": "ahmetkuli701@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 5.0,
+  "seniority_level": "mid",
+  "primary_domain": "mobile",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Youssef El-Sayed",
+    "email": "ahmetkuli701@gmail.com",
+    "phone": "+20 100 123 4567",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/youssefelsayed",
+    "github_url": "https://github.com/ahmetkuli",
+    "portfolio_url": ""
+  },
+  "summary": "Mid-level mobile developer with 5+ years of experience building cross-platform applications using Flutter, React Native, and Ionic. Passionate about creating seamless user experiences and optimizing performance. Proven track record of delivering high-quality apps at scale for leading Egyptian tech companies like Swvl, Vezeeta, and Instabug. Strong foundation in both Android and iOS native development, with expertise in Dart, TypeScript, and modern mobile architectures.",
+  "work_experience": [
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Junior Mobile Developer",
+      "title": null,
+      "start_date": "2019-07",
+      "end_date": "2020-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in the development and maintenance of the Swvl passenger and driver mobile applications using React Native. Implemented new features such as real-time tracking and payment integration. Collaborated with cross-functional teams to ensure smooth app performance.",
+      "technologies": [
+        "React Native",
+        "JavaScript",
+        "TypeScript",
+        "Redux",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Mobile Developer",
+      "title": null,
+      "start_date": "2021-01",
+      "end_date": "2022-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed and optimized the Vezeeta healthcare booking app using Flutter. Built reusable widgets, integrated Firebase for analytics and push notifications, and improved app load time by 30%. Worked in an Agile team with bi-weekly sprints.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "REST APIs",
+        "Git",
+        "Agile"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Flutter Developer",
+      "title": null,
+      "start_date": "2022-07",
+      "end_date": "2023-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to the Instabug SDK and internal tools using Flutter and Dart. Developed cross-platform UI components, wrote unit and widget tests, and improved the SDK's performance on low-end devices. Participated in code reviews and mentorship of junior developers.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "C++",
+        "Android SDK",
+        "iOS SDK",
+        "GitHub Actions"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Paymob",
+      "organization": null,
+      "job_title": "Cross-Platform Mobile Developer",
+      "title": null,
+      "start_date": "2024-01",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Leading the mobile development of Paymob's merchant payment terminal app using Flutter. Designing scalable architecture with Bloc state management, integrating REST and GraphQL APIs, and ensuring PCI compliance. Spearheading the migration of legacy native features to Flutter.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Bloc",
+        "GraphQL",
+        "REST APIs",
+        "Git",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University, Faculty of Engineering",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Engineering",
+      "graduation_date": "2018-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ionic",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android SDK",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "iOS SDK",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile/Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bloc State Management",
+      "category": "methodology",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "flutter_rust_bridge",
+      "description": "Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple.",
+      "technologies": [
+        "Dart"
+      ],
+      "url": "https://github.com/fzyzcjy/flutter_rust_bridge",
+      "date": "2026-05"
+    },
+    {
+      "name": "thrift",
+      "description": "Apache Thrift",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/apache/thrift",
+      "date": "2026-05"
+    },
+    {
+      "name": "localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "technologies": [
+        "Dart"
+      ],
+      "url": "https://github.com/localsend/localsend",
+      "date": "2026-05"
+    },
+    {
+      "name": "open-location-code",
+      "description": "Open Location Code is a library to generate short codes, called \"plus codes\", that can be used as digital addresses where street addresses don't exist.",
+      "technologies": [
+        "Java"
+      ],
+      "url": "https://github.com/google/open-location-code",
+      "date": "2026-05"
+    },
+    {
+      "name": "saber",
+      "description": "The cross-platform open-source app built for handwriting",
+      "technologies": [
+        "Dart"
+      ],
+      "url": "https://github.com/saber-notes/saber",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2021-09",
+      "credential_id": null
+    },
+    {
+      "name": "Google Associate Android Developer",
+      "issuer": "Google",
+      "date": "2020-05",
+      "credential_id": null
+    },
+    {
+      "name": "Scrum Master Certified (SMC)",
+      "issuer": "Scrum Alliance",
+      "date": "2022-03",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Dart",
+    "C++",
+    "JavaScript",
+    "TypeScript",
+    "Flutter",
+    "React Native",
+    "Ionic",
+    "Git",
+    "Firebase",
+    "SQLite",
+    "REST APIs",
+    "Android SDK",
+    "iOS SDK",
+    "Agile/Scrum",
+    "Bloc State Management"
+  ],
+  "companies": [
+    "Swvl",
+    "Vezeeta",
+    "Instabug",
+    "Paymob"
+  ],
+  "job_titles": [
+    "Junior Mobile Developer",
+    "Mobile Developer",
+    "Flutter Developer",
+    "Cross-Platform Mobile Developer"
+  ],
+  "universities": [
+    "Cairo University, Faculty of Engineering"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Engineering"
+  ],
+  "parsing_metadata": {}
+}

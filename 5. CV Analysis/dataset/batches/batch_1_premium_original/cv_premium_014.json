@@ -1,0 +1,319 @@
+{
+  "full_name": "Ahmed Eltholth",
+  "email": "prof.eltholth@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 8.0,
+  "seniority_level": "senior",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ahmed Eltholth",
+    "email": "prof.eltholth@gmail.com",
+    "phone": "+20 10 1234 5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/ahmed-eltholth",
+    "github_url": "https://github.com/prof-eltholth",
+    "portfolio_url": "https://ahmedeltholth.dev"
+  },
+  "summary": "Senior Fullstack Engineer with over 8 years of experience designing and delivering scalable web applications. Expertise in Python and TypeScript ecosystems, building end-to-end solutions using React/Next.js, Flask, and cloud-native services. Proven track record in leading development teams, architecting microservices, and optimizing CI/CD pipelines. Passionate about clean code, open-source contributions, and mentoring junior developers.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Senior Fullstack Engineer",
+      "title": null,
+      "start_date": "2021-03",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Lead frontend and backend development for core dashboard features used by thousands of mobile developers. Architected a microservices-based backend using Python (Flask) and migrated legacy frontend from Angular to Next.js, improving page load times by 40%. Collaborated with cross-functional teams to integrate AI-driven crash reporting analytics. Mentored a team of 4 junior engineers.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "TypeScript",
+        "Next.js",
+        "React",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2018-08",
+      "end_date": "2021-02",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built and maintained the patient-facing web application and internal clinic management system. Developed RESTful APIs with Node.js/Express and real-time booking features using WebSockets. Implemented responsive UI with React and Redux, handling 500k+ monthly active users. Optimized database queries leading to a 30% reduction in server response times.",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "React",
+        "Redux",
+        "MongoDB",
+        "WebSocket",
+        "Docker",
+        "Jenkins"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Software Engineer",
+      "title": null,
+      "start_date": "2016-09",
+      "end_date": "2018-07",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to the digital payments platform, focusing on backend transaction processing. Developed high-throughput APIs in Python (Django) and integrated with multiple Egyptian banks. Enhanced security protocols and achieved PCI DSS compliance for the payment gateway.",
+      "technologies": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "GitLab CI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ITWorx",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2015-06",
+      "end_date": "2016-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in building web applications for educational and logistics clients. Worked on both frontend (AngularJS) and backend (Java Spring), gaining foundational fullstack skills. Participated in code reviews and unit testing.",
+      "technologies": [
+        "Java",
+        "Spring",
+        "AngularJS",
+        "MySQL",
+        "Jenkins"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Engineering",
+      "graduation_date": "2015-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML5 & CSS3",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redux",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/louislam/uptime-kuma",
+      "date": "2026-05"
+    },
+    {
+      "name": "mall",
+      "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+      "technologies": [
+        "Java"
+      ],
+      "url": "https://github.com/macrozheng/mall",
+      "date": "2026-05"
+    },
+    {
+      "name": "devops-exercises",
+      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "date": "2026-05"
+    },
+    {
+      "name": "Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "date": "2026-05"
+    },
+    {
+      "name": "netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "technologies": [
+        "C"
+      ],
+      "url": "https://github.com/netdata/netdata",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022-11",
+      "credential_id": null
+    },
+    {
+      "name": "MongoDB Certified Developer Associate",
+      "issuer": "MongoDB",
+      "date": "2021-05",
+      "credential_id": null
+    },
+    {
+      "name": "Professional Cloud Developer",
+      "issuer": "Google Cloud",
+      "date": "2023-03",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "HTML5 & CSS3",
+    "React",
+    "Next.js",
+    "Flask",
+    "Django",
+    "Node.js",
+    "Express",
+    "Redux",
+    "PostgreSQL",
+    "MongoDB",
+    "Docker",
+    "Git",
+    "AWS",
+    "Jenkins",
+    "GitLab CI"
+  ],
+  "companies": [
+    "Instabug",
+    "Vezeeta",
+    "Fawry",
+    "ITWorx"
+  ],
+  "job_titles": [
+    "Senior Fullstack Engineer",
+    "Fullstack Developer",
+    "Software Engineer",
+    "Junior Fullstack Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

@@ -1,0 +1,10 @@
+{
+  "cv_id": 89,
+  "domain": "mobile",
+  "seniority_level": "senior",
+  "tier": "T3",
+  "template_used": "T3_card_layout",
+  "pdf_path": "batches/batch_2_synthetic/cv_00089.pdf",
+  "json_path": "batches/batch_2_synthetic/cv_00089.json",
+  "pdf_rendered": true
+}

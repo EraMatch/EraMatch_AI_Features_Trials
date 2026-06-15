@@ -1,0 +1,357 @@
+{
+  "full_name": "Ahmed Kuli",
+  "email": "ahmetkuli701@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 5.0,
+  "seniority_level": "mid",
+  "primary_domain": "mobile",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ahmed Kuli",
+    "email": "ahmetkuli701@gmail.com",
+    "phone": "+20 10 9876 5432",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/ahmetkuli",
+    "github_url": "https://github.com/ahmetkuli",
+    "portfolio_url": "https://ahmetkuli.dev"
+  },
+  "summary": "Mid-level Mobile Developer with 5+ years of experience building high-performance cross-platform applications using Flutter and React Native. Proven track record of delivering production-grade apps in fintech, healthtech, and SDK domains. Open-source contributor to major frameworks like Flutter and Ionic, with a strong focus on clean architecture, CI/CD, and agile methodologies.",
+  "work_experience": [
+    {
+      "company": "Microsoft",
+      "organization": null,
+      "job_title": "Senior Mobile Software Engineer",
+      "title": null,
+      "start_date": "2023-04",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Lead development of cross-platform mobile applications using React Native and Flutter, integrating Azure AI services. Streamlined CI/CD pipelines, reduced build times by 40%, and mentored junior engineers on best practices for both Android and iOS.",
+      "technologies": [
+        "React Native",
+        "Flutter",
+        "TypeScript",
+        "Dart",
+        "Azure",
+        "CI/CD"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Flutter Developer",
+      "title": null,
+      "start_date": "2021-06",
+      "end_date": "2023-03",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built and maintained bug-reporting SDK used by thousands of apps worldwide. Enhanced Flutter plugins, improved performance by 30% through lazy rendering, and collaborated with product teams to align features with user feedback.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Android SDK",
+        "iOS SDK",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "React Native Developer",
+      "title": null,
+      "start_date": "2020-01",
+      "end_date": "2021-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed the patient-facing mobile app with React Native, integrating video consultations and real-time chat. Worked closely with backend engineers to design GraphQL APIs and ensure seamless offline support.",
+      "technologies": [
+        "React Native",
+        "JavaScript",
+        "TypeScript",
+        "GraphQL",
+        "REST APIs"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Junior Android Developer",
+      "title": null,
+      "start_date": "2019-07",
+      "end_date": "2019-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to the Fawry mobile payment app by implementing new bill payment features and UI components using Java and Kotlin. Wrote unit tests and participated in code reviews to maintain a 95% crash-free rate.",
+      "technologies": [
+        "Java",
+        "Kotlin",
+        "Android SDK",
+        "REST APIs",
+        "JUnit"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2018-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ionic",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android SDK",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "iOS SDK",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "soft_skill",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "technologies": [
+        "Dart",
+        "Flutter",
+        "android",
+        "cross-platform",
+        "app-framework"
+      ],
+      "url": "https://github.com/flutter/flutter",
+      "date": "2023-06"
+    },
+    {
+      "name": "facebook/react-native",
+      "description": "A framework for building native applications using React",
+      "technologies": [
+        "C++",
+        "React Native",
+        "android",
+        "ios",
+        "mobile"
+      ],
+      "url": "https://github.com/facebook/react-native",
+      "date": "2023-06"
+    },
+    {
+      "name": "Solido/awesome-flutter",
+      "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+      "technologies": [
+        "Dart",
+        "Flutter",
+        "awesome-list",
+        "cross-platform"
+      ],
+      "url": "https://github.com/Solido/awesome-flutter",
+      "date": "2023-06"
+    },
+    {
+      "name": "ionic-team/ionic-framework",
+      "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+      "technologies": [
+        "TypeScript",
+        "Ionic",
+        "Angular",
+        "Capacitor",
+        "frontend"
+      ],
+      "url": "https://github.com/ionic-team/ionic-framework",
+      "date": "2023-06"
+    },
+    {
+      "name": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "technologies": [
+        "TypeScript",
+        "Expo",
+        "React Native",
+        "android",
+        "ios",
+        "frontend"
+      ],
+      "url": "https://github.com/expo/expo",
+      "date": "2023-06"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Associate Android Developer",
+      "issuer": "Google",
+      "date": "2021-09",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022-05",
+      "credential_id": null
+    },
+    {
+      "name": "Flutter Development Bootcamp Certificate",
+      "issuer": "Udemy",
+      "date": "2020-12",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Dart",
+    "JavaScript",
+    "TypeScript",
+    "Kotlin",
+    "Java",
+    "Swift",
+    "C++",
+    "Flutter",
+    "React Native",
+    "Ionic",
+    "Expo",
+    "Android SDK",
+    "iOS SDK",
+    "Git",
+    "Firebase",
+    "AWS",
+    "Azure",
+    "GraphQL",
+    "REST APIs",
+    "CI/CD",
+    "Agile",
+    "Problem Solving"
+  ],
+  "companies": [
+    "Microsoft",
+    "Instabug",
+    "Vezeeta",
+    "Fawry"
+  ],
+  "job_titles": [
+    "Senior Mobile Software Engineer",
+    "Flutter Developer",
+    "React Native Developer",
+    "Junior Android Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

@@ -1,0 +1,31 @@
+{
+  "counts": {
+    "completed": 4950,
+    "debug_250": 250,
+    "debug_50": 50,
+    "id_test": 310,
+    "locked_confirmation": 2475,
+    "template_ood_test": 410,
+    "train": 1445,
+    "validation": 310,
+    "working": 2475
+  },
+  "dataset_root": "/Users/anasahmed/AI_Main_Repo/CV_parsing_main/eramatch_benchmark_v4",
+  "issues": [],
+  "manifest_hash": "08335f9c145e4fefc315888fe602244d147abf3cf969a30ed4fb93598ce32c71",
+  "ood_template_counts": {
+    "T3_europass": 100,
+    "T3_nested_tables": 100,
+    "T5_dark": 70,
+    "T5_infographic": 70,
+    "T5_magazine": 70
+  },
+  "passed": true,
+  "working_tier_counts": {
+    "T1": 625,
+    "T2": 625,
+    "T3": 500,
+    "T4": 375,
+    "T5": 350
+  }
+}

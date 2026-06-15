@@ -1,0 +1,295 @@
+{
+  "full_name": "Youssef Mohamed Hassan",
+  "email": "yousef.1019095@stemoctober.moe.edu.eg",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Youssef Mohamed Hassan",
+    "email": "yousef.1019095@stemoctober.moe.edu.eg",
+    "phone": "+20 10 1234 5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/youssefmhassan",
+    "github_url": "https://github.com/youssefmhassan",
+    "portfolio_url": "https://youssefhassan.dev"
+  },
+  "summary": "Enthusiastic junior full-stack developer with 2 years of experience building scalable web applications using modern JavaScript/TypeScript frameworks and Python. Proven ability to deliver end-to-end solutions, from database design to frontend UI, with a focus on performance and clean code. Passionate about learning new technologies and contributing to impactful projects.",
+  "work_experience": [
+    {
+      "company": "Breadfast",
+      "organization": null,
+      "job_title": "Associate Fullstack Developer",
+      "title": null,
+      "start_date": "2025-01",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed and maintained internal admin dashboard using React and TypeScript, integrating with backend Python services. Implemented REST APIs with Flask and managed PostgreSQL database. Collaborated with cross-functional teams to optimize order tracking features, improving delivery efficiency by 15%.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "REST APIs"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2023-06",
+      "end_date": "2024-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built responsive web interfaces for healthcare booking platform using React and Redux. Developed scalable backend microservices in Python with Flask, handling appointment scheduling. Integrated third-party APIs for payment and notifications, and wrote unit tests ensuring 90% code coverage.",
+      "technologies": [
+        "React",
+        "Redux",
+        "Python",
+        "Flask",
+        "Microservices",
+        "Jest"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Paymob",
+      "organization": null,
+      "job_title": "Software Engineer Intern",
+      "title": null,
+      "start_date": "2022-09",
+      "end_date": "2023-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to backend services for payment processing using Python and Django. Assisted in building RESTful APIs and optimizing database queries. Participated in agile development, including daily stand-ups and sprint planning.",
+      "technologies": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "REST APIs",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Web Development Intern",
+      "title": null,
+      "start_date": "2022-06",
+      "end_date": "2022-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Designed and developed a student dashboard prototype using React and Firebase for real-time transit booking. Learned modern web development practices and collaborated with senior engineers.",
+      "technologies": [
+        "React",
+        "Firebase",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University, Faculty of Computers and Artificial Intelligence",
+      "university": null,
+      "degree": "B.Sc. Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "STEM October School (6th October)",
+      "university": null,
+      "degree": "High School Diploma",
+      "field_of_study": "Scientific Track",
+      "graduation_date": "2018-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML/CSS",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Methodology",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Teamwork",
+      "category": "soft_skill",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "scikit-learn",
+      "description": "scikit-learn: machine learning in Python",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/scikit-learn/scikit-learn",
+      "date": "2026-05"
+    },
+    {
+      "name": "superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/apache/superset",
+      "date": "2026-05"
+    },
+    {
+      "name": "MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/opendatalab/MinerU",
+      "date": "2026-05"
+    },
+    {
+      "name": "thefuck",
+      "description": "Magnificent app which corrects your previous console command.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/nvbn/thefuck",
+      "date": "2026-05"
+    },
+    {
+      "name": "mem0",
+      "description": "Universal memory layer for AI Agents",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/mem0ai/mem0",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2024-06",
+      "credential_id": null
+    },
+    {
+      "name": "Google IT Automation with Python Professional Certificate",
+      "issuer": "Google/Coursera",
+      "date": "2023-09",
+      "credential_id": null
+    },
+    {
+      "name": "Meta Front-End Developer Professional Certificate",
+      "issuer": "Meta/Coursera",
+      "date": "2023-12",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "HTML/CSS",
+    "React",
+    "Flask",
+    "Next.js",
+    "PostgreSQL",
+    "Git",
+    "Docker",
+    "REST APIs",
+    "Agile Methodology",
+    "Teamwork"
+  ],
+  "companies": [
+    "Breadfast",
+    "Vezeeta",
+    "Paymob",
+    "Swvl"
+  ],
+  "job_titles": [
+    "Associate Fullstack Developer",
+    "Junior Fullstack Developer",
+    "Software Engineer Intern",
+    "Web Development Intern"
+  ],
+  "universities": [
+    "Cairo University, Faculty of Computers and Artificial Intelligence",
+    "STEM October School (6th October)"
+  ],
+  "degrees": [
+    "B.Sc. Computer Science",
+    "High School Diploma"
+  ],
+  "parsing_metadata": {}
+}

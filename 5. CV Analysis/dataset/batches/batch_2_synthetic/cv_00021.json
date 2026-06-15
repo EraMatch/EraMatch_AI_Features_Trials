@@ -1,0 +1,343 @@
+{
+  "full_name": "William Erickson",
+  "email": "william.erickson@gmail.com",
+  "location": "Andrewtown, USA",
+  "years_of_experience": 11.5,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "William Erickson",
+    "email": "william.erickson@gmail.com",
+    "phone": "248.529.8811x0988",
+    "location": "Andrewtown, USA",
+    "linkedin_url": "https://linkedin.com/in/william-erickson",
+    "github_url": "https://github.com/williamerickson",
+    "portfolio_url": "https://williamerickson.dev"
+  },
+  "summary": "Senior technical leader specializing in frontend engineering with expertise in JavaScript, HTML, Dart. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2021-12",
+      "end_date": "Present",
+      "duration": "2021-12 \u2013 Present",
+      "duration_months": 53,
+      "description": "Developed responsive web applications using AWS Amplify, improving page load time by 62%\nDeveloped design system using AWS Amplify, standardizing UI across 1000+ applications\nImproved website accessibility score to 58% using React\nBuilt real-time collaboration features using Netlify, serving 100+ concurrent users",
+      "technologies": [
+        "JavaScript",
+        "Vue.js",
+        "AWS Amplify",
+        "Netlify",
+        "Supabase",
+        "React"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2017-05",
+      "end_date": "2021-08",
+      "duration": "2017-05 \u2013 2021-08",
+      "duration_months": 51,
+      "description": "Implemented automated testing framework using Bootstrap, achieving 50% code coverage\nIntegrated third-party APIs using Storybook, reducing integration time by 65%",
+      "technologies": [
+        "Responsive Design",
+        "Cloudflare Pages",
+        "Storybook",
+        "Bootstrap",
+        "Prettier"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2014-04",
+      "end_date": "2017-02",
+      "duration": "2014-04 \u2013 2017-02",
+      "duration_months": 34,
+      "description": "Built interactive data visualizations using Supabase, serving 100+ daily users\nImproved website accessibility score to 53% using Supabase",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Supabase",
+        "Storybook"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Eng.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2013",
+      "gpa": null,
+      "activities": "Google Developer Group"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mobile Web App",
+      "description": "Created Mobile Web App leveraging JavaScript for core functionality and Bootstrap for optimization",
+      "technologies": [
+        "React",
+        "Bootstrap",
+        "JavaScript"
+      ],
+      "url": "https://github.com/synthetic-frontend-21-0",
+      "date": "2020"
+    },
+    {
+      "name": "Data Visualization Tool",
+      "description": "Developed React Component Library using Next.js, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Next.js",
+        "Material UI",
+        "JavaScript"
+      ],
+      "url": "https://github.com/synthetic-frontend-21-1",
+      "date": "2019"
+    },
+    {
+      "name": "Progressive Web App",
+      "description": "Implemented Form Builder using Dart, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Next.js",
+        "Material UI",
+        "Dart"
+      ],
+      "url": "https://github.com/synthetic-frontend-21-2",
+      "date": "2022"
+    },
+    {
+      "name": "Form Builder",
+      "description": "Built Admin Panel with Material UI and Next.js, serving 10,000+ daily active users",
+      "technologies": [
+        "React",
+        "Next.js",
+        "Material UI"
+      ],
+      "url": "https://github.com/synthetic-frontend-21-3",
+      "date": "2023"
+    },
+    {
+      "name": "Admin Panel",
+      "description": "Created React Component Library leveraging React for core functionality and Dart for optimization",
+      "technologies": [
+        "React",
+        "Dart",
+        "HTML"
+      ],
+      "url": "https://github.com/synthetic-frontend-21-4",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about developer tools and building technology that makes a difference.",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Hackathon 1st Place \u2014 MLH 2023",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Mandarin (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "HTML",
+    "Dart",
+    "Material UI",
+    "Next.js",
+    "React",
+    "Bootstrap",
+    "Webpack",
+    "Vite",
+    "Firebase",
+    "Supabase",
+    "MongoDB",
+    "IndexedDB",
+    "AWS Amplify",
+    "Vercel",
+    "Cloudflare Pages",
+    "Netlify",
+    "Render",
+    "Responsive Design",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "Tesla",
+    "Apple",
+    "ModelShip"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "UI Engineer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "KAIST"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 21,
+    "tier": "T4",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:11.512408",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

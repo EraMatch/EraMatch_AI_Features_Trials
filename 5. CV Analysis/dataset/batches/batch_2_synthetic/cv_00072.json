@@ -1,0 +1,345 @@
+{
+  "full_name": "Tiffany Jackson",
+  "email": "tiffany.jackson@protonmail.com",
+  "location": "North Davidfort, India",
+  "years_of_experience": 8.7,
+  "seniority_level": "lead",
+  "primary_domain": "Full-Stack Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Tiffany Jackson",
+    "email": "tiffany.jackson@protonmail.com",
+    "phone": "001-344-942-1891",
+    "location": "North Davidfort, India",
+    "linkedin_url": "https://linkedin.com/in/tiffany-jackson",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in full-stack engineering with expertise in C#, TypeScript, Node.js. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "Application Developer",
+      "title": "Application Developer",
+      "start_date": "2024-11",
+      "end_date": "Present",
+      "duration": "2024-11 \u2013 Present",
+      "duration_months": 18,
+      "description": "Architected full-stack solution with Render, improving response time by 27%\nLed full-stack migration from monolith to REST API Design, reducing latency by 16%\nMentored team of 2 developers on PostgreSQL full-stack best practices\nDesigned RESTful API and frontend using REST API Design, handling 5000+ concurrent sessions",
+      "technologies": [
+        "Cloudflare",
+        "Kubernetes",
+        "REST API Design",
+        "Firebase",
+        "Render",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "Application Developer",
+      "title": "Application Developer",
+      "start_date": "2021-04",
+      "end_date": "2024-06",
+      "duration": "2021-04 \u2013 2024-06",
+      "duration_months": 38,
+      "description": "Optimized database queries and frontend rendering using TypeScript, improving UX by 43%\nMentored team of 2 developers on TypeScript full-stack best practices\nOptimized database queries and frontend rendering using GitHub Actions, improving UX by 67%",
+      "technologies": [
+        "GitHub Actions",
+        "Docker",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Application Developer",
+      "title": "Application Developer",
+      "start_date": "2016-11",
+      "end_date": "2020-11",
+      "duration": "2016-11 \u2013 2020-11",
+      "duration_months": 48,
+      "description": "Built end-to-end web application using GCP, serving 5000+ daily active users\nMentored team of 4 developers on Vercel full-stack best practices\nOptimized database queries and frontend rendering using GCP, improving UX by 67%\nArchitected full-stack solution with GCP, improving response time by 57%",
+      "technologies": [
+        "Vercel",
+        "GCP",
+        "Cloudflare",
+        "Webpack",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "B.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2017",
+      "gpa": null,
+      "activities": "Hackathon Team"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Task Management App",
+      "description": "Designed Blog Platform leveraging Java microservices architecture with Angular for caching",
+      "technologies": [
+        "Angular",
+        "Java",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-fullstack-72-0",
+      "date": "2022"
+    },
+    {
+      "name": "User Management Portal",
+      "description": "Created User Management Portal leveraging C# for core functionality and Django for optimization",
+      "technologies": [
+        "Django",
+        "C#",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-fullstack-72-1",
+      "date": "2023"
+    },
+    {
+      "name": "Content Management System",
+      "description": "Built Notification Hub using Node.js and Java, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Java",
+        "Node.js",
+        "C#"
+      ],
+      "url": "https://github.com/synthetic-fullstack-72-2",
+      "date": "2020"
+    },
+    {
+      "name": "Booking System",
+      "description": "Built Analytics Dashboard with Angular and TypeScript, serving 10,000+ daily active users",
+      "technologies": [
+        "Angular",
+        "C#",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-fullstack-72-3",
+      "date": "2024"
+    },
+    {
+      "name": "Notification Hub",
+      "description": "Developed Search Application using C#, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Django",
+        "C#",
+        "Angular"
+      ],
+      "url": "https://github.com/synthetic-fullstack-72-4",
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Learning new languages",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Russian (Basic)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "TypeScript",
+    "Node.js",
+    "Java",
+    "Go",
+    "Express.js",
+    "Angular",
+    "Django",
+    "Firebase",
+    "Redis",
+    "MongoDB",
+    "SQLite",
+    "Storybook",
+    "Kubernetes",
+    "Git",
+    "Jest",
+    "Netlify",
+    "Azure",
+    "Vercel",
+    "Render",
+    "GCP",
+    "Microservices",
+    "REST API Design"
+  ],
+  "companies": [
+    "Spotify",
+    "Anthropic",
+    "Stripe"
+  ],
+  "job_titles": [
+    "Application Developer",
+    "Application Developer",
+    "Application Developer"
+  ],
+  "universities": [
+    "EPFL"
+  ],
+  "degrees": [
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 72,
+    "tier": "T2",
+    "domain": "fullstack",
+    "generated_at": "2026-05-31T02:32:15.609383",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

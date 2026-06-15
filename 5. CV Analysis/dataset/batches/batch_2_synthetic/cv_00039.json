@@ -1,0 +1,273 @@
+{
+  "full_name": "Claudia Williams",
+  "email": "claudia.williams@yahoo.com",
+  "location": "Royton, Germany",
+  "years_of_experience": 4.9,
+  "seniority_level": "mid",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Claudia Williams",
+    "email": "claudia.williams@yahoo.com",
+    "phone": "4474434081",
+    "location": "Royton, Germany",
+    "linkedin_url": "https://linkedin.com/in/claudia-williams",
+    "github_url": "https://github.com/claudiawilliams",
+    "portfolio_url": "https://claudiawilliams.dev"
+  },
+  "summary": "Mid-level frontend engineering specialist with 4 years building production systems. Skilled in JavaScript, Python, TypeScript with focus on performance optimization and code quality.",
+  "work_experience": [
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2025-03",
+      "end_date": "Present",
+      "duration": "2025-03 \u2013 Present",
+      "duration_months": 14,
+      "description": "Improved website accessibility score to 58% using Astro\nDeveloped design system using PostgreSQL, standardizing UI across 1000+ applications",
+      "technologies": [
+        "Angular",
+        "PostgreSQL",
+        "Astro"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2021-12",
+      "end_date": "2024-12",
+      "duration": "2021-12 \u2013 2024-12",
+      "duration_months": 36,
+      "description": "Improved website accessibility score to 25% using Storybook\nBuilt reusable component library using Agile, used by 100+ developers",
+      "technologies": [
+        "Storybook",
+        "Agile",
+        "Progressive Web Apps",
+        "Bootstrap",
+        "HTML"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2020-11",
+      "end_date": "2021-08",
+      "duration": "2020-11 \u2013 2021-08",
+      "duration_months": 9,
+      "description": "Developed responsive web applications using Prettier, improving page load time by 27%\nDeveloped design system using Vite, standardizing UI across 100+ applications\nImproved website accessibility score to 24% using Vite\nCreated progressive web app using Jest, increasing user engagement by 26%",
+      "technologies": [
+        "Prettier",
+        "Jest",
+        "Vite"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "M.Eng.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2021",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "Designed and implemented UI Design System with Svelte, integrating with JavaScript for seamless data flow",
+      "technologies": [
+        "TypeScript",
+        "Svelte",
+        "JavaScript"
+      ],
+      "url": "https://github.com/synthetic-frontend-39-0",
+      "date": "2022"
+    },
+    {
+      "name": "Data Visualization Tool",
+      "description": "Designed Progressive Web App leveraging JavaScript microservices architecture with Python for caching",
+      "technologies": [
+        "JavaScript",
+        "Python",
+        "Svelte"
+      ],
+      "url": "https://github.com/synthetic-frontend-39-1",
+      "date": "2024"
+    },
+    {
+      "name": "Admin Panel",
+      "description": "Designed Progressive Web App leveraging Astro microservices architecture with Python for caching",
+      "technologies": [
+        "Python",
+        "Astro",
+        "Svelte"
+      ],
+      "url": "https://github.com/synthetic-frontend-39-2",
+      "date": "2023"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Spanish (Professional)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "JavaScript",
+    "Python",
+    "TypeScript",
+    "Astro",
+    "Svelte",
+    "Prettier",
+    "Storybook",
+    "Vite",
+    "IndexedDB",
+    "MongoDB",
+    "Supabase",
+    "Firebase",
+    "Netlify",
+    "Cloudflare Pages",
+    "Accessibility (WCAG)",
+    "Responsive Design",
+    "Component-Driven Development",
+    "Agile"
+  ],
+  "companies": [
+    "Palantir",
+    "Twilio",
+    "Twilio"
+  ],
+  "job_titles": [
+    "React Developer",
+    "UI Engineer",
+    "React Developer"
+  ],
+  "universities": [
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 39,
+    "tier": "T4",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:34.984043",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

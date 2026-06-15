@@ -1,0 +1,276 @@
+{
+  "full_name": "Yousef Hassan",
+  "email": "yousef.1019095@stemoctober.moe.edu.eg",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Yousef Hassan",
+    "email": "yousef.1019095@stemoctober.moe.edu.eg",
+    "phone": "+20-10-1234-5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/yousefhassan",
+    "github_url": "https://github.com/yousefhassan",
+    "portfolio_url": "https://yousefhassan.dev"
+  },
+  "summary": "Motivated Junior Fullstack Developer with 2 years of experience crafting responsive, scalable web applications using Python, JavaScript, and TypeScript. Proficient in React, Django, and Node.js with a strong foundation in RESTful APIs and database design. Passionate about clean code, agile practices, and continuous learning. Eager to tackle complex challenges and contribute to high-impact teams.",
+  "work_experience": [
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2022-08",
+      "end_date": "2023-04",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built and maintained internal tools for healthcare booking platform. Developed React components and Node.js APIs, integrated third-party payment gateways, and optimized MongoDB queries to improve response times by 20%. Collaborated in daily stand-ups and sprint planning.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "JavaScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Junior Software Engineer",
+      "title": null,
+      "start_date": "2023-05",
+      "end_date": "2024-01",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to the frontend team building performance monitoring dashboards. Implemented TypeScript-typed React components with Redux state management. Participated in code reviews and set up CI/CD pipelines using GitHub Actions, reducing deployment errors.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Redux",
+        "Git",
+        "CI/CD"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2024-02",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Fullstack feature development on the core transportation platform using Django REST Framework and React. Designed PostgreSQL schemas for route optimization, implemented Docker containerization for local development, and mentored interns on Python best practices.",
+      "technologies": [
+        "Python",
+        "Django",
+        "React",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Zewail City of Science and Technology",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML/CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile/Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "ci_cd",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "date": "2026-05"
+    },
+    {
+      "name": "react",
+      "description": "The library for web and native user interfaces.",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/facebook/react",
+      "date": "2026-05"
+    },
+    {
+      "name": "next.js",
+      "description": "The React Framework",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/vercel/next.js",
+      "date": "2026-05"
+    },
+    {
+      "name": "react-native",
+      "description": "A framework for building native applications using React",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/facebook/react-native",
+      "date": "2026-05"
+    },
+    {
+      "name": "free-programming-books-zh_CN",
+      "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+      "technologies": [],
+      "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2022-07",
+      "credential_id": null
+    },
+    {
+      "name": "Meta Back-End Developer Professional Certificate",
+      "issuer": "Meta (Coursera)",
+      "date": "2022-12",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2023-03",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "HTML/CSS",
+    "React",
+    "Node.js",
+    "Express.js",
+    "Django",
+    "Flask",
+    "PostgreSQL",
+    "MongoDB",
+    "Git",
+    "Docker",
+    "REST APIs",
+    "Agile/Scrum",
+    "CI/CD"
+  ],
+  "companies": [
+    "Vezeeta",
+    "Instabug",
+    "Swvl"
+  ],
+  "job_titles": [
+    "Junior Fullstack Developer",
+    "Junior Software Engineer",
+    "Fullstack Developer"
+  ],
+  "universities": [
+    "Zewail City of Science and Technology"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

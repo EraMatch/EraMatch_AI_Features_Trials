@@ -1,0 +1,300 @@
+{
+  "full_name": "Anas Beso",
+  "email": "anasbesoanas@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 5.0,
+  "seniority_level": "mid",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Anas Beso",
+    "email": "anasbesoanas@gmail.com",
+    "phone": "+20 10 9876 5432",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/anasbesoanas",
+    "github_url": "https://github.com/anasbesoanas",
+    "portfolio_url": "https://anasbesoanas.dev"
+  },
+  "summary": "Versatile Full Stack Developer with 5 years of hands-on experience in designing and delivering scalable web applications. Proficient in both front-end (React, Next.js, TypeScript) and back-end (Python, Flask, Node.js) technologies, with a solid track record in Egyptian tech companies and a global cloud provider. Passionate about clean code, performance optimization, and mentoring junior developers. Active open-source contributor with a focus on developer tooling and fullstack frameworks.",
+  "work_experience": [
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Full Stack Developer",
+      "title": null,
+      "start_date": "2019-09",
+      "end_date": "2021-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed and maintained the patient booking platform using React, Node.js, and PostgreSQL. Integrated third‑party telemedicine APIs and implemented a real‑time notification system. Contributed to a 30% improvement in page load speed through code splitting and Redis caching.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Full Stack Developer (SDK Team)",
+      "title": null,
+      "start_date": "2021-07",
+      "end_date": "2023-03",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built internal dashboards and analytics tools to monitor SDK performance using Next.js and Python Flask. Enhanced the bug‑reporting pipeline with automated crash grouping, reducing triage time by 40%. Led a migration from monolithic frontend to micro‑frontend architecture.",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Flask",
+        "AWS Lambda",
+        "S3",
+        "MongoDB",
+        "Kubernetes"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Breadfast",
+      "organization": null,
+      "job_title": "Senior Full Stack Engineer",
+      "title": null,
+      "start_date": "2023-04",
+      "end_date": "2024-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Architected the logistics back‑office system from scratch, serving 200+ delivery agents and warehouse staff. Designed RESTful APIs in Node.js and a real‑time inventory dashboard with React and WebSocket. Drove adoption of CI/CD pipelines, cutting deployment frequency from bi‑weekly to daily.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Socket.IO",
+        "PostgreSQL",
+        "Docker",
+        "GitHub Actions",
+        "AWS ECS",
+        "Redux"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Amazon (Egypt Development Center)",
+      "organization": null,
+      "job_title": "Full Stack Developer",
+      "title": null,
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Build and optimize internal workforce management tools used across fulfillment centers. Work with a global team on microservices in Java and Python, and a React/TypeScript UI. Champion accessibility and performance best practices, contributing to a 20% faster data‑entry flow for operations staff.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Python",
+        "Java",
+        "DynamoDB",
+        "AWS CDK",
+        "Lambda",
+        "GraphQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML/CSS",
+      "category": "other",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile/Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "English (Fluent)",
+      "category": "language",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ionic-framework",
+      "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/ionic-team/ionic-framework",
+      "date": "2026-05"
+    },
+    {
+      "name": "expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/expo/expo",
+      "date": "2026-05"
+    },
+    {
+      "name": "plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/makeplane/plane",
+      "date": "2026-05"
+    },
+    {
+      "name": "styled-components",
+      "description": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/styled-components/styled-components",
+      "date": "2026-05"
+    },
+    {
+      "name": "react-native",
+      "description": "A framework for building native applications using React",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/facebook/react-native",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022-05",
+      "credential_id": null
+    },
+    {
+      "name": "Meta Front-End Developer Professional Certificate",
+      "issuer": "Coursera / Meta",
+      "date": "2023-01",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Flask",
+    "Node.js",
+    "PostgreSQL",
+    "MongoDB",
+    "Docker",
+    "Git",
+    "AWS",
+    "HTML/CSS",
+    "Agile/Scrum",
+    "English (Fluent)"
+  ],
+  "companies": [
+    "Vezeeta",
+    "Instabug",
+    "Breadfast",
+    "Amazon (Egypt Development Center)"
+  ],
+  "job_titles": [
+    "Full Stack Developer",
+    "Full Stack Developer (SDK Team)",
+    "Senior Full Stack Engineer",
+    "Full Stack Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

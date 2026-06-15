@@ -1,0 +1,141 @@
+{
+  "source_email": "youssefmoustafa220188@gmail.com",
+  "specialization": "fullstack",
+  "career_stage": "senior",
+  "github_projects": [
+    {
+      "name": "30-Days-Of-Python",
+      "full_name": "Asabeneh/30-Days-Of-Python",
+      "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+      "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "stars": 63382,
+      "language": "Python",
+      "updated_at": "2026-05-30T23:06:57Z",
+      "topics": [
+        "30-days-of-python",
+        "data",
+        "data-science",
+        "database",
+        "flask",
+        "fullstack",
+        "github",
+        "heroku",
+        "matplotlib",
+        "ml",
+        "mongodb",
+        "numpy",
+        "pandas",
+        "python",
+        "python3"
+      ]
+    },
+    {
+      "name": "reflex",
+      "full_name": "reflex-dev/reflex",
+      "url": "https://github.com/reflex-dev/reflex",
+      "description": "🕸️ Web apps in pure Python 🐍",
+      "stars": 28459,
+      "language": "Python",
+      "updated_at": "2026-05-30T22:50:53Z",
+      "topics": [
+        "dashboard",
+        "data-analysis",
+        "data-science",
+        "data-visualization",
+        "developer-tools",
+        "framework",
+        "fullstack",
+        "gui",
+        "open-source",
+        "python",
+        "webapp"
+      ]
+    },
+    {
+      "name": "router",
+      "full_name": "TanStack/router",
+      "url": "https://github.com/TanStack/router",
+      "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).",
+      "stars": 14526,
+      "language": "TypeScript",
+      "updated_at": "2026-05-30T19:45:40Z",
+      "topics": [
+        "framework",
+        "fullstack",
+        "javascript",
+        "react",
+        "route",
+        "router",
+        "routing",
+        "rpc",
+        "search",
+        "searchparams",
+        "server-functions",
+        "ssr",
+        "state-management",
+        "typesafe",
+        "typescript",
+        "url"
+      ]
+    },
+    {
+      "name": "blitz",
+      "full_name": "blitz-js/blitz",
+      "url": "https://github.com/blitz-js/blitz",
+      "description": "⚡️ The Missing Fullstack Toolkit for Next.js",
+      "stars": 14128,
+      "language": "TypeScript",
+      "updated_at": "2026-05-30T13:13:32Z",
+      "topics": [
+        "blitz",
+        "blitzjs",
+        "framework",
+        "fullstack",
+        "javascript",
+        "nextjs",
+        "prisma",
+        "prisma2",
+        "react",
+        "reactjs",
+        "typescript"
+      ]
+    },
+    {
+      "name": "growth-ebook",
+      "full_name": "phodal/growth-ebook",
+      "url": "https://github.com/phodal/growth-ebook",
+      "description": "Growth Engineering: The Definitive Guide。全栈增长工程师指南",
+      "stars": 7804,
+      "language": "HTML",
+      "updated_at": "2026-05-29T19:31:48Z",
+      "topics": [
+        "back-end",
+        "book",
+        "ebook",
+        "free-book",
+        "freebook",
+        "frontend",
+        "full-stack",
+        "fullstack",
+        "github",
+        "github-books",
+        "growth",
+        "growth-hacking",
+        "phodal",
+        "repractise"
+      ]
+    }
+  ],
+  "tech_keywords": [
+    "typescript",
+    "react",
+    "python",
+    "next.js",
+    "docker"
+  ],
+  "model_used": "deepseek-v4-pro:cloud",
+  "generation_time": 195.07,
+  "retry_count": 0,
+  "template_used": "T1_academic",
+  "file_prefix": "cv_premium_003"
+}

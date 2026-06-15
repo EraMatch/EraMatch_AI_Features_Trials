@@ -1,0 +1,41 @@
+{
+  "checkpoint_path": "/checkpoints/donut-native-full-train-v1",
+  "decoder_max_length": 1536,
+  "epochs": [
+    {
+      "checkpoint_path": "/checkpoints/donut-native-full-train-v1/epoch_01",
+      "epoch": 1,
+      "mean_training_loss": 4.881194040837867,
+      "mean_validation_loss": 1.6602371642666478,
+      "optimizer_steps_total": 181
+    },
+    {
+      "checkpoint_path": "/checkpoints/donut-native-full-train-v1/epoch_02",
+      "epoch": 2,
+      "mean_training_loss": 1.211055714383886,
+      "mean_validation_loss": 0.6343464202938541,
+      "optimizer_steps_total": 362
+    },
+    {
+      "checkpoint_path": "/checkpoints/donut-native-full-train-v1/epoch_03",
+      "epoch": 3,
+      "mean_training_loss": 0.5571544189561797,
+      "mean_validation_loss": 0.4002997611439036,
+      "optimizer_steps_total": 543
+    }
+  ],
+  "epochs_requested": 3,
+  "gradient_accumulation_steps": 8,
+  "learning_rate": 3e-05,
+  "max_target_tokens": 500,
+  "mean_training_loss": 2.216468058059311,
+  "model_id": "naver-clova-ix/donut-base",
+  "optimizer_steps": 543,
+  "revision": "a959cf33c20e09215873e338299c900f57047c61",
+  "run_name": "donut-native-full-train-v1",
+  "special_token_count": 54,
+  "target_format": "native_tokens",
+  "train_count": 1445,
+  "truncated_target_count": 0,
+  "validation_count": 310
+}

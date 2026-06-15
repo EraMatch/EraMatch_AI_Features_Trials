@@ -1,0 +1,30 @@
+{
+  "aggregate": {
+    "document_count": 310,
+    "field_scores": {
+      "certifications": 0.7290322580645161,
+      "education": 0.0,
+      "email": 0.0,
+      "full_name": 0.0021505376344086026,
+      "github_url": 0.25161290322580643,
+      "linkedin_url": 0.14193548387096774,
+      "location": 0.0016129032258064516,
+      "phone": 0.0,
+      "projects": 0.4258064516129032,
+      "skills": 0.0,
+      "summary": 0.0,
+      "work_experience": 0.0
+    },
+    "json_valid_rate": 1.0,
+    "macro_score": 0.12934587813620077,
+    "micro_score": 0.12934587813620071,
+    "schema_valid_rate": 0.0,
+    "unsupported_evidence_rate": 0.022311827956989248
+  },
+  "mean_latency_seconds": 7.178704906825809,
+  "model_id": "naver-clova-ix/donut-base",
+  "representation": "donut_direct_visual",
+  "results_path": "artifacts/trials/donut_native/full_train_v1_epoch03_validation/donut-base-donut_direct_visual-f1b1a8fbf0/results.jsonl",
+  "revision": "a959cf33c20e09215873e338299c900f57047c61",
+  "run_id": "donut-base-donut_direct_visual-f1b1a8fbf0"
+}

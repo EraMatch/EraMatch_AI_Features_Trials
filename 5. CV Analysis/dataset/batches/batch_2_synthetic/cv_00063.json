@@ -1,0 +1,345 @@
+{
+  "full_name": "Karen Aguirre",
+  "email": "karen.aguirre@yahoo.com",
+  "location": "West Ryanfort, France",
+  "years_of_experience": 7.5,
+  "seniority_level": "senior",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Karen Aguirre",
+    "email": "karen.aguirre@yahoo.com",
+    "phone": "+1-787-946-0944x0473",
+    "location": "West Ryanfort, France",
+    "linkedin_url": "https://linkedin.com/in/karen-aguirre",
+    "github_url": "https://github.com/karenaguirre",
+    "portfolio_url": null
+  },
+  "summary": "Senior devops / sre / mlops engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in Rust, Bash, PowerShell with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-09",
+      "end_date": "Present",
+      "duration": "2022-09 \u2013 Present",
+      "duration_months": 44,
+      "description": "Implemented log aggregation using Envoy, processing 5000+ logs/day\nImplemented container orchestration using Azure DevOps, managing 5000+ containers",
+      "technologies": [
+        "Azure DevOps",
+        "DigitalOcean",
+        "Envoy"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2018-07",
+      "end_date": "2022-05",
+      "duration": "2018-07 \u2013 2022-05",
+      "duration_months": 46,
+      "description": "Built automated backup solution using GitLab CI, ensuring 500% data protection\nCreated monitoring and alerting system using GitLab CI, reducing MTTR by 46%\nDesigned and implemented infrastructure as code using Linode, managing 500+ servers",
+      "technologies": [
+        "CloudFormation",
+        "GitLab CI",
+        "Azure",
+        "Azure DevOps",
+        "Linode"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "university": "University of Michigan",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "B.A.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2015",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "YAML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linkerd",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitLab CI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jenkins",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linode",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Management",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Chaos Engineering Framework",
+      "description": "Developed Secrets Management using Rust, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "PowerShell",
+        "Rust",
+        "YAML"
+      ],
+      "url": "https://github.com/synthetic-devops-63-0",
+      "date": "2025"
+    },
+    {
+      "name": "Container Registry",
+      "description": "Developed Observability Dashboard using Bash, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "YAML",
+        "PowerShell",
+        "Bash"
+      ],
+      "url": "https://github.com/synthetic-devops-63-1",
+      "date": "2024"
+    },
+    {
+      "name": "Log Aggregation Platform",
+      "description": "Implemented Kubernetes Cluster using PowerShell, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "YAML",
+        "Bash",
+        "PowerShell"
+      ],
+      "url": "https://github.com/synthetic-devops-63-2",
+      "date": "2024"
+    },
+    {
+      "name": "Infrastructure as Code",
+      "description": "Built Observability Dashboard using PowerShell and Rust, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "YAML",
+        "Rust",
+        "PowerShell"
+      ],
+      "url": "https://github.com/synthetic-devops-63-3",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "English (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Bash",
+    "PowerShell",
+    "YAML",
+    "Pulumi",
+    "CDK",
+    "Istio",
+    "Linkerd",
+    "Docker",
+    "Podman",
+    "GitLab CI",
+    "CircleCI",
+    "Jenkins",
+    "Azure DevOps",
+    "Prometheus",
+    "Thanos",
+    "Datadog",
+    "Azure",
+    "Alibaba Cloud",
+    "GCP",
+    "Linode",
+    "AWS",
+    "Kubeflow",
+    "MLflow",
+    "Seldon",
+    "MLOps",
+    "Platform Engineering",
+    "Incident Management"
+  ],
+  "companies": [
+    "HashiCorp",
+    "Block"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Release Engineer"
+  ],
+  "universities": [
+    "University of Michigan",
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 63,
+    "tier": "T2",
+    "domain": "devops",
+    "generated_at": "2026-05-31T02:32:05.951790",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

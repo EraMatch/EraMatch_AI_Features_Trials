@@ -1,0 +1,293 @@
+{
+  "full_name": "Jessica Dean",
+  "email": "jessica.dean@dean.dev",
+  "location": "Jeffreymouth, USA",
+  "years_of_experience": 3.5,
+  "seniority_level": "mid",
+  "primary_domain": "Full-Stack Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jessica Dean",
+    "email": "jessica.dean@dean.dev",
+    "phone": "001-315-984-0621x997",
+    "location": "Jeffreymouth, USA",
+    "linkedin_url": "https://linkedin.com/in/jessica-dean",
+    "github_url": "https://github.com/jessicadean",
+    "portfolio_url": null
+  },
+  "summary": "Results-driven full-stack engineering professional with 3 years of experience designing and implementing scalable solutions using TypeScript, Python, Node.js. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2025-01",
+      "end_date": "Present",
+      "duration": "2025-01 \u2013 Present",
+      "duration_months": 16,
+      "description": "Designed RESTful API and frontend using Azure, handling 500+ concurrent sessions\nImplemented server-side rendering using Scrum, reducing page load time by 17%\nLed full-stack migration from manual process to SQLite, reducing latency by 49%\nMentored team of 3 developers on Vite full-stack best practices",
+      "technologies": [
+        "Webpack",
+        "SQLite",
+        "Vite",
+        "Scrum",
+        "Firebase",
+        "Azure"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2022-10",
+      "end_date": "2024-12",
+      "duration": "2022-10 \u2013 2024-12",
+      "duration_months": 26,
+      "description": "Architected full-stack solution with Django, improving response time by 65%\nLed full-stack migration from on-premise to Django, reducing latency by 69%\nOptimized database queries and frontend rendering using MySQL, improving UX by 43%\nOptimized database queries and frontend rendering using MySQL, improving UX by 51%",
+      "technologies": [
+        "Agile",
+        "MySQL",
+        "Django",
+        "Render"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "university": "Stanford University",
+      "degree": "M.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2023",
+      "gpa": "3.88",
+      "activities": "Hackathon Team"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vite",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Search Application",
+      "description": "Implemented Task Management App using Java, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Express.js",
+        "Vue.js",
+        "Java"
+      ],
+      "url": "https://github.com/synthetic-fullstack-79-0",
+      "date": "2019"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Designed User Management Portal leveraging Vue.js microservices architecture with TypeScript for caching",
+      "technologies": [
+        "TypeScript",
+        "Vue.js",
+        "Java"
+      ],
+      "url": "https://github.com/synthetic-fullstack-79-1",
+      "date": "2019"
+    },
+    {
+      "name": "Booking System",
+      "description": "Built Notification Hub using TypeScript and Node.js, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "TypeScript",
+        "Node.js",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-fullstack-79-2",
+      "date": "2021"
+    },
+    {
+      "name": "Content Management System",
+      "description": "Built E-commerce Platform using Node.js and Python, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Node.js",
+        "Python",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-fullstack-79-3",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "German (Professional)",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Python",
+    "Node.js",
+    "Go",
+    "Java",
+    "Express.js",
+    "Vue.js",
+    "MySQL",
+    "SQLite",
+    "MongoDB",
+    "Redis",
+    "Docker",
+    "GitHub Actions",
+    "Vite",
+    "Webpack",
+    "GCP",
+    "Cloudflare",
+    "Microservices",
+    "Agile",
+    "Scrum"
+  ],
+  "companies": [
+    "PipelineIO",
+    "Meta"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "Stanford University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 79,
+    "tier": "T4",
+    "domain": "fullstack",
+    "generated_at": "2026-05-31T02:32:21.782400",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

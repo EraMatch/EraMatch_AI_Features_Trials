@@ -1,0 +1,222 @@
+[
+  {
+    "domain": "Backend Engineering",
+    "excluded_skills": [],
+    "label_source": "training_primary_domain_and_canonical_skills",
+    "optional_skills": [
+      "azure openai",
+      "aws bedrock",
+      "fastapi",
+      "replicate",
+      "google gemini",
+      "microservices",
+      "graphql",
+      "railway",
+      "ci cd",
+      "php",
+      "llm integration",
+      "anthropic"
+    ],
+    "profile_id": "domain:backend-engineering",
+    "required_skills": [],
+    "training_documents": 269
+  },
+  {
+    "domain": "Cybersecurity",
+    "excluded_skills": [],
+    "label_source": "training_primary_domain_and_canonical_skills",
+    "optional_skills": [
+      "gcp security command center",
+      "azure sentinel",
+      "aws security hub",
+      "owasp zap",
+      "snort",
+      "owasp top 10",
+      "zero trust architecture",
+      "incident response",
+      "threat modeling",
+      "burp suite",
+      "sast dast",
+      "soc2 compliance"
+    ],
+    "profile_id": "domain:cybersecurity",
+    "required_skills": [],
+    "training_documents": 114
+  },
+  {
+    "domain": "Data Science / ML / AI",
+    "excluded_skills": [],
+    "label_source": "training_primary_domain_and_canonical_skills",
+    "optional_skills": [
+      "databricks",
+      "julia",
+      "matlab",
+      "bedrock",
+      "gcp vertex ai",
+      "hugging face endpoints",
+      "lambda labs",
+      "aws sagemaker",
+      "azure ml",
+      "scala",
+      "weaviate",
+      "deep learning"
+    ],
+    "profile_id": "domain:data-science-ml-ai",
+    "required_skills": [],
+    "training_documents": 214
+  },
+  {
+    "domain": "Design (UI/UX)",
+    "excluded_skills": [],
+    "label_source": "training_primary_domain_and_canonical_skills",
+    "optional_skills": [
+      "cloudflare",
+      "adobe xd",
+      "design systems",
+      "framer",
+      "principle",
+      "invision",
+      "sketch",
+      "usability testing",
+      "adobe creative suite",
+      "design thinking",
+      "information architecture",
+      "prototyping"
+    ],
+    "profile_id": "domain:design-ui-ux",
+    "required_skills": [],
+    "training_documents": 94
+  },
+  {
+    "domain": "DevOps / SRE / MLOps",
+    "excluded_skills": [],
+    "label_source": "training_primary_domain_and_canonical_skills",
+    "optional_skills": [
+      "yaml",
+      "oracle cloud",
+      "argo workflows",
+      "hcl",
+      "gitlab ci",
+      "torchserve",
+      "kale",
+      "pagerduty",
+      "pulumi",
+      "seldon",
+      "circleci",
+      "tekton"
+    ],
+    "profile_id": "domain:devops-sre-mlops",
+    "required_skills": [],
+    "training_documents": 182
+  },
+  {
+    "domain": "Frontend Engineering",
+    "excluded_skills": [],
+    "label_source": "training_primary_domain_and_canonical_skills",
+    "optional_skills": [
+      "progressive web apps",
+      "responsive design",
+      "component driven development",
+      "indexeddb",
+      "cloudflare pages",
+      "accessibility wcag",
+      "netlify",
+      "render",
+      "agile",
+      "dart",
+      "css",
+      "html"
+    ],
+    "profile_id": "domain:frontend-engineering",
+    "required_skills": [],
+    "training_documents": 212
+  },
+  {
+    "domain": "General IT",
+    "excluded_skills": [],
+    "label_source": "training_primary_domain_and_canonical_skills",
+    "optional_skills": [
+      "active directory",
+      "google workspace",
+      "sql server",
+      "exchange",
+      "sharepoint",
+      "office 365",
+      "itil",
+      "network security",
+      "vba",
+      "help desk",
+      "intune",
+      "change management"
+    ],
+    "profile_id": "domain:general-it",
+    "required_skills": [],
+    "training_documents": 43
+  },
+  {
+    "domain": "Mobile Development",
+    "excluded_skills": [],
+    "label_source": "training_primary_domain_and_canonical_skills",
+    "optional_skills": [
+      "revenuecat",
+      "realm",
+      "core data",
+      "hive",
+      "ci cd for mobile",
+      "offline first",
+      "clean architecture",
+      "mvvm",
+      "firebase firestore",
+      "app store optimization",
+      "swiftui",
+      "jetpack compose"
+    ],
+    "profile_id": "domain:mobile-development",
+    "required_skills": [],
+    "training_documents": 157
+  },
+  {
+    "domain": "Product Management",
+    "excluded_skills": [],
+    "label_source": "training_primary_domain_and_canonical_skills",
+    "optional_skills": [
+      "productboard",
+      "roadmunk",
+      "bigquery",
+      "snowflake",
+      "aha",
+      "confluence",
+      "jira",
+      "google analytics",
+      "kanban",
+      "notion",
+      "okrs",
+      "roadmap planning"
+    ],
+    "profile_id": "domain:product-management",
+    "required_skills": [],
+    "training_documents": 94
+  },
+  {
+    "domain": "QA / Testing",
+    "excluded_skills": [],
+    "label_source": "training_primary_domain_and_canonical_skills",
+    "optional_skills": [
+      "appium",
+      "selenium",
+      "junit",
+      "test planning",
+      "postman",
+      "testng",
+      "jmeter",
+      "sauce labs",
+      "agile testing",
+      "browserstack",
+      "performance testing",
+      "soapui"
+    ],
+    "profile_id": "domain:qa-testing",
+    "required_skills": [],
+    "training_documents": 66
+  }
+]

@@ -1,0 +1,303 @@
+{
+  "full_name": "Thomas Jacobs",
+  "email": "thomas.jacobs@gmail.com",
+  "location": "Sarahmouth, Japan",
+  "years_of_experience": 6.0,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Thomas Jacobs",
+    "email": "thomas.jacobs@gmail.com",
+    "phone": "+1-498-781-6901x7700",
+    "location": "Sarahmouth, Japan",
+    "linkedin_url": "https://linkedin.com/in/thomas-jacobs",
+    "github_url": "https://github.com/thomasjacobs",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in R, Go, and Julia. 6 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2023-03",
+      "end_date": "Present",
+      "duration": "2023-03 \u2013 Present",
+      "duration_months": 38,
+      "description": "Created recommendation system using TensorFlow, increasing user engagement by 45%\nBuilt ML model serving infrastructure using PostgreSQL, handling 10000+ predictions/day\nEstablished MLOps practices using PostgreSQL, reducing model deployment time by 67%",
+      "technologies": [
+        "Azure ML",
+        "TensorFlow",
+        "Databricks",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2021-09",
+      "end_date": "2022-12",
+      "duration": "2021-09 \u2013 2022-12",
+      "duration_months": 15,
+      "description": "Established MLOps practices using Prompt Engineering, reducing model deployment time by 24%\nImplemented A/B testing framework using GCP Vertex AI, running 10000+ experiments",
+      "technologies": [
+        "OpenAI API",
+        "Prompt Engineering",
+        "BigQuery",
+        "DVC",
+        "GCP Vertex AI"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "ML Engineer",
+      "title": "ML Engineer",
+      "start_date": "2019-11",
+      "end_date": "2021-06",
+      "duration": "2019-11 \u2013 2021-06",
+      "duration_months": 19,
+      "description": "Established MLOps practices using Databricks, reducing model deployment time by 18%\nEstablished MLOps practices using Weights & Biases, reducing model deployment time by 48%\nBuilt end-to-end ML pipeline using Python, processing 1000+ samples daily",
+      "technologies": [
+        "Weights & Biases",
+        "Databricks",
+        "Pinecone",
+        "Python"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "university": "University of Toronto",
+      "degree": "B.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.55",
+      "activities": "Kaggle Competition"
+    },
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.39",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "R",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Julia",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JAX",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LightGBM",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dagster",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spark",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weights & Biases",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Weaviate",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bedrock",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face Endpoints",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vector Databases",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure ML",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Python",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ML Model Training Pipeline",
+      "description": "Designed and implemented Data Quality Monitor with Go, integrating with Julia for seamless data flow",
+      "technologies": [
+        "R",
+        "Julia",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-data_science-50-0",
+      "date": "2025"
+    },
+    {
+      "name": "BI Dashboard",
+      "description": "Created Computer Vision System leveraging Julia for core functionality and Go for optimization",
+      "technologies": [
+        "Julia",
+        "R",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-data_science-50-1",
+      "date": "2025"
+    },
+    {
+      "name": "Anomaly Detection System",
+      "description": "Designed and implemented Computer Vision System with Julia, integrating with R for seamless data flow",
+      "technologies": [
+        "Julia",
+        "R",
+        "Go"
+      ],
+      "url": "https://github.com/synthetic-data_science-50-2",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Cooking",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "R",
+    "Go",
+    "Julia",
+    "JAX",
+    "LightGBM",
+    "Claude API",
+    "MLflow",
+    "Dagster",
+    "Kubeflow",
+    "Spark",
+    "Weights & Biases",
+    "Weaviate",
+    "Pinecone",
+    "Bedrock",
+    "AWS SageMaker",
+    "Hugging Face Endpoints",
+    "Vector Databases",
+    "Deep Learning",
+    "Fine-tuning",
+    "MLOps"
+  ],
+  "companies": [
+    "OpenAI",
+    "ModelShip",
+    "Confluent"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "LLM Engineer",
+    "ML Engineer"
+  ],
+  "universities": [
+    "University of Toronto",
+    "UIUC"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 50,
+    "tier": "T5",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:52.553038",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "full_name": "Mr. Russell Burton",
+  "email": "mr..russell.burton@outlook.com",
+  "location": "Alexport, Germany",
+  "years_of_experience": 8.5,
+  "seniority_level": "lead",
+  "primary_domain": "DevOps / SRE / MLOps",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mr. Russell Burton",
+    "email": "mr..russell.burton@outlook.com",
+    "phone": "+1-599-462-2802",
+    "location": "Alexport, Germany",
+    "linkedin_url": "https://linkedin.com/in/mr.-russell-burton",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in devops / sre / mlops with expertise in Go, Rust, CDK. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Cloud Engineer",
+      "title": "Cloud Engineer",
+      "start_date": "2024-12",
+      "end_date": "Present",
+      "duration": "2024-12 \u2013 Present",
+      "duration_months": 17,
+      "description": "Built automated backup solution using Opsgenie, ensuring 1000% data protection\nOptimized cloud infrastructure using Opsgenie, reducing costs by 54%\nImplemented log aggregation using K3s, processing 50000+ logs/day\nOptimized cloud infrastructure using K3s, reducing costs by 26%",
+      "technologies": [
+        "K3s",
+        "TensorFlow Serving",
+        "SRE Practices",
+        "Docker",
+        "Platform Engineering",
+        "Opsgenie"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-07",
+      "end_date": "2024-07",
+      "duration": "2023-07 \u2013 2024-07",
+      "duration_months": 12,
+      "description": "Built CI/CD pipelines using Podman, reducing deployment time from 27s to 353ms\nBuilt disaster recovery solution using Podman, achieving RTO of 169ms\nCreated self-service provisioning portal using Alibaba Cloud, serving 100000+ engineers",
+      "technologies": [
+        "Ansible",
+        "Envoy",
+        "Podman",
+        "Hetzner",
+        "Alibaba Cloud"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CodeCraft Studios",
+      "organization": "CodeCraft Studios",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2021-11",
+      "end_date": "2023-07",
+      "duration": "2021-11 \u2013 2023-07",
+      "duration_months": 20,
+      "description": "Implemented container orchestration using Podman, managing 100000+ containers\nOptimized cloud infrastructure using Podman, reducing costs by 55%\nBuilt CI/CD pipelines using Podman, reducing deployment time from 3s to 118ms",
+      "technologies": [
+        "Zero Trust",
+        "Podman",
+        "HCL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Release Engineer",
+      "title": "Release Engineer",
+      "start_date": "2017-04",
+      "end_date": "2021-09",
+      "duration": "2017-04 \u2013 2021-09",
+      "duration_months": 53,
+      "description": "Created monitoring and alerting system using Go, reducing MTTR by 42%\nOptimized cloud infrastructure using K3s, reducing costs by 25%",
+      "technologies": [
+        "K3s",
+        "Go",
+        "Terraform"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Munich",
+      "university": "TU Munich",
+      "degree": "B.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.62",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CDK",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pulumi",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CloudFormation",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Crossplane",
+      "category": "infrastructure",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Buildah",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Istio",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Argo Workflows",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CircleCI",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure DevOps",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tekton",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Thanos",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Opsgenie",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prometheus",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Datadog",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PagerDuty",
+      "category": "monitoring",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Alibaba Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubeflow",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Seldon",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow Serving",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kale",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Triton Inference Server",
+      "category": "ml_ops",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Zero Trust",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitOps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Infrastructure as Code",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Platform Engineering",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Podman",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "HCL",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CI/CD Pipeline",
+      "description": "Designed GitOps Workflow leveraging Go microservices architecture with Rust for caching",
+      "technologies": [
+        "Go",
+        "Rust",
+        "TensorFlow Serving"
+      ],
+      "url": "https://github.com/synthetic-devops-66-0",
+      "date": "2023"
+    },
+    {
+      "name": "Auto-scaling Solution",
+      "description": "Designed Secrets Management leveraging Rust microservices architecture with Go for caching",
+      "technologies": [
+        "Go",
+        "Rust",
+        "GitOps"
+      ],
+      "url": "https://github.com/synthetic-devops-66-1",
+      "date": "2019"
+    },
+    {
+      "name": "Infrastructure as Code",
+      "description": "Built Monitoring System with Go and Rust, serving 10,000+ daily active users",
+      "technologies": [
+        "Go",
+        "Rust",
+        "HCL"
+      ],
+      "url": "https://github.com/synthetic-devops-66-2",
+      "date": "2023"
+    },
+    {
+      "name": "Observability Dashboard",
+      "description": "Created Chaos Engineering Framework leveraging Go for core functionality and Azure DevOps for optimization",
+      "technologies": [
+        "Go",
+        "Rust",
+        "Azure DevOps"
+      ],
+      "url": "https://github.com/synthetic-devops-66-3",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Japanese (Basic)",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at White, Smith and Wood Youth Program, 2023-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Go",
+    "Rust",
+    "CDK",
+    "Pulumi",
+    "CloudFormation",
+    "Terraform",
+    "Crossplane",
+    "Buildah",
+    "Istio",
+    "Docker",
+    "Kubernetes",
+    "Argo Workflows",
+    "CircleCI",
+    "Azure DevOps",
+    "Tekton",
+    "Thanos",
+    "Opsgenie",
+    "Prometheus",
+    "Datadog",
+    "PagerDuty",
+    "Alibaba Cloud",
+    "AWS",
+    "Kubeflow",
+    "Seldon",
+    "TensorFlow Serving",
+    "Kale",
+    "Triton Inference Server",
+    "Zero Trust",
+    "GitOps",
+    "Infrastructure as Code",
+    "Platform Engineering"
+  ],
+  "companies": [
+    "Vercel",
+    "Meta",
+    "CodeCraft Studios",
+    "Block"
+  ],
+  "job_titles": [
+    "Cloud Engineer",
+    "Platform Engineer",
+    "Release Engineer",
+    "Release Engineer"
+  ],
+  "universities": [
+    "TU Munich"
+  ],
+  "degrees": [
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 66,
+    "tier": "T1",
+    "domain": "devops",
+    "generated_at": "2026-05-31T02:32:09.501697",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

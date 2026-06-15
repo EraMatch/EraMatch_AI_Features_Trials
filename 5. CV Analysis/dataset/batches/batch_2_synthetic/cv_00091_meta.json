@@ -1,0 +1,10 @@
+{
+  "cv_id": 91,
+  "domain": "cybersecurity",
+  "seniority_level": "junior",
+  "tier": "T2",
+  "template_used": "T2_sidebar_left",
+  "pdf_path": "batches/batch_2_synthetic/cv_00091.pdf",
+  "json_path": "batches/batch_2_synthetic/cv_00091.json",
+  "pdf_rendered": true
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "config": "config_A_rgb_only",
+    "test_auc": 0.9999975927179718,
+    "test_f1": 0.9998871713866636,
+    "tpr_at_fpr1": 1.0,
+    "best_val_auc": 1.0,
+    "epochs": 8,
+    "n_params_M": 27.82,
+    "lr": 0.0001,
+    "wd": 1e-05,
+    "supcon_w": 0.3,
+    "db_exp_id": 2,
+    "training_time_s": 1622
+  },
+  {
+    "config": "config_B_srm_concat",
+    "test_auc": 0.9999999999999999,
+    "test_f1": 1.0,
+    "tpr_at_fpr1": 1.0,
+    "best_val_auc": 1.0,
+    "epochs": 8,
+    "n_params_M": 28.8,
+    "lr": 0.0001,
+    "wd": 1e-05,
+    "supcon_w": 0.3,
+    "db_exp_id": 3,
+    "training_time_s": 1236
+  },
+  {
+    "config": "config_C_full_novel",
+    "test_auc": 1.0,
+    "test_f1": 1.0,
+    "tpr_at_fpr1": 1.0,
+    "best_val_auc": 0.9999999398179493,
+    "epochs": 8,
+    "n_params_M": 29.62,
+    "lr": 0.0001,
+    "wd": 1e-05,
+    "supcon_w": 0.3,
+    "db_exp_id": 4,
+    "training_time_s": 1254
+  },
+  {
+    "config": "config_D_dct_3branch",
+    "test_auc": 1.0,
+    "test_f1": 1.0,
+    "tpr_at_fpr1": 1.0,
+    "best_val_auc": 1.0,
+    "epochs": 8,
+    "n_params_M": 30.8,
+    "lr": 0.0001,
+    "wd": 1e-05,
+    "supcon_w": 0.3,
+    "db_exp_id": 5,
+    "training_time_s": 1618
+  },
+  {
+    "config": "config_C_hpo_optimised",
+    "test_auc": 1.0,
+    "test_f1": 0.9998871713866636,
+    "tpr_at_fpr1": 1.0,
+    "best_val_auc": 1.0,
+    "epochs": 8,
+    "n_params_M": 29.62,
+    "lr": 4.3284502212938785e-05,
+    "wd": 0.0007114476009343421,
+    "supcon_w": 0.39279757672456206,
+    "db_exp_id": 21,
+    "training_time_s": 1300
+  }
+]

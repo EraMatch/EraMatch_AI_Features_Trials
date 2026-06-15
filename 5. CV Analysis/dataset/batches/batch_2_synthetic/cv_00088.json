@@ -1,0 +1,295 @@
+{
+  "full_name": "Ebony Smith",
+  "email": "ebony.smith@protonmail.com",
+  "location": "Jasonville, Brazil",
+  "years_of_experience": 7.8,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ebony Smith",
+    "email": "ebony.smith@protonmail.com",
+    "phone": "312.762.5489x5579",
+    "location": "Jasonville, Brazil",
+    "linkedin_url": "https://linkedin.com/in/ebony-smith",
+    "github_url": "https://github.com/ebonysmith",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Swift, Objective-C, and React Native. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 \u2013 Present",
+      "duration_months": 35,
+      "description": "Developed cross-platform solution using Firebase, reducing development time by 21%\nBuilt offline-first architecture using Hive, improving app responsiveness by 70%\nOptimized app performance using TypeScript, reducing battery consumption by 48%",
+      "technologies": [
+        "SwiftUI",
+        "Firebase",
+        "TypeScript",
+        "Hive",
+        "Xcode"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2021-08",
+      "end_date": "2023-03",
+      "duration": "2021-08 \u2013 2023-03",
+      "duration_months": 19,
+      "description": "Implemented biometric authentication using Firebase, securing 1000+ user accounts\nImplemented biometric authentication using RevenueCat, securing 10000+ user accounts",
+      "technologies": [
+        "RevenueCat",
+        "MVVM",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2018-12",
+      "end_date": "2021-06",
+      "duration": "2018-12 \u2013 2021-06",
+      "duration_months": 30,
+      "description": "Implemented biometric authentication using CI/CD for Mobile, securing 100000+ user accounts\nCreated app analytics tracking using CI/CD for Mobile, providing insights on 10000+ users\nBuilt AR/VR features using Android Studio, increasing user retention by 33%",
+      "technologies": [
+        "TestFlight",
+        "Realm",
+        "Kotlin",
+        "Android Studio",
+        "CI/CD for Mobile"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2017-12",
+      "end_date": "2018-09",
+      "duration": "2017-12 \u2013 2018-09",
+      "duration_months": 9,
+      "description": "Implemented biometric authentication using Fastlane, securing 1000+ user accounts\nImplemented push notification system using Fastlane, increasing user engagement by 49%",
+      "technologies": [
+        "Realm",
+        "TestFlight",
+        "CocoaPods",
+        "Fastlane"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "M.Tech.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2016",
+      "gpa": "3.56",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "In-app Purchase System",
+      "description": "Designed React Native App leveraging Swift microservices architecture with React Native for caching",
+      "technologies": [
+        "Objective-C",
+        "Swift",
+        "React Native"
+      ],
+      "url": "https://github.com/synthetic-mobile-88-0",
+      "date": "2021"
+    },
+    {
+      "name": "iOS Application",
+      "description": "Created App Analytics leveraging Swift for core functionality and Flutter for optimization",
+      "technologies": [
+        "Objective-C",
+        "Swift",
+        "Flutter"
+      ],
+      "url": "https://github.com/synthetic-mobile-88-1",
+      "date": "2023"
+    },
+    {
+      "name": "Mobile Backend API",
+      "description": "Designed App Store Optimization leveraging Objective-C microservices architecture with Flutter for caching",
+      "technologies": [
+        "Objective-C",
+        "Swift",
+        "Flutter"
+      ],
+      "url": "https://github.com/synthetic-mobile-88-2",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "French (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Swift",
+    "Objective-C",
+    "React Native",
+    "Flutter",
+    "TestFlight",
+    "Xcode",
+    "Fastlane",
+    "CocoaPods",
+    "App Center",
+    "SQLite",
+    "Realm",
+    "AWS Amplify",
+    "Supabase",
+    "RevenueCat",
+    "CI/CD for Mobile",
+    "Offline-First",
+    "MVVM"
+  ],
+  "companies": [
+    "Airbnb",
+    "Airbnb",
+    "Vercel",
+    "Palantir"
+  ],
+  "job_titles": [
+    "iOS Developer",
+    "Android Developer",
+    "Mobile Developer",
+    "Flutter Developer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 88,
+    "tier": "T4",
+    "domain": "mobile",
+    "generated_at": "2026-05-31T02:32:32.734924",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

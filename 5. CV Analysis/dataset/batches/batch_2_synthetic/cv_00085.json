@@ -1,0 +1,347 @@
+{
+  "full_name": "Shannon Manning",
+  "email": "shannon.manning@protonmail.com",
+  "location": "Port Travis, Canada",
+  "years_of_experience": 3.9,
+  "seniority_level": "mid",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Shannon Manning",
+    "email": "shannon.manning@protonmail.com",
+    "phone": "430-407-8539x622",
+    "location": "Port Travis, Canada",
+    "linkedin_url": "https://linkedin.com/in/shannon-manning",
+    "github_url": "https://github.com/shannonmanning",
+    "portfolio_url": "https://shannonmanning.dev"
+  },
+  "summary": "Results-driven mobile development professional with 3 years of experience designing and implementing scalable solutions using C++, TypeScript, Dart. Track record of delivering high-impact projects.",
+  "work_experience": [
+    {
+      "company": "Confluent",
+      "organization": "Confluent",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 \u2013 Present",
+      "duration_months": 39,
+      "description": "Developed cross-platform solution using CI/CD for Mobile, reducing development time by 65%\nCreated in-app purchase integration using CI/CD for Mobile, generating 500+ in revenue\nBuilt widget functionality using Firebase, increasing daily active users by 39%\nOptimized app performance using TestFlight, reducing battery consumption by 16%",
+      "technologies": [
+        "CI/CD for Mobile",
+        "React Native",
+        "Jetpack Compose",
+        "TestFlight",
+        "Firebase"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2022-05",
+      "end_date": "2023-01",
+      "duration": "2022-05 \u2013 2023-01",
+      "duration_months": 8,
+      "description": "Implemented push notification system using KMP, increasing user engagement by 64%\nBuilt offline-first architecture using Expo, improving app responsiveness by 34%",
+      "technologies": [
+        "Expo",
+        "KMP",
+        "Android Studio",
+        "Realm",
+        "Java"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "B.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2023",
+      "gpa": null,
+      "activities": "iOS Developer"
+    },
+    {
+      "institution": "UIUC",
+      "university": "UIUC",
+      "degree": "B.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2021",
+      "gpa": "3.17",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Xcode",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Offline Sync",
+      "description": "Created App Analytics leveraging Kotlin for core functionality and KMP for optimization",
+      "technologies": [
+        "C++",
+        "Kotlin",
+        "KMP"
+      ],
+      "url": "https://github.com/synthetic-mobile-85-0",
+      "date": "2025"
+    },
+    {
+      "name": "React Native App",
+      "description": "Developed App Analytics using Flutter, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "C++",
+        "Dart",
+        "Flutter"
+      ],
+      "url": "https://github.com/synthetic-mobile-85-1",
+      "date": "2021"
+    },
+    {
+      "name": "Push Notification Service",
+      "description": "Implemented App Store Optimization using KMP, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "KMP",
+        "Swift",
+        "Kotlin"
+      ],
+      "url": "https://github.com/synthetic-mobile-85-2",
+      "date": "2021"
+    },
+    {
+      "name": "Mobile CI/CD",
+      "description": "Built Push Notification Service using Kotlin and TypeScript, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Dart",
+        "TypeScript",
+        "Kotlin"
+      ],
+      "url": "https://github.com/synthetic-mobile-85-3",
+      "date": "2025"
+    },
+    {
+      "name": "Android Application",
+      "description": "Designed and implemented In-app Purchase System with Flutter, integrating with Swift for seamless data flow",
+      "technologies": [
+        "Swift",
+        "KMP",
+        "Flutter"
+      ],
+      "url": "https://github.com/synthetic-mobile-85-4",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Best Paper Award \u2014 MLH 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C++",
+    "TypeScript",
+    "Dart",
+    "Swift",
+    "Kotlin",
+    "SwiftUI",
+    "KMP",
+    "Flutter",
+    "Jetpack Compose",
+    "App Center",
+    "Xcode",
+    "CocoaPods",
+    "Fastlane",
+    "Android Studio",
+    "Firebase Firestore",
+    "SQLite",
+    "Realm",
+    "Hive",
+    "Firebase",
+    "RevenueCat",
+    "Supabase",
+    "AWS Amplify",
+    "Offline-First",
+    "CI/CD for Mobile",
+    "Clean Architecture",
+    "MVVM",
+    "App Store Optimization"
+  ],
+  "companies": [
+    "Confluent",
+    "Airbnb"
+  ],
+  "job_titles": [
+    "React Native Developer",
+    "React Native Developer"
+  ],
+  "universities": [
+    "UT Austin",
+    "UIUC"
+  ],
+  "degrees": [
+    "B.Tech.",
+    "B.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 85,
+    "tier": "T5",
+    "domain": "mobile",
+    "generated_at": "2026-05-31T02:32:29.656640",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

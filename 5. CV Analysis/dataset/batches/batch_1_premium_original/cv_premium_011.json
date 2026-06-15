@@ -1,0 +1,250 @@
+{
+  "full_name": "Adham Eltholth",
+  "email": "adham.eltholth@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Adham Eltholth",
+    "email": "adham.eltholth@gmail.com",
+    "phone": "+20 101 234 5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/adham-eltholth",
+    "github_url": "https://github.com/adhameltholth",
+    "portfolio_url": "https://adhameltholth.dev"
+  },
+  "summary": "Junior Fullstack Developer with 2 years of experience in designing, developing, and deploying web applications. Proficient in Python, TypeScript, and modern frontend frameworks like React and Next.js. Passionate about building full-stack solutions and continuously learning new technologies. Demonstrated experience through open-source contributions and personal projects.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2022-07",
+      "end_date": "2023-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to the development and maintenance of bug reporting SDKs and dashboard. Implemented new features using React and Node.js, and wrote unit tests with Jest.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "MongoDB",
+        "Jest"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Software Developer Intern",
+      "title": null,
+      "start_date": "2022-01",
+      "end_date": "2022-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in building internal tools for operations management using Python and Flask. Integrated third-party APIs for real-time tracking and reporting.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "REST APIs"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Frontend Developer",
+      "title": null,
+      "start_date": "2021-07",
+      "end_date": "2021-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed responsive user interfaces for patient booking platform using React and Redux. Collaborated with designers and backend engineers to improve user experience.",
+      "technologies": [
+        "React",
+        "Redux",
+        "JavaScript",
+        "HTML/CSS",
+        "Figma"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML/CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "methodology",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "date": "2026-05"
+    },
+    {
+      "name": "react",
+      "description": "The library for web and native user interfaces.",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/facebook/react",
+      "date": "2026-05"
+    },
+    {
+      "name": "next.js",
+      "description": "The React Framework",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/vercel/next.js",
+      "date": "2026-05"
+    },
+    {
+      "name": "react-native",
+      "description": "A framework for building native applications using React",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/facebook/react-native",
+      "date": "2026-05"
+    },
+    {
+      "name": "free-programming-books-zh_CN",
+      "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+      "technologies": [],
+      "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services (AWS)",
+      "date": "2023-03",
+      "credential_id": null
+    },
+    {
+      "name": "Meta Front-End Developer Professional Certificate",
+      "issuer": "Coursera",
+      "date": "2023-07",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Flask",
+    "Next.js",
+    "HTML/CSS",
+    "Git",
+    "SQL",
+    "Docker",
+    "AWS",
+    "REST APIs",
+    "Data Visualization",
+    "Router",
+    "Blitz.js",
+    "Back-end",
+    "Database"
+  ],
+  "companies": [
+    "Instabug",
+    "Swvl",
+    "Vezeeta"
+  ],
+  "job_titles": [
+    "Junior Fullstack Developer",
+    "Software Developer Intern",
+    "Frontend Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

@@ -1,0 +1,348 @@
+{
+  "full_name": "Sherry White",
+  "email": "sherry.white@yahoo.com",
+  "location": "Ritahaven, Brazil",
+  "years_of_experience": 8.3,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Sherry White",
+    "email": "sherry.white@yahoo.com",
+    "phone": "798.895.9058x222",
+    "location": "Ritahaven, Brazil",
+    "linkedin_url": "https://linkedin.com/in/sherry-white",
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in frontend engineering with expertise in Python, JavaScript, TypeScript. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "PipelineIO",
+      "organization": "PipelineIO",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2024-08",
+      "end_date": "Present",
+      "duration": "2024-08 \u2013 Present",
+      "duration_months": 21,
+      "description": "Built reusable component library using Material UI, used by 100+ developers\nBuilt interactive data visualizations using Tailwind CSS, serving 5000+ daily users\nDeveloped design system using Storybook, standardizing UI across 5000+ applications",
+      "technologies": [
+        "Material UI",
+        "Storybook",
+        "Tailwind CSS",
+        "Git",
+        "Webpack"
+      ],
+      "is_remote": true,
+      "employment_type": "internship"
+    },
+    {
+      "company": "TechFlow AI",
+      "organization": "TechFlow AI",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2020-09",
+      "end_date": "2024-04",
+      "duration": "2020-09 \u2013 2024-04",
+      "duration_months": 43,
+      "description": "Created progressive web app using Agile, increasing user engagement by 69%\nCreated accessible UI components using MongoDB, achieving WCAG AA compliance\nBuilt interactive data visualizations using MongoDB, serving 5000+ daily users",
+      "technologies": [
+        "MongoDB",
+        "Agile",
+        "Dart"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2017-09",
+      "end_date": "2020-09",
+      "duration": "2017-09 \u2013 2020-09",
+      "duration_months": 36,
+      "description": "Optimized frontend bundle size using Agile, reducing load time by 45%\nIntegrated third-party APIs using Agile, reducing integration time by 62%\nDeveloped design system using HTML, standardizing UI across 5000+ applications",
+      "technologies": [
+        "Jest",
+        "HTML",
+        "Agile",
+        "Figma",
+        "Remix",
+        "AWS Amplify"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "KAIST",
+      "university": "KAIST",
+      "degree": "M.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "B.A.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Storybook",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "React Component Library",
+      "description": "Built Progressive Web App with Vue.js and Tailwind CSS, serving 10,000+ daily active users",
+      "technologies": [
+        "Vue.js",
+        "React",
+        "Tailwind CSS"
+      ],
+      "url": "https://github.com/synthetic-frontend-34-0",
+      "date": "2021"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Designed and implemented Admin Panel with TypeScript, integrating with CSS for seamless data flow",
+      "technologies": [
+        "TypeScript",
+        "Dart",
+        "CSS"
+      ],
+      "url": "https://github.com/synthetic-frontend-34-1",
+      "date": "2021"
+    },
+    {
+      "name": "SPA Framework",
+      "description": "Built Progressive Web App with React and Python, serving 10,000+ daily active users",
+      "technologies": [
+        "Dart",
+        "Python",
+        "React"
+      ],
+      "url": "https://github.com/synthetic-frontend-34-2",
+      "date": "2023"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google UX Design Certificate",
+      "issuer": "Google",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "award",
+      "raw_text": "Innovation Award \u2014 Google DevFest 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "Dart",
+    "CSS",
+    "Next.js",
+    "React",
+    "Tailwind CSS",
+    "Vue.js",
+    "Prettier",
+    "Playwright",
+    "Storybook",
+    "Webpack",
+    "Firebase",
+    "MongoDB",
+    "IndexedDB",
+    "Supabase",
+    "PostgreSQL",
+    "Cloudflare Pages",
+    "AWS Amplify",
+    "Netlify",
+    "Render",
+    "Component-Driven Development",
+    "Agile",
+    "Accessibility (WCAG)",
+    "Responsive Design",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "PipelineIO",
+    "TechFlow AI",
+    "NeuroLink Labs"
+  ],
+  "job_titles": [
+    "Web Developer",
+    "Web Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "KAIST",
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "B.A."
+  ],
+  "parsing_metadata": {
+    "cv_id": 34,
+    "tier": "T2",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:30.096212",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

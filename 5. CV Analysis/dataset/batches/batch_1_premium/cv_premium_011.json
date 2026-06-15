@@ -1,0 +1,297 @@
+{
+  "full_name": "Adham Eltholth",
+  "email": "adham.eltholth@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Adham Eltholth",
+    "email": "adham.eltholth@gmail.com",
+    "phone": "+20 10 9876 5432",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/adham-eltholth",
+    "github_url": "https://github.com/adhameltholth",
+    "portfolio_url": "https://adhameltholth.dev"
+  },
+  "summary": "Junior Fullstack Developer with 2 years of experience building responsive web applications using Python, TypeScript, and modern frameworks. Skilled in both frontend and backend development with a passion for clean code and scalable systems. Cairo University graduate with a strong foundation in computer science and a commitment to continuous learning.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developing and maintaining fullstack web applications using React, Node.js, and PostgreSQL for the internal dashboard. Collaborating with senior engineers to implement new features and improve performance. Writing unit and integration tests to ensure code quality.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Docker",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2022-08",
+      "end_date": "2023-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Worked on the patient-facing booking platform using Next.js and Python Flask APIs. Implemented appointment scheduling features and integrated third-party payment gateways. Participated in agile sprints and code reviews.",
+      "technologies": [
+        "Next.js",
+        "Python",
+        "Flask",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "IBM Egypt",
+      "organization": null,
+      "job_title": "Software Developer Intern",
+      "title": null,
+      "start_date": "2021-06",
+      "end_date": "2021-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to an internal automation tool using Python and JavaScript. Assisted in building data pipelines and creating dashboards with React. Gained hands-on experience with cloud services and agile development practices.",
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "IBM Cloud"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML5",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS3",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Reflex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "soft_skill",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Cloud",
+      "category": "cloud",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "30-Days-Of-Python",
+      "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+      "date": "2026-05"
+    },
+    {
+      "name": "scrapy",
+      "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/scrapy/scrapy",
+      "date": "2026-05"
+    },
+    {
+      "name": "awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/vinta/awesome-python",
+      "date": "2026-05"
+    },
+    {
+      "name": "superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/apache/superset",
+      "date": "2026-05"
+    },
+    {
+      "name": "leetcode-master",
+      "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 ",
+      "technologies": [
+        "Shell"
+      ],
+      "url": "https://github.com/youngyangyang04/leetcode-master",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2023-05",
+      "credential_id": null
+    },
+    {
+      "name": "Meta Full-Stack Web Developer Professional Certificate",
+      "issuer": "Meta (Coursera)",
+      "date": "2023-03",
+      "credential_id": null
+    },
+    {
+      "name": "Scrum Foundation Professional Certificate (SFPC)",
+      "issuer": "CertiProf",
+      "date": "2022-10",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "React",
+    "Next.js",
+    "Flask",
+    "Node.js",
+    "Express.js",
+    "Reflex",
+    "PostgreSQL",
+    "MongoDB",
+    "Git",
+    "Docker",
+    "REST APIs",
+    "Agile",
+    "Problem Solving",
+    "AWS Cloud"
+  ],
+  "companies": [
+    "IBM Egypt",
+    "Vezeeta",
+    "Instabug"
+  ],
+  "job_titles": [
+    "Software Developer Intern",
+    "Junior Fullstack Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

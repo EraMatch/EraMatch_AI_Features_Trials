@@ -1,0 +1,347 @@
+{
+  "full_name": "Yousef El-Sayed",
+  "email": "yousefpublicc@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 5.0,
+  "seniority_level": "mid",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Yousef El-Sayed",
+    "email": "yousefpublicc@gmail.com",
+    "phone": "+20 100 123 4567",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/yousefelsayed",
+    "github_url": "https://github.com/yousefpublicc",
+    "portfolio_url": "https://yousefelsayed.dev"
+  },
+  "summary": "Results-driven Fullstack Developer with 5 years of experience building scalable web applications using modern frontend and backend technologies. Proficient in Python, TypeScript, and React ecosystems, with a strong track record of delivering fullstack solutions in high-growth Egyptian tech companies. Passionate about clean architecture, performance optimization, and mentoring junior developers. Active open-source contributor and continuous learner, currently exploring Blitz.js and Reflex for rapid fullstack development.",
+  "work_experience": [
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Senior Fullstack Developer",
+      "title": null,
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Lead fullstack development of internal tools and customer-facing dashboards using Next.js, React, and Node.js. Architected microservices with Flask and FastAPI, integrating with AWS Lambda and PostgreSQL. Implemented CI/CD pipelines with GitHub Actions and Docker, reducing deployment time by 40%. Collaborated with product teams to launch bug tracking and performance monitoring features used by global clients.",
+      "technologies": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Flask",
+        "Docker",
+        "AWS",
+        "PostgreSQL",
+        "GitHub Actions"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2022-03",
+      "end_date": "2023-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed and maintained the booking platform using React, Redux Toolkit, and Node.js. Built scalable APIs with Flask and PostgreSQL, handling 100k+ daily requests. Migrated legacy frontend to TypeScript, improving code maintainability. Worked in an agile team to ship ride scheduling features, increasing user retention by 15%.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Flask",
+        "Redux",
+        "PostgreSQL",
+        "Docker",
+        "Jenkins"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Fullstack Developer",
+      "title": null,
+      "start_date": "2020-09",
+      "end_date": "2022-02",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built clinic management dashboards and patient portals with React and Flask. Integrated third‑party services (SMS, payment gateways) and designed RESTful APIs. Implemented real‑time notifications using WebSockets and Redis. Participated in code reviews and mentored two junior developers.",
+      "technologies": [
+        "React",
+        "Flask",
+        "Python",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Git",
+        "REST APIs"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2019-09",
+      "end_date": "2020-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in developing payment portal modules using HTML, CSS, JavaScript, and Django. Created stored procedures and optimized SQL queries for reporting. Gained hands‑on experience with version control, agile ceremonies, and test‑driven development.",
+      "technologies": [
+        "JavaScript",
+        "Django",
+        "Python",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "Git",
+        "Jira"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Blitz.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Reflex",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TanStack Router",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST APIs",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fullstack Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile/Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "date": "2026-05"
+    },
+    {
+      "name": "react",
+      "description": "The library for web and native user interfaces.",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/facebook/react",
+      "date": "2026-05"
+    },
+    {
+      "name": "next.js",
+      "description": "The React Framework",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/vercel/next.js",
+      "date": "2026-05"
+    },
+    {
+      "name": "react-native",
+      "description": "A framework for building native applications using React",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/facebook/react-native",
+      "date": "2026-05"
+    },
+    {
+      "name": "free-programming-books-zh_CN",
+      "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+      "technologies": [],
+      "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Full Stack Web Development Diploma",
+      "issuer": "Information Technology Institute (ITI)",
+      "date": "2021-09",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2023-05",
+      "credential_id": null
+    },
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google Cloud",
+      "date": "2022-08",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Next.js",
+    "Flask",
+    "Node.js",
+    "Blitz.js",
+    "Reflex",
+    "TanStack Router",
+    "PostgreSQL",
+    "MySQL",
+    "Redis",
+    "Docker",
+    "AWS",
+    "CI/CD",
+    "Git",
+    "REST APIs",
+    "Fullstack Development",
+    "Agile/Scrum"
+  ],
+  "companies": [
+    "Instabug",
+    "Swvl",
+    "Vezeeta",
+    "Fawry"
+  ],
+  "job_titles": [
+    "Senior Fullstack Developer",
+    "Fullstack Developer",
+    "Fullstack Developer",
+    "Junior Fullstack Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

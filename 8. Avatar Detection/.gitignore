@@ -1,0 +1,7 @@
+# Large model checkpoints — stored on Modal volume, not in repo
+results/checkpoints/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+.DS_Store

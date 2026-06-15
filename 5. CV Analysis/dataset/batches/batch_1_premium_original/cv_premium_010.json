@@ -1,0 +1,294 @@
+{
+  "full_name": "Adham El-Tholth",
+  "email": "aadhameltholth@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Adham El-Tholth",
+    "email": "aadhameltholth@gmail.com",
+    "phone": "+20 10 1234 5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/adhameltholth",
+    "github_url": "https://github.com/aadhameltholth",
+    "portfolio_url": "https://adhameltholth.github.io"
+  },
+  "summary": "Passionate junior fullstack developer with 2 years of experience building scalable web applications using Python, TypeScript, and React ecosystems. Proficient in both frontend and backend development, with hands-on experience in Flask, Next.js, and cloud services. Strong advocate for clean code, agile methodologies, and open source contributions. Eager to leverage problem-solving skills in a dynamic team to deliver impactful digital solutions.",
+  "work_experience": [
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Fullstack Developer Intern",
+      "title": null,
+      "start_date": "2023-01",
+      "end_date": "2023-03",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in developing internal dashboards using React and Flask. Performed database migration tasks and wrote unit tests. Participated in daily stand-ups and code reviews under senior guidance.",
+      "technologies": [
+        "React",
+        "Flask",
+        "PostgreSQL",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Fullstack Developer (Contract)",
+      "title": null,
+      "start_date": "2023-04",
+      "end_date": "2023-07",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed payment gateway integration services and frontend components using React and Express. Ensured secure data handling and implemented API endpoints for transaction processing.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "REST APIs"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Breadfast",
+      "organization": null,
+      "job_title": "Junior Fullstack Developer",
+      "title": null,
+      "start_date": "2023-08",
+      "end_date": "2024-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built and maintained customer-facing web applications with Next.js and TypeScript. Designed RESTful APIs with Node.js and Express, integrated third-party services, and collaborated with UI/UX designers.",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "MySQL",
+        "Docker"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Associate Fullstack Developer",
+      "title": null,
+      "start_date": "2024-07",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributing to the fullstack bug reporting and crash analytics platform. Building features with React, Redux, and Python/Flask microservices. Optimizing frontend performance and writing integration tests.",
+      "technologies": [
+        "React",
+        "Redux",
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "Docker",
+        "CI/CD"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2022-07",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "date": "2026-05"
+    },
+    {
+      "name": "react",
+      "description": "The library for web and native user interfaces.",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/facebook/react",
+      "date": "2026-05"
+    },
+    {
+      "name": "next.js",
+      "description": "The React Framework",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/vercel/next.js",
+      "date": "2026-05"
+    },
+    {
+      "name": "react-native",
+      "description": "A framework for building native applications using React",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/facebook/react-native",
+      "date": "2026-05"
+    },
+    {
+      "name": "free-programming-books-zh_CN",
+      "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+      "technologies": [],
+      "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2023-05",
+      "credential_id": null
+    },
+    {
+      "name": "Meta Full-Stack Engineer Professional Certificate",
+      "issuer": "Meta (via Coursera)",
+      "date": "2024-02",
+      "credential_id": null
+    },
+    {
+      "name": "MongoDB Associate Developer",
+      "issuer": "MongoDB",
+      "date": "2023-11",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Next.js",
+    "Flask",
+    "Node.js",
+    "Express",
+    "SQL",
+    "MongoDB",
+    "Git",
+    "Docker",
+    "REST API Design"
+  ],
+  "companies": [
+    "Vezeeta",
+    "Fawry",
+    "Breadfast",
+    "Instabug"
+  ],
+  "job_titles": [
+    "Fullstack Developer Intern",
+    "Fullstack Developer (Contract)",
+    "Junior Fullstack Developer",
+    "Associate Fullstack Developer"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

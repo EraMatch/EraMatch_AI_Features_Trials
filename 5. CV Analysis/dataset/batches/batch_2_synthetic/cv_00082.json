@@ -1,0 +1,337 @@
+{
+  "full_name": "Luis Moore",
+  "email": "luis.moore@protonmail.com",
+  "location": "Elizabethshire, France",
+  "years_of_experience": 7.7,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Luis Moore",
+    "email": "luis.moore@protonmail.com",
+    "phone": "411-964-4974x126",
+    "location": "Elizabethshire, France",
+    "linkedin_url": "https://linkedin.com/in/luis-moore",
+    "github_url": "https://github.com/luismoore",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in Swift, Kotlin, and TypeScript. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2025-03",
+      "end_date": "Present",
+      "duration": "2025-03 \u2013 Present",
+      "duration_months": 14,
+      "description": "Created in-app purchase integration using Offline-First, generating 1000+ in revenue\nCreated in-app purchase integration using CI/CD for Mobile, generating 10000+ in revenue",
+      "technologies": [
+        "Offline-First",
+        "App Store Optimization",
+        "KMP",
+        "CI/CD for Mobile",
+        "Java"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2024-03",
+      "end_date": "2024-10",
+      "duration": "2024-03 \u2013 2024-10",
+      "duration_months": 7,
+      "description": "Optimized app performance using Kotlin, reducing battery consumption by 43%\nCreated in-app purchase integration using Objective-C, generating 5000+ in revenue",
+      "technologies": [
+        "Objective-C",
+        "TestFlight",
+        "Kotlin"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2022-02",
+      "end_date": "2023-10",
+      "duration": "2022-02 \u2013 2023-10",
+      "duration_months": 20,
+      "description": "Created app analytics tracking using Supabase, providing insights on 100000+ users\nOptimized app performance using Firebase, reducing battery consumption by 57%\nOptimized app performance using Kotlin, reducing battery consumption by 49%",
+      "technologies": [
+        "Firebase",
+        "Firebase Firestore",
+        "Flutter",
+        "SwiftUI",
+        "Kotlin",
+        "Supabase"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2017-05",
+      "end_date": "2021-08",
+      "duration": "2017-05 \u2013 2021-08",
+      "duration_months": 51,
+      "description": "Implemented push notification system using Firebase, increasing user engagement by 64%\nBuilt AR/VR features using TestFlight, increasing user retention by 48%\nBuilt offline-first architecture using CocoaPods, improving app responsiveness by 48%\nDeveloped mobile application using CocoaPods, achieving 5000+ downloads",
+      "technologies": [
+        "TestFlight",
+        "CocoaPods",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "B.Sc.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2016",
+      "gpa": "3.80",
+      "activities": null
+    },
+    {
+      "institution": "McGill University",
+      "university": "McGill University",
+      "degree": "M.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2015",
+      "gpa": "3.28",
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Center",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fastlane",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Push Notification Service",
+      "description": "Developed Push Notification Service using SwiftUI, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "SwiftUI",
+        "TypeScript",
+        "Jetpack Compose"
+      ],
+      "url": "https://github.com/synthetic-mobile-82-0",
+      "date": "2025"
+    },
+    {
+      "name": "iOS Application",
+      "description": "Developed Flutter App using Swift, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Swift",
+        "Dart",
+        "Flutter"
+      ],
+      "url": "https://github.com/synthetic-mobile-82-1",
+      "date": "2023"
+    },
+    {
+      "name": "Flutter App",
+      "description": "Designed Offline Sync leveraging TypeScript microservices architecture with UIKit for caching",
+      "technologies": [
+        "TypeScript",
+        "UIKit",
+        "Flutter"
+      ],
+      "url": "https://github.com/synthetic-mobile-82-2",
+      "date": "2024"
+    },
+    {
+      "name": "App Store Optimization",
+      "description": "Designed and implemented Offline Sync with Jetpack Compose, integrating with KMP for seamless data flow",
+      "technologies": [
+        "Jetpack Compose",
+        "Flutter",
+        "KMP"
+      ],
+      "url": "https://github.com/synthetic-mobile-82-3",
+      "date": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Apple Certified iOS App Developer",
+      "issuer": "Apple",
+      "date": "2019",
+      "credential_id": "GX67KH74"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Teacher you truth former whole\" \u2014 CVPR 2025",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Swift",
+    "Kotlin",
+    "TypeScript",
+    "Dart",
+    "Jetpack Compose",
+    "UIKit",
+    "Flutter",
+    "SwiftUI",
+    "KMP",
+    "Android Studio",
+    "App Center",
+    "Fastlane",
+    "Hive",
+    "Firebase Firestore",
+    "Core Data",
+    "AWS Amplify",
+    "Supabase",
+    "MVVM",
+    "CI/CD for Mobile",
+    "Offline-First"
+  ],
+  "companies": [
+    "AgentForge",
+    "Vercel",
+    "Salesforce",
+    "Snowflake"
+  ],
+  "job_titles": [
+    "Flutter Developer",
+    "iOS Developer",
+    "Android Developer",
+    "React Native Developer"
+  ],
+  "universities": [
+    "UC Berkeley",
+    "McGill University"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 82,
+    "tier": "T2",
+    "domain": "mobile",
+    "generated_at": "2026-05-31T02:32:23.833752",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

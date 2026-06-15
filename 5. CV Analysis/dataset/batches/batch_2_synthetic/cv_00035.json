@@ -1,0 +1,358 @@
+{
+  "full_name": "Samuel Santos",
+  "email": "samuel.santos@protonmail.com",
+  "location": "Royhaven, Brazil",
+  "years_of_experience": 15.9,
+  "seniority_level": "principal",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Samuel Santos",
+    "email": "samuel.santos@protonmail.com",
+    "phone": "643.826.4394x0176",
+    "location": "Royhaven, Brazil",
+    "linkedin_url": "https://linkedin.com/in/samuel-santos",
+    "github_url": "https://github.com/samuelsantos",
+    "portfolio_url": null
+  },
+  "summary": "Distinguished technologist with 15 years shaping frontend engineering practice. Deep expertise in HTML, JavaScript, TypeScript and proven ability to influence C-level decisions.",
+  "work_experience": [
+    {
+      "company": "DeployFast",
+      "organization": "DeployFast",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2023-06",
+      "end_date": "Present",
+      "duration": "2023-06 \u2013 Present",
+      "duration_months": 35,
+      "description": "Implemented state management solution using Render, reducing API calls by 23%\nCreated progressive web app using Agile, increasing user engagement by 38%\nDeveloped responsive web applications using JavaScript, improving page load time by 17%\nBuilt reusable component library using Render, used by 5000+ developers",
+      "technologies": [
+        "Agile",
+        "JavaScript",
+        "Render",
+        "Angular"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Block",
+      "organization": "Block",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2019-01",
+      "end_date": "2023-03",
+      "duration": "2019-01 \u2013 2023-03",
+      "duration_months": 50,
+      "description": "Created accessible UI components using ESLint, achieving WCAG AA compliance\nBuilt reusable component library using ESLint, used by 500+ developers",
+      "technologies": [
+        "ESLint",
+        "Accessibility (WCAG)",
+        "Astro"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2015-09",
+      "end_date": "2018-07",
+      "duration": "2015-09 \u2013 2018-07",
+      "duration_months": 34,
+      "description": "Developed responsive web applications using Dart, improving page load time by 56%\nBuilt real-time collaboration features using Component-Driven Development, serving 50000+ concurrent users\nOptimized frontend bundle size using Jest, reducing load time by 56%\nCreated progressive web app using Component-Driven Development, increasing user engagement by 53%",
+      "technologies": [
+        "Dart",
+        "Component-Driven Development",
+        "Jest"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2011-04",
+      "end_date": "2015-05",
+      "duration": "2011-04 \u2013 2015-05",
+      "duration_months": 49,
+      "description": "Built reusable component library using Cloudflare Pages, used by 100+ developers\nDeveloped design system using Angular, standardizing UI across 50000+ applications\nDeveloped responsive web applications using Angular, improving page load time by 20%",
+      "technologies": [
+        "Angular",
+        "Prettier",
+        "Cloudflare Pages"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Twilio",
+      "organization": "Twilio",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2009-05",
+      "end_date": "2011-04",
+      "duration": "2009-05 \u2013 2011-04",
+      "duration_months": 23,
+      "description": "Implemented state management solution using Git, reducing API calls by 25%\nCreated progressive web app using Git, increasing user engagement by 17%",
+      "technologies": [
+        "AWS Amplify",
+        "MongoDB",
+        "Netlify",
+        "Git",
+        "Prettier"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL",
+      "university": "EPFL",
+      "degree": "Ph.D.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2009",
+      "gpa": "4.00",
+      "activities": "Google Developer Group"
+    },
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Sc.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2007",
+      "gpa": "2.93",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jest",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Data Visualization Tool",
+      "description": "Developed Content Management UI using JavaScript, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Vue.js",
+        "JavaScript",
+        "HTML"
+      ],
+      "url": "https://github.com/synthetic-frontend-35-0",
+      "date": "2023"
+    },
+    {
+      "name": "UI Design System",
+      "description": "Built UI Design System using Next.js and JavaScript, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Vue.js",
+        "Next.js",
+        "JavaScript"
+      ],
+      "url": "https://github.com/synthetic-frontend-35-1",
+      "date": "2019"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Designed and implemented React Component Library with Bootstrap, integrating with Vue.js for seamless data flow",
+      "technologies": [
+        "Vue.js",
+        "Bootstrap",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-frontend-35-2",
+      "date": "2020"
+    },
+    {
+      "name": "Dashboard Application",
+      "description": "Implemented Admin Panel using Bootstrap, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Next.js",
+        "Vue.js",
+        "Bootstrap"
+      ],
+      "url": "https://github.com/synthetic-frontend-35-3",
+      "date": "2024"
+    },
+    {
+      "name": "SPA Framework",
+      "description": "Designed and implemented React Component Library with TypeScript, integrating with Vue.js for seamless data flow",
+      "technologies": [
+        "HTML",
+        "Vue.js",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-frontend-35-4",
+      "date": "2023"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Meta Front-End Developer Certificate",
+      "issuer": "Meta",
+      "date": "2023",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Hoffman Group Youth Program, 2021-Present",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Of staff leave occur shake democratic\" \u2014 ACM 2023",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "HTML",
+    "JavaScript",
+    "TypeScript",
+    "Next.js",
+    "Vue.js",
+    "Bootstrap",
+    "Git",
+    "Cypress",
+    "Figma",
+    "Jest",
+    "Firebase",
+    "MongoDB",
+    "IndexedDB",
+    "Render",
+    "Cloudflare Pages",
+    "Responsive Design",
+    "Progressive Web Apps"
+  ],
+  "companies": [
+    "DeployFast",
+    "Block",
+    "Notion",
+    "Quantum Edge",
+    "Twilio"
+  ],
+  "job_titles": [
+    "React Developer",
+    "Full-Stack Developer",
+    "Web Developer",
+    "UI Engineer",
+    "UI Engineer"
+  ],
+  "universities": [
+    "EPFL",
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 35,
+    "tier": "T4",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:31.592414",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "full_name": "Nicholas Thomas",
+  "email": "nicholas.thomas@thomas.dev",
+  "location": "Teresaton, UK",
+  "years_of_experience": 13.8,
+  "seniority_level": "principal",
+  "primary_domain": "Backend Engineering",
+  "has_github": false,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Nicholas Thomas",
+    "email": "nicholas.thomas@thomas.dev",
+    "phone": "+1-814-580-1989",
+    "location": "Teresaton, UK",
+    "linkedin_url": "https://linkedin.com/in/nicholas-thomas",
+    "github_url": null,
+    "portfolio_url": "https://nicholasthomas.dev"
+  },
+  "summary": "Principal backend engineering architect with 13+ years defining technical strategy for enterprise transformations. Subject matter expert in C#, TypeScript, Spring Boot.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2023-04",
+      "end_date": "Present",
+      "duration": "2023-04 \u2013 Present",
+      "duration_months": 37,
+      "description": "Mentored team of 8 junior developers on Terraform best practices\nBuilt automated CI/CD pipelines with Vercel, reducing deployment time by 36%",
+      "technologies": [
+        "ASP.NET",
+        "Vercel",
+        "Terraform",
+        "Event-Driven Architecture"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Salesforce",
+      "organization": "Salesforce",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2021-02",
+      "end_date": "2022-10",
+      "duration": "2021-02 \u2013 2022-10",
+      "duration_months": 20,
+      "description": "Reduced infrastructure costs by 30% through optimization using CockroachDB\nMentored team of 3 junior developers on Render best practices\nReduced infrastructure costs by 31% through optimization using CockroachDB\nLed migration from monolithic to microservices using Render, improving system scalability by 39%",
+      "technologies": [
+        "CockroachDB",
+        "Docker",
+        "Render"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2018-04",
+      "end_date": "2020-08",
+      "duration": "2018-04 \u2013 2020-08",
+      "duration_months": 28,
+      "description": "Built automated CI/CD pipelines with Supabase, reducing deployment time by 41%\nLed migration from monolithic to microservices using LLM Integration, improving system scalability by 60%\nDesigned and implemented microservices architecture using RabbitMQ, handling 5000+ concurrent users\nDesigned and implemented microservices architecture using Render, handling 50000+ concurrent users",
+      "technologies": [
+        "Spring Boot",
+        "Render",
+        "Supabase",
+        "LLM Integration",
+        "RabbitMQ"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    },
+    {
+      "company": "OpenAI",
+      "organization": "OpenAI",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2013-07",
+      "end_date": "2017-10",
+      "duration": "2013-07 \u2013 2017-10",
+      "duration_months": 51,
+      "description": "Reduced infrastructure costs by 49% through optimization using LLM Integration\nBuilt automated CI/CD pipelines with PHP, reducing deployment time by 54%",
+      "technologies": [
+        "Supabase",
+        "PHP",
+        "LLM Integration",
+        "GraphQL"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ParseLab",
+      "organization": "ParseLab",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2011-01",
+      "end_date": "2013-06",
+      "duration": "2011-01 \u2013 2013-06",
+      "duration_months": 29,
+      "description": "Led migration from monolithic to microservices using Claude API, improving system scalability by 26%\nLed migration from monolithic to microservices using Claude API, improving system scalability by 21%\nBuilt automated CI/CD pipelines with Hugging Face, reducing deployment time by 68%\nLed migration from monolithic to microservices using Hugging Face, improving system scalability by 61%",
+      "technologies": [
+        "Claude API",
+        "Fly.io",
+        "Hugging Face"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "B.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2011",
+      "gpa": "3.12",
+      "activities": "Hackathon Winner"
+    },
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "M.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2011",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "gRPC",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fly.io",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Google Gemini",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "User Management API",
+      "description": "Built Payment Processing System using Spring Boot and C#, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "TypeScript",
+        "Spring Boot",
+        "C#"
+      ],
+      "url": "https://github.com/synthetic-backend-9-0",
+      "date": "2019"
+    },
+    {
+      "name": "Notification Service",
+      "description": "Built Notification Service using C# and Django, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Django",
+        "TypeScript",
+        "C#"
+      ],
+      "url": "https://github.com/synthetic-backend-9-1",
+      "date": "2024"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Designed and implemented Message Queue System with TypeScript, integrating with C# for seamless data flow",
+      "technologies": [
+        "C#",
+        "TypeScript",
+        "Spring Boot"
+      ],
+      "url": "https://github.com/synthetic-backend-9-2",
+      "date": "2024"
+    },
+    {
+      "name": "Data Sync Platform",
+      "description": "Developed Auth Service using Django, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Django",
+        "Spring Boot",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-backend-9-3",
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Spanish (Professional)",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Arabic (Native)",
+      "structured": null
+    },
+    {
+      "label": "personal_statement",
+      "raw_text": "Passionate about open source and building technology that makes a difference.",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "TypeScript",
+    "Spring Boot",
+    "Django",
+    "MySQL",
+    "PostgreSQL",
+    "Redis",
+    "Docker",
+    "gRPC",
+    "Git",
+    "ArgoCD",
+    "Vercel",
+    "Fly.io",
+    "OpenAI API",
+    "AWS Bedrock",
+    "Anthropic",
+    "Google Gemini",
+    "GraphQL",
+    "Scrum",
+    "Agile"
+  ],
+  "companies": [
+    "Figma",
+    "Salesforce",
+    "Datadog",
+    "OpenAI",
+    "ParseLab"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "API Developer",
+    "Server-Side Developer",
+    "LLM Engineer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "UC Berkeley",
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 9,
+    "tier": "T4",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:31:00.832806",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

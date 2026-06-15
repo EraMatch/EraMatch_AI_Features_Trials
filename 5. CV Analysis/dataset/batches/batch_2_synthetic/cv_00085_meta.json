@@ -1,0 +1,10 @@
+{
+  "cv_id": 85,
+  "domain": "mobile",
+  "seniority_level": "mid",
+  "tier": "T5",
+  "template_used": "T5_dark",
+  "pdf_path": "batches/batch_2_synthetic/cv_00085.pdf",
+  "json_path": "batches/batch_2_synthetic/cv_00085.json",
+  "pdf_rendered": true
+}

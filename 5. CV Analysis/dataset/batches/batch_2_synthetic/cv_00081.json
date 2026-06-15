@@ -1,0 +1,366 @@
+{
+  "full_name": "David Reilly",
+  "email": "david.reilly@gmail.com",
+  "location": "Port Gina, Singapore",
+  "years_of_experience": 17.2,
+  "seniority_level": "principal",
+  "primary_domain": "Mobile Development",
+  "has_github": false,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "David Reilly",
+    "email": "david.reilly@gmail.com",
+    "phone": "001-747-879-7920x31085",
+    "location": "Port Gina, Singapore",
+    "linkedin_url": null,
+    "github_url": null,
+    "portfolio_url": null
+  },
+  "summary": "Executive-level technology leader with extensive background in mobile development. Expertise in Java, Dart, TypeScript with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "Android Developer",
+      "title": "Android Developer",
+      "start_date": "2022-06",
+      "end_date": "Present",
+      "duration": "2022-06 \u2013 Present",
+      "duration_months": 47,
+      "description": "Created in-app purchase integration using Hive, generating 10000+ in revenue\nDeveloped mobile application using Hive, achieving 100000+ downloads\nImplemented biometric authentication using Offline-First, securing 1000+ user accounts",
+      "technologies": [
+        "Hive",
+        "Offline-First",
+        "AWS Amplify",
+        "App Center",
+        "Supabase",
+        "Fastlane"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2019-11",
+      "end_date": "2022-05",
+      "duration": "2019-11 \u2013 2022-05",
+      "duration_months": 30,
+      "description": "Developed mobile application using CI/CD for Mobile, achieving 50000+ downloads\nBuilt AR/VR features using Objective-C, increasing user retention by 27%\nCreated in-app purchase integration using Java, generating 5000+ in revenue\nCreated in-app purchase integration using SwiftUI, generating 50000+ in revenue",
+      "technologies": [
+        "Java",
+        "Firebase Firestore",
+        "AWS Amplify",
+        "CI/CD for Mobile",
+        "SwiftUI",
+        "Objective-C"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Cloudflare",
+      "organization": "Cloudflare",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2016-02",
+      "end_date": "2019-10",
+      "duration": "2016-02 \u2013 2019-10",
+      "duration_months": 44,
+      "description": "Built offline-first architecture using Flutter, improving app responsiveness by 17%\nCreated in-app purchase integration using Xcode, generating 50000+ in revenue\nCreated app analytics tracking using TypeScript, providing insights on 100+ users",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "TypeScript",
+        "App Store Optimization",
+        "Jetpack Compose",
+        "Xcode"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2011-12",
+      "end_date": "2016-02",
+      "duration": "2011-12 \u2013 2016-02",
+      "duration_months": 50,
+      "description": "Built offline-first architecture using Android Studio, improving app responsiveness by 46%\nImplemented deep linking using Firebase, improving conversion rates by 25%\nDeveloped mobile application using C++, achieving 100+ downloads",
+      "technologies": [
+        "Firebase",
+        "Flutter",
+        "C++",
+        "Android Studio",
+        "SQLite",
+        "CocoaPods"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Google",
+      "organization": "Google",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2008-09",
+      "end_date": "2011-08",
+      "duration": "2008-09 \u2013 2011-08",
+      "duration_months": 35,
+      "description": "Optimized app performance using TestFlight, reducing battery consumption by 35%\nBuilt widget functionality using TestFlight, increasing daily active users by 50%",
+      "technologies": [
+        "Gradle",
+        "Android Studio",
+        "TestFlight",
+        "React Native",
+        "Fastlane",
+        "Swift"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "M.Sc.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2009",
+      "gpa": "3.25",
+      "activities": "Mobile Development Club"
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2005",
+      "gpa": null,
+      "activities": "Dean's List"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Realm",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Offline-First",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Flutter App",
+      "description": "Designed Mobile Backend API leveraging Jetpack Compose microservices architecture with Java for caching",
+      "technologies": [
+        "Jetpack Compose",
+        "KMP",
+        "Java"
+      ],
+      "url": "https://github.com/synthetic-mobile-81-0",
+      "date": "2021"
+    },
+    {
+      "name": "Cross-platform SDK",
+      "description": "Implemented Flutter App using TypeScript, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "TypeScript",
+        "Jetpack Compose",
+        "Dart"
+      ],
+      "url": "https://github.com/synthetic-mobile-81-1",
+      "date": "2023"
+    },
+    {
+      "name": "In-app Purchase System",
+      "description": "Created In-app Purchase System leveraging Dart for core functionality and KMP for optimization",
+      "technologies": [
+        "KMP",
+        "Java",
+        "Dart"
+      ],
+      "url": "https://github.com/synthetic-mobile-81-2",
+      "date": "2022"
+    },
+    {
+      "name": "React Native App",
+      "description": "Built App Store Optimization with Jetpack Compose and TypeScript, serving 10,000+ daily active users",
+      "technologies": [
+        "TypeScript",
+        "Jetpack Compose",
+        "Dart"
+      ],
+      "url": "https://github.com/synthetic-mobile-81-3",
+      "date": "2021"
+    },
+    {
+      "name": "Offline Sync",
+      "description": "Developed Mobile Backend API using TypeScript, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Dart",
+        "KMP",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-mobile-81-4",
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Apple Certified iOS App Developer",
+      "issuer": "Apple",
+      "date": "2025",
+      "credential_id": "XV56NV01"
+    },
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2019",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Education reason foot or behavior\" \u2014 ICML 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "Dart",
+    "TypeScript",
+    "Jetpack Compose",
+    "KMP",
+    "TestFlight",
+    "CocoaPods",
+    "Hive",
+    "Core Data",
+    "Realm",
+    "RevenueCat",
+    "AWS Amplify",
+    "Supabase",
+    "Firebase",
+    "App Store Optimization",
+    "Offline-First",
+    "CI/CD for Mobile"
+  ],
+  "companies": [
+    "Anthropic",
+    "NeuroLink Labs",
+    "Cloudflare",
+    "AgentForge",
+    "Google"
+  ],
+  "job_titles": [
+    "Android Developer",
+    "iOS Developer",
+    "Mobile Developer",
+    "iOS Developer",
+    "React Native Developer"
+  ],
+  "universities": [
+    "TU Delft",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "M.Sc.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 81,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-05-31T02:32:22.903777",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "full_name": "Ahmed Hassan",
+  "email": "ne3na3a25@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 5.0,
+  "seniority_level": "mid",
+  "primary_domain": "fullstack",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Ahmed Hassan",
+    "email": "ne3na3a25@gmail.com",
+    "phone": "+20 101 234 5678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/ahmedhassan",
+    "github_url": "https://github.com/ahmedhassandev",
+    "portfolio_url": "https://ahmedhassan.dev"
+  },
+  "summary": "Full Stack Developer with 5 years of experience building and scaling web applications across fintech, healthtech, and SaaS. Proficient in JavaScript/TypeScript ecosystems (React, Node.js, Next.js) and Python (Flask, data tooling). Skilled in cloud-native development with AWS and Azure, containerization, and CI/CD pipelines. Adept at leading feature teams and delivering high-performance, user-centric products in agile environments.",
+  "work_experience": [
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Junior Full Stack Developer",
+      "title": null,
+      "start_date": "2020-01",
+      "end_date": "2021-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed new features for patient appointment scheduling system using React and Node.js, improving API response times by 30% through query optimization and caching strategies.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "SQL",
+        "Redis",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Full Stack Developer",
+      "title": null,
+      "start_date": "2021-07",
+      "end_date": "2023-01",
+      "duration": null,
+      "duration_months": null,
+      "description": "Built dashboard applications for mobile app performance monitoring, utilizing Python Flask backend and React frontend; integrated third-party crash reporting services and implemented role-based access control.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "React",
+        "TypeScript",
+        "Docker",
+        "MongoDB",
+        "AWS"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Microsoft",
+      "organization": null,
+      "job_title": "Software Engineer",
+      "title": null,
+      "start_date": "2023-02",
+      "end_date": "2024-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to internal tools for Azure DevOps team, focusing on full-stack solutions with C# and Angular for admin panels, while building Python data pipelines for usage analytics.",
+      "technologies": [
+        "C#",
+        "Angular",
+        "Python",
+        "Azure",
+        "TypeScript",
+        "Docker",
+        "SQL Server"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Fawry",
+      "organization": null,
+      "job_title": "Senior Full Stack Developer",
+      "title": null,
+      "start_date": "2024-09",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Leading payment integration team, architecting scalable microservices with Node.js and React; implementing DevOps practices with Docker, Kubernetes, and AWS, achieving 99.9% uptime for critical payment workflows.",
+      "technologies": [
+        "Node.js",
+        "React",
+        "TypeScript",
+        "Docker",
+        "AWS",
+        "PostgreSQL",
+        "Kubernetes"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ain Shams University",
+      "university": null,
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2019-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NoSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kubernetes",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "ci_cd",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile Methodologies",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Communication",
+      "category": "soft_skill",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ant-design",
+      "description": "An enterprise-class UI design language and React UI library",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/ant-design/ant-design",
+      "date": "2026-05"
+    },
+    {
+      "name": "jsoncrack.com",
+      "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "date": "2026-05"
+    },
+    {
+      "name": "30-Days-Of-JavaScript",
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "technologies": [
+        "JavaScript"
+      ],
+      "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+      "date": "2026-05"
+    },
+    {
+      "name": "full-stack-fastapi-template",
+      "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/fastapi/full-stack-fastapi-template",
+      "date": "2026-05"
+    },
+    {
+      "name": "novu",
+      "description": "The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "url": "https://github.com/novuhq/novu",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2022-11",
+      "credential_id": null
+    },
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google",
+      "date": "2023-06",
+      "credential_id": null
+    },
+    {
+      "name": "Certified Kubernetes Application Developer",
+      "issuer": "The Linux Foundation",
+      "date": "2024-02",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Next.js",
+    "Flask",
+    "SQL",
+    "NoSQL",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Git",
+    "CI/CD",
+    "Agile Methodologies",
+    "Communication"
+  ],
+  "companies": [
+    "Vezeeta",
+    "Instabug",
+    "Microsoft",
+    "Fawry"
+  ],
+  "job_titles": [
+    "Junior Full Stack Developer",
+    "Full Stack Developer",
+    "Software Engineer",
+    "Senior Full Stack Developer"
+  ],
+  "universities": [
+    "Ain Shams University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Science"
+  ],
+  "parsing_metadata": {}
+}

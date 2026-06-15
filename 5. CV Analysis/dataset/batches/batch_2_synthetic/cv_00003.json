@@ -1,0 +1,346 @@
+{
+  "full_name": "Natalie Cox",
+  "email": "natalie.cox@outlook.com",
+  "location": "West Ericmouth, Singapore",
+  "years_of_experience": 8.0,
+  "seniority_level": "lead",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Natalie Cox",
+    "email": "natalie.cox@outlook.com",
+    "phone": "(525)672-1900x0337",
+    "location": "West Ericmouth, Singapore",
+    "linkedin_url": "https://linkedin.com/in/natalie-cox",
+    "github_url": "https://github.com/nataliecox",
+    "portfolio_url": "https://nataliecox.dev"
+  },
+  "summary": "Lead backend engineering professional with 8 years driving technical strategy and team excellence. Expert in C#, Python, Rust with track record of building and scaling engineering teams.",
+  "work_experience": [
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2023-11",
+      "end_date": "Present",
+      "duration": "2023-11 \u2013 Present",
+      "duration_months": 30,
+      "description": "Built event-driven architecture using GCP, processing 10000+ events daily\nOptimized database queries using Redis, improving query performance by 70%\nBuilt automated CI/CD pipelines with Railway, reducing deployment time by 37%",
+      "technologies": [
+        "GCP",
+        "Express.js",
+        "Redis",
+        "Rails",
+        "Railway",
+        "PostgreSQL"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "AI Engineer",
+      "title": "AI Engineer",
+      "start_date": "2022-04",
+      "end_date": "2023-07",
+      "duration": "2022-04 \u2013 2023-07",
+      "duration_months": 15,
+      "description": "Reduced infrastructure costs by 68% through optimization using LLM Integration\nBuilt automated CI/CD pipelines with ArgoCD, reducing deployment time by 41%\nDesigned and implemented microservices architecture using ArgoCD, handling 100000+ concurrent users\nDesigned and implemented message queue system using Cloudflare, processing 100000+ messages/hour",
+      "technologies": [
+        "LLM Integration",
+        "ArgoCD",
+        "Cloudflare"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "HashiCorp",
+      "organization": "HashiCorp",
+      "job_title": "Server-Side Developer",
+      "title": "Server-Side Developer",
+      "start_date": "2017-12",
+      "end_date": "2022-03",
+      "duration": "2017-12 \u2013 2022-03",
+      "duration_months": 51,
+      "description": "Optimized database queries using Rails, improving query performance by 67%\nArchitected and built RESTful APIs serving 500+ requests/day using Rails, reducing response time by 62%\nDesigned and implemented microservices architecture using Rails, handling 5000+ concurrent users",
+      "technologies": [
+        "Replicate",
+        "PlanetScale",
+        "Rails",
+        "SQLite",
+        "PostgreSQL",
+        "LangChain"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT",
+      "university": "MIT",
+      "degree": "M.Tech.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2018",
+      "gpa": "3.02",
+      "activities": "Dean's List"
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Tech.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2017",
+      "gpa": "3.89",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Django",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Actix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PlanetScale",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Helm",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GitHub Actions",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RabbitMQ",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Replicate",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure OpenAI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "GraphQL Server",
+      "description": "Built Notification Service using Actix and C#, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "C#",
+        "Rust",
+        "Actix"
+      ],
+      "url": "https://github.com/synthetic-backend-3-0",
+      "date": "2022"
+    },
+    {
+      "name": "Payment Processing System",
+      "description": "Designed Cache Layer leveraging Python microservices architecture with Rust for caching",
+      "technologies": [
+        "Python",
+        "Rust",
+        "FastAPI"
+      ],
+      "url": "https://github.com/synthetic-backend-3-1",
+      "date": "2022"
+    },
+    {
+      "name": "Database Proxy",
+      "description": "Created API Gateway leveraging C# for core functionality and Django for optimization",
+      "technologies": [
+        "Django",
+        "FastAPI",
+        "C#"
+      ],
+      "url": "https://github.com/synthetic-backend-3-2",
+      "date": "2020"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "2024",
+      "credential_id": "LO84GW71"
+    },
+    {
+      "name": "Google Cloud Professional Cloud Developer",
+      "issuer": "Google",
+      "date": "2022",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Lewis-Ryan Youth Program, 2021-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "C#",
+    "Python",
+    "Rust",
+    "Django",
+    "Actix",
+    "FastAPI",
+    "PlanetScale",
+    "Supabase",
+    "MongoDB",
+    "PostgreSQL",
+    "Helm",
+    "GitHub Actions",
+    "RabbitMQ",
+    "GCP",
+    "Azure",
+    "AWS",
+    "Vercel",
+    "Replicate",
+    "Anthropic",
+    "Azure OpenAI",
+    "Scrum",
+    "Microservices",
+    "Agile"
+  ],
+  "companies": [
+    "Supabase",
+    "Snowflake",
+    "HashiCorp"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "AI Engineer",
+    "Server-Side Developer"
+  ],
+  "universities": [
+    "MIT",
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 3,
+    "tier": "T2",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:30:56.234082",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

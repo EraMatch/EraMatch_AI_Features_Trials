@@ -1,0 +1,11 @@
+#!/bin/sh
+# add binaries to PATH if they aren't added yet
+# affix colons on either side of $PATH to simplify matching
+case ":${PATH}:" in
+    *:"$HOME/AI_Main_Repo/CV_parsing_main/eraparse/artifacts/tools/uv-arm":*)
+        ;;
+    *)
+        # Prepending path in case a system-installed binary needs to be overridden
+        export PATH="$HOME/AI_Main_Repo/CV_parsing_main/eraparse/artifacts/tools/uv-arm:$PATH"
+        ;;
+esac

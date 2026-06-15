@@ -1,0 +1,320 @@
+{
+  "full_name": "Kari Sanchez",
+  "email": "kari.sanchez@protonmail.com",
+  "location": "Caseytown, France",
+  "years_of_experience": 6.8,
+  "seniority_level": "senior",
+  "primary_domain": "Data Science / ML / AI",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Kari Sanchez",
+    "email": "kari.sanchez@protonmail.com",
+    "phone": "6355020483",
+    "location": "Caseytown, France",
+    "linkedin_url": "https://linkedin.com/in/kari-sanchez",
+    "github_url": "https://github.com/karisanchez",
+    "portfolio_url": "https://karisanchez.dev"
+  },
+  "summary": "Technical leader in data science / ml / ai with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Python, MATLAB, LlamaIndex.",
+  "work_experience": [
+    {
+      "company": "Figma",
+      "organization": "Figma",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2023-09",
+      "end_date": "Present",
+      "duration": "2023-09 \u2013 Present",
+      "duration_months": 32,
+      "description": "Built real-time analytics dashboard using LLM Evaluation, used by 100+ stakeholders\nBuilt ML model serving infrastructure using Statistical Modeling, handling 50000+ predictions/day\nImplemented NLP solution using DVC, processing 100+ text documents daily",
+      "technologies": [
+        "Pinecone",
+        "Keras",
+        "LLM Evaluation",
+        "DVC",
+        "Statistical Modeling"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Tesla",
+      "organization": "Tesla",
+      "job_title": "Data Analyst",
+      "title": "Data Analyst",
+      "start_date": "2022-10",
+      "end_date": "2023-05",
+      "duration": "2022-10 \u2013 2023-05",
+      "duration_months": 7,
+      "description": "Designed data warehousing solution using Dagster, enabling analytics on 5000+ records\nEstablished MLOps practices using Dagster, reducing model deployment time by 70%\nImplemented NLP solution using MongoDB, processing 1000+ text documents daily",
+      "technologies": [
+        "DVC",
+        "Neo4j",
+        "Dagster",
+        "MLflow",
+        "MongoDB"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Netflix",
+      "organization": "Netflix",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2018-10",
+      "end_date": "2022-05",
+      "duration": "2018-10 \u2013 2022-05",
+      "duration_months": 43,
+      "description": "Created recommendation system using A/B Testing, increasing user engagement by 56%\nBuilt end-to-end ML pipeline using Hugging Face Endpoints, processing 100000+ samples daily\nBuilt end-to-end ML pipeline using Hugging Face Endpoints, processing 100000+ samples daily",
+      "technologies": [
+        "A/B Testing",
+        "Hugging Face Endpoints",
+        "Computer Vision",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "B.Sc.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2017",
+      "gpa": "3.80",
+      "activities": null
+    },
+    {
+      "institution": "TU Delft",
+      "university": "TU Delft",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2019",
+      "gpa": "3.35",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MATLAB",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LlamaIndex",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Keras",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dask",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLflow",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Qdrant",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snowflake",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "BigQuery",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "data_warehouse",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS SageMaker",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Databricks",
+      "category": "cloud_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Computer Vision",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Fine-tuning",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "A/B Testing",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pinecone",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "LLM Evaluation",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Statistical Modeling",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anomaly Detection System",
+      "description": "Designed Recommendation Engine leveraging Python microservices architecture with LLM Evaluation for caching",
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "LLM Evaluation"
+      ],
+      "url": "https://github.com/synthetic-data_science-43-0",
+      "date": "2019"
+    },
+    {
+      "name": "BI Dashboard",
+      "description": "Created Predictive Analytics Platform leveraging Python for core functionality and MATLAB for optimization",
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "A/B Testing"
+      ],
+      "url": "https://github.com/synthetic-data_science-43-1",
+      "date": "2021"
+    },
+    {
+      "name": "ML Model Training Pipeline",
+      "description": "Designed and implemented NLP Text Analyzer with MongoDB, integrating with Python for seamless data flow",
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "MongoDB"
+      ],
+      "url": "https://github.com/synthetic-data_science-43-2",
+      "date": "2023"
+    },
+    {
+      "name": "Computer Vision System",
+      "description": "Developed Data Quality Monitor using MATLAB, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Python",
+        "MATLAB",
+        "LLM Evaluation"
+      ],
+      "url": "https://github.com/synthetic-data_science-43-3",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Competitive programming",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "MATLAB",
+    "LlamaIndex",
+    "LangChain",
+    "TensorFlow",
+    "Keras",
+    "Scikit-learn",
+    "Dask",
+    "MLflow",
+    "Databricks",
+    "Qdrant",
+    "Snowflake",
+    "BigQuery",
+    "MongoDB",
+    "AWS SageMaker",
+    "Databricks",
+    "NLP",
+    "Computer Vision",
+    "Fine-tuning",
+    "A/B Testing"
+  ],
+  "companies": [
+    "Figma",
+    "Tesla",
+    "Netflix"
+  ],
+  "job_titles": [
+    "Data Analyst",
+    "Data Analyst",
+    "LLM Engineer"
+  ],
+  "universities": [
+    "ETH Zurich",
+    "TU Delft"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "B.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 43,
+    "tier": "T1",
+    "domain": "data_science",
+    "generated_at": "2026-05-31T02:31:40.595210",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

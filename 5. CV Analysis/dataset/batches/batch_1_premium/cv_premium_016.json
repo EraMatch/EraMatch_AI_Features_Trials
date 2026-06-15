@@ -1,0 +1,308 @@
+{
+  "full_name": "Youssef Mahmoud El-Sayed",
+  "email": "ne3na3agaming@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "game_development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Youssef Mahmoud El-Sayed",
+    "email": "ne3na3agaming@gmail.com",
+    "phone": "+201112345678",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://www.linkedin.com/in/youssefmelsayed",
+    "github_url": "https://github.com/youssefmelsayed",
+    "portfolio_url": "https://youssefmelsayed.itch.io"
+  },
+  "summary": "Junior Game Developer with 2 years of experience in C++, C#, and Python, specializing in gameplay systems, entity component architectures, and AI navigation. Passionate about building performant and engaging games. Proficient with Unity, Godot, ECS frameworks, and modern C++ standards. Strong foundation in computer science from German University in Cairo combined with hands-on project contributions to industry-standard open-source tools like EnTT and RecastNavigation. Quick learner, effective team player, and dedicated to writing clean, maintainable code for interactive experiences.",
+  "work_experience": [
+    {
+      "company": "Gameloft",
+      "organization": null,
+      "job_title": "Junior Game Programmer (C++)",
+      "title": null,
+      "start_date": "2023-08",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed core gameplay mechanics for mobile titles using C++ and proprietary engine. Implemented AI behaviors and pathfinding using RecastNavigation. Collaborated with designers and artists to integrate new features and optimize frame rate. Participated in code reviews and contributed to internal libraries.",
+      "technologies": [
+        "C++",
+        "RecastNavigation",
+        "SDL",
+        "OpenGL",
+        "Git",
+        "Perforce"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "Game Development Intern",
+      "title": null,
+      "start_date": "2023-01",
+      "end_date": "2023-07",
+      "duration": null,
+      "duration_months": null,
+      "description": "Contributed to SDK features for mobile game developers, focusing on performance monitoring and bug reporting integration with Unity and Unreal. Built demo games to test and showcase SDK capabilities. Assisted in technical documentation and developer outreach.",
+      "technologies": [
+        "C#",
+        "Unity",
+        "C++",
+        "Unreal Engine",
+        "Git"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Digital Hive",
+      "organization": null,
+      "job_title": "Part-time Unity Developer",
+      "title": null,
+      "start_date": "2022-06",
+      "end_date": "2022-12",
+      "duration": null,
+      "duration_months": null,
+      "description": "Developed 2D hyper-casual games from concept to release. Implemented game logic, UI, and monetization features. Worked with designers to iterate on gameplay based on analytics. Published multiple titles on Google Play Store.",
+      "technologies": [
+        "C#",
+        "Unity",
+        "Git",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Self-Employed",
+      "organization": null,
+      "job_title": "Freelance Game Developer",
+      "title": null,
+      "start_date": "2021-09",
+      "end_date": "2022-05",
+      "duration": null,
+      "duration_months": null,
+      "description": "Designed and coded small 2D platformers and puzzle games using Python (Pygame) and Godot. Created reusable components and learned game design fundamentals. Built a navigation mesh generator prototype using RecastNavigation.",
+      "technologies": [
+        "Python",
+        "Pygame",
+        "Godot",
+        "C#",
+        "RecastNavigation"
+      ],
+      "is_remote": true,
+      "employment_type": "contract"
+    }
+  ],
+  "education": [
+    {
+      "institution": "German University in Cairo",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Media Engineering and Technology",
+      "graduation_date": "2023-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C#",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Unity",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Godot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Entity Component System (ECS)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Recast Navigation",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Game AI",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenGL",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SDL",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile/Scrum",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Problem Solving",
+      "category": "soft_skill",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Communication",
+      "category": "soft_skill",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "recastnavigation",
+      "description": "Industry-standard navigation-mesh toolset for games",
+      "technologies": [
+        "ai",
+        "crowd-simulation",
+        "game",
+        "game-ai",
+        "game-dev"
+      ],
+      "url": "https://github.com/recastnavigation/recastnavigation",
+      "date": "2026-05"
+    },
+    {
+      "name": "QFramework",
+      "description": "Godot/Unity3D System Design Architecture",
+      "technologies": [
+        "frameworks",
+        "game-dev",
+        "godot",
+        "godot-addon",
+        "godot-engine"
+      ],
+      "url": "https://github.com/liangxiegame/QFramework",
+      "date": "2026-05"
+    },
+    {
+      "name": "GameDev-Resources",
+      "description": " :video_game: :game_die: A wonderful list of Game Development resources.",
+      "technologies": [
+        "2d",
+        "2d-framework",
+        "2d-game",
+        "2d-game-engine",
+        "2d-game-framework"
+      ],
+      "url": "https://github.com/Kavex/GameDev-Resources",
+      "date": "2026-05"
+    },
+    {
+      "name": "entt",
+      "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+      "technologies": [
+        "architectural-patterns",
+        "cpp",
+        "cpp17",
+        "cpp20",
+        "data-oriented"
+      ],
+      "url": "https://github.com/skypjack/entt",
+      "date": "2026-05"
+    },
+    {
+      "name": "pygame",
+      "description": "🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+      "technologies": [
+        "game-dev",
+        "game-development",
+        "gamedev",
+        "pygame",
+        "python"
+      ],
+      "url": "https://github.com/pygame/pygame",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Unity Certified Associate: Game Developer",
+      "issuer": "Unity Technologies",
+      "date": "2022-09",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2023-03",
+      "credential_id": null
+    },
+    {
+      "name": "Introduction to Game Development",
+      "issuer": "Michigan State University (Coursera)",
+      "date": "2021-12",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "C++",
+    "C#",
+    "Python",
+    "Unity",
+    "Godot",
+    "Entity Component System (ECS)",
+    "Recast Navigation",
+    "Game AI",
+    "OpenGL",
+    "SDL",
+    "Git",
+    "Agile/Scrum",
+    "Problem Solving",
+    "Communication"
+  ],
+  "companies": [
+    "Gameloft",
+    "Instabug",
+    "Digital Hive",
+    "Self-Employed"
+  ],
+  "job_titles": [
+    "Junior Game Programmer (C++)",
+    "Game Development Intern",
+    "Part-time Unity Developer",
+    "Freelance Game Developer"
+  ],
+  "universities": [
+    "German University in Cairo"
+  ],
+  "degrees": [
+    "Bachelor of Science"
+  ],
+  "parsing_metadata": {}
+}

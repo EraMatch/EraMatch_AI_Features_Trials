@@ -1,0 +1,306 @@
+{
+  "full_name": "Justin Dawson",
+  "email": "justin.dawson@gmail.com",
+  "location": "Hickmanview, USA",
+  "years_of_experience": 5.4,
+  "seniority_level": "senior",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Justin Dawson",
+    "email": "justin.dawson@gmail.com",
+    "phone": "(577)777-5844",
+    "location": "Hickmanview, USA",
+    "linkedin_url": "https://linkedin.com/in/justin-dawson",
+    "github_url": "https://github.com/justindawson",
+    "portfolio_url": "https://justindawson.dev"
+  },
+  "summary": "Technical leader in backend engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Node.js, TypeScript, Python.",
+  "work_experience": [
+    {
+      "company": "Spotify",
+      "organization": "Spotify",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": "2023-07 \u2013 Present",
+      "duration_months": 34,
+      "description": "Mentored team of 6 junior developers on FastAPI best practices\nArchitected and built RESTful APIs serving 100+ requests/day using FastAPI, reducing response time by 20%\nCreated authentication and authorization system using FastAPI, securing 1000+ user accounts",
+      "technologies": [
+        "Node.js",
+        "FastAPI",
+        "Go",
+        "Terraform",
+        "RAG Architecture"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "AgentForge",
+      "organization": "AgentForge",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2020-06",
+      "end_date": "2023-01",
+      "duration": "2020-06 \u2013 2023-01",
+      "duration_months": 31,
+      "description": "Reduced infrastructure costs by 70% through optimization using AWS Bedrock\nImplemented caching layer with Supabase, reducing database load by 59%\nMentored team of 7 junior developers on CockroachDB best practices\nArchitected and built RESTful APIs serving 5000+ requests/day using Kafka, reducing response time by 19%",
+      "technologies": [
+        "Kafka",
+        "Fly.io",
+        "CockroachDB",
+        "Nginx",
+        "AWS Bedrock",
+        "Supabase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "M.Eng.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Express.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "LangChain",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Ansible",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DigitalOcean",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GraphQL",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Event-Driven Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kafka",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "AWS Bedrock",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Notification Service",
+      "description": "Built Auth Service using Python and LangChain, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "LangChain",
+        "Python",
+        "Express.js"
+      ],
+      "url": "https://github.com/synthetic-backend-17-0",
+      "date": "2019"
+    },
+    {
+      "name": "Search Engine",
+      "description": "Implemented Event Streaming Service using Express.js, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "LangChain",
+        "Node.js",
+        "Express.js"
+      ],
+      "url": "https://github.com/synthetic-backend-17-1",
+      "date": "2022"
+    },
+    {
+      "name": "API Gateway",
+      "description": "Created REST API Framework leveraging LangChain for core functionality and TypeScript for optimization",
+      "technologies": [
+        "Express.js",
+        "TypeScript",
+        "LangChain"
+      ],
+      "url": "https://github.com/synthetic-backend-17-2",
+      "date": "2024"
+    },
+    {
+      "name": "Database Proxy",
+      "description": "Designed and implemented GraphQL Server with TypeScript, integrating with Express.js for seamless data flow",
+      "technologies": [
+        "Express.js",
+        "LangChain",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-backend-17-3",
+      "date": "2023"
+    },
+    {
+      "name": "GraphQL Server",
+      "description": "Developed Data Sync Platform using Spring Boot, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "Spring Boot",
+        "Python",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-backend-17-4",
+      "date": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Oracle Certified Professional Java SE",
+      "issuer": "Oracle",
+      "date": "2020",
+      "credential_id": null
+    },
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "credential_id": "RO73ZT04"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"From hand go go cost throw\" \u2014 NeurIPS 2021",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Mandarin (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Node.js",
+    "TypeScript",
+    "Python",
+    "Express.js",
+    "LangChain",
+    "Spring Boot",
+    "SQLite",
+    "MySQL",
+    "Docker",
+    "Ansible",
+    "Terraform",
+    "Azure",
+    "Railway",
+    "DigitalOcean",
+    "Hugging Face",
+    "Anthropic",
+    "GraphQL",
+    "Event-Driven Architecture"
+  ],
+  "companies": [
+    "Spotify",
+    "AgentForge"
+  ],
+  "job_titles": [
+    "API Developer",
+    "API Developer"
+  ],
+  "universities": [
+    "Carnegie Mellon University"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 17,
+    "tier": "T4",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:31:06.236647",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

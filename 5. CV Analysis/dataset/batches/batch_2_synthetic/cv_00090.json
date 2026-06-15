@@ -1,0 +1,321 @@
+{
+  "full_name": "Rachel Smith",
+  "email": "rachel.smith@protonmail.com",
+  "location": "West Isabel, Singapore",
+  "years_of_experience": 10.4,
+  "seniority_level": "lead",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Rachel Smith",
+    "email": "rachel.smith@protonmail.com",
+    "phone": "(719)228-7237",
+    "location": "West Isabel, Singapore",
+    "linkedin_url": null,
+    "github_url": "https://github.com/rachelsmith",
+    "portfolio_url": "https://rachelsmith.dev"
+  },
+  "summary": "Engineering leader with deep technical background in TypeScript, Java, and SwiftUI. 10 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": "2023-07 \u2013 Present",
+      "duration_months": 34,
+      "description": "Implemented biometric authentication using AWS Amplify, securing 500+ user accounts\nBuilt AR/VR features using Core Data, increasing user retention by 25%\nImplemented biometric authentication using Firebase Firestore, securing 100+ user accounts\nDeveloped mobile application using AWS Amplify, achieving 50000+ downloads",
+      "technologies": [
+        "Firebase Firestore",
+        "Firebase",
+        "AWS Amplify",
+        "Core Data"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2020-05",
+      "end_date": "2023-05",
+      "duration": "2020-05 \u2013 2023-05",
+      "duration_months": 36,
+      "description": "Built offline-first architecture using Realm, improving app responsiveness by 39%\nCreated app analytics tracking using RevenueCat, providing insights on 50000+ users\nCreated app analytics tracking using Flutter, providing insights on 5000+ users\nBuilt widget functionality using Flutter, increasing daily active users by 30%",
+      "technologies": [
+        "Realm",
+        "Jetpack Compose",
+        "C++",
+        "RevenueCat",
+        "Flutter",
+        "CocoaPods"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "Flutter Developer",
+      "title": "Flutter Developer",
+      "start_date": "2018-09",
+      "end_date": "2020-04",
+      "duration": "2018-09 \u2013 2020-04",
+      "duration_months": 19,
+      "description": "Developed mobile application using Objective-C, achieving 1000+ downloads\nImplemented deep linking using React Native, improving conversion rates by 55%\nImplemented push notification system using TestFlight, increasing user engagement by 60%",
+      "technologies": [
+        "React Native",
+        "Hive",
+        "Core Data",
+        "Supabase",
+        "TestFlight",
+        "Objective-C"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "PromptStack",
+      "organization": "PromptStack",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2016-08",
+      "end_date": "2018-09",
+      "duration": "2016-08 \u2013 2018-09",
+      "duration_months": 25,
+      "description": "Implemented deep linking using Core Data, improving conversion rates by 70%\nImplemented biometric authentication using TypeScript, securing 500+ user accounts\nImplemented biometric authentication using App Center, securing 5000+ user accounts",
+      "technologies": [
+        "TypeScript",
+        "Hive",
+        "Core Data",
+        "App Center"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "Mobile Developer",
+      "title": "Mobile Developer",
+      "start_date": "2015-08",
+      "end_date": "2016-07",
+      "duration": "2015-08 \u2013 2016-07",
+      "duration_months": 11,
+      "description": "Developed mobile application using UIKit, achieving 10000+ downloads\nCreated app analytics tracking using TypeScript, providing insights on 10000+ users\nBuilt offline-first architecture using React Native, improving app responsiveness by 57%\nImplemented push notification system using UIKit, increasing user engagement by 66%",
+      "technologies": [
+        "React Native",
+        "TypeScript",
+        "Jetpack Compose",
+        "UIKit",
+        "Objective-C"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tsinghua University",
+      "university": "Tsinghua University",
+      "degree": "M.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2013",
+      "gpa": "3.54",
+      "activities": "App Development Team"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Expo",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "KMP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hive",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "App Store Optimization",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TestFlight",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "In-app Purchase System",
+      "description": "Implemented In-app Purchase System using UIKit, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "UIKit",
+        "TypeScript",
+        "SwiftUI"
+      ],
+      "url": "https://github.com/synthetic-mobile-90-0",
+      "date": "2022"
+    },
+    {
+      "name": "Offline Sync",
+      "description": "Developed App Analytics using TypeScript, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "SwiftUI",
+        "Flutter",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-mobile-90-1",
+      "date": "2025"
+    },
+    {
+      "name": "Push Notification Service",
+      "description": "Developed Cross-platform SDK using KMP, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "KMP",
+        "SwiftUI",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-mobile-90-2",
+      "date": "2020"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Hiking",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Java",
+    "SwiftUI",
+    "Flutter",
+    "UIKit",
+    "Expo",
+    "KMP",
+    "Firebase",
+    "CocoaPods",
+    "Gradle",
+    "Hive",
+    "Firebase Firestore",
+    "AWS Amplify",
+    "Firebase",
+    "RevenueCat",
+    "Supabase",
+    "App Store Optimization",
+    "Clean Architecture"
+  ],
+  "companies": [
+    "ScaleGrid",
+    "Meta",
+    "Vercel",
+    "PromptStack",
+    "Anthropic"
+  ],
+  "job_titles": [
+    "iOS Developer",
+    "iOS Developer",
+    "Flutter Developer",
+    "iOS Developer",
+    "Mobile Developer"
+  ],
+  "universities": [
+    "Tsinghua University"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 90,
+    "tier": "T1",
+    "domain": "mobile",
+    "generated_at": "2026-05-31T02:32:35.259117",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

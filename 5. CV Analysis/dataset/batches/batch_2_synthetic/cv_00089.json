@@ -1,0 +1,301 @@
+{
+  "full_name": "Melissa Moore",
+  "email": "melissa.moore@protonmail.com",
+  "location": "New Amy, France",
+  "years_of_experience": 5.0,
+  "seniority_level": "senior",
+  "primary_domain": "Mobile Development",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Melissa Moore",
+    "email": "melissa.moore@protonmail.com",
+    "phone": "001-841-824-0605",
+    "location": "New Amy, France",
+    "linkedin_url": "https://linkedin.com/in/melissa-moore",
+    "github_url": "https://github.com/melissamoore",
+    "portfolio_url": "https://melissamoore.dev"
+  },
+  "summary": "Technical leader in mobile development with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Objective-C, Kotlin, TypeScript.",
+  "work_experience": [
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "React Native Developer",
+      "title": "React Native Developer",
+      "start_date": "2021-12",
+      "end_date": "Present",
+      "duration": "2021-12 \u2013 Present",
+      "duration_months": 53,
+      "description": "Implemented app streaming using MVVM, reducing download size by 42%\nBuilt AR/VR features using Gradle, increasing user retention by 34%\nOptimized app performance using Firebase, reducing battery consumption by 66%\nCreated in-app purchase integration using Gradle, generating 100000+ in revenue",
+      "technologies": [
+        "Gradle",
+        "MVVM",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "iOS Developer",
+      "title": "iOS Developer",
+      "start_date": "2021-01",
+      "end_date": "2021-08",
+      "duration": "2021-01 \u2013 2021-08",
+      "duration_months": 7,
+      "description": "Implemented push notification system using UIKit, increasing user engagement by 47%\nImplemented push notification system using React Native, increasing user engagement by 66%",
+      "technologies": [
+        "Kotlin",
+        "UIKit",
+        "Clean Architecture",
+        "React Native"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "B.Sc.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2019",
+      "gpa": null,
+      "activities": "Research Assistant"
+    },
+    {
+      "institution": "UC Berkeley",
+      "university": "UC Berkeley",
+      "degree": "M.Tech.",
+      "field_of_study": "Cybersecurity",
+      "graduation_date": "2017",
+      "gpa": "3.34",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Objective-C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Swift",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flutter",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SwiftUI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React Native",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jetpack Compose",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Android Studio",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CocoaPods",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase Firestore",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Core Data",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RevenueCat",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MVVM",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD for Mobile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Clean Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "UIKit",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Gradle",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Offline Sync",
+      "description": "Built Push Notification Service using Kotlin and Jetpack Compose, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "SwiftUI",
+        "Jetpack Compose",
+        "Kotlin"
+      ],
+      "url": "https://github.com/synthetic-mobile-89-0",
+      "date": "2021"
+    },
+    {
+      "name": "App Store Optimization",
+      "description": "Built Mobile Backend API with TypeScript and Swift, serving 10,000+ daily active users",
+      "technologies": [
+        "SwiftUI",
+        "TypeScript",
+        "Swift"
+      ],
+      "url": "https://github.com/synthetic-mobile-89-1",
+      "date": "2019"
+    },
+    {
+      "name": "Push Notification Service",
+      "description": "Created Mobile Backend API leveraging Jetpack Compose for core functionality and Objective-C for optimization",
+      "technologies": [
+        "Jetpack Compose",
+        "Objective-C",
+        "Kotlin"
+      ],
+      "url": "https://github.com/synthetic-mobile-89-2",
+      "date": "2025"
+    },
+    {
+      "name": "iOS Application",
+      "description": "Designed Offline Sync leveraging Kotlin microservices architecture with Swift for caching",
+      "technologies": [
+        "Swift",
+        "Kotlin",
+        "SwiftUI"
+      ],
+      "url": "https://github.com/synthetic-mobile-89-3",
+      "date": "2020"
+    },
+    {
+      "name": "React Native App",
+      "description": "Designed Cross-platform SDK leveraging TypeScript microservices architecture with Kotlin for caching",
+      "technologies": [
+        "TypeScript",
+        "SwiftUI",
+        "Kotlin"
+      ],
+      "url": "https://github.com/synthetic-mobile-89-4",
+      "date": "2019"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Agent here beyond property dark\" \u2014 NeurIPS 2022",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Outstanding Contributor \u2014 Google DevFest 2024",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Objective-C",
+    "Kotlin",
+    "TypeScript",
+    "Swift",
+    "Flutter",
+    "SwiftUI",
+    "React Native",
+    "Jetpack Compose",
+    "Android Studio",
+    "CocoaPods",
+    "Firebase Firestore",
+    "Core Data",
+    "AWS Amplify",
+    "RevenueCat",
+    "Supabase",
+    "Firebase",
+    "MVVM",
+    "CI/CD for Mobile",
+    "Clean Architecture"
+  ],
+  "companies": [
+    "Notion",
+    "Shopify"
+  ],
+  "job_titles": [
+    "React Native Developer",
+    "iOS Developer"
+  ],
+  "universities": [
+    "UC Berkeley",
+    "UC Berkeley"
+  ],
+  "degrees": [
+    "B.Sc.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 89,
+    "tier": "T3",
+    "domain": "mobile",
+    "generated_at": "2026-05-31T02:32:34.485827",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "full_name": "Shannon Steele",
+  "email": "shannon.steele@outlook.com",
+  "location": "New Jerryview, Australia",
+  "years_of_experience": 9.0,
+  "seniority_level": "lead",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Shannon Steele",
+    "email": "shannon.steele@outlook.com",
+    "phone": "+1-464-782-1824x99128",
+    "location": "New Jerryview, Australia",
+    "linkedin_url": null,
+    "github_url": "https://github.com/shannonsteele",
+    "portfolio_url": null
+  },
+  "summary": "Engineering leader with deep technical background in Python, C, and Go. 9 years of experience delivering enterprise-scale solutions.",
+  "work_experience": [
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2024-06",
+      "end_date": "Present",
+      "duration": "2024-06 \u2013 Present",
+      "duration_months": 23,
+      "description": "Implemented encryption solution using Incident Response, protecting 10000+ records\nDesigned zero-trust architecture using SonarQube, securing 100+ endpoints\nBuilt security automation using Rust, reducing incident response time by 66%",
+      "technologies": [
+        "Rust",
+        "Incident Response",
+        "SonarQube",
+        "Sigma"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Meta",
+      "organization": "Meta",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2020-11",
+      "end_date": "2024-04",
+      "duration": "2020-11 \u2013 2024-04",
+      "duration_months": 41,
+      "description": "Implemented security monitoring using Snort, detecting 50000+ threats\nImplemented identity management using Wireshark, securing 1000+ user identities\nImplemented identity management using Snort, securing 500+ user identities",
+      "technologies": [
+        "Wireshark",
+        "Go",
+        "Nmap",
+        "PostgreSQL",
+        "Snort"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2016-10",
+      "end_date": "2020-06",
+      "duration": "2016-10 \u2013 2020-06",
+      "duration_months": 44,
+      "description": "Implemented SIEM solution using SOC2 Compliance, processing 500+ logs/day\nImplemented security monitoring using Threat Modeling, detecting 100000+ threats\nBuilt secure CI/CD pipeline using SOC2 Compliance, preventing 50000+ security issues",
+      "technologies": [
+        "Threat Modeling",
+        "C",
+        "SOC2 Compliance"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "university": "University of Washington",
+      "degree": "M.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2016",
+      "gpa": "3.95",
+      "activities": "Ethical Hacking Club"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Sigma",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Hashicorp Vault",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Wireshark",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "SonarQube",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Security Compliance Tool",
+      "description": "Built Malware Detection with C and Sigma, serving 10,000+ daily active users",
+      "technologies": [
+        "Python",
+        "C",
+        "Sigma"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-95-0",
+      "date": "2024"
+    },
+    {
+      "name": "Malware Detection",
+      "description": "Built Penetration Testing Framework using Burp Suite and Go, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Go",
+        "Burp Suite",
+        "Snort"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-95-1",
+      "date": "2024"
+    },
+    {
+      "name": "Security Awareness Training",
+      "description": "Built Security Dashboard using Go and C, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Burp Suite",
+        "Go",
+        "C"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-95-2",
+      "date": "2024"
+    },
+    {
+      "name": "Encryption Utility",
+      "description": "Implemented Security Audit System using Suricata, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Suricata",
+        "Burp Suite",
+        "Sigma"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-95-3",
+      "date": "2022"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CEH - Certified Ethical Hacker",
+      "issuer": "EC-Council",
+      "date": "2024",
+      "credential_id": "KS18JC00"
+    },
+    {
+      "name": "CompTIA Security+",
+      "issuer": "CompTIA",
+      "date": "2024",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "hobby",
+      "raw_text": "Music production",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Arduino/IoT projects",
+      "structured": null
+    },
+    {
+      "label": "spoken_language",
+      "raw_text": "Italian (Conversational)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "C",
+    "Go",
+    "Burp Suite",
+    "Metasploit",
+    "Suricata",
+    "Sigma",
+    "Snort",
+    "Hashicorp Vault",
+    "Wireshark",
+    "Splunk",
+    "MongoDB",
+    "Redis",
+    "PostgreSQL",
+    "Elasticsearch",
+    "AWS Security Hub",
+    "GCP Security Command Center",
+    "Incident Response",
+    "OWASP Top 10",
+    "Threat Modeling"
+  ],
+  "companies": [
+    "Stripe",
+    "Meta",
+    "Shopify"
+  ],
+  "job_titles": [
+    "SOC Analyst",
+    "Security Engineer",
+    "SOC Analyst"
+  ],
+  "universities": [
+    "University of Washington"
+  ],
+  "degrees": [
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 95,
+    "tier": "T3",
+    "domain": "cybersecurity",
+    "generated_at": "2026-05-31T02:32:42.543196",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

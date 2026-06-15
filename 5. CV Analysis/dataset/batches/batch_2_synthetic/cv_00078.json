@@ -1,0 +1,322 @@
+{
+  "full_name": "Mr. Jonathan Mendez",
+  "email": "mr..jonathan.mendez@protonmail.com",
+  "location": "Jenniferfurt, UAE",
+  "years_of_experience": 5.8,
+  "seniority_level": "senior",
+  "primary_domain": "Full-Stack Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mr. Jonathan Mendez",
+    "email": "mr..jonathan.mendez@protonmail.com",
+    "phone": "001-240-975-8520",
+    "location": "Jenniferfurt, UAE",
+    "linkedin_url": "https://linkedin.com/in/mr.-jonathan-mendez",
+    "github_url": "https://github.com/mrjonathanmendez",
+    "portfolio_url": null
+  },
+  "summary": "Technical leader in full-stack engineering with extensive experience designing microservices, optimizing performance, and building high-performing teams. Proficiency in Java, TypeScript, JavaScript.",
+  "work_experience": [
+    {
+      "company": "Datadog",
+      "organization": "Datadog",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2022-07",
+      "end_date": "Present",
+      "duration": "2022-07 \u2013 Present",
+      "duration_months": 46,
+      "description": "Designed RESTful API and frontend using Go, handling 100000+ concurrent sessions\nImplemented CI/CD pipeline for full-stack app using Node.js, achieving 500+ deploys/week\nImplemented CI/CD pipeline for full-stack app using Angular, achieving 1000+ deploys/week",
+      "technologies": [
+        "Angular",
+        "Go",
+        "Node.js"
+      ],
+      "is_remote": false,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Stripe",
+      "organization": "Stripe",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2021-08",
+      "end_date": "2022-06",
+      "duration": "2021-08 \u2013 2022-06",
+      "duration_months": 10,
+      "description": "Optimized database queries and frontend rendering using Firebase, improving UX by 63%\nArchitected full-stack solution with Supabase, improving response time by 44%\nOptimized database queries and frontend rendering using Firebase, improving UX by 57%\nMentored team of 4 developers on Supabase full-stack best practices",
+      "technologies": [
+        "Heroku",
+        "Storybook",
+        "Supabase",
+        "Firebase"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "NeuroLink Labs",
+      "organization": "NeuroLink Labs",
+      "job_title": "Application Developer",
+      "title": "Application Developer",
+      "start_date": "2020-04",
+      "end_date": "2021-06",
+      "duration": "2020-04 \u2013 2021-06",
+      "duration_months": 14,
+      "description": "Architected full-stack solution with Tailwind CSS, improving response time by 47%\nBuilt end-to-end web application using Tailwind CSS, serving 100+ daily active users\nDesigned RESTful API and frontend using JavaScript, handling 100+ concurrent sessions",
+      "technologies": [
+        "Tailwind CSS",
+        "JavaScript",
+        "FastAPI"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "university": "Carnegie Mellon University",
+      "degree": "Ph.D.",
+      "field_of_study": "Information Technology",
+      "graduation_date": "2021",
+      "gpa": "2.82",
+      "activities": "Web Dev Community"
+    },
+    {
+      "institution": "ETH Zurich",
+      "university": "ETH Zurich",
+      "degree": "M.Sc.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2017",
+      "gpa": "3.82",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQLite",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "REST API Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Microservices",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Search Application",
+      "description": "Developed User Management Portal using JavaScript, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "JavaScript",
+        "Java",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-fullstack-78-0",
+      "date": "2020"
+    },
+    {
+      "name": "Notification Hub",
+      "description": "Built Content Management System using Node.js and Vue.js, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Node.js",
+        "Vue.js",
+        "Spring Boot"
+      ],
+      "url": "https://github.com/synthetic-fullstack-78-1",
+      "date": "2024"
+    },
+    {
+      "name": "Blog Platform",
+      "description": "Implemented Real-time Chat App using JavaScript, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Spring Boot",
+        "Java",
+        "JavaScript"
+      ],
+      "url": "https://github.com/synthetic-fullstack-78-2",
+      "date": "2025"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Day cause four every yard too foot perform\" \u2014 ArXiv 2025",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Mora-Brown Youth Program, 2024-Present",
+      "structured": null
+    },
+    {
+      "label": "award",
+      "raw_text": "Employee of the Quarter \u2014 Google DevFest 2021",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Java",
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "Vue.js",
+    "Spring Boot",
+    "MongoDB",
+    "Redis",
+    "Supabase",
+    "SQLite",
+    "Firebase",
+    "Docker",
+    "Cypress",
+    "Netlify",
+    "AWS",
+    "Cloudflare",
+    "Render",
+    "Vercel",
+    "REST API Design",
+    "Responsive Design",
+    "Microservices",
+    "Agile"
+  ],
+  "companies": [
+    "Datadog",
+    "Stripe",
+    "NeuroLink Labs"
+  ],
+  "job_titles": [
+    "Platform Engineer",
+    "Software Engineer",
+    "Application Developer"
+  ],
+  "universities": [
+    "Carnegie Mellon University",
+    "ETH Zurich"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Sc."
+  ],
+  "parsing_metadata": {
+    "cv_id": 78,
+    "tier": "T2",
+    "domain": "fullstack",
+    "generated_at": "2026-05-31T02:32:20.464969",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "full_name": "Dr. Joseph Martin",
+  "email": "dr..joseph.martin@martin.dev",
+  "location": "East Stephanie, UK",
+  "years_of_experience": 9.8,
+  "seniority_level": "lead",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Dr. Joseph Martin",
+    "email": "dr..joseph.martin@martin.dev",
+    "phone": "+1-743-307-8548x64901",
+    "location": "East Stephanie, UK",
+    "linkedin_url": "https://linkedin.com/in/dr.-joseph-martin",
+    "github_url": "https://github.com/drjosephmartin",
+    "portfolio_url": null
+  },
+  "summary": "Senior technical leader specializing in frontend engineering with expertise in Python, HTML, TypeScript. Proven success in technical vision, team development, and stakeholder management.",
+  "work_experience": [
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 \u2013 Present",
+      "duration_months": 39,
+      "description": "Created progressive web app using Cypress, increasing user engagement by 42%\nImproved website accessibility score to 40% using Responsive Design",
+      "technologies": [
+        "Cypress",
+        "Responsive Design",
+        "ESLint",
+        "Component-Driven Development",
+        "Playwright"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ModelShip",
+      "organization": "ModelShip",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2022-03",
+      "end_date": "2023-01",
+      "duration": "2022-03 \u2013 2023-01",
+      "duration_months": 10,
+      "description": "Built reusable component library using AWS Amplify, used by 5000+ developers\nCreated accessible UI components using Astro, achieving WCAG AA compliance",
+      "technologies": [
+        "IndexedDB",
+        "Webpack",
+        "AWS Amplify",
+        "Tailwind CSS",
+        "Astro",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Notion",
+      "organization": "Notion",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2018-09",
+      "end_date": "2021-10",
+      "duration": "2018-09 \u2013 2021-10",
+      "duration_months": 37,
+      "description": "Integrated third-party APIs using JavaScript, reducing integration time by 54%\nImproved website accessibility score to 60% using HTML",
+      "technologies": [
+        "TypeScript",
+        "Cypress",
+        "Netlify",
+        "HTML",
+        "JavaScript",
+        "Prettier"
+      ],
+      "is_remote": true,
+      "employment_type": "part-time"
+    },
+    {
+      "company": "Nvidia",
+      "organization": "Nvidia",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2015-09",
+      "end_date": "2018-05",
+      "duration": "2015-09 \u2013 2018-05",
+      "duration_months": 32,
+      "description": "Created progressive web app using Tailwind CSS, increasing user engagement by 19%\nImproved website accessibility score to 23% using Tailwind CSS\nDeveloped responsive web applications using Cypress, improving page load time by 47%",
+      "technologies": [
+        "Cypress",
+        "Tailwind CSS",
+        "Next.js",
+        "Playwright"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "university": "Imperial College London",
+      "degree": "Ph.D.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2014",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "Georgia Tech",
+      "university": "Georgia Tech",
+      "degree": "M.Eng.",
+      "field_of_study": "Data Science",
+      "graduation_date": "2016",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Svelte",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Material UI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cypress",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Responsive Design",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "Built Admin Panel with HTML and Angular, serving 10,000+ daily active users",
+      "technologies": [
+        "HTML",
+        "Angular",
+        "React"
+      ],
+      "url": "https://github.com/synthetic-frontend-38-0",
+      "date": "2024"
+    },
+    {
+      "name": "Content Management UI",
+      "description": "Implemented SPA Framework using Material UI, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Dart",
+        "Angular",
+        "Material UI"
+      ],
+      "url": "https://github.com/synthetic-frontend-38-1",
+      "date": "2019"
+    },
+    {
+      "name": "Admin Panel",
+      "description": "Created Admin Panel leveraging CSS for core functionality and Vue.js for optimization",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Vue.js"
+      ],
+      "url": "https://github.com/synthetic-frontend-38-2",
+      "date": "2019"
+    },
+    {
+      "name": "Form Builder",
+      "description": "Implemented Mobile Web App using TypeScript, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "React",
+        "Python",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-frontend-38-3",
+      "date": "2021"
+    },
+    {
+      "name": "Real-time Chat",
+      "description": "Built UI Design System using CSS and TypeScript, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "TypeScript",
+        "React",
+        "CSS"
+      ],
+      "url": "https://github.com/synthetic-frontend-38-4",
+      "date": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "React Certified Developer",
+      "issuer": "React",
+      "date": "2021",
+      "credential_id": "CH65HO59"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Long LLC Youth Program, 2020-Present",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "volunteering",
+      "raw_text": "Volunteer coding instructor at Walters Ltd Youth Program, 2022-Present",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Python",
+    "HTML",
+    "TypeScript",
+    "Dart",
+    "CSS",
+    "React",
+    "Svelte",
+    "Angular",
+    "Vue.js",
+    "Material UI",
+    "Webpack",
+    "Cypress",
+    "IndexedDB",
+    "MongoDB",
+    "PostgreSQL",
+    "Cloudflare Pages",
+    "Vercel",
+    "AWS Amplify",
+    "Component-Driven Development",
+    "Agile",
+    "Progressive Web Apps",
+    "Accessibility (WCAG)",
+    "Responsive Design"
+  ],
+  "companies": [
+    "ModelShip",
+    "ModelShip",
+    "Notion",
+    "Nvidia"
+  ],
+  "job_titles": [
+    "UI Engineer",
+    "Full-Stack Developer",
+    "Web Developer",
+    "React Developer"
+  ],
+  "universities": [
+    "Imperial College London",
+    "Georgia Tech"
+  ],
+  "degrees": [
+    "Ph.D.",
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 38,
+    "tier": "T5",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:33.862157",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

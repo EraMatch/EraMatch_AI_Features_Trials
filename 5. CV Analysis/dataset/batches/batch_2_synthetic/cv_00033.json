@@ -1,0 +1,399 @@
+{
+  "full_name": "Jay Cruz",
+  "email": "jay.cruz@outlook.com",
+  "location": "South Kathryn, Brazil",
+  "years_of_experience": 13.8,
+  "seniority_level": "principal",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Jay Cruz",
+    "email": "jay.cruz@outlook.com",
+    "phone": "001-797-372-4129x922",
+    "location": "South Kathryn, Brazil",
+    "linkedin_url": "https://linkedin.com/in/jay-cruz",
+    "github_url": "https://github.com/jaycruz",
+    "portfolio_url": null
+  },
+  "summary": "Principal frontend engineering architect with 13+ years defining technical strategy for enterprise transformations. Subject matter expert in Dart, HTML, JavaScript.",
+  "work_experience": [
+    {
+      "company": "Anthropic",
+      "organization": "Anthropic",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2025-10",
+      "end_date": "Present",
+      "duration": "2025-10 \u2013 Present",
+      "duration_months": 7,
+      "description": "Optimized frontend bundle size using Progressive Web Apps, reducing load time by 54%\nImproved website accessibility score to 15% using Git",
+      "technologies": [
+        "Git",
+        "Firebase",
+        "Bootstrap",
+        "Progressive Web Apps"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "ScaleGrid",
+      "organization": "ScaleGrid",
+      "job_title": "UI Engineer",
+      "title": "UI Engineer",
+      "start_date": "2022-01",
+      "end_date": "2025-04",
+      "duration": "2022-01 \u2013 2025-04",
+      "duration_months": 39,
+      "description": "Developed design system using Jest, standardizing UI across 50000+ applications\nImplemented state management solution using Svelte, reducing API calls by 50%\nImplemented state management solution using Svelte, reducing API calls by 55%\nBuilt interactive data visualizations using Prettier, serving 5000+ daily users",
+      "technologies": [
+        "IndexedDB",
+        "Jest",
+        "Prettier",
+        "Svelte",
+        "Storybook",
+        "CSS"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2017-12",
+      "end_date": "2021-11",
+      "duration": "2017-12 \u2013 2021-11",
+      "duration_months": 47,
+      "description": "Implemented automated testing framework using Storybook, achieving 39% code coverage\nBuilt real-time collaboration features using Storybook, serving 50000+ concurrent users\nCreated progressive web app using Progressive Web Apps, increasing user engagement by 68%",
+      "technologies": [
+        "Figma",
+        "Storybook",
+        "Progressive Web Apps"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Netflix",
+      "organization": "Netflix",
+      "job_title": "Frontend Developer",
+      "title": "Frontend Developer",
+      "start_date": "2013-07",
+      "end_date": "2017-06",
+      "duration": "2013-07 \u2013 2017-06",
+      "duration_months": 47,
+      "description": "Developed design system using Astro, standardizing UI across 50000+ applications\nImproved website accessibility score to 59% using TypeScript\nDeveloped responsive web applications using Vercel, improving page load time by 48%\nIntegrated third-party APIs using Storybook, reducing integration time by 59%",
+      "technologies": [
+        "TypeScript",
+        "Vercel",
+        "Astro",
+        "Render",
+        "Storybook"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Quantum Edge",
+      "organization": "Quantum Edge",
+      "job_title": "Web Developer",
+      "title": "Web Developer",
+      "start_date": "2011-02",
+      "end_date": "2013-04",
+      "duration": "2011-02 \u2013 2013-04",
+      "duration_months": 26,
+      "description": "Built reusable component library using Vue.js, used by 50000+ developers\nCreated progressive web app using Netlify, increasing user engagement by 49%\nDeveloped responsive web applications using Vue.js, improving page load time by 59%\nBuilt real-time collaboration features using Vue.js, serving 50000+ concurrent users",
+      "technologies": [
+        "Netlify",
+        "Git",
+        "Firebase",
+        "MongoDB",
+        "ESLint",
+        "Vue.js"
+      ],
+      "is_remote": false,
+      "employment_type": "freelance"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technion",
+      "university": "Technion",
+      "degree": "B.Eng.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2011",
+      "gpa": null,
+      "activities": "Dean's List"
+    },
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2009",
+      "gpa": "3.87",
+      "activities": "Research Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "JavaScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "React",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Astro",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vue.js",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Playwright",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Firebase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Agile",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Bootstrap",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Render",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "Built Data Visualization Tool using TypeScript and Astro, enabling automated processing and improving efficiency by 40%",
+      "technologies": [
+        "Dart",
+        "Astro",
+        "TypeScript"
+      ],
+      "url": "https://github.com/synthetic-frontend-33-0",
+      "date": "2020"
+    },
+    {
+      "name": "React Component Library",
+      "description": "Developed Form Builder using JavaScript, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "JavaScript",
+        "Next.js",
+        "Astro"
+      ],
+      "url": "https://github.com/synthetic-frontend-33-1",
+      "date": "2023"
+    },
+    {
+      "name": "Real-time Chat",
+      "description": "Created Real-time Chat leveraging JavaScript for core functionality and Dart for optimization",
+      "technologies": [
+        "Dart",
+        "JavaScript",
+        "Vue.js"
+      ],
+      "url": "https://github.com/synthetic-frontend-33-2",
+      "date": "2025"
+    },
+    {
+      "name": "Progressive Web App",
+      "description": "Built React Component Library with React and Dart, serving 10,000+ daily active users",
+      "technologies": [
+        "HTML",
+        "Dart",
+        "React"
+      ],
+      "url": "https://github.com/synthetic-frontend-33-3",
+      "date": "2023"
+    },
+    {
+      "name": "UI Design System",
+      "description": "Implemented Progressive Web App using HTML, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "HTML",
+        "TypeScript",
+        "Vue.js"
+      ],
+      "url": "https://github.com/synthetic-frontend-33-4",
+      "date": "2021"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Anyone class former her until at out save\" \u2014 IEEE 2022",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Dart",
+    "HTML",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Astro",
+    "Next.js",
+    "Vue.js",
+    "Playwright",
+    "Webpack",
+    "Figma",
+    "ESLint",
+    "Git",
+    "MongoDB",
+    "Firebase",
+    "IndexedDB",
+    "PostgreSQL",
+    "Supabase",
+    "AWS Amplify",
+    "Vercel",
+    "Cloudflare Pages",
+    "Progressive Web Apps",
+    "Agile",
+    "Component-Driven Development"
+  ],
+  "companies": [
+    "Anthropic",
+    "ScaleGrid",
+    "Airbnb",
+    "Netflix",
+    "Quantum Edge"
+  ],
+  "job_titles": [
+    "Frontend Developer",
+    "UI Engineer",
+    "Frontend Developer",
+    "Frontend Developer",
+    "Web Developer"
+  ],
+  "universities": [
+    "Technion",
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 33,
+    "tier": "T2",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:28.363760",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

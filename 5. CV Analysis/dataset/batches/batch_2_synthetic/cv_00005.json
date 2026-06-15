@@ -1,0 +1,371 @@
+{
+  "full_name": "Miguel Snyder",
+  "email": "miguel.snyder@outlook.com",
+  "location": "Port Kirsten, Singapore",
+  "years_of_experience": 14.7,
+  "seniority_level": "principal",
+  "primary_domain": "Backend Engineering",
+  "has_github": true,
+  "has_linkedin": false,
+  "contact_info": {
+    "full_name": "Miguel Snyder",
+    "email": "miguel.snyder@outlook.com",
+    "phone": "(285)498-9949x2930",
+    "location": "Port Kirsten, Singapore",
+    "linkedin_url": null,
+    "github_url": "https://github.com/miguelsnyder",
+    "portfolio_url": "https://miguelsnyder.dev"
+  },
+  "summary": "Executive-level technology leader with extensive background in backend engineering. Expertise in Rust, Kotlin, Go with track record of transforming organizations through technology.",
+  "work_experience": [
+    {
+      "company": "Airbnb",
+      "organization": "Airbnb",
+      "job_title": "LLM Engineer",
+      "title": "LLM Engineer",
+      "start_date": "2023-02",
+      "end_date": "Present",
+      "duration": "2023-02 \u2013 Present",
+      "duration_months": 39,
+      "description": "Created authentication and authorization system using Hugging Face, securing 100+ user accounts\nLed migration from monolithic to microservices using LangChain, improving system scalability by 57%\nLed migration from monolithic to microservices using Hugging Face, improving system scalability by 54%",
+      "technologies": [
+        "PostgreSQL",
+        "Neon",
+        "Hugging Face",
+        "Nginx",
+        "LangChain"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2020-06",
+      "end_date": "2022-08",
+      "duration": "2020-06 \u2013 2022-08",
+      "duration_months": 26,
+      "description": "Led migration from monolithic to microservices using Neon, improving system scalability by 41%\nLed migration from monolithic to microservices using Elasticsearch, improving system scalability by 68%",
+      "technologies": [
+        "Docker",
+        "Neon",
+        "Elasticsearch"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Snowflake",
+      "organization": "Snowflake",
+      "job_title": "Platform Engineer",
+      "title": "Platform Engineer",
+      "start_date": "2016-06",
+      "end_date": "2020-06",
+      "duration": "2016-06 \u2013 2020-06",
+      "duration_months": 48,
+      "description": "Built event-driven architecture using FastAPI, processing 1000+ events daily\nDesigned and implemented message queue system using FastAPI, processing 1000+ messages/hour\nImplemented caching layer with GCP, reducing database load by 43%\nDesigned and implemented microservices architecture using Anthropic, handling 50000+ concurrent users",
+      "technologies": [
+        "GCP",
+        "FastAPI",
+        "Anthropic",
+        "Vercel"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Palantir",
+      "organization": "Palantir",
+      "job_title": "Software Engineer",
+      "title": "Software Engineer",
+      "start_date": "2014-09",
+      "end_date": "2015-12",
+      "duration": "2014-09 \u2013 2015-12",
+      "duration_months": 15,
+      "description": "Designed and implemented message queue system using Replicate, processing 1000+ messages/hour\nCreated authentication and authorization system using Scrum, securing 10000+ user accounts\nLed migration from monolithic to microservices using Kubernetes, improving system scalability by 31%\nLed migration from monolithic to microservices using Scrum, improving system scalability by 59%",
+      "technologies": [
+        "LangChain",
+        "Replicate",
+        "Kubernetes",
+        "Scrum",
+        "gRPC",
+        "Java"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "API Developer",
+      "title": "API Developer",
+      "start_date": "2010-06",
+      "end_date": "2014-06",
+      "duration": "2010-06 \u2013 2014-06",
+      "duration_months": 48,
+      "description": "Designed and implemented message queue system using Django, processing 100+ messages/hour\nDesigned and implemented microservices architecture using Django, handling 5000+ concurrent users",
+      "technologies": [
+        "Actix",
+        "Kotlin",
+        "Django",
+        "AWS",
+        "Rails",
+        "Vercel"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue University",
+      "university": "Purdue University",
+      "degree": "M.Eng.",
+      "field_of_study": "Computer Science",
+      "graduation_date": "2009",
+      "gpa": null,
+      "activities": "Teaching Assistant - Data Structures"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Kotlin",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Java",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Node.js",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Flask",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Gin",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "FastAPI",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Spring Boot",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "DynamoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MySQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Nginx",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ArgoCD",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Terraform",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Railway",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Anthropic",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OpenAI API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Claude API",
+      "category": "ai_api",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "RAG Architecture",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Hugging Face",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "gRPC Services",
+      "description": "Designed and implemented gRPC Services with Node.js, integrating with Java for seamless data flow",
+      "technologies": [
+        "Node.js",
+        "Java",
+        "FastAPI"
+      ],
+      "url": "https://github.com/synthetic-backend-5-0",
+      "date": "2020"
+    },
+    {
+      "name": "User Management API",
+      "description": "Designed and implemented gRPC Services with Kotlin, integrating with Gin for seamless data flow",
+      "technologies": [
+        "Node.js",
+        "Kotlin",
+        "Gin"
+      ],
+      "url": "https://github.com/synthetic-backend-5-1",
+      "date": "2019"
+    },
+    {
+      "name": "Data Sync Platform",
+      "description": "Implemented Microservices Platform using Kotlin, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Node.js",
+        "Flask",
+        "Kotlin"
+      ],
+      "url": "https://github.com/synthetic-backend-5-2",
+      "date": "2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2025",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "publication",
+      "raw_text": "\"Include discussion later bag song on difference clearly article\" \u2014 ArXiv 2020",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Never hope yeah win she\" \u2014 ICML 2025",
+      "structured": null
+    },
+    {
+      "label": "hobby",
+      "raw_text": "Podcasting",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Rust",
+    "Kotlin",
+    "Go",
+    "Java",
+    "Node.js",
+    "Flask",
+    "Gin",
+    "FastAPI",
+    "Spring Boot",
+    "DynamoDB",
+    "MySQL",
+    "Redis",
+    "Nginx",
+    "ArgoCD",
+    "Terraform",
+    "Azure",
+    "Railway",
+    "Anthropic",
+    "OpenAI API",
+    "Claude API",
+    "CI/CD",
+    "RAG Architecture"
+  ],
+  "companies": [
+    "Airbnb",
+    "Shopify",
+    "Snowflake",
+    "Palantir",
+    "CloudNova"
+  ],
+  "job_titles": [
+    "LLM Engineer",
+    "Platform Engineer",
+    "Platform Engineer",
+    "Software Engineer",
+    "API Developer"
+  ],
+  "universities": [
+    "Purdue University"
+  ],
+  "degrees": [
+    "M.Eng."
+  ],
+  "parsing_metadata": {
+    "cv_id": 5,
+    "tier": "T3",
+    "domain": "backend",
+    "generated_at": "2026-05-31T02:30:57.699040",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

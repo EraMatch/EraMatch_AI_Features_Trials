@@ -1,0 +1,323 @@
+{
+  "full_name": "Nicole Bennett",
+  "email": "nicole.bennett@gmail.com",
+  "location": "Hallburgh, India",
+  "years_of_experience": 7.3,
+  "seniority_level": "senior",
+  "primary_domain": "Frontend Engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Nicole Bennett",
+    "email": "nicole.bennett@gmail.com",
+    "phone": "(875)679-6045x24161",
+    "location": "Hallburgh, India",
+    "linkedin_url": "https://linkedin.com/in/nicole-bennett",
+    "github_url": "https://github.com/nicolebennett",
+    "portfolio_url": null
+  },
+  "summary": "Seasoned software professional with deep expertise in TypeScript, Dart, and Python. 7 years of experience delivering mission-critical systems.",
+  "work_experience": [
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "Full-Stack Developer",
+      "title": "Full-Stack Developer",
+      "start_date": "2025-06",
+      "end_date": "Present",
+      "duration": "2025-06 \u2013 Present",
+      "duration_months": 11,
+      "description": "Developed responsive web applications using MongoDB, improving page load time by 68%\nImplemented state management solution using Cloudflare Pages, reducing API calls by 16%\nImproved website accessibility score to 55% using Cloudflare Pages",
+      "technologies": [
+        "ESLint",
+        "Cloudflare Pages",
+        "MongoDB"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Shopify",
+      "organization": "Shopify",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2020-11",
+      "end_date": "2025-01",
+      "duration": "2020-11 \u2013 2025-01",
+      "duration_months": 50,
+      "description": "Optimized frontend bundle size using Git, reducing load time by 20%\nDeveloped design system using Next.js, standardizing UI across 100+ applications\nDeveloped responsive web applications using IndexedDB, improving page load time by 40%\nBuilt reusable component library using Astro, used by 500+ developers",
+      "technologies": [
+        "Astro",
+        "Next.js",
+        "IndexedDB",
+        "Angular",
+        "Git",
+        "Cloudflare Pages"
+      ],
+      "is_remote": false,
+      "employment_type": "contract"
+    },
+    {
+      "company": "Uber",
+      "organization": "Uber",
+      "job_title": "React Developer",
+      "title": "React Developer",
+      "start_date": "2018-06",
+      "end_date": "2020-09",
+      "duration": "2018-06 \u2013 2020-09",
+      "duration_months": 27,
+      "description": "Built reusable component library using Prettier, used by 50000+ developers\nCreated accessible UI components using Python, achieving WCAG AA compliance\nDeveloped design system using Prettier, standardizing UI across 5000+ applications\nImplemented automated testing framework using Python, achieving 18% code coverage",
+      "technologies": [
+        "Dart",
+        "Python",
+        "ESLint",
+        "Material UI",
+        "Prettier",
+        "Astro"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "university": "University of Melbourne",
+      "degree": "B.Eng.",
+      "field_of_study": "Artificial Intelligence",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": "Web Development Club"
+    },
+    {
+      "institution": "University of Waterloo",
+      "university": "University of Waterloo",
+      "degree": "M.Tech.",
+      "field_of_study": "Electrical Engineering",
+      "graduation_date": "2018",
+      "gpa": "3.01",
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "TypeScript",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Dart",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "HTML",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CSS",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Angular",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Tailwind CSS",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Remix",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Webpack",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "ESLint",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Figma",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Prettier",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Supabase",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Vercel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Amplify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Render",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Netlify",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Cloudflare Pages",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Progressive Web Apps",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Component-Driven Development",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Accessibility (WCAG)",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Next.js",
+      "category": "other",
+      "source": "inferred"
+    },
+    {
+      "skill_name": "IndexedDB",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "React Component Library",
+      "description": "Created Real-time Chat leveraging CSS for core functionality and Python for optimization",
+      "technologies": [
+        "Python",
+        "CSS",
+        "Remix"
+      ],
+      "url": "https://github.com/synthetic-frontend-36-0",
+      "date": "2024"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Implemented Content Management UI using Tailwind CSS, achieving 99.9% uptime and handling 50k+ requests daily",
+      "technologies": [
+        "Tailwind CSS",
+        "CSS",
+        "Dart"
+      ],
+      "url": "https://github.com/synthetic-frontend-36-1",
+      "date": "2022"
+    },
+    {
+      "name": "Data Visualization Tool",
+      "description": "Developed Admin Panel using HTML, reducing processing time by 60% through algorithmic improvements",
+      "technologies": [
+        "HTML",
+        "Remix",
+        "Python"
+      ],
+      "url": "https://github.com/synthetic-frontend-36-2",
+      "date": "2022"
+    }
+  ],
+  "certifications": [],
+  "misc_data": [
+    {
+      "label": "spoken_language",
+      "raw_text": "Mandarin (Native)",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "TypeScript",
+    "Dart",
+    "Python",
+    "HTML",
+    "CSS",
+    "Angular",
+    "Tailwind CSS",
+    "Remix",
+    "Webpack",
+    "Git",
+    "ESLint",
+    "Figma",
+    "Prettier",
+    "MongoDB",
+    "Supabase",
+    "Vercel",
+    "AWS Amplify",
+    "Render",
+    "Netlify",
+    "Cloudflare Pages",
+    "Progressive Web Apps",
+    "Component-Driven Development",
+    "Accessibility (WCAG)"
+  ],
+  "companies": [
+    "Apple",
+    "Shopify",
+    "Uber"
+  ],
+  "job_titles": [
+    "Full-Stack Developer",
+    "React Developer",
+    "React Developer"
+  ],
+  "universities": [
+    "University of Melbourne",
+    "University of Waterloo"
+  ],
+  "degrees": [
+    "B.Eng.",
+    "M.Tech."
+  ],
+  "parsing_metadata": {
+    "cv_id": 36,
+    "tier": "T1",
+    "domain": "frontend",
+    "generated_at": "2026-05-31T02:31:32.438008",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}

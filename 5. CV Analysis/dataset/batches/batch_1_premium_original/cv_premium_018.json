@@ -1,0 +1,301 @@
+{
+  "full_name": "Youssef Ahmed Ibrahim",
+  "email": "perplexityacc77@gmail.com",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 2.0,
+  "seniority_level": "junior",
+  "primary_domain": "ml_engineering",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Youssef Ahmed Ibrahim",
+    "email": "perplexityacc77@gmail.com",
+    "phone": "+20 111 987 6543",
+    "location": "Cairo, Egypt",
+    "linkedin_url": "https://linkedin.com/in/youssef-ahmed-ibrahim-ml",
+    "github_url": "https://github.com/youssefibrahim",
+    "portfolio_url": "https://youssefibrahim.github.io"
+  },
+  "summary": "Highly motivated Junior Machine Learning Engineer with 2 years of experience in building, optimizing, and deploying machine learning models. Proficient in Python, TensorFlow, PyTorch, and transformer architectures. Passionate about applying deep learning to solve real-world problems in NLP and computer vision. Actively contributes to open-source projects and stays updated with the latest ML research.",
+  "work_experience": [
+    {
+      "company": "Swvl",
+      "organization": null,
+      "job_title": "ML Engineer",
+      "title": null,
+      "start_date": "2023-07",
+      "end_date": "Present",
+      "duration": null,
+      "duration_months": null,
+      "description": "Develop demand forecasting models using LSTMs and XGBoost to optimize ride dispatching. Implemented model serving via Docker and AWS SageMaker, reducing inference latency by 30%. Collaborated with data engineering team to build ETL pipelines for real-time data ingestion.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "AWS SageMaker",
+        "Docker",
+        "SQL",
+        "Airflow"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Paymob",
+      "organization": null,
+      "job_title": "Junior ML Engineer",
+      "title": null,
+      "start_date": "2022-08",
+      "end_date": "2023-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Designed fraud detection classifiers using ensemble methods and deep learning, achieving 95% accuracy. Built automated ML pipelines with MLflow for experiment tracking and model registry. Prepared data using SQL and Pandas, and deployed models via REST APIs.",
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "Pandas",
+        "MLflow",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Instabug",
+      "organization": null,
+      "job_title": "ML Engineering Intern",
+      "title": null,
+      "start_date": "2021-09",
+      "end_date": "2022-06",
+      "duration": null,
+      "duration_months": null,
+      "description": "Assisted in building sentiment analysis models for app reviews using BERT and Hugging Face Transformers. Developed preprocessing scripts for text data and evaluated model performance using Precision, Recall, and F1-score. Participated in daily stand-ups and code reviews.",
+      "technologies": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "Hugging Face",
+        "Git",
+        "Jupyter"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    },
+    {
+      "company": "Vezeeta",
+      "organization": null,
+      "job_title": "Data Science Intern",
+      "title": null,
+      "start_date": "2021-06",
+      "end_date": "2021-08",
+      "duration": null,
+      "duration_months": null,
+      "description": "Performed exploratory data analysis on patient appointment data to identify no-show patterns. Built a logistic regression model to predict appointment cancellations, leading to a 10% reduction in no-shows. Created dashboards with Tableau for business stakeholders.",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Scikit-learn",
+        "Tableau",
+        "SQL"
+      ],
+      "is_remote": false,
+      "employment_type": "internship"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cairo University",
+      "university": null,
+      "degree": "Bachelor of Science",
+      "field_of_study": "Computer Engineering",
+      "graduation_date": "2022-06",
+      "gpa": null,
+      "activities": null
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "C++",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "TensorFlow",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PyTorch",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Transformers",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Scikit-learn",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Deep Learning",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NLP",
+      "category": "ai_ml",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Git",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Docker",
+      "category": "container",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Linux",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Jupyter",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Pandas",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "NumPy",
+      "category": "data_tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MLOps",
+      "category": "ml_ops",
+      "source": "explicit"
+    }
+  ],
+  "projects": [
+    {
+      "name": "system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "date": "2026-05"
+    },
+    {
+      "name": "awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/vinta/awesome-python",
+      "date": "2026-05"
+    },
+    {
+      "name": "project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "technologies": [],
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "date": "2026-05"
+    },
+    {
+      "name": "Python",
+      "description": "All Algorithms implemented in Python",
+      "technologies": [
+        "Python"
+      ],
+      "url": "https://github.com/TheAlgorithms/Python",
+      "date": "2026-05"
+    },
+    {
+      "name": "tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "technologies": [
+        "C++"
+      ],
+      "url": "https://github.com/tensorflow/tensorflow",
+      "date": "2026-05"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Machine Learning – Specialty",
+      "issuer": "Amazon Web Services",
+      "date": "2023-12",
+      "credential_id": null
+    },
+    {
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "date": "2023-06",
+      "credential_id": null
+    }
+  ],
+  "misc_data": [],
+  "skills_flat": [
+    "Python",
+    "C++",
+    "TensorFlow",
+    "PyTorch",
+    "Transformers",
+    "Scikit-learn",
+    "Deep Learning",
+    "NLP",
+    "Git",
+    "Docker",
+    "Linux",
+    "SQL",
+    "AWS",
+    "Jupyter",
+    "Pandas",
+    "NumPy",
+    "MLOps"
+  ],
+  "companies": [
+    "Swvl",
+    "Paymob",
+    "Instabug",
+    "Vezeeta"
+  ],
+  "job_titles": [
+    "ML Engineer",
+    "Junior ML Engineer",
+    "ML Engineering Intern",
+    "Data Science Intern"
+  ],
+  "universities": [
+    "Cairo University"
+  ],
+  "degrees": [
+    "Bachelor of Science in Computer Engineering"
+  ],
+  "parsing_metadata": {}
+}

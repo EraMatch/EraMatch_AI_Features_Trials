@@ -1,0 +1,351 @@
+{
+  "full_name": "Mary Martin",
+  "email": "mary.martin@protonmail.com",
+  "location": "Tiffanyview, India",
+  "years_of_experience": 7.6,
+  "seniority_level": "senior",
+  "primary_domain": "Cybersecurity",
+  "has_github": true,
+  "has_linkedin": true,
+  "contact_info": {
+    "full_name": "Mary Martin",
+    "email": "mary.martin@protonmail.com",
+    "phone": "(617)225-0353x3139",
+    "location": "Tiffanyview, India",
+    "linkedin_url": "https://linkedin.com/in/mary-martin",
+    "github_url": "https://github.com/marymartin",
+    "portfolio_url": null
+  },
+  "summary": "Senior cybersecurity engineer with 7 years of experience architecting and delivering enterprise solutions. Expert in Bash, Python, Rust with demonstrated leadership in cross-functional teams.",
+  "work_experience": [
+    {
+      "company": "CloudNova",
+      "organization": "CloudNova",
+      "job_title": "Security Architect",
+      "title": "Security Architect",
+      "start_date": "2024-11",
+      "end_date": "Present",
+      "duration": "2024-11 \u2013 Present",
+      "duration_months": 18,
+      "description": "Developed threat intelligence platform using Splunk, tracking 10000+ threats\nConducted penetration testing using Splunk, identifying 1000+ vulnerabilities\nImplemented encryption solution using GCP Security Command Center, protecting 50000+ records",
+      "technologies": [
+        "Azure Sentinel",
+        "Hashicorp Vault",
+        "GCP Security Command Center",
+        "Splunk"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Vercel",
+      "organization": "Vercel",
+      "job_title": "SOC Analyst",
+      "title": "SOC Analyst",
+      "start_date": "2023-04",
+      "end_date": "2024-11",
+      "duration": "2023-04 \u2013 2024-11",
+      "duration_months": 19,
+      "description": "Created security awareness training using Elasticsearch, reducing phishing clicks by 17%\nBuilt incident response automation using Incident Response, reducing recovery time by 54%\nCreated vulnerability management program using Elasticsearch, reducing CVEs by 20%\nBuilt incident response automation using PostgreSQL, reducing recovery time by 51%",
+      "technologies": [
+        "Incident Response",
+        "PostgreSQL",
+        "Elasticsearch",
+        "Metasploit"
+      ],
+      "is_remote": true,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Apple",
+      "organization": "Apple",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2019-08",
+      "end_date": "2022-12",
+      "duration": "2019-08 \u2013 2022-12",
+      "duration_months": 40,
+      "description": "Implemented security monitoring using Splunk, detecting 100+ threats\nCreated security awareness training using AWS Security Hub, reducing phishing clicks by 19%",
+      "technologies": [
+        "Burp Suite",
+        "OWASP Top 10",
+        "Splunk",
+        "AWS Security Hub",
+        "OWASP ZAP",
+        "Nessus"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    },
+    {
+      "company": "Supabase",
+      "organization": "Supabase",
+      "job_title": "Security Engineer",
+      "title": "Security Engineer",
+      "start_date": "2018-06",
+      "end_date": "2019-08",
+      "duration": "2018-06 \u2013 2019-08",
+      "duration_months": 14,
+      "description": "Implemented identity management using Snort, securing 100+ user identities\nImplemented encryption solution using GCP Security Command Center, protecting 500+ records\nImplemented identity management using Snort, securing 10000+ user identities\nImplemented SIEM solution using OWASP Top 10, processing 50000+ logs/day",
+      "technologies": [
+        "GCP Security Command Center",
+        "Snort",
+        "MongoDB",
+        "Threat Modeling",
+        "PostgreSQL",
+        "OWASP Top 10"
+      ],
+      "is_remote": false,
+      "employment_type": "full-time"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UT Austin",
+      "university": "UT Austin",
+      "degree": "M.Tech.",
+      "field_of_study": "Software Engineering",
+      "graduation_date": "2018",
+      "gpa": null,
+      "activities": null
+    },
+    {
+      "institution": "IIT Bombay",
+      "university": "IIT Bombay",
+      "degree": "Ph.D.",
+      "field_of_study": "Mathematics",
+      "graduation_date": "2016",
+      "gpa": "3.33",
+      "activities": "Teaching Assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill_name": "Bash",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Python",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Rust",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PowerShell",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Go",
+      "category": "programming_language",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Metasploit",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Suricata",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP ZAP",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Burp Suite",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Snort",
+      "category": "framework",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Trivy",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "CrowdStrike",
+      "category": "tool",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Redis",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "PostgreSQL",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Elasticsearch",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "MongoDB",
+      "category": "database",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "GCP Security Command Center",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "AWS Security Hub",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Azure Sentinel",
+      "category": "cloud",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "OWASP Top 10",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Threat Modeling",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Incident Response",
+      "category": "methodology",
+      "source": "explicit"
+    },
+    {
+      "skill_name": "Splunk",
+      "category": "other",
+      "source": "inferred"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Security Dashboard",
+      "description": "Built Incident Response Platform with Go and Metasploit, serving 10,000+ daily active users",
+      "technologies": [
+        "Go",
+        "OWASP ZAP",
+        "Metasploit"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-94-0",
+      "date": "2020"
+    },
+    {
+      "name": "Security Compliance Tool",
+      "description": "Designed and implemented Encryption Utility with Metasploit, integrating with Bash for seamless data flow",
+      "technologies": [
+        "PowerShell",
+        "Metasploit",
+        "Bash"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-94-1",
+      "date": "2024"
+    },
+    {
+      "name": "SIEM Integration",
+      "description": "Built Vulnerability Scanner with PowerShell and Burp Suite, serving 10,000+ daily active users",
+      "technologies": [
+        "PowerShell",
+        "Burp Suite",
+        "Metasploit"
+      ],
+      "url": "https://github.com/synthetic-cybersecurity-94-2",
+      "date": "2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CISSP",
+      "issuer": "ISC2",
+      "date": "2021",
+      "credential_id": "CQ27XU42"
+    }
+  ],
+  "misc_data": [
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "reference",
+      "raw_text": "References available upon request",
+      "structured": null
+    },
+    {
+      "label": "publication",
+      "raw_text": "\"Feeling lead per interesting yard\" \u2014 ACM 2020",
+      "structured": null
+    }
+  ],
+  "skills_flat": [
+    "Bash",
+    "Python",
+    "Rust",
+    "PowerShell",
+    "Go",
+    "Metasploit",
+    "Suricata",
+    "OWASP ZAP",
+    "Burp Suite",
+    "Snort",
+    "Trivy",
+    "CrowdStrike",
+    "Redis",
+    "PostgreSQL",
+    "Elasticsearch",
+    "MongoDB",
+    "GCP Security Command Center",
+    "AWS Security Hub",
+    "Azure Sentinel",
+    "OWASP Top 10",
+    "Threat Modeling",
+    "Incident Response"
+  ],
+  "companies": [
+    "CloudNova",
+    "Vercel",
+    "Apple",
+    "Supabase"
+  ],
+  "job_titles": [
+    "Security Architect",
+    "SOC Analyst",
+    "Security Engineer",
+    "Security Engineer"
+  ],
+  "universities": [
+    "UT Austin",
+    "IIT Bombay"
+  ],
+  "degrees": [
+    "M.Tech.",
+    "Ph.D."
+  ],
+  "parsing_metadata": {
+    "cv_id": 94,
+    "tier": "T2",
+    "domain": "cybersecurity",
+    "generated_at": "2026-05-31T02:32:40.485456",
+    "content_source": "template",
+    "generator": "cv_generator_batch2"
+  }
+}
