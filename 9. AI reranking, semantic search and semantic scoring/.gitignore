@@ -1,0 +1,37 @@
+# Secrets
+**/api_key.txt
+**/ollama_api_keys.txt
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual envs / editors
+.venv/
+venv/
+*/venv/
+.vscode/
+
+# Model checkpoints & outputs
+training_checkpoints/
+fine_tuned_hr_parser/
+ollama_gguf_model/
+*.ckpt
+*.pt
+*.safetensors
+*.bin
+*.gguf
+Models/**/qwen*
+Models/**/unsloth*
+
+# Misc
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db

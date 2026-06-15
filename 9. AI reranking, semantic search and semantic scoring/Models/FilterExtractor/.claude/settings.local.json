@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-Content \"d:\\\\CSAI\\\\Graduation Project\\\\AI contribution\\\\Candidate Reranking and Semantic search\\\\Models\\\\FilterExtractor\\\\deepseek_tech_filters_5k.jsonl\" -TotalCount 5)"
+    ]
+  }
+}
