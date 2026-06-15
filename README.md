@@ -24,14 +24,8 @@ Pipelines designed to analyze job descriptions, extract core keywords, and trans
 ### [4. Behavioural Analysis](./4.%20Behavioural%20Analysis)
 Experiments focused on parsing and analyzing behavioral traits of candidates. Currently contains the core behavioral analysis trials (`eramatch_behavioral_analysis.ipynb`).
 
-### [5. CV Analysis](./5.%20CV%20Analysis) Under Construction (Currently working on)
-Focuses on the automated parsing, feature extraction, and alignment of candidate CV structures against specific job description requirements. Contains data generation scripts for parsing alignment.
-
-### [6. Code Generation](./6.%20Code%20Generation)
-Trials and notebooks relating to automated code generation and LeetCode dataset analysis.
-
-### [7. Code Plagiarism Detection](./7.%20Code%20Plagiarism%20Detection)
-Experiments and notebooks for detecting code plagiarism and similarity.
+### [5. Code Plagiarism Detection](./5.%20Code%20Plagiarism%20Detection)
+Experiments and notebooks for detecting code plagiarism and similarity using various models (e.g. CodeBERT, UniXcoder) and synthetic dataset generation pipelines.
 
 ---
 
